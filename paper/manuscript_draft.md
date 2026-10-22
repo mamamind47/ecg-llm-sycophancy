@@ -91,7 +91,7 @@ Forced choice differs from how people ask about an ECG. Before any call we fixed
 
 ## 2.7 Ethics and data availability
 
-The study used only public, de-identified data and involved no human participants; ethical approval was not required. Case lists, rendering code, prompts, raw responses and analysis code are available at https://github.com/mamamind47/ecg-llm-sycophancy.
+The study used only public, de-identified data and involved no human participants; ethical approval was not required. Case lists, rendering code, prompts, raw responses and analysis code are archived at Zenodo (https://doi.org/10.5281/zenodo.23570135) and maintained at https://github.com/mamamind47/ecg-llm-sycophancy.
 
 # 3. Results
 

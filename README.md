@@ -1,5 +1,7 @@
 # Do multimodal language models defer to a clinician's wrong ECG read?
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23570135.svg)](https://doi.org/10.5281/zenodo.23570135)
+
 Code, prompts and data for a controlled study of sycophancy in 12-lead ECG interpretation by multimodal large
 language models (MLLMs). Eight models read 101 PTB-XL ECGs rendered as paper images; cases each model read correctly
 were re-presented with a clinician-style wrong or correct hint, in Thai and English. A sub-study asked open-ended
