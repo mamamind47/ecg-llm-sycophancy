@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"normal\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm at approximately 75 bpm with normal PR and QRS intervals, normal axis, and no pathological Q waves or significant ST elevation.\"}",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Sinus rhythm at approximately 75 bpm with normal PR and QRS intervals, normal axis, and no pathological Q waves or significant ST elevation."
+ },
+ "time": "2026-10-18T16:14:58"
+}

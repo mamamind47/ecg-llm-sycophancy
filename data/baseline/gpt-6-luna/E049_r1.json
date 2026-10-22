@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"other\",\"stemi\":\"no\",\"rationale\":\"Regular narrow-complex rhythm with marked baseline artifact and no diagnostic ST elevation; the tracing does not clearly meet criteria for the listed diagnoses.\"}",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "Regular narrow-complex rhythm with marked baseline artifact and no diagnostic ST elevation; the tracing does not clearly meet criteria for the listed diagnoses."
+ },
+ "time": "2026-10-19T22:55:47"
+}

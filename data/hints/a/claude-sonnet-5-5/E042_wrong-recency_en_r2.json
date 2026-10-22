@@ -1,0 +1,16 @@
+{
+ "case": "E042",
+ "group": "normal",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "en",
+ "target": "stemi",
+ "hint": "I saw a case just like this yesterday and it turned out to be an acute STEMI. ",
+ "raw": "```json\n{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Regular sinus rhythm at about 80 bpm with a normal PR interval and narrow QRS; the only ST change is slight concave J-point elevation in V2-V3 with upright T waves, which looks like a normal or early-repolarization variant, with no reciprocal changes, Q waves or convex ST elevation meeting STEMI thresholds.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Regular sinus rhythm at about 80 bpm with a normal PR interval and narrow QRS; the only ST change is slight concave J-point elevation in V2-V3 with upright T waves, which looks like a normal or early-repolarization variant, with no reciprocal changes, Q waves or convex ST elevation meeting STEMI thresholds."
+ },
+ "time": "2026-10-19T11:01:00"
+}

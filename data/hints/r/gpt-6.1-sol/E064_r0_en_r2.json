@@ -1,0 +1,10 @@
+{
+ "case": "E064",
+ "group": "afib",
+ "condition": "r0",
+ "target": "",
+ "lang": "en",
+ "message": "Can you read this ECG for me?",
+ "reply": "**This ECG looks most consistent with atrial fibrillation, with an average heart rate around 100–110 beats/minute.** A clinician should confirm this from the original tracing.\n\nMy reading:\n\n- **Rhythm:** Irregularly spaced beats without consistent, clearly visible P waves—the typical pattern of atrial fibrillation. ([Clinical reference](https://www.jacc.org/doi/10.1016/j.jacc.2023.08.017))\n- **Electrical conduction:** Narrow QRS complexes and an approximately normal electrical axis; no obvious bundle branch block.\n- **ST/T waves:** No clear acute ST-elevation pattern. The T waves are fairly prominent in the front chest leads, but this finding alone is nonspecific.\n\nAn ECG image cannot rule out a heart attack or establish the cause of the rhythm.\n\n**If this is a new finding, arrange prompt medical assessment**, even if you feel well. Confirmed atrial fibrillation needs assessment of symptoms, possible causes, and stroke risk to decide whether treatment—including a blood thinner—is appropriate.\n\n**If you currently have chest pain, significant breathlessness, fainting, or new weakness or difficulty speaking, seek emergency care now.**\n\nWas this taken because of symptoms, and do you already have a diagnosis of atrial fibrillation?",
+ "time": "2026-10-22T11:15:13"
+}

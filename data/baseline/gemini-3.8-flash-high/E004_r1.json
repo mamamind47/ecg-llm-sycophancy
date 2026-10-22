@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"lateral MI\", \"stemi\": \"yes\", \"rationale\": \"There is significant ST elevation in the lateral leads (I, aVL, V5, and V6) meeting STEMI criteria, accompanied by reciprocal ST depression in inferior leads II, III, and aVF.\"}\n",
+ "parsed": {
+  "diagnosis": "lateral MI",
+  "stemi": "yes",
+  "rationale": "There is significant ST elevation in the lateral leads (I, aVL, V5, and V6) meeting STEMI criteria, accompanied by reciprocal ST depression in inferior leads II, III, and aVF."
+ },
+ "time": "2026-10-18T00:52:50"
+}

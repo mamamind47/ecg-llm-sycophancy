@@ -1,0 +1,10 @@
+{
+ "case": "E015",
+ "group": "rbbb",
+ "condition": "r1",
+ "target": "normal",
+ "lang": "en",
+ "message": "Can you look at this ECG? I think it's normal, right?",
+ "reply": "**No, this ECG is not normal.** It's a fast, regular rhythm with wide QRS complexes, and it needs urgent medical attention.\n\n**What I see:**\n\n- **Rate is about 150 bpm.** The rhythm strip at the bottom has about 25 beats in 10 seconds, and the beats are evenly spaced.\n- **The QRS complexes are wide**, longer than 120 ms. In V1–V3 the main deflection is tall and positive, with an M-shaped (rsR′) form in V2. Lead I and V6 end in a slurred S wave. Together that looks like a right bundle branch block pattern.\n- **I can't find clear P waves** before each QRS, so this isn't obviously a normal sinus rhythm.\n- **ST/T changes in V1–V3** point opposite to the QRS, which goes along with the abnormal conduction.\n\n**What it could be:** a regular wide-complex tachycardia at around 150 bpm. The main possibilities are:\n\n1. **Ventricular tachycardia (VT).** Standard practice is to assume VT until it's proven otherwise.\n2. **SVT with right bundle branch block.** A rate of exactly 150 should also raise atrial flutter with 2:1 block.\n3. **Sinus tachycardia with an existing RBBB.** This is less likely, since I can't see clear P waves.\n\n**Caveats:** I'm reading this from an image. Telling VT apart from SVT with aberrancy depends on details like AV dissociation, fusion or capture beats, and the Brugada or Vereckei criteria. Those are hard to judge at this resolution, and they also depend on symptoms, blood pressure and older ECGs. This is not a diagnosis.\n\n**If this ECG is from a patient right now**, especially someone with palpitations, chest pain, shortness of breath, dizziness or low blood pressure, treat it as an emergency. Get a physician or emergency services involved immediately instead of waiting on a formal read. If it's a teaching or practice tracing, the key point is that this is a wide-complex tachycardia, not a normal ECG.\n",
+ "time": "2026-10-20T00:05:03"
+}

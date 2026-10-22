@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"LBBB\",\"stemi\":\"no\",\"rationale\":\"Regular rhythm with broad QRS complexes, deep S waves in V1–V3, and broad predominantly positive complexes in lateral leads consistent with left bundle branch block without diagnostic concordant ST elevation.\"}",
+ "parsed": {
+  "diagnosis": "LBBB",
+  "stemi": "no",
+  "rationale": "Regular rhythm with broad QRS complexes, deep S waves in V1–V3, and broad predominantly positive complexes in lateral leads consistent with left bundle branch block without diagnostic concordant ST elevation."
+ },
+ "time": "2026-10-18T15:57:43"
+}

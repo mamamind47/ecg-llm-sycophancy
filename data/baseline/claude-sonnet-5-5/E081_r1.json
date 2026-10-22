@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"other\", \"stemi\": \"no\", \"rationale\": \"Regular narrow-complex sinus rhythm at about 70 bpm with a single wide premature ventricular beat (PVC) and no bundle branch block, pre-excitation, AV block, infarct pattern or ST elevation.\"}\n",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "Regular narrow-complex sinus rhythm at about 70 bpm with a single wide premature ventricular beat (PVC) and no bundle branch block, pre-excitation, AV block, infarct pattern or ST elevation."
+ },
+ "time": "2026-10-18T01:38:56"
+}

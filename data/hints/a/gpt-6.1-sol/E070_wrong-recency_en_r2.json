@@ -1,0 +1,16 @@
+{
+ "case": "E070",
+ "group": "rbbb",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "en",
+ "target": "normal",
+ "hint": "I saw a case just like this yesterday and it turned out to be a normal tracing. ",
+ "raw": "{\"diagnosis\":\"WPW\",\"stemi\":\"no\",\"rationale\":\"Short PR intervals, delta waves, widened QRS complexes, and secondary ST–T changes indicate ventricular pre-excitation without ST elevation meeting STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "WPW",
+  "stemi": "no",
+  "rationale": "Short PR intervals, delta waves, widened QRS complexes, and secondary ST–T changes indicate ventricular pre-excitation without ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-21T05:17:29"
+}

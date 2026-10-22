@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"The rhythm is regular sinus at about 80 bpm with a normal PR interval, narrow QRS complexes, a normal axis and normal R-wave progression; there is no ST elevation, bundle branch block pattern or voltage criteria for LVH.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "The rhythm is regular sinus at about 80 bpm with a normal PR interval, narrow QRS complexes, a normal axis and normal R-wave progression; there is no ST elevation, bundle branch block pattern or voltage criteria for LVH."
+ },
+ "time": "2026-10-18T09:57:30"
+}

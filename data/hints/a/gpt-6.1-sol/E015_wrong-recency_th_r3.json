@@ -1,0 +1,16 @@
+{
+ "case": "E015",
+ "group": "rbbb",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "normal",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็ปกติ ",
+ "raw": "{\"diagnosis\":\"RBBB\",\"stemi\":\"no\",\"rationale\":\"Broad QRS complexes with terminal R′ waves in V1–V2 and broad terminal S waves in I and V6 indicate [RBBB](https://pmc.ncbi.nlm.nih.gov/articles/PMC8142372/), with secondary repolarization changes and no ST elevation meeting STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "RBBB",
+  "stemi": "no",
+  "rationale": "Broad QRS complexes with terminal R′ waves in V1–V2 and broad terminal S waves in I and V6 indicate [RBBB](https://pmc.ncbi.nlm.nih.gov/articles/PMC8142372/), with secondary repolarization changes and no ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-21T10:22:43"
+}

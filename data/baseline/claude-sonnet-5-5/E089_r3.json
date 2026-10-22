@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"other\", \"stemi\": \"no\", \"rationale\": \"Regular sinus rhythm with a narrow QRS and marked left axis deviation (positive in I and aVL, rS in II, III and aVF), which fits left anterior fascicular block, with no pathologic Q waves or significant ST elevation.\"}\n",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "Regular sinus rhythm with a narrow QRS and marked left axis deviation (positive in I and aVL, rS in II, III and aVF), which fits left anterior fascicular block, with no pathologic Q waves or significant ST elevation."
+ },
+ "time": "2026-10-18T11:19:36"
+}

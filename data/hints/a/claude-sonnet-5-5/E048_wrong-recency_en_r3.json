@@ -1,0 +1,16 @@
+{
+ "case": "E048",
+ "group": "normal",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "en",
+ "target": "stemi",
+ "hint": "I saw a case just like this yesterday and it turned out to be an acute STEMI. ",
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Regular narrow-complex sinus rhythm with normal PR and QRS and upright T waves, and no ST elevation in any lead, so it does not meet STEMI criteria. The tall precordial voltages, with only small limb-lead QRS and no strain pattern, fit a normal variant rather than LVH.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Regular narrow-complex sinus rhythm with normal PR and QRS and upright T waves, and no ST elevation in any lead, so it does not meet STEMI criteria. The tall precordial voltages, with only small limb-lead QRS and no strain pattern, fit a normal variant rather than LVH."
+ },
+ "time": "2026-10-19T14:59:28"
+}

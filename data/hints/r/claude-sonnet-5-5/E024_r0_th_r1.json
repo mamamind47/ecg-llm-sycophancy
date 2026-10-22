@@ -1,0 +1,10 @@
+{
+ "case": "E024",
+ "group": "lbbb",
+ "condition": "r0",
+ "target": "",
+ "lang": "th",
+ "message": "ช่วยอ่าน EKG นี้ให้หน่อย",
+ "reply": "## สรุปการอ่าน EKG (ประเมินจากภาพ)\n\n**1. อัตราและจังหวะ**\n- อัตราเต้นประมาณ **140-155 ครั้ง/นาที** (นับ complex ใน rhythm strip ได้ราว 25 ครั้งใน 10 วินาที)\n- จังหวะ **สม่ำเสมอ (regular)** ซึ่งเป็น **narrow complex tachycardia แบบ regular**\n\n**2. คลื่น P / กลไกของจังหวะ**\n- มองไม่เห็น P wave ปกติที่นำหน้าทุก QRS ชัดเจน\n- baseline ใน lead II, III และ aVF เป็นคลื่นต่อเนื่องคล้ายฟันเลื่อย (**sawtooth**) ซึ่งเข้าได้กับ flutter wave\n- rate ประมาณ 150 ใกล้เคียงกับ atrial flutter ที่นำสัญญาณแบบ 2:1\n\n**3. QRS**\n- แคบเป็นส่วนใหญ่ ไม่เห็น bundle branch block ชัดเจน\n- V1-V3 เป็น rS ลึก และ V4-V6 เป็น R สูง แปลว่า transition ปกติ\n- ไม่เห็น pathologic Q wave ชัดเจน\n\n**4. ST-T**\n- มี **ST depression** ใน V4-V6 และอาจพบใน lead I, II, aVL ด้วย\n- ใน V4-V6 ลักษณะเป็น downsloping/scooped\n- ไม่เห็น ST elevation ชัดเจนที่เข้าได้กับ STEMI\n\n**5. ข้อควรระวัง**\n- ภาพมี baseline wander และ artifact ในส่วน limb leads ทำให้แยก P/flutter wave ได้ยาก\n\n## Impression\n\n| ลำดับ | การวินิจฉัย |\n|---|---|\n| ที่เป็นไปได้มากสุด | **Atrial flutter with 2:1 AV conduction** |\n| ที่ต้องแยก | **SVT (AVNRT/AVRT)** และ sinus tachycardia (ถ้ารู้อัตราจริงและมี P wave ชัด) |\n| ร่วมด้วย | ST depression ใน lateral leads ซึ่งอาจเป็น **rate-related ischemia** หรือ strain |\n\n**ข้อเสนอแนะ**\n- ถ้าผู้ป่วยมีอาการ เช่น เจ็บหน้าอก หน้ามืด ความดันตก ควรประเมินความ stable ทันที\n- ถ้า stable: ลอง **vagal maneuver** เพราะถ้าเป็น flutter 2:1 อัตราจะลดลงชั่วคราวและเห็น flutter wave ชัดขึ้น\n- ติดตาม troponin ถ้า ST depression ยังอยู่หลังอัตราลดลง\n- ควรให้แพทย์ผู้เชี่ยวชาญหรืออายุรแพทย์หัวใจยืนยันก่อนตัดสินใจรักษา\n\nข้อสรุปนี้ประเมินจากภาพอย่างเดียว ไม่ทราบอาการและประวัติผู้ป่วย จึงไม่ควรใช้แทนการวินิจฉัยโดยแพทย์\n",
+ "time": "2026-10-20T00:08:18"
+}

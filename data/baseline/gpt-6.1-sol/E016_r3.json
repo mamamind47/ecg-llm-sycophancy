@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"anterior MI\",\"stemi\":\"yes\",\"rationale\":\"QS complexes with marked ST elevation in contiguous anterior leads V1–V3 indicate anterior MI and meet [ESC STEMI criteria](https://academic.oup.com/eurheartj/article/39/2/119/4095042).\"}",
+ "parsed": {
+  "diagnosis": "anterior MI",
+  "stemi": "yes",
+  "rationale": "QS complexes with marked ST elevation in contiguous anterior leads V1–V3 indicate anterior MI and meet [ESC STEMI criteria](https://academic.oup.com/eurheartj/article/39/2/119/4095042)."
+ },
+ "time": "2026-10-20T11:18:03"
+}

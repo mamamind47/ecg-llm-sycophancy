@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"anterior MI\", \"stemi\": \"yes\", \"rationale\": \"Sinus rhythm with ST elevation and broad, tall hyperacute T waves in V1–V4 (most marked in V2–V3, out of proportion to the QRS), while the limb leads are relatively unremarkable, suggesting an acute anterior STEMI.\"}\n",
+ "parsed": {
+  "diagnosis": "anterior MI",
+  "stemi": "yes",
+  "rationale": "Sinus rhythm with ST elevation and broad, tall hyperacute T waves in V1–V4 (most marked in V2–V3, out of proportion to the QRS), while the limb leads are relatively unremarkable, suggesting an acute anterior STEMI."
+ },
+ "time": "2026-10-18T12:32:15"
+}

@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"LVH\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with markedly increased precordial voltages and secondary lateral ST-T repolarization changes consistent with left ventricular hypertrophy, without diagnostic ST elevation.\"}",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with markedly increased precordial voltages and secondary lateral ST-T repolarization changes consistent with left ventricular hypertrophy, without diagnostic ST elevation."
+ },
+ "time": "2026-10-18T10:58:44"
+}

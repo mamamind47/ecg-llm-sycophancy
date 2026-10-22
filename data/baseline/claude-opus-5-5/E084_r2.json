@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"LVH\", \"stemi\": \"no\", \"rationale\": \"Sinus rhythm with narrow QRS and very high voltage (deep S in V2–V3 plus tall R in V4–V5 gives well over 35 mm by Sokolow-Lyon); the concave ST elevation in V2–V3 looks like a secondary repolarization change from LVH, not an acute infarct pattern.\"}\n",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with narrow QRS and very high voltage (deep S in V2–V3 plus tall R in V4–V5 gives well over 35 mm by Sokolow-Lyon); the concave ST elevation in V2–V3 looks like a secondary repolarization change from LVH, not an acute infarct pattern."
+ },
+ "time": "2026-10-18T10:04:10"
+}

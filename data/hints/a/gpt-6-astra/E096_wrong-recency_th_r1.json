@@ -1,0 +1,16 @@
+{
+ "case": "E096",
+ "group": "normal",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "stemi",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็เป็น STEMI เฉียบพลัน ",
+ "raw": "{\"diagnosis\":\"normal\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with mild concave anterior ST elevation that does not reach STEMI thresholds in two contiguous leads and no convincing reciprocal ST depression.\"}",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with mild concave anterior ST elevation that does not reach STEMI thresholds in two contiguous leads and no convincing reciprocal ST depression."
+ },
+ "time": "2026-10-20T06:21:48"
+}

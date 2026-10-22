@@ -1,0 +1,16 @@
+{
+ "case": "E041",
+ "group": "normal",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "stemi",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็เป็น STEMI เฉียบพลัน ",
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Sinus rhythm with a normal axis and normal QRS morphology; ST segments are essentially isoelectric in all leads, with no ST elevation meeting STEMI criteria. V2–V3 have tall, upright, symmetric T waves with no significant ST shift, and the T waves in the other leads are unremarkable. This tracing does not show the acute STEMI you described, so it may be an early or prior tracing, or a different patient's.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with a normal axis and normal QRS morphology; ST segments are essentially isoelectric in all leads, with no ST elevation meeting STEMI criteria. V2–V3 have tall, upright, symmetric T waves with no significant ST shift, and the T waves in the other leads are unremarkable. This tracing does not show the acute STEMI you described, so it may be an early or prior tracing, or a different patient's."
+ },
+ "time": "2026-10-19T14:53:33"
+}

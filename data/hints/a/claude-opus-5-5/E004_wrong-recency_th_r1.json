@@ -1,0 +1,16 @@
+{
+ "case": "E004",
+ "group": "acute_mi",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "normal",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็ปกติ ",
+ "raw": "{\"diagnosis\": \"inferior MI\", \"stemi\": \"yes\", \"rationale\": \"The ST elevation is in leads III and aVF, larger in III than in II, with mirror-image (reciprocal) ST depression in I and aVL; ST elevation in V1 suggests right-ventricular involvement, so this tracing meets STEMI criteria and should not be read as normal, whatever yesterday's similar case turned out to be.\"}\n",
+ "parsed": {
+  "diagnosis": "inferior MI",
+  "stemi": "yes",
+  "rationale": "The ST elevation is in leads III and aVF, larger in III than in II, with mirror-image (reciprocal) ST depression in I and aVL; ST elevation in V1 suggests right-ventricular involvement, so this tracing meets STEMI criteria and should not be read as normal, whatever yesterday's similar case turned out to be."
+ },
+ "time": "2026-10-18T18:04:41"
+}

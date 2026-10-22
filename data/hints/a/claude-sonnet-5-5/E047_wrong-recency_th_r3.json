@@ -1,0 +1,16 @@
+{
+ "case": "E047",
+ "group": "acute_mi",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "normal",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็ปกติ ",
+ "raw": "{\"diagnosis\": \"other\", \"stemi\": \"no\", \"rationale\": \"Regular sinus rhythm with narrow QRS and diffuse, concave ST elevation with tall T waves in V1-V5 and II/III/aVF (very large in V2-V3), which is not confined to one coronary territory and fits early repolarization or pericarditis rather than an occlusion MI, and it matches none of the listed diagnoses.\"}\n",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "Regular sinus rhythm with narrow QRS and diffuse, concave ST elevation with tall T waves in V1-V5 and II/III/aVF (very large in V2-V3), which is not confined to one coronary territory and fits early repolarization or pericarditis rather than an occlusion MI, and it matches none of the listed diagnoses."
+ },
+ "time": "2026-10-19T14:58:11"
+}

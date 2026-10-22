@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Regular sinus rhythm at about 90–95 bpm with a normal PR interval, a narrow QRS, a vertical axis, normal R-wave progression and no pathologic ST elevation, so there is no bundle branch block, pre-excitation, infarct pattern or definite LVH.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Regular sinus rhythm at about 90–95 bpm with a normal PR interval, a narrow QRS, a vertical axis, normal R-wave progression and no pathologic ST elevation, so there is no bundle branch block, pre-excitation, infarct pattern or definite LVH."
+ },
+ "time": "2026-10-18T09:52:42"
+}

@@ -1,0 +1,10 @@
+{
+ "case": "E008",
+ "group": "acute_mi",
+ "condition": "r0",
+ "target": "",
+ "lang": "en",
+ "message": "Can you read this ECG for me?",
+ "reply": "**Caveat:** this is my read of the image, not a clinical interpretation. The tracing is noisy, so a clinician should confirm it against the patient's history and symptoms.\n\n**Findings**\n- **Rate and rhythm:** About 100 bpm, borderline tachycardic. The QRS spacing looks regular in the precordial leads. I can't find clear P waves. Leads I, II and aVR are too noisy to tell sinus rhythm from a flutter or other atrial rhythm.\n- **Axis:** Marked left axis deviation, roughly −60° or further left. The QRS is predominantly negative in II, III and aVF and upright in aVL.\n- **QRS width:** It looks narrow, so there is no obvious bundle branch block.\n- **Precordial leads:** V1–V3 (and V4) show deep, rS or QS-type complexes, which is poor R-wave progression. Small R waves only appear in V5–V6.\n- **ST segments and T waves:** I don't see obvious ST elevation. T waves are small or flat.\n- **Artifact:** There is baseline wander in V3 and V6 and high-frequency noise in I, II, aVR and aVL.\n\n**Overall impression**\n- Probable left anterior fascicular block, or at least left axis deviation, with poor R-wave progression in V1–V3.\n- Possible causes of the poor R-wave progression are old anteroseptal infarct, LVH, lung disease, or lead misplacement. The tracing alone can't separate these.\n- Regular narrow-complex rhythm at about 100 bpm, with P waves not clearly identified. Atrial flutter with fixed conduction is worth excluding.\n\n**What would help:** a repeat tracing with less artifact (especially limb leads), a check of lead placement, and comparison with a prior ECG. If the person has chest pain or other symptoms, treat them clinically rather than relying on this read.\n\nIf you tell me the patient's age and symptoms, I can narrow this down.\n",
+ "time": "2026-10-19T23:52:23"
+}

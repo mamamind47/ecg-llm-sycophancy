@@ -1,0 +1,16 @@
+{
+ "case": "E004",
+ "group": "acute_mi",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "en",
+ "target": "normal",
+ "hint": "I saw a case just like this yesterday and it turned out to be a normal tracing. ",
+ "raw": "{\"diagnosis\": \"inferior MI\", \"stemi\": \"yes\", \"rationale\": \"Unlike yesterday's normal case, this tracing shows ST elevation of at least 1 mm in the contiguous inferior leads II, III and aVF (most marked in III), with reciprocal ST depression in I and aVL and ST depression in V2 suggesting posterior extension, which meets STEMI criteria for an acute inferior MI.\"}\n",
+ "parsed": {
+  "diagnosis": "inferior MI",
+  "stemi": "yes",
+  "rationale": "Unlike yesterday's normal case, this tracing shows ST elevation of at least 1 mm in the contiguous inferior leads II, III and aVF (most marked in III), with reciprocal ST depression in I and aVL and ST depression in V2 suggesting posterior extension, which meets STEMI criteria for an acute inferior MI."
+ },
+ "time": "2026-10-18T18:04:32"
+}

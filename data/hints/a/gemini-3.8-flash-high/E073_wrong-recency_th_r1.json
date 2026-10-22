@@ -1,0 +1,16 @@
+{
+ "case": "E073",
+ "group": "acute_mi",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "normal",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็ปกติ ",
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"yes\", \"rationale\": \"The ECG demonstrates benign early repolarization with characteristic J-point notching in V4 and concave ST elevation that meets millimeter STEMI criteria in leads V2–V3, representing a normal variant.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "yes",
+  "rationale": "The ECG demonstrates benign early repolarization with characteristic J-point notching in V4 and concave ST elevation that meets millimeter STEMI criteria in leads V2–V3, representing a normal variant."
+ },
+ "time": "2026-10-18T17:12:36"
+}

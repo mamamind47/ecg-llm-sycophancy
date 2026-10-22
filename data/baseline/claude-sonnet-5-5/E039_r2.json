@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"LVH\", \"stemi\": \"no\", \"rationale\": \"Very tall R waves in I and aVL with strain-type ST depression and T inversion, plus very deep S waves in V1-V3 (more than 35 mm), with a narrow QRS and left axis deviation. The ST elevation in V1-V3 is discordant, secondary to the deep S waves, so it is not a STEMI.\"}\n",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "Very tall R waves in I and aVL with strain-type ST depression and T inversion, plus very deep S waves in V1-V3 (more than 35 mm), with a narrow QRS and left axis deviation. The ST elevation in V1-V3 is discordant, secondary to the deep S waves, so it is not a STEMI."
+ },
+ "time": "2026-10-18T09:52:18"
+}

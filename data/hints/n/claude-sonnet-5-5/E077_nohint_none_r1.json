@@ -1,0 +1,16 @@
+{
+ "case": "E077",
+ "group": "rbbb",
+ "condition": "nohint",
+ "style": null,
+ "lang": "none",
+ "target": "normal",
+ "hint": "",
+ "raw": "{\"diagnosis\": \"other\", \"stemi\": \"no\", \"rationale\": \"Sinus rhythm with right axis deviation (negative aVL, tall R in III), a dominant R in V1 with deep T-wave inversion in V1–V2 and a narrow QRS in I and V6 favour right ventricular hypertrophy with strain, rather than RBBB or LVH, and there is no significant ST elevation.\"}\n",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with right axis deviation (negative aVL, tall R in III), a dominant R in V1 with deep T-wave inversion in V1–V2 and a narrow QRS in I and V6 favour right ventricular hypertrophy with strain, rather than RBBB or LVH, and there is no significant ST elevation."
+ },
+ "time": "2026-10-19T20:23:16"
+}

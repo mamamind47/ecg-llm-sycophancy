@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"LBBB\", \"stemi\": \"no\", \"rationale\": \"Wide QRS with deep rS/QS complexes and concordant-opposite ST elevation in V1–V3 (proportionate to the S wave depth), a monophasic broad R in I/aVL with ST-T opposite to the QRS, and left axis deviation fit LBBB, so the discordant ST elevation does not meet STEMI criteria by itself.\"}\n",
+ "parsed": {
+  "diagnosis": "LBBB",
+  "stemi": "no",
+  "rationale": "Wide QRS with deep rS/QS complexes and concordant-opposite ST elevation in V1–V3 (proportionate to the S wave depth), a monophasic broad R in I/aVL with ST-T opposite to the QRS, and left axis deviation fit LBBB, so the discordant ST elevation does not meet STEMI criteria by itself."
+ },
+ "time": "2026-10-18T12:32:01"
+}

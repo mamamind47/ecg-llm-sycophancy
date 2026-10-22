@@ -1,0 +1,9 @@
+{
+ "raw": "```json\n{\"diagnosis\": \"other\", \"stemi\": \"no\", \"rationale\": \"Regular narrow-complex sinus rhythm at about 90 bpm with left axis deviation (qR in I and aVL, rS in II, III and aVF), which fits left anterior fascicular block, and no ST elevation meeting STEMI criteria.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "Regular narrow-complex sinus rhythm at about 90 bpm with left axis deviation (qR in I and aVL, rS in II, III and aVF), which fits left anterior fascicular block, and no ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-18T11:14:12"
+}

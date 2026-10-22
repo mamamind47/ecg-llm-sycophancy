@@ -1,0 +1,16 @@
+{
+ "case": "E025",
+ "group": "old_mi",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "en",
+ "target": "stemi",
+ "hint": "I saw a case just like this yesterday and it turned out to be an acute STEMI. ",
+ "raw": "```json\n{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"The image shows sinus rhythm at about 60–65 bpm with a normal PR interval, narrow QRS complexes, and an isoelectric ST segment in every lead; the tall T waves in V2–V3 are in proportion to the QRS, so it does not meet STEMI criteria despite yesterday's similar-looking case, though the small, mostly negative QRS in the inferior leads may mean a leftward axis worth confirming against the full clinical picture.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "The image shows sinus rhythm at about 60–65 bpm with a normal PR interval, narrow QRS complexes, and an isoelectric ST segment in every lead; the tall T waves in V2–V3 are in proportion to the QRS, so it does not meet STEMI criteria despite yesterday's similar-looking case, though the small, mostly negative QRS in the inferior leads may mean a leftward axis worth confirming against the full clinical picture."
+ },
+ "time": "2026-10-18T21:17:12"
+}

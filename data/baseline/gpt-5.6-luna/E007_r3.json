@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"WPW\",\"stemi\":\"no\",\"rationale\":\"Short PR intervals with slurred initial QRS upstrokes and a widened, pre-excited QRS pattern support Wolff-Parkinson-White syndrome without diagnostic ST elevation.\"}",
+ "parsed": {
+  "diagnosis": "WPW",
+  "stemi": "no",
+  "rationale": "Short PR intervals with slurred initial QRS upstrokes and a widened, pre-excited QRS pattern support Wolff-Parkinson-White syndrome without diagnostic ST elevation."
+ },
+ "time": "2026-10-18T15:56:21"
+}

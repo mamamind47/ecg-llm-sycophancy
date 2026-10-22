@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"The rhythm looks like regular sinus rhythm at about 95–100 bpm with narrow QRS complexes and a normal PR interval; there is no bundle branch block, pathological Q waves, LVH by voltage criteria, or ST elevation, only some baseline noise and wander.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "The rhythm looks like regular sinus rhythm at about 95–100 bpm with narrow QRS complexes and a normal PR interval; there is no bundle branch block, pathological Q waves, LVH by voltage criteria, or ST elevation, only some baseline noise and wander."
+ },
+ "time": "2026-10-18T00:50:29"
+}

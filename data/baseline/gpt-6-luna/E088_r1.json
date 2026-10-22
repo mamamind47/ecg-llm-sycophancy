@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"other\",\"stemi\":\"no\",\"rationale\":\"The ECG shows a regular sinus rhythm with a markedly rightward axis and dominant S waves across V1–V3, without diagnostic ST elevation.\"}",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "The ECG shows a regular sinus rhythm with a markedly rightward axis and dominant S waves across V1–V3, without diagnostic ST elevation."
+ },
+ "time": "2026-10-19T23:00:32"
+}

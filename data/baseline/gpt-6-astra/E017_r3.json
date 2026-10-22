@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"other\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with narrow QRS complexes and scooped lateral ST depression indicates a repolarization abnormality, without ST elevation meeting STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with narrow QRS complexes and scooped lateral ST depression indicates a repolarization abnormality, without ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-18T16:14:24"
+}

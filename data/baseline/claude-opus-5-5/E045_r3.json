@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"other\", \"stemi\": \"no\", \"rationale\": \"The rhythm is sinus bradycardia at about 50 bpm with narrow QRS complexes and left axis deviation (positive in I and aVL, rS in II, negative in III and aVF), which fits left anterior fascicular block; there is no significant ST elevation, no pathologic Q-wave pattern for infarction, and no delta wave, bundle branch block or AV block.\"}\n",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "The rhythm is sinus bradycardia at about 50 bpm with narrow QRS complexes and left axis deviation (positive in I and aVL, rS in II, negative in III and aVF), which fits left anterior fascicular block; there is no significant ST elevation, no pathologic Q-wave pattern for infarction, and no delta wave, bundle branch block or AV block."
+ },
+ "time": "2026-10-18T11:15:33"
+}

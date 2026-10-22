@@ -1,0 +1,10 @@
+{
+ "case": "E052",
+ "group": "rbbb",
+ "condition": "r0",
+ "target": "",
+ "lang": "en",
+ "message": "Can you read this ECG for me?",
+ "reply": "My read is **sinus rhythm at about 65–70 beats/minute, with a right bundle branch block (RBBB) pattern**.\n\n- **Rhythm:** Regular, with a P wave before each heartbeat.\n- **Axis and PR interval:** Appear normal.\n- **QRS:** Widened, approximately 120–140 milliseconds, with a characteristic pattern in V1 and terminal S waves in the lateral leads—consistent with RBBB.\n- **ST–T changes:** T-wave inversion in V1 can occur with RBBB. I don’t see clear acute ST elevation suggesting a STEMI.\n\nRBBB means electrical activation of the right ventricle is delayed. It can be longstanding and incidental; whether it is new and whether you have symptoms matter. [RBBB reference](https://pmc.ncbi.nlm.nih.gov/articles/PMC8142372/)\n\nThese measurements are approximate from the image. A clinician should confirm them and compare with an older ECG. **If you currently have chest pain, shortness of breath, or fainting, seek emergency care even without obvious ST elevation.**\n\nHow old are you, why was this ECG taken, and are you having any symptoms?",
+ "time": "2026-10-22T11:07:05"
+}

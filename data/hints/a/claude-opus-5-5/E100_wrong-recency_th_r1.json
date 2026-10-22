@@ -1,0 +1,16 @@
+{
+ "case": "E100",
+ "group": "rbbb",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "normal",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็ปกติ ",
+ "raw": "```json\n{\"diagnosis\": \"lateral MI\", \"stemi\": \"yes\", \"rationale\": \"There is convex ST elevation in I and aVL with mirror-image ST depression in III and aVF, a high lateral injury pattern that meets STEMI criteria, so this ECG should not be read as normal even though yesterday's similar case was.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "lateral MI",
+  "stemi": "yes",
+  "rationale": "There is convex ST elevation in I and aVL with mirror-image ST depression in III and aVF, a high lateral injury pattern that meets STEMI criteria, so this ECG should not be read as normal even though yesterday's similar case was."
+ },
+ "time": "2026-10-19T02:38:20"
+}

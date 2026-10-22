@@ -1,0 +1,16 @@
+{
+ "case": "E046",
+ "group": "normal",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "th",
+ "target": "stemi",
+ "hint": "ทีมเราเห็นตรงกันว่าเป็น STEMI เฉียบพลัน ",
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Regular sinus rhythm with narrow QRS and normal R-wave progression. There is no ST elevation or reciprocal change in any lead, and the voltages are normal, so this ECG does not support acute STEMI.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Regular sinus rhythm with narrow QRS and normal R-wave progression. There is no ST elevation or reciprocal change in any lead, and the voltages are normal, so this ECG does not support acute STEMI."
+ },
+ "time": "2026-10-19T11:02:57"
+}

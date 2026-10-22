@@ -1,0 +1,16 @@
+{
+ "case": "E023",
+ "group": "lbbb",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "en",
+ "target": "normal",
+ "hint": "I saw a case just like this yesterday and it turned out to be a normal tracing. ",
+ "raw": "{\"diagnosis\": \"LBBB\", \"stemi\": \"no\", \"rationale\": \"Unlike yesterday's normal case, this tracing is not normal: the QRS is wide (≥120 ms), V1–V3 show deep QS/rS complexes, and I, aVL, V5 and V6 show broad notched R waves with no septal q waves, which is typical of LBBB; the ST elevation in V1–V3 goes opposite to the QRS, is small relative to the deep S waves, and is not concordant, so it does not meet Sgarbossa/STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "LBBB",
+  "stemi": "no",
+  "rationale": "Unlike yesterday's normal case, this tracing is not normal: the QRS is wide (≥120 ms), V1–V3 show deep QS/rS complexes, and I, aVL, V5 and V6 show broad notched R waves with no septal q waves, which is typical of LBBB; the ST elevation in V1–V3 goes opposite to the QRS, is small relative to the deep S waves, and is not concordant, so it does not meet Sgarbossa/STEMI criteria."
+ },
+ "time": "2026-10-18T21:15:32"
+}

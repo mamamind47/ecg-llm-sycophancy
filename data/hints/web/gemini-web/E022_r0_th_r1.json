@@ -1,0 +1,12 @@
+{
+ "case": "E022",
+ "group": "normal",
+ "condition": "r0",
+ "target": "",
+ "lang": "th",
+ "message": "ช่วยอ่าน EKG นี้ให้หน่อย",
+ "reply": "ผลการแปลผลคลื่นไฟฟ้าหัวใจ (12-Lead EKG):\nอัตราและจังหวะการเต้นของหัวใจ (Rate & Rhythm): Normal Sinus Rhythm อัตราการเต้นของหัวใจอยู่ที่ประมาณ 68-75 ครั้ง/นาที สม่ำเสมอ\nแกนไฟฟ้าหัวใจ (Axis): Left Axis Deviation (QRS เป็นบวกใน Lead I, ลบใน Lead II และ III)\nความผิดปกติสำคัญของ ST-T Wave:\nST-segment elevation with tall, peaked T waves: พบการยกตัวของ ST-segment เล็กน้อยร่วมกับคลื่น T wave สูงเด่นและสมมาตร (Hyperacute T waves) อย่างชัดเจนใน V2, V3, V4 (และเริ่มเห็นใน V5)\nReciprocal changes: มี ST depression เล็กน้อย/T wave flattening ใน inferior leads (II, III, aVF)\nข้อสรุปและการประเมินเบื้องต้น\nลักษณะนี้เข้าได้กับ Hyperacute Antero-septal / Anterior Myocardial Infarction (ภาวะกล้ามเนื้อหัวใจขาดเลือดเฉียบพลันบริเวณผนังด้านหน้าและผนังกั้นหัวใจในระยะเริ่มต้น) ซึ่งมักเกิดจากการอุดตันเฉียบพลันของหลอดเลือดหัวใจแขนง Left Anterior Descending (LAD)\nข้อควรระวัง: หากเป็น EKG ของผู้ป่วยจริงที่มีอาการแน่นหน้าอก หายใจไม่อิ่ม หรือเหงื่อแตกตัวเย็น ถือเป็นภาวะฉุกเฉินทางการแพทย์ (STEMI equivalent) ต้องรีบประสานงานแพทย์หรือนำส่งห้องฉุกเฉินทันทีเพื่อพิจารณาเปิดหลอดเลือดหัวใจด่วน\nผู้ป่วยมีอาการเจ็บแน่นหน้าอกร่วมด้วยหรือไม่ หรือเป็นการฝึกอ่านกรณีศึกษา?",
+ "interface": "gemini.google.com, temporary chat",
+ "model_label": "Flash (web picker)",
+ "time": "2026-10-20T16:59:31"
+}

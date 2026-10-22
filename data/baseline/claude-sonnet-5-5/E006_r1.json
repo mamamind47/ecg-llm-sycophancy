@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Regular sinus rhythm at about 55 bpm with upright P waves, a normal PR interval, narrow QRS complexes and normal R-wave progression, and no pathological ST elevation or other diagnostic abnormality.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Regular sinus rhythm at about 55 bpm with upright P waves, a normal PR interval, narrow QRS complexes and normal R-wave progression, and no pathological ST elevation or other diagnostic abnormality."
+ },
+ "time": "2026-10-18T01:24:20"
+}

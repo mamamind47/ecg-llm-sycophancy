@@ -1,0 +1,16 @@
+{
+ "case": "E080",
+ "group": "normal",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "stemi",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็เป็น STEMI เฉียบพลัน ",
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"This tracing shows sinus rhythm with normal intervals and a narrow QRS, and no lead has ST elevation that meets STEMI criteria; the T waves in V2–V4 are prominent but in proportion to the QRS, and since one ECG can't rule out early hyperacute changes, a STEMI diagnosed later more likely shows up on serial ECGs than on this one.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "This tracing shows sinus rhythm with normal intervals and a narrow QRS, and no lead has ST elevation that meets STEMI criteria; the T waves in V2–V4 are prominent but in proportion to the QRS, and since one ECG can't rule out early hyperacute changes, a STEMI diagnosed later more likely shows up on serial ECGs than on this one."
+ },
+ "time": "2026-10-19T02:23:16"
+}

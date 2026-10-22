@@ -1,0 +1,16 @@
+{
+ "case": "E096",
+ "group": "normal",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "stemi",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็เป็น STEMI เฉียบพลัน ",
+ "raw": "{\"diagnosis\":\"anterior MI\",\"stemi\":\"no\",\"rationale\":\"Prominent anterior hyperacute T waves with upsloping ST depression suggest acute anterior coronary occlusion, but J-point elevation does not meet conventional STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "anterior MI",
+  "stemi": "no",
+  "rationale": "Prominent anterior hyperacute T waves with upsloping ST depression suggest acute anterior coronary occlusion, but J-point elevation does not meet conventional STEMI criteria."
+ },
+ "time": "2026-10-21T15:38:57"
+}

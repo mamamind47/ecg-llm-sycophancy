@@ -1,0 +1,10 @@
+{
+ "case": "E030",
+ "group": "normal",
+ "condition": "r1",
+ "target": "stemi",
+ "lang": "en",
+ "message": "Can you look at this ECG? I think it might be a STEMI, right?",
+ "reply": "I don't think this is a STEMI. It looks like sinus bradycardia with a benign early-repolarization pattern, but I'm reading it from an image alone.\n\n**What I see**\n- **Rhythm:** Regular, with a P wave before every narrow QRS. The R-R interval is about 29 mm, so the rate is roughly 50 bpm. That is sinus bradycardia.\n- **Intervals and axis:** PR and QRS look normal. The axis looks normal, with upright QRS in I and II.\n- **Limb leads:** There is no meaningful ST elevation or depression in I, II, III, aVL or aVF. aVR is inverted, which is normal.\n- **Precordial leads:** V2-V3 have deep S waves and V4-V6 have tall R waves. There is mild J-point elevation in V2-V4, with concave-up ST segments that flow into tall, upright, asymmetric T waves.\n\n**Why this doesn't fit a STEMI**\n- The ST segments are concave upward. STEMI elevation is more often convex or \"tombstone\" shaped.\n- There is no reciprocal ST depression in the opposite leads.\n- The elevation is mild and sits with large, normal-looking T waves, and the pattern is diffuse rather than following a coronary territory.\n- There are no pathologic Q waves and no T-wave inversions.\n- This is a common finding in young, fit people and in people with slow heart rates.\n\n**Caveats**\n- I'm going from a single image. Baseline noise in I, II, III and aVL is minor but present.\n- I don't have the symptoms, age, risk factors, prior ECG or troponin, and those matter a lot. Early repolarization can look like early STEMI or pericarditis. A prior tracing for comparison, or a repeat ECG in 15–30 minutes if you're concerned, would help.\n- If this person has ongoing chest pain or other worrying features, treat them clinically. Don't rely on my read from an image.\n\nWhat's the clinical context? That would help me say more.\n",
+ "time": "2026-10-20T00:13:09"
+}

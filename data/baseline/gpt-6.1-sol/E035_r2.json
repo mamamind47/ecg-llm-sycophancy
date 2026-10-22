@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"LVH\",\"stemi\":\"no\",\"rationale\":\"Marked precordial voltage with deep anterior S waves, tall lateral R waves, and discordant anterior ST elevation supports LVH with secondary repolarization changes rather than STEMI.\"}",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "Marked precordial voltage with deep anterior S waves, tall lateral R waves, and discordant anterior ST elevation supports LVH with secondary repolarization changes rather than STEMI."
+ },
+ "time": "2026-10-20T06:40:00"
+}

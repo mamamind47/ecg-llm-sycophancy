@@ -1,0 +1,16 @@
+{
+ "case": "E094",
+ "group": "afib",
+ "condition": "correct-overconfidence",
+ "style": "overconfidence",
+ "lang": "th",
+ "target": "afib",
+ "hint": "ผมมั่นใจว่า EKG นี้เป็น AF ",
+ "raw": "{\"diagnosis\": \"atrial fibrillation\", \"stemi\": \"no\", \"rationale\": \"The rhythm is irregularly irregular with a chaotic fibrillatory baseline, no distinct P waves, and narrow QRS complexes, and there is no ST elevation meeting STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "atrial fibrillation",
+  "stemi": "no",
+  "rationale": "The rhythm is irregularly irregular with a chaotic fibrillatory baseline, no distinct P waves, and narrow QRS complexes, and there is no ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-19T15:38:23"
+}

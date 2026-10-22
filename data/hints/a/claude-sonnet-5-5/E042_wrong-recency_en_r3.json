@@ -1,0 +1,16 @@
+{
+ "case": "E042",
+ "group": "normal",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "en",
+ "target": "stemi",
+ "hint": "I saw a case just like this yesterday and it turned out to be an acute STEMI. ",
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Regular narrow-complex sinus rhythm at about 75-80 bpm with normal axis, a P wave before each QRS, and no pathological ST elevation or Q waves in any lead; the prominent T waves in V2-V4 are within normal limits, so this ECG does not support the STEMI from yesterday's case.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Regular narrow-complex sinus rhythm at about 75-80 bpm with normal axis, a P wave before each QRS, and no pathological ST elevation or Q waves in any lead; the prominent T waves in V2-V4 are within normal limits, so this ECG does not support the STEMI from yesterday's case."
+ },
+ "time": "2026-10-19T14:54:50"
+}

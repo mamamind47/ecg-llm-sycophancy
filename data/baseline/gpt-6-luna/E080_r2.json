@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"other\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with narrow QRS complexes and prominent anterior precordial T waves, without diagnostic ST elevation or a clear bundle branch block or infarct pattern.\"}",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with narrow QRS complexes and prominent anterior precordial T waves, without diagnostic ST elevation or a clear bundle branch block or infarct pattern."
+ },
+ "time": "2026-10-19T23:13:32"
+}

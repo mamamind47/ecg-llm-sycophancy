@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"inferior MI\", \"stemi\": \"no\", \"rationale\": \"Leads II, III and aVF show Q waves (a QS-type complex in III) with small or inverted T waves, which suggests an old inferior infarct; there is no significant ST elevation in any lead.\"}\n",
+ "parsed": {
+  "diagnosis": "inferior MI",
+  "stemi": "no",
+  "rationale": "Leads II, III and aVF show Q waves (a QS-type complex in III) with small or inverted T waves, which suggests an old inferior infarct; there is no significant ST elevation in any lead."
+ },
+ "time": "2026-10-18T11:11:30"
+}

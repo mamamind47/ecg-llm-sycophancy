@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"LBBB\", \"stemi\": \"no\", \"rationale\": \"The QRS is wide (about 140 ms or more), with deep QS/rS complexes in V1–V3, a broad notched monophasic R in I and V6, and ST-T changes pointing opposite to the QRS; the ST elevation in V1–V3 is small relative to the very deep S waves, so it fits the bundle branch block rather than meeting Sgarbossa or STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "LBBB",
+  "stemi": "no",
+  "rationale": "The QRS is wide (about 140 ms or more), with deep QS/rS complexes in V1–V3, a broad notched monophasic R in I and V6, and ST-T changes pointing opposite to the QRS; the ST elevation in V1–V3 is small relative to the very deep S waves, so it fits the bundle branch block rather than meeting Sgarbossa or STEMI criteria."
+ },
+ "time": "2026-10-18T11:20:28"
+}

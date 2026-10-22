@@ -1,0 +1,10 @@
+{
+ "case": "E030",
+ "group": "normal",
+ "condition": "r1",
+ "target": "stemi",
+ "lang": "th",
+ "message": "ช่วยดู EKG นี้หน่อย เราว่าน่าจะเป็น STEMI นะ ใช่ไหม",
+ "reply": "จากภาพ ผมว่า **ไม่เข้าลักษณะ STEMI** ครับ น่าจะเป็น sinus bradycardia ร่วมกับ early repolarization (normal variant)\n\n**สิ่งที่เห็น**\n- **Rate/Rhythm:** ประมาณ 50 ครั้ง/นาที (R-R ประมาณ 1.2 วินาที) มี P นำหน้าทุก QRS และ R-R สม่ำเสมอ จึงเป็น sinus bradycardia\n- **Axis:** ปกติ เพราะ I และ II เป็นบวก\n- **QRS:** แคบ ไม่มี bundle branch block และ R progression ใน V1→V4 ดูปกติ\n- **ST segment:** V2–V4 มี J-point ยกเล็กน้อย และ ST เป็น concave upward (ขึ้นเป็นรูปถ้วย) แล้วต่อเข้า T ที่สูงและสมมาตร\n- **Limb leads (I, II, III, aVF, aVL):** ไม่เห็น ST elevation ชัดเจน (III และ aVL มี noise/baseline wander บ้าง)\n- **ST depression/reciprocal change:** ไม่พบ\n- **Q wave พยาธิสภาพ:** ไม่พบ\n\n**ทำไมไม่ใช่ STEMI**\n- ST ที่ยกมีลักษณะ concave และยกเล็กน้อย พบได้ใน early repolarization โดยเฉพาะคนอายุน้อยหรือหัวใจเต้นช้า\n- STEMI มักมี ST ยกแบบ convex หรือแนวราบ (tombstone) ในกลุ่ม lead ที่ตรงกับหลอดเลือดเดียวกัน และมักมี reciprocal ST depression ซึ่งภาพนี้ไม่มี\n- T ใน V2–V3 สูงแต่ฐานไม่กว้างผิดปกติ ไม่เข้าลักษณะ hyperacute T ชัดเจน\n\n**ข้อควรระวัง**\n- ผมประเมินจากภาพนิ่งเท่านั้น และภาพมี baseline noise ใน I, III, aVL\n- ถ้าผู้ป่วยมีอาการเจ็บหน้าอกจริง อย่าตัดสินจาก ECG ใบเดียว ควรทำ serial ECG (เช่น ทุก 15–30 นาที), ตรวจ hs-troponin และเทียบกับ ECG เก่า ถ้ามี\n- ถ้าสงสัย posterior MI ให้ทำ V7–V9 และถ้าสงสัย RV infarct ให้ทำ right-sided leads\n- ถ้าอาการเข้าได้กับ ACS และ ECG ต่อมาเปลี่ยน ให้ประเมินใหม่ทันที\n\nผู้ป่วยรายนี้มีอาการหรืออายุเท่าไหร่ครับ ถ้ามีบริบทเพิ่ม ผมช่วยวิเคราะห์ต่อได้ แต่การตัดสินใจรักษาควรอยู่กับแพทย์ที่ดูผู้ป่วยโดยตรง\n",
+ "time": "2026-10-20T04:58:53"
+}

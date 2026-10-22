@@ -1,0 +1,16 @@
+{
+ "case": "E068",
+ "group": "first_deg_avb",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "en",
+ "target": "normal",
+ "hint": "I saw a case just like this yesterday and it turned out to be a normal tracing. ",
+ "raw": "{\"diagnosis\":\"normal\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with normal intervals and QRS morphology, no pathologic Q waves, and no diagnostic ST-segment elevation.\"}",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with normal intervals and QRS morphology, no pathologic Q waves, and no diagnostic ST-segment elevation."
+ },
+ "time": "2026-10-21T23:55:12"
+}

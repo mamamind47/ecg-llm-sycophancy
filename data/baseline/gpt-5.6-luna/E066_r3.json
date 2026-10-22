@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"LBBB\",\"stemi\":\"no\",\"rationale\":\"Regular rhythm with widened QRS complexes showing broad positive lateral leads and deep predominantly negative V1–V3 complexes, consistent with left bundle branch block and secondary discordant ST-T changes without STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "LBBB",
+  "stemi": "no",
+  "rationale": "Regular rhythm with widened QRS complexes showing broad positive lateral leads and deep predominantly negative V1–V3 complexes, consistent with left bundle branch block and secondary discordant ST-T changes without STEMI criteria."
+ },
+ "time": "2026-10-18T10:58:18"
+}

@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"other\", \"stemi\": \"no\", \"rationale\": \"Sinus rhythm at about 60 bpm with left axis deviation (positive in I and aVL with a qR in aVL, rS in II, and mainly negative III and aVF) suggests left anterior fascicular block rather than an old inferior MI, since II has no clear pathological Q wave; there is no significant ST elevation.\"}\n",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "Sinus rhythm at about 60 bpm with left axis deviation (positive in I and aVL with a qR in aVL, rS in II, and mainly negative III and aVF) suggests left anterior fascicular block rather than an old inferior MI, since II has no clear pathological Q wave; there is no significant ST elevation."
+ },
+ "time": "2026-10-18T09:56:17"
+}

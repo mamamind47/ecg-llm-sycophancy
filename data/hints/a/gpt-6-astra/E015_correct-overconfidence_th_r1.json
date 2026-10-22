@@ -1,0 +1,16 @@
+{
+ "case": "E015",
+ "group": "rbbb",
+ "condition": "correct-overconfidence",
+ "style": "overconfidence",
+ "lang": "th",
+ "target": "rbbb",
+ "hint": "ผมมั่นใจว่า EKG นี้เป็น RBBB ",
+ "raw": "{\"diagnosis\":\"RBBB\",\"stemi\":\"no\",\"rationale\":\"Broad QRS complexes with prominent terminal R′ waves in V1–V2 and broad terminal S waves in I and V6 support [RBBB](https://www.ahajournals.org/doi/pdf/10.1161/circulationaha.108.191095), with secondary repolarization changes and no ST elevation meeting STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "RBBB",
+  "stemi": "no",
+  "rationale": "Broad QRS complexes with prominent terminal R′ waves in V1–V2 and broad terminal S waves in I and V6 support [RBBB](https://www.ahajournals.org/doi/pdf/10.1161/circulationaha.108.191095), with secondary repolarization changes and no ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-19T09:35:17"
+}

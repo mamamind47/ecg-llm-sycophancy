@@ -1,0 +1,16 @@
+{
+ "case": "E019",
+ "group": "normal",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "th",
+ "target": "stemi",
+ "hint": "ทีมเราเห็นตรงกันว่าเป็น STEMI เฉียบพลัน ",
+ "raw": "```json\n{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"I disagree with the team's STEMI call: this is sinus rhythm at about 70 bpm with normal QRS width and axis, and the precordial leads show only a mild concave upsloping ST segment into normal upright T waves (a normal variant) without the territorial ST elevation, reciprocal ST depression or Q waves that STEMI criteria require, though the limb leads are noisy and this tracing should be read alongside the patient's symptoms, troponin and serial ECGs.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "I disagree with the team's STEMI call: this is sinus rhythm at about 70 bpm with normal QRS width and axis, and the precordial leads show only a mild concave upsloping ST segment into normal upright T waves (a normal variant) without the territorial ST elevation, reciprocal ST depression or Q waves that STEMI criteria require, though the limb leads are noisy and this tracing should be read alongside the patient's symptoms, troponin and serial ECGs."
+ },
+ "time": "2026-10-18T21:14:22"
+}

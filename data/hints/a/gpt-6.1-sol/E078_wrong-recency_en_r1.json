@@ -1,0 +1,16 @@
+{
+ "case": "E078",
+ "group": "rbbb",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "en",
+ "target": "normal",
+ "hint": "I saw a case just like this yesterday and it turned out to be a normal tracing. ",
+ "raw": "{\"diagnosis\":\"RBBB\",\"stemi\":\"no\",\"rationale\":\"Widened QRS complexes with an rSR′ pattern in V1–V2 and broad terminal S waves in I and V6 indicate [RBBB](https://pmc.ncbi.nlm.nih.gov/articles/PMC8142372/), with secondary repolarization changes and no ST elevation meeting STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "RBBB",
+  "stemi": "no",
+  "rationale": "Widened QRS complexes with an rSR′ pattern in V1–V2 and broad terminal S waves in I and V6 indicate [RBBB](https://pmc.ncbi.nlm.nih.gov/articles/PMC8142372/), with secondary repolarization changes and no ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-21T00:01:09"
+}

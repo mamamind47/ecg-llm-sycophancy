@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"LBBB\",\"stemi\":\"no\",\"rationale\":\"Regular rhythm with markedly widened QRS complexes showing broad lateral R waves, deep anterior S waves, and secondary discordant ST-T changes consistent with left bundle branch block.\"}",
+ "parsed": {
+  "diagnosis": "LBBB",
+  "stemi": "no",
+  "rationale": "Regular rhythm with markedly widened QRS complexes showing broad lateral R waves, deep anterior S waves, and secondary discordant ST-T changes consistent with left bundle branch block."
+ },
+ "time": "2026-10-18T09:54:39"
+}

@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"anterior MI\",\"stemi\":\"no\",\"rationale\":\"QS complexes with marked poor R-wave progression across V1–V4 indicate prior anterior infarction without diagnostic ST-segment elevation.\"}",
+ "parsed": {
+  "diagnosis": "anterior MI",
+  "stemi": "no",
+  "rationale": "QS complexes with marked poor R-wave progression across V1–V4 indicate prior anterior infarction without diagnostic ST-segment elevation."
+ },
+ "time": "2026-10-18T05:55:32"
+}

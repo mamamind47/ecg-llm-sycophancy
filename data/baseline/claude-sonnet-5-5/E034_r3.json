@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"anterior MI\", \"stemi\": \"yes\", \"rationale\": \"V1–V3 show deep QS complexes with ST elevation and upright T waves, with poor R-wave progression, which fits an acute anterior infarct; the QRS is narrow, so this is not a bundle branch block.\"}\n",
+ "parsed": {
+  "diagnosis": "anterior MI",
+  "stemi": "yes",
+  "rationale": "V1–V3 show deep QS complexes with ST elevation and upright T waves, with poor R-wave progression, which fits an acute anterior infarct; the QRS is narrow, so this is not a bundle branch block."
+ },
+ "time": "2026-10-18T12:33:58"
+}

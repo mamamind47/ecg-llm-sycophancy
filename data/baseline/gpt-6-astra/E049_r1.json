@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"normal\",\"stemi\":\"no\",\"rationale\":\"Regular sinus rhythm at approximately 98 bpm with narrow QRS complexes and baseline artifact, without diagnostic ST elevation or other major abnormalities.\"}",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Regular sinus rhythm at approximately 98 bpm with narrow QRS complexes and baseline artifact, without diagnostic ST elevation or other major abnormalities."
+ },
+ "time": "2026-10-18T01:01:54"
+}

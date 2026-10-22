@@ -1,0 +1,10 @@
+{
+ "case": "E050",
+ "group": "normal",
+ "condition": "r0",
+ "target": "",
+ "lang": "en",
+ "message": "Can you read this ECG for me?",
+ "reply": "My preliminary reading is **sinus rhythm at approximately 90–95 beats/minute**, with some recording artifact.\n\n- **Rhythm:** Regular, with a P wave before each heartbeat.\n- **Axis and conduction:** Appear normal; QRS complexes are narrow, without an obvious bundle branch block.\n- **ST/T waves:** Mild ST depression/flattening, most noticeable in V4–V5. These changes are nonspecific, and baseline movement makes precise assessment difficult.\n- **No clear ST-elevation heart attack pattern** is visible.\n\nI would have a clinician review the original tracing and compare it with any previous ECG. **This image alone cannot rule out a heart attack**; symptoms may require repeat ECGs and troponin blood tests. [AHA/ACC guidance](https://www.jacc.org/doi/10.1016/j.jacc.2021.07.053)\n\n**If you currently have chest pressure, breathlessness, sweating, or fainting, seek emergency care now.**\n\nHow old is the person, what symptoms prompted the ECG, and were they having symptoms during the recording?",
+ "time": "2026-10-22T10:09:01"
+}

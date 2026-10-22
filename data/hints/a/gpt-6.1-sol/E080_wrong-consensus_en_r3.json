@@ -1,0 +1,16 @@
+{
+ "case": "E080",
+ "group": "normal",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "en",
+ "target": "stemi",
+ "hint": "Our whole team agrees this is an acute STEMI. ",
+ "raw": "{\"diagnosis\":\"normal\",\"stemi\":\"no\",\"rationale\":\"The ECG shows sinus rhythm with narrow QRS complexes and no J-point elevation in contiguous leads meeting [STEMI criteria](https://doi.org/10.1093/eurheartj/ehx393).\"}",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "The ECG shows sinus rhythm with narrow QRS complexes and no J-point elevation in contiguous leads meeting [STEMI criteria](https://doi.org/10.1093/eurheartj/ehx393)."
+ },
+ "time": "2026-10-21T11:46:25"
+}

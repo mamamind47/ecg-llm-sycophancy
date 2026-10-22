@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"normal\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with narrow QRS complexes, normal AV conduction, no diagnostic bundle-branch block or hypertrophy, and no ischemic ST-segment elevation meeting STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with narrow QRS complexes, normal AV conduction, no diagnostic bundle-branch block or hypertrophy, and no ischemic ST-segment elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-18T05:51:52"
+}

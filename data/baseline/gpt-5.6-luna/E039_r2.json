@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"LVH\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with high-voltage QRS complexes and secondary discordant ST-T changes consistent with left ventricular hypertrophy, without diagnostic acute ST elevation.\"}",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with high-voltage QRS complexes and secondary discordant ST-T changes consistent with left ventricular hypertrophy, without diagnostic acute ST elevation."
+ },
+ "time": "2026-10-18T09:50:55"
+}

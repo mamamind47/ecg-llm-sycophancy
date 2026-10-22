@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"anterior MI\", \"stemi\": \"no\", \"rationale\": \"V1–V4 show deep QS complexes with no R-wave progression and inverted T waves in V2–V5, which points to an established anterior infarct; the small ST elevation in V2 stays below STEMI thresholds.\"}\n",
+ "parsed": {
+  "diagnosis": "anterior MI",
+  "stemi": "no",
+  "rationale": "V1–V4 show deep QS complexes with no R-wave progression and inverted T waves in V2–V5, which points to an established anterior infarct; the small ST elevation in V2 stays below STEMI thresholds."
+ },
+ "time": "2026-10-18T11:24:09"
+}

@@ -1,0 +1,9 @@
+{
+ "raw": "```json\n{\"diagnosis\": \"other\", \"stemi\": \"no\", \"rationale\": \"Sinus rhythm at about 70 bpm with a narrow QRS and marked left axis deviation (positive in I and aVL, rS in II, III and aVF), which fits left anterior fascicular block. There is no ST elevation, and the voltage, PR interval and QRS morphology do not fit any of the listed categories.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "Sinus rhythm at about 70 bpm with a narrow QRS and marked left axis deviation (positive in I and aVL, rS in II, III and aVF), which fits left anterior fascicular block. There is no ST elevation, and the voltage, PR interval and QRS morphology do not fit any of the listed categories."
+ },
+ "time": "2026-10-18T10:01:33"
+}

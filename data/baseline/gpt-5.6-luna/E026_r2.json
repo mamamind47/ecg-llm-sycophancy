@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"normal\",\"stemi\":\"no\",\"rationale\":\"Regular sinus rhythm with narrow QRS complexes, no significant conduction abnormality, pathologic Q waves, or diagnostic ST-segment elevation.\"}",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Regular sinus rhythm with narrow QRS complexes, no significant conduction abnormality, pathologic Q waves, or diagnostic ST-segment elevation."
+ },
+ "time": "2026-10-18T09:48:59"
+}

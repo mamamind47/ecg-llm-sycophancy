@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"LVH\", \"stemi\": \"no\", \"rationale\": \"Sinus rhythm with a narrow QRS and very high voltages (deep S in V1–V3 plus tall R in V4–V5, Sokolow-Lyon well over 35 mm), and the mild ST elevation in V1–V3 with upright T waves fits LVH-related repolarization rather than STEMI.\"}\n",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with a narrow QRS and very high voltages (deep S in V1–V3 plus tall R in V4–V5, Sokolow-Lyon well over 35 mm), and the mild ST elevation in V1–V3 with upright T waves fits LVH-related repolarization rather than STEMI."
+ },
+ "time": "2026-10-18T09:58:57"
+}

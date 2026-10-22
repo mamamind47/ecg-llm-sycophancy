@@ -1,0 +1,10 @@
+{
+ "case": "E009",
+ "group": "acute_mi",
+ "condition": "r0",
+ "target": "",
+ "lang": "th",
+ "message": "ช่วยอ่าน EKG นี้ให้หน่อย",
+ "reply": "จากการแปลผลคลื่นไฟฟ้าหัวใจ (12-Lead EKG) จากไฟล์ภาพ [ecg.png](file:///var/folders/3z/r1thl1m974lb3py0tdtzry540000gn/T/tmpgmz277hn/ecg.png) มีรายละเอียดดังนี้ครับ:\n\n---\n\n### 1. ข้อมูลพื้นฐาน (Basic Parameters)\n* **Calibration & Speed:** 25 mm/s, 10 mm/mV (มาตรฐาน)\n* **Rhythm:** Normal Sinus Rhythm (มี P wave นำหน้า QRS สม่ำเสมอ)\n* **Heart Rate:** ประมาณ 75 – 85 ครั้ง/นาที (R-R interval ประมาณ 3.5 – 4 ช่องใหญ่)\n* **QRS Axis:** Normal Axis (Lead I และ Lead II เป็นบวก)\n* **QRS Duration:** ปกติ (Narrow QRS, < 120 ms)\n\n---\n\n### 2. ความผิดปกติสำคัญ (Key Findings)\n* **ST-segment Elevation (ST ยกตัวชัดเจน):**\n  * พบใน **V1, V2, V3, V4** ชัดเจนมาก โดยที่ V2 และ V3 มี ST elevation สูงถึง 4–5 มม. ลักษณะเป็นแบบนูน/โค้ง (Coved / Tombstone morphology)\n  * พบ ST elevation ร่วมด้วยเล็กน้อยใน **V5, V6, I, aVL** (~1 มม.)\n  * มี Poor R wave progression / Loss of anterior forces ใน V1–V3\n* **Reciprocal Changes (การกดลงของ ST ในทิศตรงข้าม):**\n  * พบ **ST depression** และ T-wave inversion ในลีดด้านล่าง (Inferior leads) โดยเฉพาะ **Lead III** และ **aVF** ซึ่งเป็นตัวช่วยยืนยันการขาดเลือดเฉียบพลันชัดเจน\n\n---\n\n### 3. การวินิจฉัย (Impression)\n> **Acute Extensive Anterior STEMI**  \n> (ภาวะกล้ามเนื้อหัวใจขาดเลือดและตายเฉียบพลันชนิด ST ยก บริเวณผนังด้านหน้าหัวใจเป็นวงกว้าง)\n\n* **หลอดเลือดที่สงสัยเกิดการอุดตัน (Culprit Vessel):**  \n  **LAD (Left Anterior Descending artery)** โดยเฉพาะบริเวณส่วนต้น (Proximal LAD) เนื่องจากรอยโรคครอบคลุมทั้ง Anteroseptal (V1–V3), Apical/Anterior (V4) และ Lateral (I, aVL, V5–V6)\n\n---\n\n### 4. ข้อแนะนำทางคลินิก (Clinical Note)\n* **ภาวะนี้เป็นภาวะฉุกเฉินขั้นวิกฤต (Medical Emergency)**\n* หากเป็นผู้ป่วยจริงที่กำลังมีอาการ (เช่น เจ็บแน่นหน้าอกร้าวไปแขน/กราม เหงื่อแตก หายใจไม่อิ่ม) ต้องกระตุ้น **STEMI Fast Track / Cath Lab Activation ด่วนที่สุด** เพื่อเปิดหลอดเลือดหัวใจ (Primary PCI หรือพิจารณาให้ Fibrinolytic drug ตามเกณฑ์) ทันที\n",
+ "time": "2026-10-20T01:33:38"
+}

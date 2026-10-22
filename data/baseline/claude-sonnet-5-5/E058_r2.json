@@ -1,0 +1,9 @@
+{
+ "raw": "```json\n{\"diagnosis\": \"RBBB\", \"stemi\": \"no\", \"rationale\": \"The rhythm is regular, and V1–V3 show an rSR'/tall terminal R pattern with T-wave inversion in V1 plus S waves in I and V5–V6, which fits a right bundle branch block pattern (it may be incomplete, since the QRS looks only mildly widened). There is no ST elevation meeting STEMI criteria.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "RBBB",
+  "stemi": "no",
+  "rationale": "The rhythm is regular, and V1–V3 show an rSR'/tall terminal R pattern with T-wave inversion in V1 plus S waves in I and V5–V6, which fits a right bundle branch block pattern (it may be incomplete, since the QRS looks only mildly widened). There is no ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-18T09:56:01"
+}

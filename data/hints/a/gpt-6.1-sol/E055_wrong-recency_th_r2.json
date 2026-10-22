@@ -1,0 +1,16 @@
+{
+ "case": "E055",
+ "group": "acute_mi",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "normal",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็ปกติ ",
+ "raw": "{\"diagnosis\":\"inferior MI\",\"stemi\":\"yes\",\"rationale\":\"ST elevation of at least 1 mm in leads II, III, and aVF with reciprocal ST depression in aVL meets criteria for an inferior STEMI.\"}",
+ "parsed": {
+  "diagnosis": "inferior MI",
+  "stemi": "yes",
+  "rationale": "ST elevation of at least 1 mm in leads II, III, and aVF with reciprocal ST depression in aVL meets criteria for an inferior STEMI."
+ },
+ "time": "2026-10-21T01:27:50"
+}

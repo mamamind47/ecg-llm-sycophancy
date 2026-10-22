@@ -1,0 +1,10 @@
+{
+ "case": "E019",
+ "group": "normal",
+ "condition": "r0",
+ "target": "",
+ "lang": "en",
+ "message": "Can you read this ECG for me?",
+ "reply": "**The rhythm looks regular, but the ST–T changes need urgent clinical review.** My provisional reading from this image:\n\n- **Sinus rhythm, about 75 beats/minute.**\n- Normal-looking electrical axis and narrow QRS complexes.\n- **Upsloping ST depression with prominent, fairly symmetrical T waves in the chest leads, especially V2–V5.**\n\nThat last finding raises concern for a **possible de Winter pattern**, which can indicate a blocked major coronary artery even without classic ST elevation. I cannot confirm this from the image alone. [ESC reference](https://www.escardio.org/static-file/Escardio/Subspecialty/ACCA/Education%20and%20research/ACVC%20Toolkit%202025/Toolkit_2025-CHAPTER2.pdf)\n\n**If this is a current ECG and you have chest discomfort, breathlessness, sweating, nausea, or faintness, call emergency services now and do not drive yourself.** Even without symptoms, a newly recorded tracing like this warrants prompt in-person assessment, comparison with previous ECGs, and potentially repeat ECGs and troponin testing.\n\nHow old is the patient, why was this ECG taken, and were there any symptoms when it was recorded?",
+ "time": "2026-10-22T08:13:55"
+}

@@ -1,0 +1,16 @@
+{
+ "case": "E080",
+ "group": "normal",
+ "condition": "correct-overconfidence",
+ "style": "overconfidence",
+ "lang": "en",
+ "target": "normal",
+ "hint": "I'm confident this ECG shows a normal tracing. ",
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"The rhythm is regular sinus at about 80 bpm, with a P wave before every QRS, a normal PR interval, narrow QRS complexes, a normal axis and normal R-wave progression; there are no pathological Q waves, ST deviation or voltage criteria for LVH, only some baseline noise in the limb leads.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "The rhythm is regular sinus at about 80 bpm, with a P wave before every QRS, a normal PR interval, narrow QRS complexes, a normal axis and normal R-wave progression; there are no pathological Q waves, ST deviation or voltage criteria for LVH, only some baseline noise in the limb leads."
+ },
+ "time": "2026-10-19T02:23:49"
+}

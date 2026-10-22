@@ -1,0 +1,9 @@
+{
+ "raw": "```json\n{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Regular narrow-complex sinus rhythm at about 75 bpm with a normal PR interval. There is mild left axis deviation but no bundle branch block, pre-excitation, voltage criteria for LVH, pathologic Q waves or significant ST elevation.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Regular narrow-complex sinus rhythm at about 75 bpm with a normal PR interval. There is mild left axis deviation but no bundle branch block, pre-excitation, voltage criteria for LVH, pathologic Q waves or significant ST elevation."
+ },
+ "time": "2026-10-18T01:28:20"
+}

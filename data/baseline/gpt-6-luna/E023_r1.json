@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"other\",\"stemi\":\"no\",\"rationale\":\"Regular sinus rhythm with marked right axis deviation and a dominant S wave in lead I suggests left posterior fascicular block; there is no qualifying ST elevation.\"}",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "Regular sinus rhythm with marked right axis deviation and a dominant S wave in lead I suggests left posterior fascicular block; there is no qualifying ST elevation."
+ },
+ "time": "2026-10-19T22:52:11"
+}

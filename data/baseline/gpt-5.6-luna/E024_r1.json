@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"LVH\",\"stemi\":\"no\",\"rationale\":\"High QRS voltage with secondary lateral ST-T repolarization changes is consistent with left ventricular hypertrophy without diagnostic ST elevation for STEMI.\"}",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "High QRS voltage with secondary lateral ST-T repolarization changes is consistent with left ventricular hypertrophy without diagnostic ST elevation for STEMI."
+ },
+ "time": "2026-10-18T06:05:01"
+}

@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"atrial fibrillation\", \"stemi\": \"no\", \"rationale\": \"The rhythm strip is irregularly irregular with no distinct P waves and a fibrillatory baseline, and the QRS is narrow. The mild concave ST/T changes in V4-V6 don't meet STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "atrial fibrillation",
+  "stemi": "no",
+  "rationale": "The rhythm strip is irregularly irregular with no distinct P waves and a fibrillatory baseline, and the QRS is narrow. The mild concave ST/T changes in V4-V6 don't meet STEMI criteria."
+ },
+ "time": "2026-10-18T09:47:19"
+}

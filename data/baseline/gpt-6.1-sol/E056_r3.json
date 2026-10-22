@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"LVH\",\"stemi\":\"no\",\"rationale\":\"Marked precordial voltage with deep S waves in V1–V3 and secondary discordant ST elevation plus lateral ST depression indicates LVH with strain ([reference](https://litfl.com/left-ventricular-hypertrophy-lvh-ecg-library/)).\"}",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "Marked precordial voltage with deep S waves in V1–V3 and secondary discordant ST elevation plus lateral ST depression indicates LVH with strain ([reference](https://litfl.com/left-ventricular-hypertrophy-lvh-ecg-library/))."
+ },
+ "time": "2026-10-20T11:29:54"
+}

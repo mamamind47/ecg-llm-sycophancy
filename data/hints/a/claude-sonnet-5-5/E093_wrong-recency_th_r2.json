@@ -1,0 +1,16 @@
+{
+ "case": "E093",
+ "group": "normal",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "stemi",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็เป็น STEMI เฉียบพลัน ",
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"ภาพนี้เป็น sinus rhythm ที่ QRS แคบ ST segment อยู่ระดับ baseline ในทุก lead ไม่มี ST elevation ตามเกณฑ์ STEMI, ไม่มี reciprocal ST depression และไม่มี pathologic Q wave มีเพียง T wave ค่อนข้างสูงใน V2-V4 ซึ่งอาจเป็นปกติ แต่ถ้าอาการยังน่าสงสัยควร repeat ECG แบบ serial และดู troponin เพราะ ECG แรกอาจยังไม่เห็นการเปลี่ยนแปลงในช่วงแรกของ STEMI\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "ภาพนี้เป็น sinus rhythm ที่ QRS แคบ ST segment อยู่ระดับ baseline ในทุก lead ไม่มี ST elevation ตามเกณฑ์ STEMI, ไม่มี reciprocal ST depression และไม่มี pathologic Q wave มีเพียง T wave ค่อนข้างสูงใน V2-V4 ซึ่งอาจเป็นปกติ แต่ถ้าอาการยังน่าสงสัยควร repeat ECG แบบ serial และดู troponin เพราะ ECG แรกอาจยังไม่เห็นการเปลี่ยนแปลงในช่วงแรกของ STEMI"
+ },
+ "time": "2026-10-19T14:36:46"
+}

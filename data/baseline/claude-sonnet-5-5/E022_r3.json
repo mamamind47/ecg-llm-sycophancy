@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Regular sinus rhythm with normal PR and narrow QRS; the mild concave ST elevation with tall T waves in V2-V4 looks like a benign early-repolarization pattern, with no reciprocal changes or voltage criteria clearly met for LVH.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Regular sinus rhythm with normal PR and narrow QRS; the mild concave ST elevation with tall T waves in V2-V4 looks like a benign early-repolarization pattern, with no reciprocal changes or voltage criteria clearly met for LVH."
+ },
+ "time": "2026-10-18T10:07:49"
+}

@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Sinus rhythm at about 75 bpm with normal PR, narrow QRS, normal axis, normal R-wave progression, no ST elevation, no pathologic Q waves and no LVH by voltage criteria; the limb leads only show baseline noise.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Sinus rhythm at about 75 bpm with normal PR, narrow QRS, normal axis, normal R-wave progression, no ST elevation, no pathologic Q waves and no LVH by voltage criteria; the limb leads only show baseline noise."
+ },
+ "time": "2026-10-18T09:57:04"
+}

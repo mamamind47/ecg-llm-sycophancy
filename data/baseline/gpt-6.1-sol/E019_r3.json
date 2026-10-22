@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"anterior MI\",\"stemi\":\"no\",\"rationale\":\"Upsloping precordial ST depression with prominent symmetric T waves suggests a [de Winter pattern](https://pmc.ncbi.nlm.nih.gov/articles/PMC7507532/), an anterior MI equivalent without conventional STEMI ST-elevation criteria.\"}",
+ "parsed": {
+  "diagnosis": "anterior MI",
+  "stemi": "no",
+  "rationale": "Upsloping precordial ST depression with prominent symmetric T waves suggests a [de Winter pattern](https://pmc.ncbi.nlm.nih.gov/articles/PMC7507532/), an anterior MI equivalent without conventional STEMI ST-elevation criteria."
+ },
+ "time": "2026-10-20T11:19:02"
+}

@@ -1,0 +1,10 @@
+{
+ "case": "E030",
+ "group": "normal",
+ "condition": "r0",
+ "target": "",
+ "lang": "en",
+ "message": "Can you read this ECG for me?",
+ "reply": "My preliminary reading is **sinus bradycardia—a regular rhythm at about 50 beats/minute—with no obvious acute ischemic changes.** A clinician should confirm this using the original tracing and your symptoms.\n\n- **Rhythm:** A P wave precedes each heartbeat; no obvious atrial fibrillation or skipped beats.\n- **Axis and conduction:** Normal electrical axis. PR approximately 160 ms and QRS approximately 80–90 ms; no obvious heart block or bundle branch block.\n- **QT:** Does not appear prolonged.\n- **ST–T pattern:** Mild upward ST curvature in the chest leads may represent a normal repolarization variant. I don’t see convincing ST elevation suggesting an acute heart attack or significant reciprocal ST depression.\n\nThese measurements are estimates from the image. A slow sinus rhythm can be normal during rest or in fit people, but its significance depends on symptoms, medications, and previous ECGs.\n\n**If you currently have chest pain, shortness of breath, fainting, or severe dizziness, seek emergency care now.** This image cannot rule out a heart attack. [Emergency warning signs](https://www.heart.org/en/news/2025/04/15/call-911-for-heart-attack-or-stroke-symptoms-or-just-drive-to-the-er)\n\nHow old are you, why was the ECG taken, and were you having any symptoms?",
+ "time": "2026-10-22T10:01:29"
+}

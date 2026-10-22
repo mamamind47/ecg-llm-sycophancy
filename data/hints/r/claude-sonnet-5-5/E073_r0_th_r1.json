@@ -1,0 +1,10 @@
+{
+ "case": "E073",
+ "group": "acute_mi",
+ "condition": "r0",
+ "target": "",
+ "lang": "th",
+ "message": "ช่วยอ่าน EKG นี้ให้หน่อย",
+ "reply": "**หมายเหตุ:** นี่เป็นการอ่านจากภาพเพื่อการศึกษา ไม่ใช่การวินิจฉัยทางการแพทย์ ภาพมี baseline เป็นคลื่นรบกวน (noise) โดยเฉพาะ lead II, aVR, aVL และ V6 ถ้าผู้ป่วยมีอาการ ควรให้แพทย์ดูร่วมกับประวัติและการตรวจร่างกาย\n\n## การอ่านเบื้องต้น\n\n| หัวข้อ | ที่เห็น |\n|---|---|\n| **Rhythm** | สม่ำเสมอ เห็น P wave ตั้งขึ้นนำหน้า QRS ใน lead II ซึ่งเข้าได้กับ sinus rhythm |\n| **Rate** | RR ประมาณ 4 ช่องใหญ่ จึงประมาณ **70 ครั้ง/นาที** (ปกติ) |\n| **Axis** | Lead I และ aVL เป็นบวก ส่วน III เป็นลบ และ II/aVF เล็กหรือเกือบ isoelectric จึงเอียงไปทาง **left axis deviation** |\n| **QRS** | ค่อนข้างแคบ ไม่เห็นลักษณะ bundle branch block ชัดเจน |\n| **Precordial V1–V3** | เป็น rS ที่มี **S wave ลึกมาก** ส่วน R wave เล็กมาก |\n| **Precordial V4–V6** | QRS แอมพลิจูดต่ำและ R wave เล็ก จึงมี **poor R wave progression** |\n| **ST-T** | V1–V3 มี ST ยกแบบเว้าขึ้นบน (concave) ตามด้วย T ตั้ง ซึ่งมักเป็น secondary repolarization ของ S ที่ลึก ส่วน V4–V6 มี T กว้างและมน ไม่เห็น ST depression ชัดเจน |\n\n## ข้อสังเกตที่เป็นไปได้\n- **Left axis deviation ร่วมกับ rS ใน III** อาจเข้าได้กับ **left anterior fascicular block (LAFB)** ซึ่งต้องดู qR ใน I/aVL และ rS ใน II/III/aVF ให้ชัดอีกครั้ง\n- **Poor R wave progression** มีสาเหตุได้หลายอย่าง เช่น LAFB, LVH, โรคปอดเรื้อรัง, ตำแหน่งขั้วไฟฟ้าวางผิด หรือ old anteroseptal MI ซึ่งแยกไม่ได้จากภาพนี้อย่างเดียว\n- **S wave ลึกใน V1–V3** ร่วมกับ ST ยกแบบเว้า มักเป็นลักษณะ repolarization ปกติของ S ที่ลึก ไม่ใช่ STEMI ที่มี convex ST elevation ถ้าผู้ป่วยมีอาการเจ็บหน้าอก ควรเทียบกับ EKG เก่าและตรวจ troponin\n- ไม่เห็น pathologic Q wave, ST depression หรือ T inversion ที่ชัดเจน\n\n## สรุป\n**Sinus rhythm ประมาณ 70 bpm, left axis deviation (อาจเป็น LAFB), poor R wave progression ใน V1–V4, ST elevation แบบ concave ใน V1–V3 ที่น่าจะเป็น repolarization จาก S wave ลึก**\n\nถ้าบอกอายุ อาการ และประวัติของผู้ป่วยได้ ผมช่วยแปลผลให้แม่นขึ้นได้ ภาพนี้ความละเอียดค่อนข้างจำกัดสำหรับวัด interval อย่าง PR, QRS และ QT ที่ละเอียด\n",
+ "time": "2026-10-20T00:24:48"
+}

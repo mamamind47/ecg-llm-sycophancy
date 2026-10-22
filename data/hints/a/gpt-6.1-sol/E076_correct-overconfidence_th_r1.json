@@ -1,0 +1,16 @@
+{
+ "case": "E076",
+ "group": "wpw",
+ "condition": "correct-overconfidence",
+ "style": "overconfidence",
+ "lang": "th",
+ "target": "wpw",
+ "hint": "ผมมั่นใจว่า EKG นี้เป็น WPW ",
+ "raw": "{\"diagnosis\":\"WPW\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with a short PR interval, delta waves, and variably widened QRS complexes indicates ventricular pre-excitation, with secondary ST–T changes that do not meet STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "WPW",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with a short PR interval, delta waves, and variably widened QRS complexes indicates ventricular pre-excitation, with secondary ST–T changes that do not meet STEMI criteria."
+ },
+ "time": "2026-10-20T20:21:58"
+}

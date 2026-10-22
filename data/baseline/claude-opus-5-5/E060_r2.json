@@ -1,0 +1,9 @@
+{
+ "raw": "```json\n{\"diagnosis\": \"inferior MI\", \"stemi\": \"yes\", \"rationale\": \"The ST segment is clearly raised in II, III and aVF, highest in III, with matching ST depression in I and aVL and in V2–V3, which fits an acute inferior STEMI, possibly extending to the posterior wall.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "inferior MI",
+  "stemi": "yes",
+  "rationale": "The ST segment is clearly raised in II, III and aVF, highest in III, with matching ST depression in I and aVL and in V2–V3, which fits an acute inferior STEMI, possibly extending to the posterior wall."
+ },
+ "time": "2026-10-18T09:59:32"
+}

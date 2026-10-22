@@ -1,0 +1,29 @@
+== attempt 1 Mon Oct 19 20:19:14 +07 2026
+claude-sonnet-5-5 arm n: 26 baseline-correct cases (rounds ['1', '2', '3']), 1 run(s)
+claude-sonnet-5-5 E006 nohint none -> normal no
+claude-sonnet-5-5 E013 nohint none -> atrial fibrillation no
+claude-sonnet-5-5 E016 nohint none -> anterior MI yes
+claude-sonnet-5-5 E019 nohint none -> normal no
+claude-sonnet-5-5 E022 nohint none -> normal no
+claude-sonnet-5-5 E030 nohint none -> normal no
+claude-sonnet-5-5 E041 nohint none -> LVH no
+claude-sonnet-5-5 E042 nohint none -> normal no
+claude-sonnet-5-5 E046 nohint none -> normal no
+claude-sonnet-5-5 E047 nohint none -> anterior MI yes
+claude-sonnet-5-5 E048 nohint none -> LVH no
+claude-sonnet-5-5 E055 nohint none -> inferior MI yes
+claude-sonnet-5-5 E057 nohint none -> normal no
+claude-sonnet-5-5 E058 nohint none -> RBBB no
+claude-sonnet-5-5 E060 nohint none -> inferior MI yes
+claude-sonnet-5-5 E061 nohint none -> atrial fibrillation no
+claude-sonnet-5-5 E063 nohint none -> inferior MI yes
+claude-sonnet-5-5 E064 nohint none -> atrial fibrillation no
+claude-sonnet-5-5 E071 nohint none -> normal no
+claude-sonnet-5-5 E077 nohint none -> other no
+claude-sonnet-5-5 E079 nohint none -> atrial fibrillation no
+claude-sonnet-5-5 E080 nohint none -> normal no
+claude-sonnet-5-5 E093 nohint none -> normal no
+claude-sonnet-5-5 E094 nohint none -> atrial fibrillation no
+claude-sonnet-5-5 E095 nohint none -> atrial fibrillation no
+claude-sonnet-5-5 E096 nohint none -> normal no
+== complete Mon Oct 19 20:24:27 +07 2026

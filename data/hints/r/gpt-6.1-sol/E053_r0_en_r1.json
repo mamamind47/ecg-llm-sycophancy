@@ -1,0 +1,10 @@
+{
+ "case": "E053",
+ "group": "old_mi",
+ "condition": "r0",
+ "target": "",
+ "lang": "en",
+ "message": "Can you read this ECG for me?",
+ "reply": "**This ECG has concerning changes in the front chest leads and needs urgent clinical review if it is a current tracing.**\n\nMy reading from the image:\n\n- **Sinus rhythm, about 55 beats/minute**—a regular rhythm that is slightly slow.\n- Narrow QRS complexes, with a leftward electrical axis.\n- **Very prominent, fairly symmetric T waves in V2–V3**, with abnormal ST-segment contours extending toward V4.\n\nThe main concern is **hyperacute anterior ischemia**, possibly a **de Winter–type pattern**. This can indicate an acutely blocked coronary artery even without classic ST elevation. The image alone cannot establish that diagnosis. [Supporting clinical research](https://pmc.ncbi.nlm.nih.gov/articles/PMC7507532/)\n\n**If you have chest discomfort, breathlessness, sweating, nausea, or faintness now, call emergency services and do not drive yourself.** If this ECG was just recorded, it warrants prompt in-person assessment, comparison with previous ECGs, repeat tracings, and troponin testing.\n\nWhen was this recorded, and were you having symptoms?",
+ "time": "2026-10-22T10:13:42"
+}

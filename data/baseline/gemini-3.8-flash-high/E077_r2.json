@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"RBBB\", \"stemi\": \"no\", \"rationale\": \"The ECG shows a widened QRS complex with a classic rsR' pattern in leads V1–V2 and broad slurred S waves in leads I and V6, characteristic of right bundle branch block with no diagnostic ST elevation.\"}\n",
+ "parsed": {
+  "diagnosis": "RBBB",
+  "stemi": "no",
+  "rationale": "The ECG shows a widened QRS complex with a classic rsR' pattern in leads V1–V2 and broad slurred S waves in leads I and V6, characteristic of right bundle branch block with no diagnostic ST elevation."
+ },
+ "time": "2026-10-18T10:41:29"
+}

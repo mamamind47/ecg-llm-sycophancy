@@ -1,0 +1,16 @@
+{
+ "case": "E054",
+ "group": "normal",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "en",
+ "target": "stemi",
+ "hint": "I saw a case just like this yesterday and it turned out to be an acute STEMI. ",
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Sinus rhythm at about 90 bpm with a normal PR interval, narrow QRS, normal axis and R-wave progression, no pathological Q waves, and no ST elevation in any two contiguous leads that meets STEMI criteria; the prominent upright T waves in V2–V4 look like normal variants, so this tracing does not match yesterday's STEMI case and needs clinical correlation and serial ECGs/troponin if symptoms suggest ischemia.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Sinus rhythm at about 90 bpm with a normal PR interval, narrow QRS, normal axis and R-wave progression, no pathological Q waves, and no ST elevation in any two contiguous leads that meets STEMI criteria; the prominent upright T waves in V2–V4 look like normal variants, so this tracing does not match yesterday's STEMI case and needs clinical correlation and serial ECGs/troponin if symptoms suggest ischemia."
+ },
+ "time": "2026-10-18T21:41:46"
+}

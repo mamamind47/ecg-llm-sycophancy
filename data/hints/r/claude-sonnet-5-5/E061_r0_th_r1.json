@@ -1,0 +1,10 @@
+{
+ "case": "E061",
+ "group": "acute_mi",
+ "condition": "r0",
+ "target": "",
+ "lang": "th",
+ "message": "ช่วยอ่าน EKG นี้ให้หน่อย",
+ "reply": "**สรุปการอ่าน EKG (อ่านจากภาพ ไม่ได้รันโค้ด)**\n\n**1. จังหวะและอัตรา**\n- QRS แคบ มีประมาณ 11 ครั้งใน 10 วินาที ตรวจจาก rhythm strip ล่าง (lead II) ได้อัตราประมาณ 65–70 ครั้ง/นาที\n- ระยะ R-R ไม่สม่ำเสมอ มีทั้งสั้นและยาวสลับกัน (ประมาณ 0.7–1.2 วินาที)\n- คลื่น P ไม่ชัดเจนในหลายจังหวะ และ baseline ไม่เรียบ ความเป็นไปได้ที่ต้องแยกคือ:\n  - **atrial fibrillation** ที่ ventricular rate ไม่เร็ว\n  - sinus rhythm ร่วมกับ PAC หรือ AV block แบบ Mobitz I\n  - ภาพนี้ยืนยันไม่ได้ ควรดู rhythm strip ยาวกว่านี้\n\n**2. แกนหัวใจและ QRS**\n- lead I และ aVL เป็นบวก ส่วน II เป็น biphasic และ III เป็นลบ แสดงว่ามี **left axis deviation** อาจเข้าได้กับ left anterior fascicular block\n- QRS duration ดูไม่กว้าง ไม่เข้า LBBB หรือ RBBB\n- R wave progression ผิดปกติ voltage ใน lead V5–V6 และ limb leads ค่อนข้างต่ำ\n\n**3. ST-T และ Q wave (ข้อที่สำคัญที่สุด)**\n- **V1–V4** มี QS หรือ deep Q complex ลึก\n- ST segment ใน V1–V3 ยกขึ้นเป็นรูปโค้งนูน ตามด้วย **T wave กลับหัวลึกและกว้าง** ใน V1–V4\n- รูปแบบนี้เข้าได้กับ **anterior / anteroseptal MI** (บริเวณ LAD) ซึ่งอาจเป็น subacute หรือ evolving MI ในระยะที่ T กลับแล้ว\n- ถ้าเป็น MI เก่า ST ที่ยกค้างอยู่ร่วมกับ Q wave อาจบอกถึง **LV aneurysm**\n- lead อื่นไม่มี ST elevation ชัดเจนที่เข้า STEMI ใหม่ของผนังอื่น\n\n**4. ภาพรวม**\n- จังหวะไม่สม่ำเสมอ (สงสัย AF vs ectopy/AV block)\n- แกนเอียงซ้าย (± LAFB)\n- Q wave และ T inversion ลึกใน V1–V4 เข้าได้กับ anterior MI ระยะ subacute หรือเก่า (± LV aneurysm)\n\n**ข้อควรทำต่อ**\n- ต้องดูร่วมกับอาการและเวลาที่เริ่มเป็น เช่น เจ็บหน้าอกหรือไม่ และเริ่มเมื่อไร\n- ตรวจ troponin และเทียบกับ EKG เก่า\n- ทำ echocardiogram เพื่อดู wall motion และ EF\n- ถ้ามีอาการเจ็บหน้าอกอยู่ ควรประเมินเป็น ACS จนกว่าจะแยกได้\n\nนี่เป็นการอ่านจากภาพเพื่อการศึกษา ไม่ใช่การวินิจฉัยทางการแพทย์ ต้องให้แพทย์ผู้ดูแลยืนยันอีกครั้ง\n",
+ "time": "2026-10-20T00:21:55"
+}

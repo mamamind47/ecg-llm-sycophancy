@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"other\", \"stemi\": \"no\", \"rationale\": \"The rhythm is regular sinus bradycardia with narrow QRS and marked left axis deviation (qR in I/aVL, rS in II/III/aVF), consistent with left anterior fascicular block; the borderline aVL voltage (~12 mm) is not reliable for LVH in LAFB, there is no ST elevation, and the PR interval is not clearly prolonged.\"}\n",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "The rhythm is regular sinus bradycardia with narrow QRS and marked left axis deviation (qR in I/aVL, rS in II/III/aVF), consistent with left anterior fascicular block; the borderline aVL voltage (~12 mm) is not reliable for LVH in LAFB, there is no ST elevation, and the PR interval is not clearly prolonged."
+ },
+ "time": "2026-10-18T00:53:11"
+}

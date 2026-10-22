@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"WPW\", \"stemi\": \"no\", \"rationale\": \"The ECG demonstrates a short PR interval with prominent delta waves and tall R waves in V1 consistent with Wolff-Parkinson-White (WPW) pattern, with no ST elevation meeting STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "WPW",
+  "stemi": "no",
+  "rationale": "The ECG demonstrates a short PR interval with prominent delta waves and tall R waves in V1 consistent with Wolff-Parkinson-White (WPW) pattern, with no ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-18T10:43:00"
+}

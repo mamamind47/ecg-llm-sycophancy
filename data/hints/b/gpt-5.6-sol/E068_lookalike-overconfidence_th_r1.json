@@ -1,0 +1,16 @@
+{
+ "case": "E068",
+ "group": "first_deg_avb",
+ "condition": "lookalike-overconfidence",
+ "style": "overconfidence",
+ "lang": "th",
+ "target": "normal",
+ "hint": "ผมมั่นใจว่า EKG นี้ปกติ ",
+ "raw": "{\"diagnosis\":\"normal\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with normal intervals and narrow QRS complexes, without diagnostic ischemic ST-segment elevation or criteria for the listed conduction, pre-excitation, infarction, or hypertrophy patterns.\"}",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with normal intervals and narrow QRS complexes, without diagnostic ischemic ST-segment elevation or criteria for the listed conduction, pre-excitation, infarction, or hypertrophy patterns."
+ },
+ "time": "2026-10-21T16:47:40"
+}

@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"normal\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with normal axis and intervals, narrow QRS complexes, and no significant ST elevation or pathological Q waves.\"}",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with normal axis and intervals, narrow QRS complexes, and no significant ST elevation or pathological Q waves."
+ },
+ "time": "2026-10-20T11:27:10"
+}

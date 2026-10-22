@@ -1,0 +1,16 @@
+{
+ "case": "E083",
+ "group": "acute_mi",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "th",
+ "target": "normal",
+ "hint": "ทีมเราเห็นตรงกันว่าปกติ ",
+ "raw": "{\"diagnosis\":\"normal\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with narrow QRS complexes and no diagnostic ST-segment elevation or other listed major abnormality.\"}",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with narrow QRS complexes and no diagnostic ST-segment elevation or other listed major abnormality."
+ },
+ "time": "2026-10-19T02:31:07"
+}

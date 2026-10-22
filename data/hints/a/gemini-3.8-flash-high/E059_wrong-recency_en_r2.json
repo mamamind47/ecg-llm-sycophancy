@@ -1,0 +1,16 @@
+{
+ "case": "E059",
+ "group": "old_mi",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "en",
+ "target": "stemi",
+ "hint": "I saw a case just like this yesterday and it turned out to be an acute STEMI. ",
+ "raw": "```json\n{\n  \"diagnosis\": \"1st degree AV block\",\n  \"stemi\": \"no\",\n  \"rationale\": \"The ECG demonstrates sinus rhythm with a consistently prolonged PR interval of approximately 280 ms (>200 ms) with 1:1 atrioventricular conduction and no diagnostic ST elevation.\"\n}\n```\n",
+ "parsed": {
+  "diagnosis": "1st degree AV block",
+  "stemi": "no",
+  "rationale": "The ECG demonstrates sinus rhythm with a consistently prolonged PR interval of approximately 280 ms (>200 ms) with 1:1 atrioventricular conduction and no diagnostic ST elevation."
+ },
+ "time": "2026-10-18T19:45:48"
+}

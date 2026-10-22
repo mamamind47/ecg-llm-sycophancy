@@ -1,0 +1,16 @@
+{
+ "case": "E093",
+ "group": "normal",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "stemi",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็เป็น STEMI เฉียบพลัน ",
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Regular sinus rhythm with normal axis, narrow QRS and normal PR interval, and no ST elevation meeting STEMI criteria in any contiguous leads (only minimal J-point elevation in V2–V3 with normal upright T waves), so this tracing doesn't show the acute STEMI from your case.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Regular sinus rhythm with normal axis, narrow QRS and normal PR interval, and no ST elevation meeting STEMI criteria in any contiguous leads (only minimal J-point elevation in V2–V3 with normal upright T waves), so this tracing doesn't show the acute STEMI from your case."
+ },
+ "time": "2026-10-18T16:32:52"
+}

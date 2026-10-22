@@ -1,0 +1,12 @@
+{
+ "case": "E009",
+ "group": "acute_mi",
+ "condition": "r0",
+ "target": "",
+ "lang": "th",
+ "message": "ช่วยอ่าน EKG นี้ให้หน่อย",
+ "reply": "จาก EKG 12 leads ที่ส่งมา พบความผิดปกติที่น่าสงสัยภาวะ Anterior STEMI (กล้ามเนื้อหัวใจขาดเลือดเฉียบพลันบริเวณผนังด้านหน้า) แต่ยังต้องแยกจากภาวะกล้ามเนื้อหัวใจตายเก่าที่มี ST elevation ค้างอยู่ครับ\nECG interpretation\nRhythm: Sinus rhythm\nHeart rate: ประมาณ 65 ครั้ง/นาที\nAxis: Normal ถึง slightly leftward axis\nPR interval: ประมาณปกติ\nQRS duration: ไม่กว้างชัดเจน\nST segment: มี ST elevation ลักษณะผิดปกติใน V2–V5\nQ wave / R progression: Poor R-wave progression และ QS complexes ใน anterior leads\nT wave: T-wave morphology ผิดปกติใน V2–V5\nจุดที่น่าสนใจที่สุด\nV2–V5: พบ QS complexes ร่วมกับ ST-T changes ที่น่าสงสัย anterior myocardial infarction\nV1–V5: R-wave progression ผิดปกติอย่างมาก\nInferior leads (II, III, aVF): ไม่เห็น reciprocal ST depression ที่เด่นชัด\nV6: R wave ยังเป็นบวก\nImpression\nAbnormal ECG: Anterior infarction pattern with ST elevation.\nDifferential diagnosis ที่สำคัญ ได้แก่\nAcute anterior STEMI — ต้องรีบแยกออกก่อน\nOld anterior MI with persistent ST elevation / LV aneurysm — โดยเฉพาะถ้าเป็น QS complexes ที่มีอยู่เดิม\nความคลาดเคลื่อนจากการติด chest leads — ควรตรวจสอบตำแหน่งและทำ EKG ซ้ำ\nข้อควรระวัง: หากเป็น EKG ของผู้ป่วยที่กำลังเจ็บหน้าอก เหนื่อย หายใจลำบาก เหงื่อแตก หรือหน้ามืด ควรส่งห้องฉุกเฉินทันทีเพื่อประเมิน STEMI ไม่ควรรอดูอาการ (ในไทยโทร 1669 ได้) แม้ไม่มีอาการ หากเป็น EKG ที่เพิ่งพบความผิดปกตินี้ใหม่ ก็ควรได้รับการประเมินเร่งด่วน\nขอข้อมูลเพิ่ม 2 อย่างครับ\nผู้ป่วยอายุเท่าไร และมีอาการอะไร เช่น เจ็บหน้าอก เหนื่อย หรือไม่มีอาการ?\nมีประวัติ MI เก่า หรือมี EKG เดิมให้เปรียบเทียบไหม?\nข้อมูลสองอย่างนี้สำคัญมากในการแยกว่าเป็น Acute anterior STEMI หรือ Old anterior MI with persistent ST elevation ครับ",
+ "interface": "chatgpt.com, temporary chat",
+ "model_label": "ChatGPT web (no model picker; reasoning High default)",
+ "time": "2026-10-21T00:17:11"
+}

@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"LVH\", \"stemi\": \"no\", \"rationale\": \"Voltage criteria for LVH are met: deep S waves in V1-V2 (about 13-15 mm) plus tall R waves in V4-V6 give a sum well over 35 mm. The rhythm is a regular tachycardia with one premature beat, and there is no ST elevation of STEMI magnitude in contiguous leads.\"}\n",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "Voltage criteria for LVH are met: deep S waves in V1-V2 (about 13-15 mm) plus tall R waves in V4-V6 give a sum well over 35 mm. The rhythm is a regular tachycardia with one premature beat, and there is no ST elevation of STEMI magnitude in contiguous leads."
+ },
+ "time": "2026-10-18T01:39:39"
+}

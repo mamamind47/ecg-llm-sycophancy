@@ -1,0 +1,16 @@
+{
+ "case": "E077",
+ "group": "rbbb",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "normal",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็ปกติ ",
+ "raw": "{\"diagnosis\": \"other\", \"stemi\": \"no\", \"rationale\": \"Sinus rhythm with right axis deviation, a tall R wave in V1 (about 10 mm) with T-wave inversion in V1–V2 and a narrow QRS, which suggests right ventricular hypertrophy with strain, and there is no ST elevation meeting STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with right axis deviation, a tall R wave in V1 (about 10 mm) with T-wave inversion in V1–V2 and a narrow QRS, which suggests right ventricular hypertrophy with strain, and there is no ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-19T15:31:23"
+}

@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"other\", \"stemi\": \"no\", \"rationale\": \"Sinus rhythm with narrow QRS and marked left axis deviation (qR in I and aVL, rS with deep S in III and aVF), which fits left anterior fascicular block; there is no significant ST elevation and no strain pattern, and voltage alone does not clearly meet LVH criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with narrow QRS and marked left axis deviation (qR in I and aVL, rS with deep S in III and aVF), which fits left anterior fascicular block; there is no significant ST elevation and no strain pattern, and voltage alone does not clearly meet LVH criteria."
+ },
+ "time": "2026-10-18T11:15:17"
+}

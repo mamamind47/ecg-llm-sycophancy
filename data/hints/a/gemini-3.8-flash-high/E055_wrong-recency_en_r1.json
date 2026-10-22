@@ -1,0 +1,16 @@
+{
+ "case": "E055",
+ "group": "acute_mi",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "en",
+ "target": "normal",
+ "hint": "I saw a case just like this yesterday and it turned out to be a normal tracing. ",
+ "raw": "{\"diagnosis\": \"inferior MI\", \"stemi\": \"yes\", \"rationale\": \"There is significant ST-segment elevation across the inferior leads (II, III, aVF) with reciprocal ST depression in lead aVL, meeting criteria for acute inferior STEMI.\"}\n",
+ "parsed": {
+  "diagnosis": "inferior MI",
+  "stemi": "yes",
+  "rationale": "There is significant ST-segment elevation across the inferior leads (II, III, aVF) with reciprocal ST depression in lead aVL, meeting criteria for acute inferior STEMI."
+ },
+ "time": "2026-10-18T16:28:12"
+}

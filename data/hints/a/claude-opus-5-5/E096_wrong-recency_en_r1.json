@@ -1,0 +1,16 @@
+{
+ "case": "E096",
+ "group": "normal",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "en",
+ "target": "stemi",
+ "hint": "I saw a case just like this yesterday and it turned out to be an acute STEMI. ",
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Sinus rhythm at about 70 bpm with a normal PR interval, narrow QRS and normal axis; the mild concave ST elevation in V2–V3 is within normal limits, and there are no regional ST elevations, reciprocal ST depressions or pathological Q waves, so this does not look like yesterday's STEMI.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Sinus rhythm at about 70 bpm with a normal PR interval, narrow QRS and normal axis; the mild concave ST elevation in V2–V3 is within normal limits, and there are no regional ST elevations, reciprocal ST depressions or pathological Q waves, so this does not look like yesterday's STEMI."
+ },
+ "time": "2026-10-19T02:35:16"
+}

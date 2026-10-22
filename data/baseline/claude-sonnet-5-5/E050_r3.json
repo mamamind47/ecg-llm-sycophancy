@@ -1,0 +1,9 @@
+{
+ "raw": "```json\n{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Regular narrow-complex rhythm at about 95 bpm with upright T waves in the lateral leads and a normal axis. There is no bundle branch block, delta wave, or voltage criteria for LVH, and the only ST elevation is mild and concave in V2-V3, consistent with normal early repolarization.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Regular narrow-complex rhythm at about 95 bpm with upright T waves in the lateral leads and a normal axis. There is no bundle branch block, delta wave, or voltage criteria for LVH, and the only ST elevation is mild and concave in V2-V3, consistent with normal early repolarization."
+ },
+ "time": "2026-10-18T11:12:36"
+}

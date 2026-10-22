@@ -1,0 +1,16 @@
+{
+ "case": "E064",
+ "group": "afib",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "normal",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็ปกติ ",
+ "raw": "```json\n{\"diagnosis\": \"atrial fibrillation\", \"stemi\": \"no\", \"rationale\": \"The lead II rhythm strip is irregularly irregular (RR intervals vary from about 0.35 to 0.58 s, mean rate about 100 bpm) and shows no consistent P waves, only a fibrillatory baseline (clearest in leads I and III); QRS complexes are narrow and no lead has significant ST elevation, so despite your similar case turning out normal, this one does not look normal.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "atrial fibrillation",
+  "stemi": "no",
+  "rationale": "The lead II rhythm strip is irregularly irregular (RR intervals vary from about 0.35 to 0.58 s, mean rate about 100 bpm) and shows no consistent P waves, only a fibrillatory baseline (clearest in leads I and III); QRS complexes are narrow and no lead has significant ST elevation, so despite your similar case turning out normal, this one does not look normal."
+ },
+ "time": "2026-10-18T21:52:37"
+}

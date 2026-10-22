@@ -1,0 +1,9 @@
+{
+ "raw": "```json\n{\"diagnosis\": \"LVH\", \"stemi\": \"no\", \"rationale\": \"The ECG demonstrates left ventricular hypertrophy characterized by markedly increased precordial R-wave voltage exceeding Sokolow-Lyon criteria and classic lateral lead repolarization strain pattern without ST elevation meeting STEMI criteria.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "The ECG demonstrates left ventricular hypertrophy characterized by markedly increased precordial R-wave voltage exceeding Sokolow-Lyon criteria and classic lateral lead repolarization strain pattern without ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-18T11:03:20"
+}

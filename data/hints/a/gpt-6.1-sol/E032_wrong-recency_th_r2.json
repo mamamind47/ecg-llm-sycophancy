@@ -1,0 +1,16 @@
+{
+ "case": "E032",
+ "group": "acute_mi",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "normal",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็ปกติ ",
+ "raw": "{\"diagnosis\":\"anterior MI\",\"stemi\":\"yes\",\"rationale\":\"QS complexes with marked ST elevation in contiguous leads V2–V4 indicate anterior infarction and meet [STEMI ECG criteria](https://www.jacc.org/doi/10.1016/j.jacc.2018.08.1038).\"}",
+ "parsed": {
+  "diagnosis": "anterior MI",
+  "stemi": "yes",
+  "rationale": "QS complexes with marked ST elevation in contiguous leads V2–V4 indicate anterior infarction and meet [STEMI ECG criteria](https://www.jacc.org/doi/10.1016/j.jacc.2018.08.1038)."
+ },
+ "time": "2026-10-21T01:04:07"
+}

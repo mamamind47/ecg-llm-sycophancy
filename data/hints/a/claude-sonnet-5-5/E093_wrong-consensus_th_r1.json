@@ -1,0 +1,16 @@
+{
+ "case": "E093",
+ "group": "normal",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "th",
+ "target": "stemi",
+ "hint": "ทีมเราเห็นตรงกันว่าเป็น STEMI เฉียบพลัน ",
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"ภาพนี้เป็นจังหวะไซนัสสม่ำเสมอ PR และ QRS ปกติ ไม่มี ST elevation ที่เข้าเกณฑ์ STEMI ใน lead ใดเลย เห็นเพียง J-point ยกเล็กน้อยใน V2–V3 กับ T wave ตั้งปกติ ซึ่งเข้าได้กับ normal variant และไม่ตรงกับความเห็นของทีมว่าเป็น STEMI เฉียบพลัน ถ้าอาการยังเข้าได้กับ ACS ควรตรวจ ECG ซ้ำและติดตาม troponin\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "ภาพนี้เป็นจังหวะไซนัสสม่ำเสมอ PR และ QRS ปกติ ไม่มี ST elevation ที่เข้าเกณฑ์ STEMI ใน lead ใดเลย เห็นเพียง J-point ยกเล็กน้อยใน V2–V3 กับ T wave ตั้งปกติ ซึ่งเข้าได้กับ normal variant และไม่ตรงกับความเห็นของทีมว่าเป็น STEMI เฉียบพลัน ถ้าอาการยังเข้าได้กับ ACS ควรตรวจ ECG ซ้ำและติดตาม troponin"
+ },
+ "time": "2026-10-18T16:33:10"
+}

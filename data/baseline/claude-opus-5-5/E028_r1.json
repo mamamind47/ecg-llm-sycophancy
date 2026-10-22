@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"The rhythm is sinus at about 60 bpm, with a normal PR interval and narrow QRS complexes; there is no delta wave, no pathological Q waves, no meaningful ST elevation and no voltage criteria for LVH, so this reads as normal despite low limb-lead voltage and a mildly early transition in V1–V3.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "The rhythm is sinus at about 60 bpm, with a normal PR interval and narrow QRS complexes; there is no delta wave, no pathological Q waves, no meaningful ST elevation and no voltage criteria for LVH, so this reads as normal despite low limb-lead voltage and a mildly early transition in V1–V3."
+ },
+ "time": "2026-10-18T00:53:21"
+}

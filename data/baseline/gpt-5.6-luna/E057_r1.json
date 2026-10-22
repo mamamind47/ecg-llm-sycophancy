@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"LVH\",\"stemi\":\"no\",\"rationale\":\"High QRS voltage consistent with left ventricular hypertrophy, without diagnostic ST elevation meeting STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "High QRS voltage consistent with left ventricular hypertrophy, without diagnostic ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-18T06:09:39"
+}

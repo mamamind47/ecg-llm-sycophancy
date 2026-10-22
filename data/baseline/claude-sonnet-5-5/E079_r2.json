@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"atrial fibrillation\", \"stemi\": \"no\", \"rationale\": \"The rhythm is irregularly irregular with no discernible P waves and a fibrillatory baseline; the mild concave ST elevation in V1-V3 sits with deep S waves and tall V4-V5 voltage, so it looks like a repolarization pattern and not STEMI.\"}\n",
+ "parsed": {
+  "diagnosis": "atrial fibrillation",
+  "stemi": "no",
+  "rationale": "The rhythm is irregularly irregular with no discernible P waves and a fibrillatory baseline; the mild concave ST elevation in V1-V3 sits with deep S waves and tall V4-V5 voltage, so it looks like a repolarization pattern and not STEMI."
+ },
+ "time": "2026-10-18T09:59:29"
+}

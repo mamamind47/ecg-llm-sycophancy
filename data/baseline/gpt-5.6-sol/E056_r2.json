@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"LVH\",\"stemi\":\"no\",\"rationale\":\"Marked precordial voltage with deep S waves in V1–V3, tall R waves in V5–V6, and secondary discordant ST-T changes is consistent with LVH with strain.\"}",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "Marked precordial voltage with deep S waves in V1–V3, tall R waves in V5–V6, and secondary discordant ST-T changes is consistent with LVH with strain."
+ },
+ "time": "2026-10-18T09:54:17"
+}

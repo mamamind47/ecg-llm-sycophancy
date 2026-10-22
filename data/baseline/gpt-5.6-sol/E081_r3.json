@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"other\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with an isolated premature ventricular complex and no diagnostic ST-segment elevation.\"}",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with an isolated premature ventricular complex and no diagnostic ST-segment elevation."
+ },
+ "time": "2026-10-18T11:04:34"
+}

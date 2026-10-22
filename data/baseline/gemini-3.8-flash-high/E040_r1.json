@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"LBBB\", \"stemi\": \"no\", \"rationale\": \"The ECG demonstrates classic left bundle branch block with a prolonged QRS duration (>120 ms), broad notched R waves in leads I, aVL, and V5–V6, and appropriate discordant ST elevation in V1–V3 that does not meet Sgarbossa criteria for STEMI.\"}\n",
+ "parsed": {
+  "diagnosis": "LBBB",
+  "stemi": "no",
+  "rationale": "The ECG demonstrates classic left bundle branch block with a prolonged QRS duration (>120 ms), broad notched R waves in leads I, aVL, and V5–V6, and appropriate discordant ST elevation in V1–V3 that does not meet Sgarbossa criteria for STEMI."
+ },
+ "time": "2026-10-18T01:20:42"
+}

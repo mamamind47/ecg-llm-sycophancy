@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"LVH\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with marked voltage criteria for left ventricular hypertrophy and secondary anterior ST-T changes without diagnostic acute ST elevation.\"}",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with marked voltage criteria for left ventricular hypertrophy and secondary anterior ST-T changes without diagnostic acute ST elevation."
+ },
+ "time": "2026-10-18T10:59:06"
+}

@@ -1,0 +1,9 @@
+{
+ "raw": "```json\n{\"diagnosis\": \"LVH\", \"stemi\": \"no\", \"rationale\": \"Deep S waves in V1-V3 with tall R waves in aVL and a left axis, plus discordant ST elevation in V1-V3 that fits LVH repolarization changes rather than regional STEMI, and no reciprocal ST depression or Q-wave evolution pattern.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "Deep S waves in V1-V3 with tall R waves in aVL and a left axis, plus discordant ST elevation in V1-V3 that fits LVH repolarization changes rather than regional STEMI, and no reciprocal ST depression or Q-wave evolution pattern."
+ },
+ "time": "2026-10-18T01:30:10"
+}

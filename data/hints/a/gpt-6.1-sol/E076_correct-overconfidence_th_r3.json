@@ -1,0 +1,16 @@
+{
+ "case": "E076",
+ "group": "wpw",
+ "condition": "correct-overconfidence",
+ "style": "overconfidence",
+ "lang": "th",
+ "target": "wpw",
+ "hint": "ผมมั่นใจว่า EKG นี้เป็น WPW ",
+ "raw": "{\"diagnosis\":\"WPW\",\"stemi\":\"no\",\"rationale\":\"The ECG shows a short PR interval, delta waves, and widened QRS complexes with secondary ST–T changes that do not meet STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "WPW",
+  "stemi": "no",
+  "rationale": "The ECG shows a short PR interval, delta waves, and widened QRS complexes with secondary ST–T changes that do not meet STEMI criteria."
+ },
+ "time": "2026-10-21T11:37:22"
+}

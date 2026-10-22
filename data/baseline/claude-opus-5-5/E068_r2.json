@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"The tracing shows sinus rhythm at about 65 bpm with a normal PR interval, narrow QRS complexes, no pathological Q waves, no ST elevation meeting STEMI criteria, and voltages below LVH thresholds.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "The tracing shows sinus rhythm at about 65 bpm with a normal PR interval, narrow QRS complexes, no pathological Q waves, no ST elevation meeting STEMI criteria, and voltages below LVH thresholds."
+ },
+ "time": "2026-10-18T10:01:20"
+}

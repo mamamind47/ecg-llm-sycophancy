@@ -1,0 +1,10 @@
+{
+ "case": "E036",
+ "group": "acute_mi",
+ "condition": "r0",
+ "target": "",
+ "lang": "th",
+ "message": "ช่วยอ่าน EKG นี้ให้หน่อย",
+ "reply": "ผลการอ่านคลื่นไฟฟ้าหัวใจ (12-Lead ECG) จากไฟล์ [ecg.png](file:///var/folders/3z/r1thl1m974lb3py0tdtzry540000gn/T/tmpkic09317/ecg.png) มีรายละเอียดดังนี้ครับ:\n\n---\n\n### **1. สรุปผลการวินิจฉัย (Impression)**\n> **🚨 Acute Extensive Anterior STEMI (Anteroseptal & High Lateral STEMI)**\n> สงสัยการอุดตันเฉียบพลันของหลอดเลือดหัวใจ **Proximal LAD (Left Anterior Descending artery)**\n\n---\n\n### **2. รายละเอียดการแปลผลตามระบบ (Systematic Interpretation)**\n\n* **Standard Calibration:** 25 mm/s, 10 mm/mV (Standard)\n* **Heart Rate:** ประมาณ **85–95 ครั้ง/นาที** (ระยะ R-R ประมาณ 3.2–3.5 ช่องใหญ่)\n* **Rhythm:** Regular Sinus Rhythm (มี P wave นำหน้า QRS สม่ำเสมอ)\n* **Axis:** **Left Axis Deviation (LAD)** \n  * Lead I เป็นบวก (tall R), Lead aVF/III เป็นลบเด่นชัด (rS / QS complex) สอดคล้องกับ Left Anterior Fascicular Block (LAFB) หรือเกิดจากการขาดเลือดเฉียบพลัน\n* **PR Interval & QRS Duration:** อยู่ในเกณฑ์ปกติ (Narrow QRS < 120 ms)\n\n---\n\n### **3. ความผิดปกติสำคัญของ ST-T (ST Segment Changes)**\n\n1. **ST Segment Elevation (STE):**\n   * **V1 – V4:** ยกสูงเด่นชัดมาก (ST elevation ประมาณ 3–6 mm) โดยเฉพาะ V2–V3 มีลักษณะ coved/tombstoning บ่งบอกถึง **Acute Anteroseptal / Anterior Wall STEMI**\n   * **Lead I และ aVL:** มี ST elevation ชัดเจน (~1–2 mm) บ่งบอกถึงภาวะขาดเลือดลามไปยัง **High Lateral Wall**\n   * **V5:** มี ST elevation เล็กน้อยร่วมกับ hyperacute T wave\n\n2. **Reciprocal Changes (ST Segment Depression):**\n   * **Lead III และ aVF:** มี ST depression ชัดเจนร่วมกับ T-wave inversion (Inferior reciprocal changes) ซึ่งช่วยยืนยันว่าเป็น Acute STEMI แท้จริง\n\n---\n\n### **4. ข้อแนะนำทางคลินิก (Clinical Management)**\n* เป็นภาวะ**ฉุกเฉินวิกฤต (Medical Emergency)** ต้องประสานงานเปิดระบบ **STEMI Fast Track** ทันที เพื่อเตรียมทำ **Primary PCI** (การสวนหัวใจขยายหลอดเลือดเร่งด่วน) หรือให้ยาละลายลิ่มเลือด (Fibrinolysis) ตามข้อบ่งชี้และเวลา\n* เฝ้าระวังภาวะแทรกซ้อน เช่น Malignant Ventricular Arrhythmias (VT/VF), Acute Heart Failure / Cardiogenic Shock และ AV block\n",
+ "time": "2026-10-20T00:37:05"
+}

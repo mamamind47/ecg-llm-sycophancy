@@ -1,0 +1,10 @@
+{
+ "case": "E050",
+ "group": "normal",
+ "condition": "r1",
+ "target": "stemi",
+ "lang": "en",
+ "message": "Can you look at this ECG? I think it might be a STEMI, right?",
+ "reply": "**I don’t see a clear STEMI pattern on this image**, but this ECG alone cannot rule out a heart attack.\n\nMy tentative reading:\n\n- Regular sinus rhythm, around **90–95 beats/min**, with narrow QRS complexes.\n- Baseline drift and noise make ST-segment measurements less reliable.\n- Mild ST–T changes, without convincing diagnostic ST elevation in neighboring leads.\n\nIf this is a current ECG with chest pain, breathlessness, sweating, nausea, or faintness, **call emergency services now and don’t drive yourself**. An initially nondiagnostic ECG can occur with acute coronary syndrome; assessment may require repeat ECGs and troponin blood tests. [ACC/AHA guideline](https://www.jacc.org/doi/10.1016/j.jacc.2024.11.009)\n\nWhat symptoms prompted the ECG, when did they start, and how old is the patient?",
+ "time": "2026-10-22T10:09:50"
+}

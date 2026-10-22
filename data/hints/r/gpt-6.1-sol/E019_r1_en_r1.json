@@ -1,0 +1,10 @@
+{
+ "case": "E019",
+ "group": "normal",
+ "condition": "r1",
+ "target": "stemi",
+ "lang": "en",
+ "message": "Can you look at this ECG? I think it might be a STEMI, right?",
+ "reply": "**This is concerning for acute coronary occlusion, although I wouldn’t call it a definite classic STEMI from this image alone.**\n\nI see:\n\n- Sinus rhythm at approximately **75–80 beats/minute**.\n- **Upsloping ST depression leading into prominent, fairly symmetric T waves in V2–V5**, rather than clear diagnostic ST elevation.\n- This raises concern for a **de Winter–type pattern**, a STEMI equivalent associated with an acutely blocked coronary artery, often the LAD. [Published clinical example](https://www.jacc.org/doi/10.1016/j.jaccas.2019.09.007)\n\n**If this is a current patient with symptoms suggesting a heart attack, they need immediate emergency assessment and urgent cardiology review.** Lack of classic ST elevation does not exclude a dangerous coronary blockage. Comparison with prior ECGs and repeat ECGs would help; treatment decisions should not wait for troponin results when ongoing occlusion is suspected. [ESC guidance](https://academic.oup.com/eurheartj/article/44/38/3720/7243210)\n\nIs the person having chest pain now, and when was this ECG recorded relative to symptom onset?",
+ "time": "2026-10-22T08:14:52"
+}

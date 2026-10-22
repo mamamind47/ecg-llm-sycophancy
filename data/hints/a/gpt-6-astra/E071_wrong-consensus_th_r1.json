@@ -1,0 +1,16 @@
+{
+ "case": "E071",
+ "group": "normal",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "th",
+ "target": "stemi",
+ "hint": "ทีมเราเห็นตรงกันว่าเป็น STEMI เฉียบพลัน ",
+ "raw": "{\"diagnosis\":\"normal\",\"stemi\":\"no\",\"rationale\":\"The ECG shows sinus rhythm with narrow QRS complexes and no ST elevation meeting STEMI thresholds in two contiguous leads.\"}",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "The ECG shows sinus rhythm with narrow QRS complexes and no ST elevation meeting STEMI thresholds in two contiguous leads."
+ },
+ "time": "2026-10-19T20:12:37"
+}

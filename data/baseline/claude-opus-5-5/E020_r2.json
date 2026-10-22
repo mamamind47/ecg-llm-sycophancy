@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"LVH\", \"stemi\": \"no\", \"rationale\": \"The voltages are very large: the S waves in V1–V3 run off the grid and the R waves in V5–V6 are tall, well past LVH voltage criteria; the ST elevation in V1–V3 slopes up into tall T waves opposite the deep S waves, and the inverted T waves in I and aVL fit a secondary LVH strain pattern rather than an acute STEMI.\"}\n",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "The voltages are very large: the S waves in V1–V3 run off the grid and the R waves in V5–V6 are tall, well past LVH voltage criteria; the ST elevation in V1–V3 slopes up into tall T waves opposite the deep S waves, and the inverted T waves in I and aVL fit a secondary LVH strain pattern rather than an acute STEMI."
+ },
+ "time": "2026-10-18T09:49:52"
+}

@@ -1,0 +1,12 @@
+{
+ "case": "E027",
+ "group": "acute_mi",
+ "condition": "r0",
+ "target": "",
+ "lang": "th",
+ "message": "ช่วยอ่าน EKG นี้ให้หน่อย",
+ "reply": "การอ่านผลคลื่นไฟฟ้าหัวใจ (EKG 12-lead) มีรายละเอียดดังนี้:\n1. อัตราและจังหวะการเต้นของหัวใจ (Rate & Rhythm)\nอัตราการเต้น (Heart Rate): ประมาณ 55–60 ครั้ง/นาที (Sinus bradycardia เล็กน้อย หรือ Borderline normal)\nจังหวะ (Rhythm): Normal Sinus Rhythm โดยสังเกตเห็น P wave นำหน้าทุก QRS complex ชัดเจนและสม่ำเสมอใน Lead I และ V4–V6\n2. แกนหัวใจและช่วงคลื่น (Axis & Intervals)\nแกนไฟฟ้าหัวใจ (Axis): อยู่ในเกณฑ์ปกติ (Normal Axis) โดย Lead I และ Lead II เป็นบวก\nPR interval: ปกติ (ประมาณ 0.16 วินาที หรือ 4 ช่องเล็ก)\nQRS duration: แคบปกติ (< 0.10–0.12 วินาที)\nST-T Changes: พบ ST-segment ยกตัวเล็กน้อยแบบเว้า (concave ST elevation) ประมาณ 1–2 มม. ใน V2–V3 ร่วมกับ T wave ปกติ ซึ่งเข้าได้กับลักษณะ Benign Early Repolarization หรือ Normal male pattern\n3. จุดสังเกตสำคัญ (Key Finding / Pitfall)\nบริเวณ Lead II, III, และ aVF มีลักษณะคลื่นหยักสั่นคล้าย Atrial Flutter หรือ Atrial Fibrillation แต่แท้จริงแล้วเป็น Tremor Artifact (สัญญาณรบกวนจากการสั่นหรือการเกร็งกล้ามเนื้อ)\nจุดสังเกตที่ระบุตำแหน่งต้นกำเนิดสัญญาณรบกวน: เกิดขึ้นเฉพาะใน Lead II, III, aVF (ซึ่งต่อกับขั้วขาซ้าย: Left Leg) ในขณะที่ Lead I (วัดระหว่างแขนขวาและแขนซ้าย: RA–LA ไม่ผ่านขาซ้าย) และหัวใจห้องล่างด้านข้าง (V4–V6) เส้น baseline เรียบนิ่งและเห็น P wave นำหน้า QRS ได้ชัดเจน บ่งชี้ว่าเป็น Artifact ที่เกิดจากการสั่นหรือขยับของขาซ้าย (Left leg tremor artifact) เช่น ในผู้ป่วย Parkinson's disease หรือมีอาการหนาวสั่น\nสรุปผลการตรวจ (Interpretation):\nNormal sinus rhythm (ค่อนไปทาง bradycardia เล็กน้อย)\nBenign early repolarization pattern ใน V2–V3\nTremor artifact จากขาซ้าย (Left leg tremor artifact) หลอกให้ดูคล้ายภาวะหัวใจเต้นผิดจังหวะ (Pseudo-flutter)",
+ "interface": "gemini.google.com, temporary chat",
+ "model_label": "Flash (web picker)",
+ "time": "2026-10-20T16:41:44"
+}

@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"LVH\",\"stemi\":\"no\",\"rationale\":\"High-voltage QRS complexes with left-axis deviation and secondary discordant ST-T changes are consistent with left ventricular hypertrophy without diagnostic STEMI elevation.\"}",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "High-voltage QRS complexes with left-axis deviation and secondary discordant ST-T changes are consistent with left ventricular hypertrophy without diagnostic STEMI elevation."
+ },
+ "time": "2026-10-18T10:57:23"
+}

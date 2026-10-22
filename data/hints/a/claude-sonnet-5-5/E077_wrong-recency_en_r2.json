@@ -1,0 +1,16 @@
+{
+ "case": "E077",
+ "group": "rbbb",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "en",
+ "target": "normal",
+ "hint": "I saw a case just like this yesterday and it turned out to be a normal tracing. ",
+ "raw": "```json\n{\"diagnosis\": \"other\", \"stemi\": \"no\", \"rationale\": \"This is not a normal tracing: it shows right axis deviation (lead I is net negative, III and aVF are upright), a tall R wave in V1 with T-wave inversion and ST depression in V1-V2, which fits right ventricular hypertrophy with strain; there is no ST elevation meeting STEMI criteria.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "This is not a normal tracing: it shows right axis deviation (lead I is net negative, III and aVF are upright), a tall R wave in V1 with T-wave inversion and ST depression in V1-V2, which fits right ventricular hypertrophy with strain; there is no ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-19T14:32:00"
+}

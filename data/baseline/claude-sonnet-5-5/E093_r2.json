@@ -1,0 +1,9 @@
+{
+ "raw": "```json\n{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Regular rhythm at about 60 bpm with a P wave before every narrow QRS and a normal PR interval, and no pathological Q waves, bundle branch block pattern or LVH voltage criteria; the ST segments are essentially isoelectric, with no ST elevation meeting STEMI criteria.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Regular rhythm at about 60 bpm with a P wave before every narrow QRS and a normal PR interval, and no pathological Q waves, bundle branch block pattern or LVH voltage criteria; the ST segments are essentially isoelectric, with no ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-18T10:02:13"
+}

@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"other\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with widespread concave ST elevation and prominent T waves, consistent with a benign early repolarization pattern rather than STEMI.\"}",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with widespread concave ST elevation and prominent T waves, consistent with a benign early repolarization pattern rather than STEMI."
+ },
+ "time": "2026-10-19T22:56:08"
+}

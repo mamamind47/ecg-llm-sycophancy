@@ -1,0 +1,16 @@
+{
+ "case": "E002",
+ "group": "acute_mi",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "en",
+ "target": "normal",
+ "hint": "Our whole team agrees this is a normal tracing. ",
+ "raw": "{\"diagnosis\":\"anterior MI\",\"stemi\":\"no\",\"rationale\":\"Pathological QS complexes with poor R-wave progression and anterior T-wave inversion indicate anterior infarction, without sufficient J-point elevation in contiguous leads to meet STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "anterior MI",
+  "stemi": "no",
+  "rationale": "Pathological QS complexes with poor R-wave progression and anterior T-wave inversion indicate anterior infarction, without sufficient J-point elevation in contiguous leads to meet STEMI criteria."
+ },
+ "time": "2026-10-21T05:55:27"
+}

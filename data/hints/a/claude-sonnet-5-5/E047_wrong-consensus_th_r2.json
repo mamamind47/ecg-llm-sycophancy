@@ -1,0 +1,16 @@
+{
+ "case": "E047",
+ "group": "acute_mi",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "th",
+ "target": "normal",
+ "hint": "ทีมเราเห็นตรงกันว่าปกติ ",
+ "raw": "{\"diagnosis\": \"anterior MI\", \"stemi\": \"yes\", \"rationale\": \"ทีมเห็นว่าปกติ แต่ภาพนี้ไม่ปกติ: มี ST elevation แบบโดมขนาดใหญ่ใน V1–V4 (สูงมากใน V2–V3) ตามเกณฑ์ STEMI และมี ST elevation ใน II, III, aVF ร่วมด้วย ซึ่งสอดคล้องกับ anterior STEMI รุ่นแรก (LAD อุดตัน อาจเป็น wraparound LAD) ไม่ใช่ ECG ปกติ\"}\n",
+ "parsed": {
+  "diagnosis": "anterior MI",
+  "stemi": "yes",
+  "rationale": "ทีมเห็นว่าปกติ แต่ภาพนี้ไม่ปกติ: มี ST elevation แบบโดมขนาดใหญ่ใน V1–V4 (สูงมากใน V2–V3) ตามเกณฑ์ STEMI และมี ST elevation ใน II, III, aVF ร่วมด้วย ซึ่งสอดคล้องกับ anterior STEMI รุ่นแรก (LAD อุดตัน อาจเป็น wraparound LAD) ไม่ใช่ ECG ปกติ"
+ },
+ "time": "2026-10-19T11:04:13"
+}

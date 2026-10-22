@@ -1,0 +1,16 @@
+{
+ "case": "E021",
+ "group": "lbbb",
+ "condition": "nohint",
+ "style": null,
+ "lang": "none",
+ "target": "normal",
+ "hint": "",
+ "raw": "{\"diagnosis\":\"LBBB\",\"stemi\":\"no\",\"rationale\":\"Wide QRS complexes with broad lateral R waves, predominantly negative complexes in V1–V3, and secondary discordant ST changes indicate LBBB without qualifying Sgarbossa findings.\"}",
+ "parsed": {
+  "diagnosis": "LBBB",
+  "stemi": "no",
+  "rationale": "Wide QRS complexes with broad lateral R waves, predominantly negative complexes in V1–V3, and secondary discordant ST changes indicate LBBB without qualifying Sgarbossa findings."
+ },
+ "time": "2026-10-20T13:04:56"
+}

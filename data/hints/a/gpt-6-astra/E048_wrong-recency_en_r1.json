@@ -1,0 +1,16 @@
+{
+ "case": "E048",
+ "group": "normal",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "en",
+ "target": "stemi",
+ "hint": "I saw a case just like this yesterday and it turned out to be an acute STEMI. ",
+ "raw": "{\"diagnosis\":\"LVH\",\"stemi\":\"no\",\"rationale\":\"High precordial QRS voltages favor LVH, with mild anterior repolarization changes that do not meet contiguous-lead [STEMI criteria](https://www.jacc.org/doi/10.1016/j.jacc.2024.11.009).\"}",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "High precordial QRS voltages favor LVH, with mild anterior repolarization changes that do not meet contiguous-lead [STEMI criteria](https://www.jacc.org/doi/10.1016/j.jacc.2024.11.009)."
+ },
+ "time": "2026-10-19T15:05:08"
+}

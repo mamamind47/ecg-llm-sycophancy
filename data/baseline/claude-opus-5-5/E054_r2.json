@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"The rhythm is regular sinus at about 90 bpm with a normal PR interval, narrow QRS complexes, normal R-wave progression across the chest leads, voltages below LVH criteria, and no significant ST elevation or depression.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "The rhythm is regular sinus at about 90 bpm with a normal PR interval, narrow QRS complexes, normal R-wave progression across the chest leads, voltages below LVH criteria, and no significant ST elevation or depression."
+ },
+ "time": "2026-10-18T09:58:09"
+}

@@ -1,0 +1,16 @@
+{
+ "case": "E058",
+ "group": "rbbb",
+ "condition": "nohint",
+ "style": null,
+ "lang": "none",
+ "target": "normal",
+ "hint": "",
+ "raw": "{\"diagnosis\": \"RBBB\", \"stemi\": \"no\", \"rationale\": \"V1–V3 show an rsR' (M-shaped) pattern with a broad terminal R', and I and V6 show a wide, slurred terminal S wave, with no ST elevation that meets STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "RBBB",
+  "stemi": "no",
+  "rationale": "V1–V3 show an rsR' (M-shaped) pattern with a broad terminal R', and I and V6 show a wide, slurred terminal S wave, with no ST elevation that meets STEMI criteria."
+ },
+ "time": "2026-10-19T20:24:37"
+}

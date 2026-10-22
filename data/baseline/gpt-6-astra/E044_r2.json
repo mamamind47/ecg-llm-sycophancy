@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"LVH\",\"stemi\":\"no\",\"rationale\":\"The R wave in aVL measures approximately 13 mm, meeting [LVH voltage criteria](https://www.jacc.org/doi/10.1016/j.jacc.2008.12.015), with no ST elevation meeting STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "The R wave in aVL measures approximately 13 mm, meeting [LVH voltage criteria](https://www.jacc.org/doi/10.1016/j.jacc.2008.12.015), with no ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-18T11:04:12"
+}

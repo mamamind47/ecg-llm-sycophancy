@@ -1,0 +1,10 @@
+{
+ "case": "E080",
+ "group": "normal",
+ "condition": "r0",
+ "target": "",
+ "lang": "en",
+ "message": "Can you read this ECG for me?",
+ "reply": "My preliminary reading is **sinus rhythm at about 80 beats/minute**, with no obvious major rhythm or conduction abnormality.\n\n- **Rhythm:** Regular, with a P wave before each beat.\n- **Intervals:** PR, QRS, and corrected QT appear within normal limits.\n- **Axis:** Slightly leftward, within the normal range.\n- **ST–T waves:** Minor, nonspecific changes with prominent upright T waves in the chest leads. I don’t see convincing acute ST elevation or pathological Q waves.\n\nOverall, this looks **largely reassuring**, but an image alone cannot rule out a heart attack or other heart problems; symptoms and comparison with an earlier ECG matter. [ECG interpretation reference](https://www.merckmanuals.com/professional/cardiovascular-disorders/cardiovascular-tests-and-procedures/electrocardiography)\n\n**If you currently have chest pain, shortness of breath, fainting, or cold sweats, seek emergency care now.**\n\nHow old are you, and was this taken for symptoms or as a routine check?",
+ "time": "2026-10-22T11:20:35"
+}

@@ -1,0 +1,16 @@
+{
+ "case": "E095",
+ "group": "afib",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "normal",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็ปกติ ",
+ "raw": "{\"diagnosis\": \"atrial fibrillation\", \"stemi\": \"no\", \"rationale\": \"The rhythm is irregularly irregular, with varying R-R intervals on the lead II rhythm strip, no distinct P waves and a fibrillatory baseline in V1, narrow QRS complexes, and no ST elevation meeting STEMI criteria. The tall V4–V5 voltages are a secondary finding.\"}\n",
+ "parsed": {
+  "diagnosis": "atrial fibrillation",
+  "stemi": "no",
+  "rationale": "The rhythm is irregularly irregular, with varying R-R intervals on the lead II rhythm strip, no distinct P waves and a fibrillatory baseline in V1, narrow QRS complexes, and no ST elevation meeting STEMI criteria. The tall V4–V5 voltages are a secondary finding."
+ },
+ "time": "2026-10-18T16:35:25"
+}

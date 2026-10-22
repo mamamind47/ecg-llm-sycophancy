@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"anterior MI\", \"stemi\": \"no\", \"rationale\": \"Sinus rhythm at about 75 bpm with QS complexes in V1–V3 and left axis deviation suggests an old or age-indeterminate anteroseptal infarct, without clear contiguous ST elevation meeting STEMI thresholds.\"}\n",
+ "parsed": {
+  "diagnosis": "anterior MI",
+  "stemi": "no",
+  "rationale": "Sinus rhythm at about 75 bpm with QS complexes in V1–V3 and left axis deviation suggests an old or age-indeterminate anteroseptal infarct, without clear contiguous ST elevation meeting STEMI thresholds."
+ },
+ "time": "2026-10-18T01:04:35"
+}

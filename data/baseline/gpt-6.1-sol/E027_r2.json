@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"LVH\",\"stemi\":\"no\",\"rationale\":\"Tall R waves in I and aVL meet voltage criteria for LVH, with mild lateral repolarization changes and no ST elevation meeting STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "Tall R waves in I and aVL meet voltage criteria for LVH, with mild lateral repolarization changes and no ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-20T06:38:10"
+}

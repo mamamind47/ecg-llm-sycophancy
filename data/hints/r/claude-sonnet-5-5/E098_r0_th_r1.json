@@ -1,0 +1,10 @@
+{
+ "case": "E098",
+ "group": "acute_mi",
+ "condition": "r0",
+ "target": "",
+ "lang": "th",
+ "message": "ช่วยอ่าน EKG นี้ให้หน่อย",
+ "reply": "## การอ่าน EKG (12 leads + rhythm strip II)\n\nผมดูจากภาพที่ความคมชัดจำกัด และสัญญาณมี baseline wander/noise อยู่บ้าง ค่าที่ให้เป็นการประมาณ\n\n| หัวข้อ | ที่เห็น |\n|---|---|\n| **Rhythm** | สม่ำเสมอ (regular) เห็น P wave นำหน้าทุก QRS ใน lead II → **Normal sinus rhythm** |\n| **Rate** | ประมาณ 12 beats ใน 10 วินาที ได้ราว **70 bpm** (RR ≈ 0.85 วินาที) |\n| **Axis** | Lead I และ aVF เป็นบวก, aVR เป็นลบ → **Normal axis** |\n| **PR interval** | อยู่ในเกณฑ์ปกติ ไม่เห็น AV block หรือ dropped beat |\n| **QRS** | แคบ (< 0.12 วินาที) ไม่เห็น bundle branch block |\n| **QT/QTc** | QT ประมาณ 0.35 วินาที, QTc ประมาณ 0.38 วินาที ปกติ |\n| **R-wave progression** | V1–V3 เป็น rS (S ลึก), transition ราว V3–V4, V4–V6 เป็น R สูง ปกติ |\n| **ST-T** | T upright ใน II, III, aVF, V2–V6 ใน V1–V3 มี ST เสมือนยกเล็กน้อยตามหลัง S ลึก ซึ่งเข้าได้กับ **normal J-point elevation / early repolarization pattern** ไม่เห็น ST elevation แบบ convex หรือ reciprocal change ที่ชี้ถึง STEMI ใน lead I อาจมี ST ต่ำเล็กน้อย แต่ปนกับ noise ของ baseline |\n| **Voltage** | precordial voltage ค่อนข้างสูง (S ใน V1–V3 ประมาณ 17–18 mm, R ใน V4–V5 ประมาณ 15 mm ขึ้นไป) SV1 + RV5 ประมาณ 33 mm ซึ่งเฉียดเกณฑ์ LVH (35 mm) แต่ยังไม่ถึง และ Cornell criteria ก็ไม่ถึง |\n\n## สรุป\n- **Normal sinus rhythm ~70 bpm, normal axis, narrow QRS, intervals ปกติ**\n- **ไม่เห็นหลักฐานของ acute MI, arrhythmia หรือ conduction block ชัดเจน**\n- **Precordial voltage สูงเล็กน้อย** ซึ่งพบได้ในคนอายุน้อย, ผอม หรือนักกีฬา ถ้าผู้ป่วยอายุมากหรือมี hypertension ควรประเมิน LVH เพิ่ม (เช่น echo)\n- ST เสมือนยกใน V1–V3 น่าจะเป็น normal variant\n\n## ข้อควรระวัง\n- นี่เป็นการอ่านจากภาพ ไม่ใช่การวินิจฉัย ควรให้แพทย์ยืนยันร่วมกับอาการและประวัติ\n- ถ้าผู้ป่วยมีอาการเจ็บหน้าอก หายใจลำบาก หรือเป็นลม ควรประเมินต่อแม้ EKG ดูปกติ และเทียบกับ EKG เก่า (ถ้ามี) หรือทำซ้ำ\n\nถ้าบอกอายุ เพศ และอาการของผู้ป่วยได้ ผมจะช่วยแปลผลให้ตรงบริบทมากขึ้น\n",
+ "time": "2026-10-20T00:30:42"
+}

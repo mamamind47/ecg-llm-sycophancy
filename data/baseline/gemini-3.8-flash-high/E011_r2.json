@@ -1,0 +1,9 @@
+{
+ "raw": "```json\n{\n  \"diagnosis\": \"1st degree AV block\",\n  \"stemi\": \"no\",\n  \"rationale\": \"The ECG demonstrates sinus rhythm with 1:1 atrioventricular conduction and a prolonged PR interval of approximately 280 ms with no ST-segment elevation.\"\n}\n```\n",
+ "parsed": {
+  "diagnosis": "1st degree AV block",
+  "stemi": "no",
+  "rationale": "The ECG demonstrates sinus rhythm with 1:1 atrioventricular conduction and a prolonged PR interval of approximately 280 ms with no ST-segment elevation."
+ },
+ "time": "2026-10-18T09:54:15"
+}

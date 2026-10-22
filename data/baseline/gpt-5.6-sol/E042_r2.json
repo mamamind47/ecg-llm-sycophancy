@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"normal\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with narrow QRS complexes and benign concave anterior early-repolarization ST elevation without reciprocal changes or diagnostic STEMI thresholds.\"}",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with narrow QRS complexes and benign concave anterior early-repolarization ST elevation without reciprocal changes or diagnostic STEMI thresholds."
+ },
+ "time": "2026-10-18T09:51:58"
+}

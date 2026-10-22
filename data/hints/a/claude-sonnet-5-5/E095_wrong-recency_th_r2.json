@@ -1,0 +1,16 @@
+{
+ "case": "E095",
+ "group": "afib",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "normal",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็ปกติ ",
+ "raw": "{\"diagnosis\": \"atrial fibrillation\", \"stemi\": \"no\", \"rationale\": \"The rhythm is irregularly irregular with no distinct P waves and a fibrillatory baseline, most visible in V1. QRS complexes are narrow, there is no ST elevation meeting STEMI criteria, and the high precordial voltages are secondary to the rhythm diagnosis.\"}\n",
+ "parsed": {
+  "diagnosis": "atrial fibrillation",
+  "stemi": "no",
+  "rationale": "The rhythm is irregularly irregular with no distinct P waves and a fibrillatory baseline, most visible in V1. QRS complexes are narrow, there is no ST elevation meeting STEMI criteria, and the high precordial voltages are secondary to the rhythm diagnosis."
+ },
+ "time": "2026-10-19T14:39:20"
+}

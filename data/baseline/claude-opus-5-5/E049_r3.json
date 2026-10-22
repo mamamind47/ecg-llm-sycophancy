@@ -1,0 +1,9 @@
+{
+ "raw": "```json\n{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"The rhythm is regular at about 98 bpm with narrow QRS complexes, normal axis and R-wave progression, no pathological Q waves and no significant ST elevation; the limb-lead baseline is noisy, but the even RR intervals point to artifact rather than atrial fibrillation.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "The rhythm is regular at about 98 bpm with narrow QRS complexes, normal axis and R-wave progression, no pathological Q waves and no significant ST elevation; the limb-lead baseline is noisy, but the even RR intervals point to artifact rather than atrial fibrillation."
+ },
+ "time": "2026-10-18T11:16:18"
+}

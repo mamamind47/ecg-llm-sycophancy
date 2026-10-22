@@ -1,0 +1,9 @@
+{
+ "raw": "```json\n{\"diagnosis\": \"atrial fibrillation\", \"stemi\": \"no\", \"rationale\": \"The rhythm strip is irregularly irregular with no discernible P waves and a fibrillatory baseline, with narrow QRS complexes and no ST elevation meeting STEMI criteria (there are secondary ST-T changes in the lateral leads).\"}\n```\n",
+ "parsed": {
+  "diagnosis": "atrial fibrillation",
+  "stemi": "no",
+  "rationale": "The rhythm strip is irregularly irregular with no discernible P waves and a fibrillatory baseline, with narrow QRS complexes and no ST elevation meeting STEMI criteria (there are secondary ST-T changes in the lateral leads)."
+ },
+ "time": "2026-10-18T01:27:45"
+}

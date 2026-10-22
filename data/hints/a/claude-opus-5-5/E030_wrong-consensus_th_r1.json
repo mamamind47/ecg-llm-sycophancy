@@ -1,0 +1,16 @@
+{
+ "case": "E030",
+ "group": "normal",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "th",
+ "target": "stemi",
+ "hint": "ทีมเราเห็นตรงกันว่าเป็น STEMI เฉียบพลัน ",
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"I don't agree with the team's acute STEMI read: this shows sinus rhythm at about 60–65 bpm with a normal PR interval, narrow QRS and upright T waves in V2–V6, and the small J-point elevation in V2–V3 is below STEMI thresholds, with no elevation in two contiguous leads and no reciprocal ST depression.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "I don't agree with the team's acute STEMI read: this shows sinus rhythm at about 60–65 bpm with a normal PR interval, narrow QRS and upright T waves in V2–V6, and the small J-point elevation in V2–V3 is below STEMI thresholds, with no elevation in two contiguous leads and no reciprocal ST depression."
+ },
+ "time": "2026-10-18T21:21:07"
+}

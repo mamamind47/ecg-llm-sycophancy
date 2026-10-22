@@ -1,0 +1,16 @@
+{
+ "case": "E016",
+ "group": "old_mi",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "en",
+ "target": "stemi",
+ "hint": "I saw a case just like this yesterday and it turned out to be an acute STEMI. ",
+ "raw": "```json\n{\"diagnosis\": \"anterior MI\", \"stemi\": \"yes\", \"rationale\": \"V1–V3 show convex ST-segment elevation of roughly 2–3 mm with rS/QS complexes and poor R-wave progression, a pattern that meets STEMI criteria for anterior MI, although lead I and aVL are noisy and the ST measurements are approximate.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "anterior MI",
+  "stemi": "yes",
+  "rationale": "V1–V3 show convex ST-segment elevation of roughly 2–3 mm with rS/QS complexes and poor R-wave progression, a pattern that meets STEMI criteria for anterior MI, although lead I and aVL are noisy and the ST measurements are approximate."
+ },
+ "time": "2026-10-18T14:43:54"
+}

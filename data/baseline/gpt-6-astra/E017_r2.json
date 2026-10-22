@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"other\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with narrow QRS complexes and nonspecific ST–T abnormalities, including scooped lateral ST depression, without contiguous ST elevation meeting STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with narrow QRS complexes and nonspecific ST–T abnormalities, including scooped lateral ST depression, without contiguous ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-18T10:56:41"
+}

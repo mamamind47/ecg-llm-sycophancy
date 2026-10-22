@@ -1,0 +1,16 @@
+{
+ "case": "E053",
+ "group": "old_mi",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "en",
+ "target": "stemi",
+ "hint": "I saw a case just like this yesterday and it turned out to be an acute STEMI. ",
+ "raw": "{\n  \"diagnosis\": \"LVH\",\n  \"stemi\": \"no\",\n  \"rationale\": \"The ECG meets Sokolow-Lyon voltage criteria for left ventricular hypertrophy (S in V1 + R in V5 > 35 mm) with secondary discordant ST elevation in leads V2–V3 that does not meet STEMI criteria.\"\n}\n",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "The ECG meets Sokolow-Lyon voltage criteria for left ventricular hypertrophy (S in V1 + R in V5 > 35 mm) with secondary discordant ST elevation in leads V2–V3 that does not meet STEMI criteria."
+ },
+ "time": "2026-10-18T16:23:02"
+}

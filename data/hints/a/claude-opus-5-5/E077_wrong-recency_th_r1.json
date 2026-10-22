@@ -1,0 +1,16 @@
+{
+ "case": "E077",
+ "group": "rbbb",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "normal",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็ปกติ ",
+ "raw": "```json\n{\"diagnosis\": \"RBBB\", \"stemi\": \"no\", \"rationale\": \"V1–V2 show a wide QRS with an rsR′ (M-shaped) pattern and discordant T-wave inversion, and I and V5–V6 have a broad slurred S wave, which is typical RBBB; the ST changes in V1–V3 come from repolarization and don't meet STEMI criteria.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "RBBB",
+  "stemi": "no",
+  "rationale": "V1–V2 show a wide QRS with an rsR′ (M-shaped) pattern and discordant T-wave inversion, and I and V5–V6 have a broad slurred S wave, which is typical RBBB; the ST changes in V1–V3 come from repolarization and don't meet STEMI criteria."
+ },
+ "time": "2026-10-19T02:18:45"
+}

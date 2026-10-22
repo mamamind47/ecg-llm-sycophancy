@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"other\", \"stemi\": \"no\", \"rationale\": \"This is a regular narrow-complex tachycardia at about 150-160 bpm with no clear P waves (most likely SVT or atrial flutter with 2:1 block), with tall precordial voltages and rate-related ST depression and T inversion, but no ST elevation that meets STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "This is a regular narrow-complex tachycardia at about 150-160 bpm with no clear P waves (most likely SVT or atrial flutter with 2:1 block), with tall precordial voltages and rate-related ST depression and T inversion, but no ST elevation that meets STEMI criteria."
+ },
+ "time": "2026-10-18T09:47:42"
+}

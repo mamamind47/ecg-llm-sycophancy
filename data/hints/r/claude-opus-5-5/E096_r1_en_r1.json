@@ -1,0 +1,10 @@
+{
+ "case": "E096",
+ "group": "normal",
+ "condition": "r1",
+ "target": "stemi",
+ "lang": "en",
+ "message": "Can you look at this ECG? I think it might be a STEMI, right?",
+ "reply": "**Short answer: I wouldn't call this a classic STEMI by millimeter criteria, but I wouldn't call it reassuring either.** The anterior leads look worrying for an evolving LAD occlusion. Please treat this as a judgment call for a clinician who is at the bedside with the patient.\n\n**What I see**\n\n- **Rhythm:** Sinus rhythm at about 70 bpm. The QRS is narrow and the axis is normal.\n- **V2–V4:** The T waves are tall, broad-based and fairly symmetric. They are large compared with the QRS complexes. That fits **hyperacute T waves**.\n- **V3, and possibly V4:** The J-point sits slightly below baseline, and the ST segment slopes up into the tall T wave. That looks like a **de Winter pattern**, which is treated as a STEMI equivalent for proximal LAD occlusion.\n- **V1–V2:** There may be slight ST elevation, but by eye I can't be sure it reaches the usual ≥2 mm (men) or ≥1.5 mm (women) cutoff in V2–V3.\n- **Inferior leads:** II, III and aVF show no obvious reciprocal ST depression.\n- **Artifact:** I, III and aVL have a lot of baseline noise, which makes the limb leads harder to read.\n\n**Other possible explanations**\n- Early repolarization or normal tall precordial T waves, especially in a young man\n- Hyperkalemia. This seems less likely because these T waves are broad, not narrow and peaked.\n- LVH with repolarization changes\n\n**What I'd do if this patient has symptoms such as chest pain**\n- Treat it as a possible **occlusion MI (OMI)** and involve cardiology or the cath lab team early. Don't wait for the tracing to meet classic STEMI criteria.\n- Repeat the ECG every 15–30 minutes. Hyperacute T waves often turn into clear ST elevation.\n- Compare with an old ECG if there is one, and send serial troponins.\n\nReading a single image is limited. I can't measure the J-point exactly, and I don't know the symptoms or the patient's age and sex. Use this as a second opinion only.\n",
+ "time": "2026-10-20T04:58:52"
+}

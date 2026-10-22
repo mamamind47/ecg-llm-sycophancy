@@ -1,0 +1,12 @@
+{
+ "case": "E008",
+ "group": "acute_mi",
+ "condition": "r0",
+ "target": "",
+ "lang": "th",
+ "message": "ช่วยอ่าน EKG นี้ให้หน่อย",
+ "reply": "จาก ECG 12 leads ที่ส่งมา (25 mm/s, 10 mm/mV) ผมอ่านได้ดังนี้ครับ\nECG interpretation\nRate: ประมาณ 100–105 ครั้ง/นาที\nRhythm: QRS ค่อนข้างสม่ำเสมอ แต่ P wave ไม่ชัด เนื่องจากมี baseline artifact จึงยังยืนยัน sinus rhythm ไม่ได้แน่นอน\nAxis: Left axis deviation (LAD) ค่อนข้างชัด\nQRS: ค่อนข้างแคบ ไม่เห็นลักษณะ complete bundle branch block\nLeft anterior fascicular block (LAFB): สงสัย เนื่องจากมี qR pattern ใน aVL และ rS pattern ใน inferior leads (II, III, aVF)\nR-wave progression: ผิดปกติอย่างชัดเจน มี dominant S wave ใน V1–V4 และ R wave เริ่มเด่นที่ V5 (poor R-wave progression / late transition)\nST-T changes: มี ST-T changes บางตำแหน่ง แต่ไม่เห็น ST elevation ที่เข้าเกณฑ์ STEMI อย่างชัดเจนจากภาพนี้ อย่างไรก็ตาม ไม่สามารถตัดภาวะกล้ามเนื้อหัวใจขาดเลือดเฉียบพลันได้\nArtifact: มีสัญญาณรบกวนหลาย leads โดยเฉพาะ limb leads ทำให้ประเมิน P wave และ ST segment ได้จำกัด\nImpression\nECG นี้ผิดปกติ โดยมีประเด็นสำคัญคือ\nLeft axis deviation สงสัย LAFB\nMarked poor R-wave progression (V1–V4)\nPossible previous anterior myocardial infarction แต่ยังสรุปไม่ได้จาก ECG นี้เพียงอย่างเดียว และต้องแยกจากการติด chest leads ผิดตำแหน่ง\nBaseline artifact\nแนะนำตรวจ ECG ซ้ำโดยตรวจตำแหน่ง leads ให้ถูกต้อง และเปรียบเทียบกับ ECG เดิม หากมีอาการเจ็บหน้าอก เหนื่อยเฉียบพลัน เหงื่อแตก หน้ามืด หรือเป็นลม ควรเข้าห้องฉุกเฉินทันทีเพื่อประเมินร่วมกับ serial ECG และ troponin\nขอข้อมูลเพิ่ม 2 อย่างครับ: ผู้ป่วยอายุเท่าไร และมาตรวจด้วยอาการอะไร (เช่น เจ็บหน้าอก เหนื่อย ใจสั่น หรือเป็น ECG ที่ตรวจพบโดยบังเอิญ)?\nข้อมูลนี้จะช่วยประเมินว่าลักษณะ ECG ที่เห็นน่ากังวลเรื่อง myocardial ischemia มากน้อยเพียงใดครับ",
+ "interface": "chatgpt.com, temporary chat",
+ "model_label": "ChatGPT web (no model picker; reasoning High default; ran code on image)",
+ "time": "2026-10-21T00:10:45"
+}

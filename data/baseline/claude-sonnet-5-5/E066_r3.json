@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"LVH\", \"stemi\": \"no\", \"rationale\": \"The ECG shows very tall R waves in aVL, I, V5 and V6 and very deep S waves in V1–V3, so the voltage criteria for LVH are met. There is also left axis deviation and a strain pattern (ST depression and T inversion in I and aVL). The ST elevation in V1–V3 is discordant to the deep S waves, which is expected with LVH, and there is no reciprocal pattern to suggest STEMI.\"}\n",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "The ECG shows very tall R waves in aVL, I, V5 and V6 and very deep S waves in V1–V3, so the voltage criteria for LVH are met. There is also left axis deviation and a strain pattern (ST depression and T inversion in I and aVL). The ST elevation in V1–V3 is discordant to the deep S waves, which is expected with LVH, and there is no reciprocal pattern to suggest STEMI."
+ },
+ "time": "2026-10-18T11:15:21"
+}

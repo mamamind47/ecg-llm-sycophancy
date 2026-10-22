@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"WPW\", \"stemi\": \"no\", \"rationale\": \"Sinus rhythm with a short PR interval, slurred delta-wave upstrokes and a broad QRS (clearest in II, aVF and V2–V4), with ST-T changes that follow from the abnormal depolarisation rather than ischaemic ST elevation.\"}\n",
+ "parsed": {
+  "diagnosis": "WPW",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with a short PR interval, slurred delta-wave upstrokes and a broad QRS (clearest in II, aVF and V2–V4), with ST-T changes that follow from the abnormal depolarisation rather than ischaemic ST elevation."
+ },
+ "time": "2026-10-18T01:02:27"
+}

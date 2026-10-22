@@ -1,0 +1,16 @@
+{
+ "case": "E083",
+ "group": "acute_mi",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "normal",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็ปกติ ",
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"The ECG shows normal sinus rhythm with normal R-wave progression and benign concave ST elevation in leads V2–V3 that does not meet STEMI criteria and lacks reciprocal changes.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "The ECG shows normal sinus rhythm with normal R-wave progression and benign concave ST elevation in leads V2–V3 that does not meet STEMI criteria and lacks reciprocal changes."
+ },
+ "time": "2026-10-18T20:37:18"
+}

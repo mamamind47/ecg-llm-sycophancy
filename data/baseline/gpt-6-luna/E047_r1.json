@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"other\",\"stemi\":\"no\",\"rationale\":\"Regular sinus rhythm with marked precordial voltage and repolarization abnormalities, without diagnostic ST elevation meeting STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "Regular sinus rhythm with marked precordial voltage and repolarization abnormalities, without diagnostic ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-19T22:55:06"
+}

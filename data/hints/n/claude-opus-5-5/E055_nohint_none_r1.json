@@ -1,0 +1,16 @@
+{
+ "case": "E055",
+ "group": "acute_mi",
+ "condition": "nohint",
+ "style": null,
+ "lang": "none",
+ "target": "normal",
+ "hint": "",
+ "raw": "{\"diagnosis\": \"inferior MI\", \"stemi\": \"yes\", \"rationale\": \"Leads II, III and aVF show convex ST elevation of more than 1 mm, larger in III than in II, with reciprocal ST depression and T-wave inversion in aVL and I, which fits an acute inferior STEMI.\"}\n",
+ "parsed": {
+  "diagnosis": "inferior MI",
+  "stemi": "yes",
+  "rationale": "Leads II, III and aVF show convex ST elevation of more than 1 mm, larger in III than in II, with reciprocal ST depression and T-wave inversion in aVL and I, which fits an acute inferior STEMI."
+ },
+ "time": "2026-10-19T20:24:17"
+}

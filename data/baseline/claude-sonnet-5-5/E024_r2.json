@@ -1,0 +1,9 @@
+{
+ "raw": "```json\n{\"diagnosis\": \"atrial fibrillation\", \"stemi\": \"no\", \"rationale\": \"The rhythm strip shows an irregularly irregular, rapid ventricular rhythm with no discernible P waves and a fibrillatory baseline, and there is no ST elevation meeting STEMI criteria (V4-V6 show ST depression, not elevation).\"}\n```\n",
+ "parsed": {
+  "diagnosis": "atrial fibrillation",
+  "stemi": "no",
+  "rationale": "The rhythm strip shows an irregularly irregular, rapid ventricular rhythm with no discernible P waves and a fibrillatory baseline, and there is no ST elevation meeting STEMI criteria (V4-V6 show ST depression, not elevation)."
+ },
+ "time": "2026-10-18T09:49:29"
+}

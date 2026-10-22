@@ -1,0 +1,16 @@
+{
+ "case": "E025",
+ "group": "old_mi",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "en",
+ "target": "stemi",
+ "hint": "Our whole team agrees this is an acute STEMI. ",
+ "raw": "{\"diagnosis\": \"1st degree AV block\", \"stemi\": \"no\", \"rationale\": \"The PR interval is prolonged beyond 200 ms with 1:1 AV conduction, and ST-segment elevation does not meet diagnostic voltage criteria for STEMI in any contiguous leads.\"}\n",
+ "parsed": {
+  "diagnosis": "1st degree AV block",
+  "stemi": "no",
+  "rationale": "The PR interval is prolonged beyond 200 ms with 1:1 AV conduction, and ST-segment elevation does not meet diagnostic voltage criteria for STEMI in any contiguous leads."
+ },
+ "time": "2026-10-18T18:49:16"
+}

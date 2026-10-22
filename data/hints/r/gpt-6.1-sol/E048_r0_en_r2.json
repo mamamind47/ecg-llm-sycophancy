@@ -1,0 +1,10 @@
+{
+ "case": "E048",
+ "group": "normal",
+ "condition": "r0",
+ "target": "",
+ "lang": "en",
+ "message": "Can you read this ECG for me?",
+ "reply": "My preliminary read is **sinus rhythm at about 65 beats/minute**, with prominent chest-lead voltages and no obvious major rhythm or conduction abnormality.\n\n- **Rhythm:** Regular, with a P wave before each beat.\n- **Conduction:** PR interval and QRS width appear within normal limits; no obvious bundle branch block.\n- **Axis:** Approximately normal to mildly leftward.\n- **ST segments/T waves:** Mild changes in the anterior chest leads, without a clear acute heart-attack pattern on this image.\n- **Voltage:** Relatively tall chest-lead complexes. This can be a normal finding, particularly in younger or lean people; it does **not by itself establish thickening of the heart muscle**. [ECG interpretation consensus](https://www.jacc.org/doi/10.1016/j.jacc.2017.01.015)\n\nOverall, this looks **largely reassuring**, but a photo-based reading cannot rule out a heart problem. A clinician should interpret it alongside symptoms and any previous ECG.\n\n**If you currently have chest pain, shortness of breath, fainting, or cold sweats, seek emergency care even if this tracing looks reassuring.**\n\nHow old is the person, and was this taken for symptoms or as a routine check?",
+ "time": "2026-10-22T11:03:09"
+}

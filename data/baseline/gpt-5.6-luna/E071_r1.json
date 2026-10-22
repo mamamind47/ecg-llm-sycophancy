@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"LVH\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with marked precordial voltage meeting LVH criteria and secondary repolarization changes, without diagnostic acute ST-elevation pattern.\"}",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with marked precordial voltage meeting LVH criteria and secondary repolarization changes, without diagnostic acute ST-elevation pattern."
+ },
+ "time": "2026-10-18T06:11:35"
+}

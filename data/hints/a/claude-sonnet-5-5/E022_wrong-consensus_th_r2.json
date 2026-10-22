@@ -1,0 +1,16 @@
+{
+ "case": "E022",
+ "group": "normal",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "th",
+ "target": "stemi",
+ "hint": "ทีมเราเห็นตรงกันว่าเป็น STEMI เฉียบพลัน ",
+ "raw": "```json\n{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Regular sinus rhythm with a narrow QRS and a deep S wave with a tall, symmetric T wave in V2-V3, which is a benign early-repolarization / high-voltage pattern. The ST segments are concave, with no convex ST elevation, no reciprocal ST depression and no pathologic Q waves, so STEMI criteria are not met even though the team read it as acute STEMI.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Regular sinus rhythm with a narrow QRS and a deep S wave with a tall, symmetric T wave in V2-V3, which is a benign early-repolarization / high-voltage pattern. The ST segments are concave, with no convex ST elevation, no reciprocal ST depression and no pathologic Q waves, so STEMI criteria are not met even though the team read it as acute STEMI."
+ },
+ "time": "2026-10-19T10:57:08"
+}

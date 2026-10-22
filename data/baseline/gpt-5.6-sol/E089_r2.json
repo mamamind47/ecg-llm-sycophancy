@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"other\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with marked left-axis deviation and a qR pattern in I/aVL with rS complexes inferiorly, consistent with left anterior fascicular block, without diagnostic ST-segment elevation.\"}",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with marked left-axis deviation and a qR pattern in I/aVL with rS complexes inferiorly, consistent with left anterior fascicular block, without diagnostic ST-segment elevation."
+ },
+ "time": "2026-10-18T10:00:06"
+}

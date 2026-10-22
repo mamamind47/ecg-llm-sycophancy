@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"anterior MI\", \"stemi\": \"no\", \"rationale\": \"Sinus rhythm with narrow QRS complexes, QS complexes in V1–V3 and a deep rS in V4 showing loss of anterior R waves (consistent with an old or evolving anteroseptal infarct), without ST elevation that clearly meets STEMI voltage thresholds in two contiguous leads.\"}\n",
+ "parsed": {
+  "diagnosis": "anterior MI",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with narrow QRS complexes, QS complexes in V1–V3 and a deep rS in V4 showing loss of anterior R waves (consistent with an old or evolving anteroseptal infarct), without ST elevation that clearly meets STEMI voltage thresholds in two contiguous leads."
+ },
+ "time": "2026-10-18T10:07:58"
+}

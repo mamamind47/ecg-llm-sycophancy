@@ -1,0 +1,8 @@
+{
+ "raw": "{\"diagnosis\":\"LVH\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with markedly increased precordial voltage and secondary discordant ST-T changes consistent with LVH strain, without diagnostic STEMI-pattern ST elevation.\"}",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with markedly increased precordial voltage and secondary discordant ST-T changes consistent with LVH strain, without diagnostic STEMI-pattern ST elevation."
+ }
+}

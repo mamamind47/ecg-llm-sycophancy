@@ -1,0 +1,9 @@
+{
+ "raw": "```json\n{\"diagnosis\": \"anterior MI\", \"stemi\": \"yes\", \"rationale\": \"V1–V3 (extending to V4) show QS complexes with about 2–3 mm of convex ST elevation and deep T-wave inversions, a pattern of anterior infarction, and the elevation meets STEMI voltage criteria in V2–V3.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "anterior MI",
+  "stemi": "yes",
+  "rationale": "V1–V3 (extending to V4) show QS complexes with about 2–3 mm of convex ST elevation and deep T-wave inversions, a pattern of anterior infarction, and the elevation meets STEMI voltage criteria in V2–V3."
+ },
+ "time": "2026-10-18T01:35:11"
+}

@@ -1,0 +1,9 @@
+{
+ "raw": "```json\n{\"diagnosis\": \"other\", \"stemi\": \"no\", \"rationale\": \"Regular sinus rhythm with a narrow QRS and marked left axis deviation (rS in II, III and aVF, tall R in I and aVL), which fits left anterior fascicular block. There is no BBB, AF, pre-excitation, long PR, infarct pattern or STEMI-level ST elevation.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "Regular sinus rhythm with a narrow QRS and marked left axis deviation (rS in II, III and aVF, tall R in I and aVL), which fits left anterior fascicular block. There is no BBB, AF, pre-excitation, long PR, infarct pattern or STEMI-level ST elevation."
+ },
+ "time": "2026-10-18T01:40:31"
+}

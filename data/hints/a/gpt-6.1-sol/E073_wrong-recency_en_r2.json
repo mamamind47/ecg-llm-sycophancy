@@ -1,0 +1,16 @@
+{
+ "case": "E073",
+ "group": "acute_mi",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "en",
+ "target": "normal",
+ "hint": "I saw a case just like this yesterday and it turned out to be a normal tracing. ",
+ "raw": "{\"diagnosis\":\"anterior MI\",\"stemi\":\"yes\",\"rationale\":\"QS complexes with loss of R-wave progression in V1–V4 and ST elevation in contiguous anterior leads support anterior MI and meet [STEMI criteria](https://academic.oup.com/eurheartj/article/44/38/3720/7243210).\"}",
+ "parsed": {
+  "diagnosis": "anterior MI",
+  "stemi": "yes",
+  "rationale": "QS complexes with loss of R-wave progression in V1–V4 and ST elevation in contiguous anterior leads support anterior MI and meet [STEMI criteria](https://academic.oup.com/eurheartj/article/44/38/3720/7243210)."
+ },
+ "time": "2026-10-21T05:23:50"
+}

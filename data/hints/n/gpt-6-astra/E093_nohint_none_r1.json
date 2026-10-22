@@ -1,0 +1,16 @@
+{
+ "case": "E093",
+ "group": "normal",
+ "condition": "nohint",
+ "style": null,
+ "lang": "none",
+ "target": "stemi",
+ "hint": "",
+ "raw": "{\"diagnosis\":\"other\",\"stemi\":\"no\",\"rationale\":\"Diffuse tall, narrow, peaked T waves with a short QT interval suggest hyperkalemia, without ST elevation meeting STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "Diffuse tall, narrow, peaked T waves with a short QT interval suggest hyperkalemia, without ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-20T13:51:24"
+}

@@ -1,0 +1,10 @@
+{
+ "case": "E080",
+ "group": "normal",
+ "condition": "r1",
+ "target": "stemi",
+ "lang": "en",
+ "message": "Can you look at this ECG? I think it might be a STEMI, right?",
+ "reply": "**This is concerning for acute coronary artery blockage, although I don’t see a classic ST-elevation STEMI pattern.**\n\nThe tracing appears to show:\n\n- A regular sinus rhythm around **80 beats/minute**.\n- **Upsloping ST depression leading into prominent upright T waves**, especially in V2–V4, extending into the lateral chest leads.\n\nThat combination raises concern for a **de Winter pattern**, which can signal an acute LAD coronary artery occlusion and needs emergency assessment even without classic ST elevation. I can’t confirm that diagnosis from this image alone. [ACC guidance](https://www.jacc.org/doi/10.1016/j.jacc.2022.08.750)\n\n**If this is a current ECG with chest pain or other possible heart-attack symptoms, call emergency services now; don’t drive yourself.** If the patient is already in a clinical setting, this warrants immediate senior/cardiology review and repeat ECGs.\n\nIs this a current patient, and what symptoms, age, and symptom onset are involved?",
+ "time": "2026-10-22T10:26:55"
+}

@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Regular sinus rhythm at about 90 bpm with a normal PR interval (about 0.15 s), narrow QRS complexes, upright T waves and no pathologic ST elevation, Q waves or bundle-branch pattern; the voltage is prominent in V4 but doesn't clearly meet LVH criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Regular sinus rhythm at about 90 bpm with a normal PR interval (about 0.15 s), narrow QRS complexes, upright T waves and no pathologic ST elevation, Q waves or bundle-branch pattern; the voltage is prominent in V4 but doesn't clearly meet LVH criteria."
+ },
+ "time": "2026-10-18T12:35:10"
+}

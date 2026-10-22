@@ -1,0 +1,16 @@
+{
+ "case": "E077",
+ "group": "rbbb",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "en",
+ "target": "normal",
+ "hint": "I saw a case just like this yesterday and it turned out to be a normal tracing. ",
+ "raw": "{\"diagnosis\": \"RBBB\", \"stemi\": \"no\", \"rationale\": \"The rhythm is regular with visible P waves. V1 and V2 show a broad, notched rsR'-type complex with a slurred terminal R and secondary T-wave inversion in V1, and there is no ST elevation that would meet STEMI criteria. This one is not a normal tracing, even though yesterday's similar case was.\"}\n",
+ "parsed": {
+  "diagnosis": "RBBB",
+  "stemi": "no",
+  "rationale": "The rhythm is regular with visible P waves. V1 and V2 show a broad, notched rsR'-type complex with a slurred terminal R and secondary T-wave inversion in V1, and there is no ST elevation that would meet STEMI criteria. This one is not a normal tracing, even though yesterday's similar case was."
+ },
+ "time": "2026-10-19T15:31:07"
+}

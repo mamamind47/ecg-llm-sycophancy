@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"LBBB\",\"stemi\":\"no\",\"rationale\":\"The ECG shows a regular rhythm with broad QRS complexes demonstrating a left bundle-branch block pattern and secondary discordant ST-T changes without diagnostic STEMI-level elevation.\"}",
+ "parsed": {
+  "diagnosis": "LBBB",
+  "stemi": "no",
+  "rationale": "The ECG shows a regular rhythm with broad QRS complexes demonstrating a left bundle-branch block pattern and secondary discordant ST-T changes without diagnostic STEMI-level elevation."
+ },
+ "time": "2026-10-18T11:03:02"
+}

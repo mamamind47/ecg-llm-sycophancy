@@ -1,0 +1,16 @@
+{
+ "case": "E019",
+ "group": "normal",
+ "condition": "nohint",
+ "style": null,
+ "lang": "none",
+ "target": "stemi",
+ "hint": "",
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Regular rhythm at about 80 bpm with P waves before narrow QRS complexes and no voltage criteria for LVH; the mild concave ST elevation in V2-V4 looks like benign early repolarization, with no reciprocal changes or STEMI-level elevation.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Regular rhythm at about 80 bpm with P waves before narrow QRS complexes and no voltage criteria for LVH; the mild concave ST elevation in V2-V4 looks like benign early repolarization, with no reciprocal changes or STEMI-level elevation."
+ },
+ "time": "2026-10-19T20:19:55"
+}

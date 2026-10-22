@@ -1,0 +1,9 @@
+{
+ "raw": "```json\n{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Regular sinus rhythm at about 75 bpm with a normal PR interval, a narrow QRS and normal axis, no pathologic Q waves or bundle branch block pattern, and voltages below LVH criteria; the mild concave ST/J-point elevation in V2–V4 is a benign early-repolarization pattern that does not meet STEMI criteria.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Regular sinus rhythm at about 75 bpm with a normal PR interval, a narrow QRS and normal axis, no pathologic Q waves or bundle branch block pattern, and voltages below LVH criteria; the mild concave ST/J-point elevation in V2–V4 is a benign early-repolarization pattern that does not meet STEMI criteria."
+ },
+ "time": "2026-10-18T01:28:56"
+}

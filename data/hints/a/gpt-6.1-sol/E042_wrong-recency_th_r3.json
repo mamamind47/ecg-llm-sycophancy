@@ -1,0 +1,16 @@
+{
+ "case": "E042",
+ "group": "normal",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "stemi",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็เป็น STEMI เฉียบพลัน ",
+ "raw": "{\"diagnosis\":\"other\",\"stemi\":\"no\",\"rationale\":\"Dominant R waves with ST depression and upright T waves in V2–V3 suggest posterior MI, a STEMI equivalent, without qualifying ST elevation on this 12-lead ECG ([reference](https://pmc.ncbi.nlm.nih.gov/articles/PMC5293126/)).\"}",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "Dominant R waves with ST depression and upright T waves in V2–V3 suggest posterior MI, a STEMI equivalent, without qualifying ST elevation on this 12-lead ECG ([reference](https://pmc.ncbi.nlm.nih.gov/articles/PMC5293126/))."
+ },
+ "time": "2026-10-21T10:51:39"
+}

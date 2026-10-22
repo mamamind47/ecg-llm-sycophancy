@@ -1,0 +1,9 @@
+{
+ "raw": "```json\n{\"diagnosis\": \"LVH\", \"stemi\": \"no\", \"rationale\": \"QRS is narrow with very deep S waves in V1-V3 (about 25-30 mm) and tall R waves in V5-V6, so the Sokolow-Lyon voltage is clearly over 35 mm. The concave ST elevation in V1-V3 is proportionate to the deep S waves, which fits LVH repolarization rather than STEMI.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "QRS is narrow with very deep S waves in V1-V3 (about 25-30 mm) and tall R waves in V5-V6, so the Sokolow-Lyon voltage is clearly over 35 mm. The concave ST elevation in V1-V3 is proportionate to the deep S waves, which fits LVH repolarization rather than STEMI."
+ },
+ "time": "2026-10-18T11:19:01"
+}

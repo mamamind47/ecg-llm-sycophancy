@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"inferior MI\", \"stemi\": \"yes\", \"rationale\": \"Leads II, III and aVF show pathological Q/QS waves with marked convex ST elevation (greater in III than II, well over 1 mm in contiguous leads), and aVL has the reciprocal ST depression, which together indicate an acute inferior STEMI.\"}\n",
+ "parsed": {
+  "diagnosis": "inferior MI",
+  "stemi": "yes",
+  "rationale": "Leads II, III and aVF show pathological Q/QS waves with marked convex ST elevation (greater in III than II, well over 1 mm in contiguous leads), and aVL has the reciprocal ST depression, which together indicate an acute inferior STEMI."
+ },
+ "time": "2026-10-18T10:00:13"
+}

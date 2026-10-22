@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"atrial fibrillation\", \"stemi\": \"no\", \"rationale\": \"The ECG demonstrates an irregularly irregular rhythm with fibrillatory baseline activity, absent P waves, and no diagnostic ST-segment elevation meeting STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "atrial fibrillation",
+  "stemi": "no",
+  "rationale": "The ECG demonstrates an irregularly irregular rhythm with fibrillatory baseline activity, absent P waves, and no diagnostic ST-segment elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-18T09:52:00"
+}

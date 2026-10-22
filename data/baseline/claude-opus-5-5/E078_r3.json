@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"RBBB\", \"stemi\": \"no\", \"rationale\": \"V1–V2 show an rsR′ pattern with a tall terminal R′ and T-wave inversion in V1, plus slurred terminal S waves in I and V6, which points to right bundle branch block; the very large precordial voltages may also mean LVH, and there is no ST elevation meeting STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "RBBB",
+  "stemi": "no",
+  "rationale": "V1–V2 show an rsR′ pattern with a tall terminal R′ and T-wave inversion in V1, plus slurred terminal S waves in I and V6, which points to right bundle branch block; the very large precordial voltages may also mean LVH, and there is no ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-18T11:21:43"
+}

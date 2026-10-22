@@ -1,0 +1,9 @@
+{
+ "raw": "```json\n{\"diagnosis\": \"RBBB\", \"stemi\": \"no\", \"rationale\": \"The rhythm is regular and sinus. V1 and V2 show a tall or notched rsR' pattern with secondary T-wave inversion, and I, V5 and V6 have broad terminal S waves. There is no ST elevation that meets STEMI criteria.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "RBBB",
+  "stemi": "no",
+  "rationale": "The rhythm is regular and sinus. V1 and V2 show a tall or notched rsR' pattern with secondary T-wave inversion, and I, V5 and V6 have broad terminal S waves. There is no ST elevation that meets STEMI criteria."
+ },
+ "time": "2026-10-18T09:59:06"
+}

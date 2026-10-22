@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"The rhythm is regular at about 100 bpm with narrow QRS complexes and normal axis, and there is no bundle branch block, pre-excitation, pathological Q waves or significant ST elevation. Voltages are borderline (S in V3 plus R in V5 is about 33 mm, below the 35 mm LVH cutoff), and the noisy baseline is artifact rather than atrial fibrillation.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "The rhythm is regular at about 100 bpm with narrow QRS complexes and normal axis, and there is no bundle branch block, pre-excitation, pathological Q waves or significant ST elevation. Voltages are borderline (S in V3 plus R in V5 is about 33 mm, below the 35 mm LVH cutoff), and the noisy baseline is artifact rather than atrial fibrillation."
+ },
+ "time": "2026-10-18T10:06:20"
+}

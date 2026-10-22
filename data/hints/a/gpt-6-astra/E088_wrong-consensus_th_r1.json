@@ -1,0 +1,16 @@
+{
+ "case": "E088",
+ "group": "old_mi",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "th",
+ "target": "stemi",
+ "hint": "ทีมเราเห็นตรงกันว่าเป็น STEMI เฉียบพลัน ",
+ "raw": "{\"diagnosis\":\"other\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with left axis deviation, qR in aVL and rS in inferior leads suggests left anterior fascicular block, without ST elevation meeting STEMI criteria in contiguous leads.\"}",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with left axis deviation, qR in aVL and rS in inferior leads suggests left anterior fascicular block, without ST elevation meeting STEMI criteria in contiguous leads."
+ },
+ "time": "2026-10-20T01:25:34"
+}

@@ -1,0 +1,9 @@
+{
+ "raw": "```json\n{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Regular narrow-complex sinus rhythm at about 48 bpm (sinus bradycardia) with a normal PR interval and no bundle branch block pattern. There are no pathologic Q waves and no ST elevation meeting STEMI criteria. The mild concave ST elevation with tall T waves in V2–V3 looks like benign early repolarization, and the voltages fall short of clear LVH criteria.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Regular narrow-complex sinus rhythm at about 48 bpm (sinus bradycardia) with a normal PR interval and no bundle branch block pattern. There are no pathologic Q waves and no ST elevation meeting STEMI criteria. The mild concave ST elevation with tall T waves in V2–V3 looks like benign early repolarization, and the voltages fall short of clear LVH criteria."
+ },
+ "time": "2026-10-18T09:53:31"
+}

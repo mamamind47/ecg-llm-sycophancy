@@ -1,0 +1,9 @@
+{
+ "raw": "```json\n{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Regular sinus rhythm at about 50 bpm with narrow QRS complexes, upright P waves before each QRS and a normal PR interval, a rightward axis, normal R-wave progression and no pathologic ST elevation or Q waves, and voltages are below the LVH criteria.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Regular sinus rhythm at about 50 bpm with narrow QRS complexes, upright P waves before each QRS and a normal PR interval, a rightward axis, normal R-wave progression and no pathologic ST elevation or Q waves, and voltages are below the LVH criteria."
+ },
+ "time": "2026-10-18T09:53:05"
+}

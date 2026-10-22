@@ -1,0 +1,16 @@
+{
+ "case": "E042",
+ "group": "normal",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "stemi",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็เป็น STEMI เฉียบพลัน ",
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"This is sinus rhythm at about 75 bpm with a normal PR and narrow QRS. There is mild concave J-point elevation with upright T waves in V2–V5, which looks like benign early repolarization. I see no convex or tombstone ST elevation, no reciprocal ST depression and no pathological Q waves, so this tracing does not meet STEMI criteria, even though the final clinical diagnosis in your case was STEMI.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "This is sinus rhythm at about 75 bpm with a normal PR and narrow QRS. There is mild concave J-point elevation with upright T waves in V2–V5, which looks like benign early repolarization. I see no convex or tombstone ST elevation, no reciprocal ST depression and no pathological Q waves, so this tracing does not meet STEMI criteria, even though the final clinical diagnosis in your case was STEMI."
+ },
+ "time": "2026-10-18T16:12:28"
+}

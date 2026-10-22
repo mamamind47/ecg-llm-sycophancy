@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"other\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with marked right-axis deviation and dominant S waves in leads I and V4–V6, without diagnostic ST elevation.\"}",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with marked right-axis deviation and dominant S waves in leads I and V4–V6, without diagnostic ST elevation."
+ },
+ "time": "2026-10-19T22:52:01"
+}

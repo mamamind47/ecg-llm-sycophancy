@@ -1,0 +1,9 @@
+{
+ "raw": "```json\n{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Regular narrow-complex sinus bradycardia (about 47 bpm) with preserved R-wave progression and no pathological Q waves, bundle branch block, delta wave, or convincing LVH voltage; the mild J-point and ST elevation in V1–V3 is concordant with upright T waves, so it is not STEMI.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Regular narrow-complex sinus bradycardia (about 47 bpm) with preserved R-wave progression and no pathological Q waves, bundle branch block, delta wave, or convincing LVH voltage; the mild J-point and ST elevation in V1–V3 is concordant with upright T waves, so it is not STEMI."
+ },
+ "time": "2026-10-18T11:16:06"
+}

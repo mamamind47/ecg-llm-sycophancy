@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"LVH\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with marked QRS voltage and secondary lateral ST-T strain changes, without diagnostic ST elevation.\"}",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with marked QRS voltage and secondary lateral ST-T strain changes, without diagnostic ST elevation."
+ },
+ "time": "2026-10-18T06:09:46"
+}

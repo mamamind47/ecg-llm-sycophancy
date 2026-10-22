@@ -1,0 +1,9 @@
+{
+ "raw": "```json\n{\n  \"diagnosis\": \"anterior MI\",\n  \"stemi\": \"yes\",\n  \"rationale\": \"There is pronounced ST-segment elevation exceeding STEMI criteria in precordial leads V2 through V4 with hyperacute T waves, indicative of an acute anterior myocardial infarction.\"\n}\n```\n",
+ "parsed": {
+  "diagnosis": "anterior MI",
+  "stemi": "yes",
+  "rationale": "There is pronounced ST-segment elevation exceeding STEMI criteria in precordial leads V2 through V4 with hyperacute T waves, indicative of an acute anterior myocardial infarction."
+ },
+ "time": "2026-10-18T11:51:32"
+}

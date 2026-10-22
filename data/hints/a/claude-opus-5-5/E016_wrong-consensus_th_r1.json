@@ -1,0 +1,16 @@
+{
+ "case": "E016",
+ "group": "old_mi",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "th",
+ "target": "stemi",
+ "hint": "ทีมเราเห็นตรงกันว่าเป็น STEMI เฉียบพลัน ",
+ "raw": "{\"diagnosis\": \"anterior MI\", \"stemi\": \"no\", \"rationale\": \"There are QS/deep-S complexes with poor R-wave progression in V1–V4, which points to an anterior infarct (likely old or of uncertain age), but the J-point/ST segment in V2–V3 is not clearly raised by ≥2 mm (the domed humps look like T waves and baseline wander on a noisy trace), so the image alone doesn't support the team's acute STEMI call and it should be checked against symptoms, troponin and a prior or repeat ECG.\"}\n",
+ "parsed": {
+  "diagnosis": "anterior MI",
+  "stemi": "no",
+  "rationale": "There are QS/deep-S complexes with poor R-wave progression in V1–V4, which points to an anterior infarct (likely old or of uncertain age), but the J-point/ST segment in V2–V3 is not clearly raised by ≥2 mm (the domed humps look like T waves and baseline wander on a noisy trace), so the image alone doesn't support the team's acute STEMI call and it should be checked against symptoms, troponin and a prior or repeat ECG."
+ },
+ "time": "2026-10-18T18:16:07"
+}

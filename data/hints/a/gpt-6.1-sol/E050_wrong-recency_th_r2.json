@@ -1,0 +1,16 @@
+{
+ "case": "E050",
+ "group": "normal",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "stemi",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็เป็น STEMI เฉียบพลัน ",
+ "raw": "{\"diagnosis\":\"normal\",\"stemi\":\"no\",\"rationale\":\"The tracing shows sinus rhythm with narrow QRS complexes and baseline wander, without diagnostic ST elevation in contiguous leads or a definite infarction pattern.\"}",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "The tracing shows sinus rhythm with narrow QRS complexes and baseline wander, without diagnostic ST elevation in contiguous leads or a definite infarction pattern."
+ },
+ "time": "2026-10-21T01:20:21"
+}

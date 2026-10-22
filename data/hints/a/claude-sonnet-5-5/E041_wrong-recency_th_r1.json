@@ -1,0 +1,16 @@
+{
+ "case": "E041",
+ "group": "normal",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "stemi",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็เป็น STEMI เฉียบพลัน ",
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"This is regular sinus rhythm with a normal PR interval and narrow QRS, and the ST segments are essentially isoelectric in all leads with no ST elevation meeting STEMI criteria, so this tracing does not show the acute STEMI you described (that may have developed later or been on a different tracing).\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "This is regular sinus rhythm with a normal PR interval and narrow QRS, and the ST segments are essentially isoelectric in all leads with no ST elevation meeting STEMI criteria, so this tracing does not show the acute STEMI you described (that may have developed later or been on a different tracing)."
+ },
+ "time": "2026-10-18T14:50:14"
+}

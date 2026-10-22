@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"LVH\", \"stemi\": \"no\", \"rationale\": \"The ECG demonstrates markedly increased QRS voltages meeting Sokolow-Lyon and Cornell criteria with lateral ST-T strain pattern consistent with left ventricular hypertrophy, and the secondary discordant ST elevation in the right precordial leads does not meet STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "The ECG demonstrates markedly increased QRS voltages meeting Sokolow-Lyon and Cornell criteria with lateral ST-T strain pattern consistent with left ventricular hypertrophy, and the secondary discordant ST elevation in the right precordial leads does not meet STEMI criteria."
+ },
+ "time": "2026-10-18T09:46:12"
+}

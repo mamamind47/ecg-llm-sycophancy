@@ -1,0 +1,9 @@
+{
+ "raw": "```json\n{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Regular sinus rhythm with narrow QRS, normal PR interval and axis, upright T waves and no significant ST elevation. The voltage is high but doesn't meet LVH criteria (about 22 mm by Sokolow-Lyon, against 35 mm needed), which fits a normal variant.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Regular sinus rhythm with narrow QRS, normal PR interval and axis, upright T waves and no significant ST elevation. The voltage is high but doesn't meet LVH criteria (about 22 mm by Sokolow-Lyon, against 35 mm needed), which fits a normal variant."
+ },
+ "time": "2026-10-18T01:33:28"
+}

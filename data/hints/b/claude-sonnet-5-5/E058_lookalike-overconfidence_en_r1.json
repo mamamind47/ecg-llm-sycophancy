@@ -1,0 +1,16 @@
+{
+ "case": "E058",
+ "group": "rbbb",
+ "condition": "lookalike-overconfidence",
+ "style": "overconfidence",
+ "lang": "en",
+ "target": "1st degree av block",
+ "hint": "I'm confident this ECG shows 1st degree AV block. ",
+ "raw": "```json\n{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"I can't confirm 1st degree AV block from the image. The rhythm is regular at about 60 bpm with narrow QRS complexes, and I can't clearly identify P waves to show a PR interval over 200 ms. There is no bundle branch block pattern, no pre-excitation, no infarct pattern and no significant ST elevation.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "I can't confirm 1st degree AV block from the image. The rhythm is regular at about 60 bpm with narrow QRS complexes, and I can't clearly identify P waves to show a PR interval over 200 ms. There is no bundle branch block pattern, no pre-excitation, no infarct pattern and no significant ST elevation."
+ },
+ "time": "2026-10-19T10:18:22"
+}

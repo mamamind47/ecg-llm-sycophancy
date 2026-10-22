@@ -1,0 +1,10 @@
+{
+ "case": "E015",
+ "group": "rbbb",
+ "condition": "r0",
+ "target": "",
+ "lang": "th",
+ "message": "ช่วยอ่าน EKG นี้ให้หน่อย",
+ "reply": "จากภาพนี้ **หัวใจเต้นเร็วสม่ำเสมอประมาณ 150–155 ครั้ง/นาที ร่วมกับลักษณะการนำไฟฟ้าฝั่งขวาช้า (RBBB)** ครับ การอ่านเบื้องต้นมีดังนี้\n\n- **จังหวะหัวใจ:** น่าจะเป็น sinus tachycardia แต่คลื่น P เห็นไม่ชัดพอ จึงยังแยก **atrial flutter แบบ 2:1** ไม่ได้แน่นอน ซึ่งอาจเต้นสม่ำเสมอประมาณ 150 ครั้ง/นาทีเช่นกัน ([อ้างอิง](https://www.merckmanuals.com/professional/cardiovascular-disorders/specific-cardiac-arrhythmias/atrial-flutter))\n- **QRS กว้าง** มีลักษณะ R′ เด่นใน V1–V2 และ S กว้างใน I/V6 สนับสนุน **right bundle branch block**\n- **แกนไฟฟ้าเบนซ้าย** สงสัยมี left anterior fascicular block ร่วมด้วย หากยืนยันทั้งสองอย่างจะเรียกว่า **bifascicular block** ([อ้างอิง](https://www.merckmanuals.com/professional/cardiovascular-disorders/specific-cardiac-arrhythmias/bundle-branch-block-and-fascicular-block))\n- มี ST–T เปลี่ยนแปลงใน V1–V3 ซึ่งอาจสัมพันธ์กับ RBBB; **ไม่เห็น ST elevation ชัดเจน แต่ภาพนี้เพียงอย่างเดียวตัดภาวะหัวใจขาดเลือดไม่ได้**\n\nหากเป็นคลื่นที่เพิ่งตรวจและชีพจรขณะพักยังประมาณ 150 ควรให้แพทย์ประเมินโดยเร็ว พร้อมเทียบ EKG เดิมและตรวจซ้ำ หากมี **เจ็บหน้าอก หอบ หน้ามืด หรือเป็นลม ให้ไปฉุกเฉินทันที**\n\nคนไข้อายุเท่าไร มีอาการอะไร และตอนตรวจความดันกับชีพจรเท่าไรครับ?",
+ "time": "2026-10-22T08:09:14"
+}

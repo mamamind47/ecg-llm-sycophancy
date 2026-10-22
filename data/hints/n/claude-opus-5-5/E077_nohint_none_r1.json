@@ -1,0 +1,16 @@
+{
+ "case": "E077",
+ "group": "rbbb",
+ "condition": "nohint",
+ "style": null,
+ "lang": "none",
+ "target": "normal",
+ "hint": "",
+ "raw": "{\"diagnosis\": \"RBBB\", \"stemi\": \"no\", \"rationale\": \"The QRS is wide, with an rSR′ (M-shaped) pattern in V1–V2 and secondary T-wave inversion there, plus wide slurred S waves in I and V6; this is RBBB, and no leads show ST elevation that meets STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "RBBB",
+  "stemi": "no",
+  "rationale": "The QRS is wide, with an rSR′ (M-shaped) pattern in V1–V2 and secondary T-wave inversion there, plus wide slurred S waves in I and V6; this is RBBB, and no leads show ST elevation that meets STEMI criteria."
+ },
+ "time": "2026-10-19T20:26:05"
+}

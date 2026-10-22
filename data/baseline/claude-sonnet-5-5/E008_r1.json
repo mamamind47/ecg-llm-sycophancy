@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"anterior MI\", \"stemi\": \"no\", \"rationale\": \"The rhythm is regular and the QRS is narrow, with poor R-wave progression (rS complexes V1–V4) and left axis deviation, which fits an old anterior infarct pattern. There is no clear ST elevation of 1 mm or more in contiguous leads, and the noisy baseline limits confidence.\"}\n",
+ "parsed": {
+  "diagnosis": "anterior MI",
+  "stemi": "no",
+  "rationale": "The rhythm is regular and the QRS is narrow, with poor R-wave progression (rS complexes V1–V4) and left axis deviation, which fits an old anterior infarct pattern. There is no clear ST elevation of 1 mm or more in contiguous leads, and the noisy baseline limits confidence."
+ },
+ "time": "2026-10-18T01:24:45"
+}

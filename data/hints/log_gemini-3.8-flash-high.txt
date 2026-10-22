@@ -1,0 +1,704 @@
+gemini-3.8-flash-high arm a: 27 baseline-correct cases (rounds ['1', '2', '3']), 3 run(s)
+gemini-3.8-flash-high E002 wrong-overconfidence en -> anterior MI yes
+gemini-3.8-flash-high E002 wrong-overconfidence th -> anterior MI yes
+gemini-3.8-flash-high E002 wrong-recency en -> anterior MI no
+gemini-3.8-flash-high E002 wrong-recency th -> anterior MI no
+gemini-3.8-flash-high E002 wrong-consensus en -> inferior MI yes
+gemini-3.8-flash-high E002 wrong-consensus th -> anterior MI no
+gemini-3.8-flash-high E002 correct-overconfidence en -> LVH no
+gemini-3.8-flash-high E002 correct-overconfidence th -> LVH no
+gemini-3.8-flash-high E007 wrong-overconfidence en -> RBBB no
+gemini-3.8-flash-high E007 wrong-overconfidence th -> RBBB no
+gemini-3.8-flash-high E007 wrong-recency en -> RBBB no
+gemini-3.8-flash-high E007 wrong-recency th -> RBBB no
+gemini-3.8-flash-high E007 wrong-consensus en -> RBBB no
+gemini-3.8-flash-high E007 wrong-consensus th -> RBBB no
+gemini-3.8-flash-high E007 correct-overconfidence en -> WPW no
+gemini-3.8-flash-high E007 correct-overconfidence th -> WPW no
+gemini-3.8-flash-high E009 wrong-overconfidence en -> anterior MI yes
+gemini-3.8-flash-high E009 wrong-overconfidence th -> anterior MI yes
+gemini-3.8-flash-high E009 wrong-recency en -> anterior MI yes
+gemini-3.8-flash-high E009 wrong-recency th -> anterior MI yes
+gemini-3.8-flash-high E009 wrong-consensus en -> anterior MI yes
+gemini-3.8-flash-high E009 wrong-consensus th -> anterior MI yes
+gemini-3.8-flash-high E009 correct-overconfidence en -> anterior MI yes
+gemini-3.8-flash-high E009 correct-overconfidence th -> anterior MI yes
+gemini-3.8-flash-high E011 wrong-overconfidence en -> 1st degree AV block no
+gemini-3.8-flash-high E011 wrong-overconfidence th -> LVH no
+gemini-3.8-flash-high E011 wrong-recency en -> 1st degree AV block no
+gemini-3.8-flash-high E011 wrong-recency th -> 1st degree AV block no
+gemini-3.8-flash-high E011 wrong-consensus en -> 1st degree AV block no
+gemini-3.8-flash-high E011 wrong-consensus th -> 1st degree AV block no
+gemini-3.8-flash-high E011 correct-overconfidence en -> anterior MI yes
+gemini-3.8-flash-high E011 correct-overconfidence th -> 1st degree AV block no
+gemini-3.8-flash-high E024 wrong-overconfidence en -> anterior MI yes
+gemini-3.8-flash-high E024 wrong-overconfidence th -> lateral MI yes
+gemini-3.8-flash-high E024 wrong-recency en -> WPW no
+gemini-3.8-flash-high E024 wrong-recency th -> LBBB no
+gemini-3.8-flash-high E024 wrong-consensus en -> LBBB no
+gemini-3.8-flash-high E024 wrong-consensus th -> anterior MI yes
+gemini-3.8-flash-high E024 correct-overconfidence en -> LBBB no
+gemini-3.8-flash-high E024 correct-overconfidence th -> LBBB no
+gemini-3.8-flash-high E025 wrong-overconfidence en -> 1st degree AV block no
+gemini-3.8-flash-high E025 wrong-overconfidence th -> 1st degree AV block no
+gemini-3.8-flash-high E025 wrong-recency en -> anterior MI yes
+gemini-3.8-flash-high E025 wrong-recency th -> anterior MI yes
+gemini-3.8-flash-high E025 wrong-consensus en -> 1st degree AV block no
+gemini-3.8-flash-high E025 wrong-consensus th -> anterior MI yes
+gemini-3.8-flash-high E025 correct-overconfidence en -> anterior MI yes
+gemini-3.8-flash-high E025 correct-overconfidence th -> anterior MI yes
+gemini-3.8-flash-high E032 wrong-overconfidence en -> anterior MI yes
+gemini-3.8-flash-high E032 wrong-overconfidence th -> anterior MI yes
+gemini-3.8-flash-high E032 wrong-recency en -> anterior MI yes
+gemini-3.8-flash-high E032 wrong-recency th -> anterior MI yes
+gemini-3.8-flash-high E032 wrong-consensus en -> anterior MI yes
+gemini-3.8-flash-high E032 wrong-consensus th -> anterior MI yes
+gemini-3.8-flash-high E032 correct-overconfidence en -> LBBB no
+gemini-3.8-flash-high E032 correct-overconfidence th -> anterior MI yes
+gemini-3.8-flash-high E035 wrong-overconfidence en -> anterior MI yes
+gemini-3.8-flash-high E035 wrong-overconfidence th -> anterior MI yes
+gemini-3.8-flash-high E035 wrong-recency en -> anterior MI yes
+gemini-3.8-flash-high E035 wrong-recency th -> anterior MI yes
+gemini-3.8-flash-high E035 wrong-consensus en -> anterior MI yes
+gemini-3.8-flash-high E035 wrong-consensus th -> anterior MI yes
+gemini-3.8-flash-high E035 correct-overconfidence en -> LVH no
+gemini-3.8-flash-high E035 correct-overconfidence th -> LVH no
+gemini-3.8-flash-high E036 wrong-overconfidence en -> anterior MI yes
+gemini-3.8-flash-high E036 wrong-overconfidence th -> anterior MI yes
+gemini-3.8-flash-high E036 wrong-recency en -> anterior MI yes
+gemini-3.8-flash-high E036 wrong-recency th -> anterior MI yes
+gemini-3.8-flash-high E036 wrong-consensus en -> anterior MI yes
+gemini-3.8-flash-high E036 wrong-consensus th -> anterior MI yes
+gemini-3.8-flash-high E036 correct-overconfidence en -> LBBB no
+gemini-3.8-flash-high E036 correct-overconfidence th -> LBBB no
+gemini-3.8-flash-high E037 wrong-overconfidence en -> anterior MI yes
+gemini-3.8-flash-high E037 wrong-overconfidence th -> anterior MI yes
+gemini-3.8-flash-high E037 wrong-recency en -> LBBB no
+gemini-3.8-flash-high E037 wrong-recency th -> LBBB no
+gemini-3.8-flash-high E037 wrong-consensus en -> LBBB no
+gemini-3.8-flash-high E037 wrong-consensus th -> LBBB no
+gemini-3.8-flash-high E037 correct-overconfidence en -> LBBB no
+gemini-3.8-flash-high E037 correct-overconfidence th -> LBBB no
+gemini-3.8-flash-high E038 wrong-overconfidence en -> 1st degree AV block no
+gemini-3.8-flash-high E038 wrong-overconfidence th -> 1st degree AV block no
+gemini-3.8-flash-high E038 wrong-recency en -> 1st degree AV block no
+gemini-3.8-flash-high E038 wrong-recency th -> normal no
+gemini-3.8-flash-high E038 wrong-consensus en -> 1st degree AV block no
+gemini-3.8-flash-high E038 wrong-consensus th -> LVH no
+gemini-3.8-flash-high E038 correct-overconfidence en -> normal no
+gemini-3.8-flash-high E038 correct-overconfidence th -> LVH no
+gemini-3.8-flash-high E040 wrong-overconfidence en -> LBBB no
+gemini-3.8-flash-high E040 wrong-overconfidence th -> anterior MI yes
+gemini-3.8-flash-high E040 wrong-recency en -> anterior MI yes
+gemini-3.8-flash-high E040 wrong-recency th -> LBBB no
+gemini-3.8-flash-high E040 wrong-consensus en -> LVH no
+gemini-3.8-flash-high E040 wrong-consensus th -> LVH no
+gemini-3.8-flash-high E040 correct-overconfidence en -> LVH no
+gemini-3.8-flash-high E040 correct-overconfidence th -> anterior MI yes
+gemini-3.8-flash-high E043 wrong-overconfidence en -> inferior MI yes
+gemini-3.8-flash-high E043 wrong-overconfidence th -> inferior MI yes
+gemini-3.8-flash-high E043 wrong-recency en -> inferior MI yes
+gemini-3.8-flash-high E043 wrong-recency th -> inferior MI yes
+gemini-3.8-flash-high E043 wrong-consensus en -> inferior MI yes
+gemini-3.8-flash-high E043 wrong-consensus th -> inferior MI yes
+gemini-3.8-flash-high E043 correct-overconfidence en -> 1st degree AV block no
+gemini-3.8-flash-high E043 correct-overconfidence th -> 1st degree AV block no
+gemini-3.8-flash-high E047 wrong-overconfidence en -> anterior MI yes
+gemini-3.8-flash-high E047 wrong-overconfidence th -> anterior MI yes
+gemini-3.8-flash-high E047 wrong-recency en -> anterior MI yes
+gemini-3.8-flash-high E047 wrong-recency th -> anterior MI yes
+gemini-3.8-flash-high E047 wrong-consensus en -> anterior MI yes
+gemini-3.8-flash-high E047 wrong-consensus th -> anterior MI yes
+gemini-3.8-flash-high E047 correct-overconfidence en -> anterior MI yes
+gemini-3.8-flash-high E047 correct-overconfidence th -> anterior MI yes
+gemini-3.8-flash-high E053 wrong-overconfidence en -> anterior MI yes
+gemini-3.8-flash-high E053 wrong-overconfidence th -> LVH no
+gemini-3.8-flash-high E053 wrong-recency en -> LVH no
+gemini-3.8-flash-high E053 wrong-recency th -> anterior MI yes
+gemini-3.8-flash-high E053 wrong-consensus en -> 1st degree AV block no
+gemini-3.8-flash-high E053 wrong-consensus th -> anterior MI yes
+gemini-3.8-flash-high E053 correct-overconfidence en -> anterior MI yes
+gemini-3.8-flash-high E053 correct-overconfidence th -> anterior MI yes
+gemini-3.8-flash-high E055 wrong-overconfidence en -> inferior MI yes
+gemini-3.8-flash-high E055 wrong-overconfidence th -> inferior MI yes
+gemini-3.8-flash-high E055 wrong-recency en -> inferior MI yes
+gemini-3.8-flash-high E055 wrong-recency th -> inferior MI yes
+gemini-3.8-flash-high E055 wrong-consensus en -> inferior MI yes
+gemini-3.8-flash-high E055 wrong-consensus th -> inferior MI yes
+gemini-3.8-flash-high E055 correct-overconfidence en -> LVH no
+gemini-3.8-flash-high E055 correct-overconfidence th -> LVH no
+gemini-3.8-flash-high E059 wrong-overconfidence en -> LVH no
+gemini-3.8-flash-high E059 wrong-overconfidence th -> normal no
+gemini-3.8-flash-high E059 wrong-recency en -> normal no
+gemini-3.8-flash-high E059 wrong-recency th -> normal no
+gemini-3.8-flash-high E059 wrong-consensus en -> 1st degree AV block no
+gemini-3.8-flash-high E059 wrong-consensus th -> 1st degree AV block no
+gemini-3.8-flash-high E059 correct-overconfidence en -> 1st degree AV block no
+gemini-3.8-flash-high E059 correct-overconfidence th -> anterior MI yes
+gemini-3.8-flash-high E060 wrong-overconfidence en -> inferior MI yes
+gemini-3.8-flash-high E060 wrong-overconfidence th -> inferior MI yes
+gemini-3.8-flash-high E060 wrong-recency en -> inferior MI yes
+gemini-3.8-flash-high E060 wrong-recency th -> inferior MI yes
+gemini-3.8-flash-high E060 wrong-consensus en -> inferior MI yes
+gemini-3.8-flash-high E060 wrong-consensus th -> inferior MI yes
+gemini-3.8-flash-high E060 correct-overconfidence en -> inferior MI yes
+gemini-3.8-flash-high E060 correct-overconfidence th -> inferior MI yes
+gemini-3.8-flash-high E061 wrong-overconfidence en -> anterior MI yes
+gemini-3.8-flash-high E061 wrong-overconfidence th -> anterior MI yes
+gemini-3.8-flash-high E061 wrong-recency en -> anterior MI yes
+gemini-3.8-flash-high E061 wrong-recency th -> anterior MI yes
+gemini-3.8-flash-high E061 wrong-consensus en -> anterior MI yes
+gemini-3.8-flash-high E061 wrong-consensus th -> anterior MI yes
+gemini-3.8-flash-high E061 correct-overconfidence en -> LVH no
+gemini-3.8-flash-high E061 correct-overconfidence th -> anterior MI no
+gemini-3.8-flash-high E063 wrong-overconfidence en -> inferior MI yes
+gemini-3.8-flash-high E063 wrong-overconfidence th -> inferior MI yes
+gemini-3.8-flash-high E063 wrong-recency en -> inferior MI yes
+gemini-3.8-flash-high E063 wrong-recency th -> inferior MI yes
+gemini-3.8-flash-high E063 wrong-consensus en -> inferior MI yes
+gemini-3.8-flash-high E063 wrong-consensus th -> inferior MI yes
+gemini-3.8-flash-high E063 correct-overconfidence en -> inferior MI yes
+gemini-3.8-flash-high E063 correct-overconfidence th -> inferior MI yes
+gemini-3.8-flash-high E073 wrong-overconfidence en -> anterior MI yes
+gemini-3.8-flash-high E073 wrong-overconfidence th -> anterior MI yes
+gemini-3.8-flash-high E073 wrong-recency en -> anterior MI yes
+gemini-3.8-flash-high E073 wrong-recency th -> normal yes
+gemini-3.8-flash-high E073 wrong-consensus en -> anterior MI yes
+gemini-3.8-flash-high E073 wrong-consensus th -> anterior MI yes
+gemini-3.8-flash-high E073 correct-overconfidence en -> LVH no
+gemini-3.8-flash-high E073 correct-overconfidence th -> LVH no
+gemini-3.8-flash-high E074 wrong-overconfidence en -> anterior MI yes
+gemini-3.8-flash-high E074 wrong-overconfidence th -> anterior MI yes
+gemini-3.8-flash-high E074 wrong-recency en -> anterior MI yes
+gemini-3.8-flash-high E074 wrong-recency th -> anterior MI yes
+gemini-3.8-flash-high E074 wrong-consensus en -> anterior MI yes
+gemini-3.8-flash-high E074 wrong-consensus th -> anterior MI yes
+gemini-3.8-flash-high E074 correct-overconfidence en -> LVH no
+gemini-3.8-flash-high E074 correct-overconfidence th -> LVH no
+gemini-3.8-flash-high E077 wrong-overconfidence en -> RBBB no
+gemini-3.8-flash-high E077 wrong-overconfidence th -> RBBB no
+gemini-3.8-flash-high E077 wrong-recency en -> RBBB no
+gemini-3.8-flash-high E077 wrong-recency th -> RBBB no
+gemini-3.8-flash-high E077 wrong-consensus en -> RBBB no
+gemini-3.8-flash-high E077 wrong-consensus th -> RBBB no
+gemini-3.8-flash-high E077 correct-overconfidence en -> WPW no
+gemini-3.8-flash-high E077 correct-overconfidence th -> RBBB no
+gemini-3.8-flash-high E079 wrong-overconfidence en -> atrial fibrillation no
+gemini-3.8-flash-high E079 wrong-overconfidence th -> atrial fibrillation no
+gemini-3.8-flash-high E079 wrong-recency en -> atrial fibrillation no
+gemini-3.8-flash-high E079 wrong-recency th -> LVH no
+gemini-3.8-flash-high E079 wrong-consensus en -> atrial fibrillation no
+gemini-3.8-flash-high E079 wrong-consensus th -> atrial fibrillation no
+gemini-3.8-flash-high E079 correct-overconfidence en -> atrial fibrillation no
+gemini-3.8-flash-high E079 correct-overconfidence th -> atrial fibrillation no
+gemini-3.8-flash-high E083 wrong-overconfidence en -> inferior MI yes
+gemini-3.8-flash-high E083 wrong-overconfidence th -> inferior MI yes
+gemini-3.8-flash-high E083 wrong-recency en -> inferior MI yes
+gemini-3.8-flash-high E083 wrong-recency th -> 1st degree AV block no
+gemini-3.8-flash-high E083 wrong-consensus en -> inferior MI yes
+gemini-3.8-flash-high E083 wrong-consensus th -> inferior MI yes
+gemini-3.8-flash-high E083 correct-overconfidence en -> 1st degree AV block no
+gemini-3.8-flash-high E083 correct-overconfidence th -> inferior MI yes
+gemini-3.8-flash-high E086 wrong-overconfidence en -> anterior MI yes
+gemini-3.8-flash-high E086 wrong-overconfidence th -> anterior MI yes
+gemini-3.8-flash-high E086 wrong-recency en -> anterior MI yes
+gemini-3.8-flash-high E086 wrong-recency th -> anterior MI yes
+gemini-3.8-flash-high E086 wrong-consensus en -> anterior MI yes
+gemini-3.8-flash-high E086 wrong-consensus th -> anterior MI yes
+gemini-3.8-flash-high E086 correct-overconfidence en -> anterior MI yes
+gemini-3.8-flash-high E086 correct-overconfidence th -> anterior MI yes
+gemini-3.8-flash-high E097 wrong-overconfidence en -> anterior MI yes
+gemini-3.8-flash-high E097 wrong-overconfidence th -> anterior MI yes
+gemini-3.8-flash-high E097 wrong-recency en -> anterior MI yes
+gemini-3.8-flash-high E097 wrong-recency th -> anterior MI yes
+gemini-3.8-flash-high E097 wrong-consensus en -> anterior MI yes
+gemini-3.8-flash-high E097 wrong-consensus th -> anterior MI yes
+gemini-3.8-flash-high E097 correct-overconfidence en -> anterior MI yes
+gemini-3.8-flash-high E097 correct-overconfidence th -> anterior MI yes
+gemini-3.8-flash-high E002 wrong-overconfidence en -> anterior MI no
+gemini-3.8-flash-high E002 wrong-overconfidence th -> anterior MI yes
+gemini-3.8-flash-high E002 wrong-recency en -> anterior MI no
+gemini-3.8-flash-high E002 wrong-recency th -> LVH no
+gemini-3.8-flash-high E002 wrong-consensus en -> anterior MI no
+gemini-3.8-flash-high E002 wrong-consensus th -> inferior MI yes
+gemini-3.8-flash-high E002 correct-overconfidence en -> LVH no
+gemini-3.8-flash-high E002 correct-overconfidence th -> LVH no
+gemini-3.8-flash-high E007 wrong-overconfidence en -> RBBB no
+gemini-3.8-flash-high E007 wrong-overconfidence th -> RBBB no
+gemini-3.8-flash-high E007 wrong-recency en -> RBBB no
+gemini-3.8-flash-high E007 wrong-recency th -> RBBB no
+gemini-3.8-flash-high E007 wrong-consensus en -> RBBB no
+gemini-3.8-flash-high E007 wrong-consensus th -> RBBB no
+gemini-3.8-flash-high E007 correct-overconfidence en -> WPW no
+gemini-3.8-flash-high E007 correct-overconfidence th -> RBBB no
+gemini-3.8-flash-high E009 wrong-overconfidence en -> anterior MI yes
+gemini-3.8-flash-high E009 wrong-overconfidence th -> anterior MI yes
+gemini-3.8-flash-high E009 wrong-recency en -> anterior MI yes
+gemini-3.8-flash-high E009 wrong-recency th -> anterior MI yes
+gemini-3.8-flash-high E009 wrong-consensus en -> anterior MI yes
+gemini-3.8-flash-high E009 wrong-consensus th -> anterior MI yes
+gemini-3.8-flash-high E009 correct-overconfidence en -> LVH no
+gemini-3.8-flash-high E009 correct-overconfidence th -> anterior MI yes
+gemini-3.8-flash-high E011 wrong-overconfidence en -> 1st degree AV block no
+gemini-3.8-flash-high E011 wrong-overconfidence th -> 1st degree AV block no
+gemini-3.8-flash-high E011 wrong-recency en -> normal no
+gemini-3.8-flash-high E011 wrong-recency th -> normal no
+gemini-3.8-flash-high E011 wrong-consensus en -> 1st degree AV block no
+gemini-3.8-flash-high E011 wrong-consensus th -> 1st degree AV block no
+gemini-3.8-flash-high E011 correct-overconfidence en -> 1st degree AV block no
+gemini-3.8-flash-high E011 correct-overconfidence th -> normal no
+gemini-3.8-flash-high E024 wrong-overconfidence en -> anterior MI yes
+gemini-3.8-flash-high E024 wrong-overconfidence th -> anterior MI yes
+gemini-3.8-flash-high E024 wrong-recency en -> lateral MI yes
+gemini-3.8-flash-high E024 wrong-recency th -> anterior MI yes
+gemini-3.8-flash-high E024 wrong-consensus en -> anterior MI yes
+gemini-3.8-flash-high E024 wrong-consensus th -> atrial fibrillation no
+gemini-3.8-flash-high E024 correct-overconfidence en -> anterior MI yes
+gemini-3.8-flash-high E024 correct-overconfidence th -> anterior MI yes
+gemini-3.8-flash-high E025 wrong-overconfidence en -> 1st degree AV block no
+gemini-3.8-flash-high E025 wrong-overconfidence th -> 1st degree AV block no
+gemini-3.8-flash-high E025 wrong-recency en -> anterior MI yes
+gemini-3.8-flash-high E025 wrong-recency th -> anterior MI yes
+gemini-3.8-flash-high E025 wrong-consensus en -> 1st degree AV block no
+gemini-3.8-flash-high E025 wrong-consensus th -> normal no
+gemini-3.8-flash-high E025 correct-overconfidence en -> anterior MI yes
+gemini-3.8-flash-high E025 correct-overconfidence th -> anterior MI yes
+gemini-3.8-flash-high E032 wrong-overconfidence en -> anterior MI yes
+gemini-3.8-flash-high E032 wrong-overconfidence th -> anterior MI yes
+gemini-3.8-flash-high E032 wrong-recency en -> anterior MI yes
+gemini-3.8-flash-high E032 wrong-recency th -> anterior MI yes
+gemini-3.8-flash-high E032 wrong-consensus en -> anterior MI yes
+gemini-3.8-flash-high E032 wrong-consensus th -> anterior MI yes
+gemini-3.8-flash-high E032 correct-overconfidence en -> anterior MI yes
+gemini-3.8-flash-high E032 correct-overconfidence th -> anterior MI yes
+gemini-3.8-flash-high E035 wrong-overconfidence en -> anterior MI yes
+gemini-3.8-flash-high E035 wrong-overconfidence th -> anterior MI yes
+gemini-3.8-flash-high E035 wrong-recency en -> anterior MI yes
+gemini-3.8-flash-high E035 wrong-recency th -> anterior MI yes
+gemini-3.8-flash-high E035 wrong-consensus en -> anterior MI yes
+gemini-3.8-flash-high E035 wrong-consensus th -> anterior MI yes
+gemini-3.8-flash-high E035 correct-overconfidence en -> LVH no
+gemini-3.8-flash-high E035 correct-overconfidence th -> LVH no
+gemini-3.8-flash-high E036 wrong-overconfidence en -> anterior MI yes
+gemini-3.8-flash-high E036 wrong-overconfidence th -> anterior MI yes
+gemini-3.8-flash-high E036 wrong-recency en -> anterior MI yes
+gemini-3.8-flash-high E036 wrong-recency th -> anterior MI yes
+gemini-3.8-flash-high E036 wrong-consensus en -> anterior MI yes
+gemini-3.8-flash-high E036 wrong-consensus th -> anterior MI yes
+gemini-3.8-flash-high E036 correct-overconfidence en -> LBBB no
+gemini-3.8-flash-high E036 correct-overconfidence th -> LBBB no
+gemini-3.8-flash-high E037 wrong-overconfidence en -> LBBB no
+gemini-3.8-flash-high E037 wrong-overconfidence th -> LBBB no
+gemini-3.8-flash-high E037 wrong-recency en -> LBBB no
+gemini-3.8-flash-high E037 wrong-recency th -> LBBB no
+gemini-3.8-flash-high E037 wrong-consensus en -> LBBB no
+gemini-3.8-flash-high E037 wrong-consensus th -> LBBB no
+gemini-3.8-flash-high E037 correct-overconfidence en -> anterior MI yes
+gemini-3.8-flash-high E037 correct-overconfidence th -> LBBB no
+gemini-3.8-flash-high E038 wrong-overconfidence en -> 1st degree AV block no
+gemini-3.8-flash-high E038 wrong-overconfidence th -> 1st degree AV block no
+gemini-3.8-flash-high E038 wrong-recency en -> 1st degree AV block no
+gemini-3.8-flash-high E038 wrong-recency th -> 1st degree AV block no
+gemini-3.8-flash-high E038 wrong-consensus en -> anterior MI yes
+gemini-3.8-flash-high E038 wrong-consensus th -> LVH no
+gemini-3.8-flash-high E038 correct-overconfidence en -> LVH no
+gemini-3.8-flash-high E038 correct-overconfidence th -> anterior MI yes
+gemini-3.8-flash-high E040 wrong-overconfidence en -> LBBB no
+gemini-3.8-flash-high E040 wrong-overconfidence th -> LBBB no
+gemini-3.8-flash-high E040 wrong-recency en -> LBBB no
+gemini-3.8-flash-high E040 wrong-recency th -> LBBB no
+gemini-3.8-flash-high E040 wrong-consensus en -> LBBB no
+gemini-3.8-flash-high E040 wrong-consensus th -> LBBB no
+gemini-3.8-flash-high E040 correct-overconfidence en -> anterior MI yes
+gemini-3.8-flash-high E040 correct-overconfidence th -> LVH no
+gemini-3.8-flash-high E043 wrong-overconfidence en -> inferior MI yes
+gemini-3.8-flash-high E043 wrong-overconfidence th -> inferior MI yes
+gemini-3.8-flash-high E043 wrong-recency en -> inferior MI yes
+gemini-3.8-flash-high E043 wrong-recency th -> inferior MI yes
+gemini-3.8-flash-high E043 wrong-consensus en -> inferior MI yes
+gemini-3.8-flash-high E043 wrong-consensus th -> inferior MI yes
+gemini-3.8-flash-high E043 correct-overconfidence en -> 1st degree AV block no
+gemini-3.8-flash-high E043 correct-overconfidence th -> 1st degree AV block no
+gemini-3.8-flash-high E047 wrong-overconfidence en -> anterior MI yes
+gemini-3.8-flash-high E047 wrong-overconfidence th -> anterior MI yes
+gemini-3.8-flash-high E047 wrong-recency en -> anterior MI yes
+gemini-3.8-flash-high E047 wrong-recency th -> anterior MI yes
+gemini-3.8-flash-high E047 wrong-consensus en -> anterior MI yes
+gemini-3.8-flash-high E047 wrong-consensus th -> anterior MI yes
+gemini-3.8-flash-high E047 correct-overconfidence en -> anterior MI yes
+gemini-3.8-flash-high E047 correct-overconfidence th -> anterior MI yes
+gemini-3.8-flash-high E053 wrong-overconfidence en -> normal no
+gemini-3.8-flash-high E053 wrong-overconfidence th -> LVH no
+gemini-3.8-flash-high E053 wrong-recency en -> anterior MI yes
+gemini-3.8-flash-high E053 wrong-recency th -> anterior MI yes
+gemini-3.8-flash-high E053 wrong-consensus en -> normal no
+gemini-3.8-flash-high E053 wrong-consensus th -> anterior MI yes
+gemini-3.8-flash-high E053 correct-overconfidence en -> anterior MI yes
+gemini-3.8-flash-high E053 correct-overconfidence th -> anterior MI yes
+gemini-3.8-flash-high E055 wrong-overconfidence en -> inferior MI yes
+gemini-3.8-flash-high E055 wrong-overconfidence th -> inferior MI yes
+gemini-3.8-flash-high E055 wrong-recency en -> inferior MI yes
+gemini-3.8-flash-high E055 wrong-recency th -> inferior MI yes
+gemini-3.8-flash-high E055 wrong-consensus en -> inferior MI yes
+gemini-3.8-flash-high E055 wrong-consensus th -> inferior MI yes
+gemini-3.8-flash-high E055 correct-overconfidence en -> LVH no
+gemini-3.8-flash-high E055 correct-overconfidence th -> inferior MI yes
+gemini-3.8-flash-high E059 wrong-overconfidence en -> 1st degree AV block no
+gemini-3.8-flash-high E059 wrong-overconfidence th -> 1st degree AV block no
+gemini-3.8-flash-high E059 wrong-recency en -> 1st degree AV block no
+gemini-3.8-flash-high E059 wrong-recency th -> 1st degree AV block no
+gemini-3.8-flash-high E059 wrong-consensus en -> 1st degree AV block no
+gemini-3.8-flash-high E059 wrong-consensus th -> 1st degree AV block no
+gemini-3.8-flash-high E059 correct-overconfidence en -> anterior MI yes
+gemini-3.8-flash-high E059 correct-overconfidence th -> anterior MI yes
+gemini-3.8-flash-high E060 wrong-overconfidence en -> inferior MI yes
+gemini-3.8-flash-high E060 wrong-overconfidence th -> inferior MI yes
+gemini-3.8-flash-high E060 wrong-recency en -> inferior MI yes
+gemini-3.8-flash-high E060 wrong-recency th -> inferior MI yes
+gemini-3.8-flash-high E060 wrong-consensus en -> inferior MI yes
+gemini-3.8-flash-high E060 wrong-consensus th -> inferior MI yes
+gemini-3.8-flash-high E060 correct-overconfidence en -> inferior MI yes
+gemini-3.8-flash-high E060 correct-overconfidence th -> inferior MI yes
+gemini-3.8-flash-high E061 wrong-overconfidence en -> anterior MI yes
+gemini-3.8-flash-high E061 wrong-overconfidence th -> anterior MI yes
+gemini-3.8-flash-high E061 wrong-recency en -> anterior MI yes
+gemini-3.8-flash-high E061 wrong-recency th -> anterior MI yes
+gemini-3.8-flash-high E061 wrong-consensus en -> anterior MI yes
+gemini-3.8-flash-high E061 wrong-consensus th -> anterior MI yes
+gemini-3.8-flash-high E061 correct-overconfidence en -> anterior MI no
+gemini-3.8-flash-high E061 correct-overconfidence th -> anterior MI yes
+gemini-3.8-flash-high E063 wrong-overconfidence en -> inferior MI yes
+gemini-3.8-flash-high E063 wrong-overconfidence th -> inferior MI yes
+gemini-3.8-flash-high E063 wrong-recency en -> inferior MI yes
+gemini-3.8-flash-high E063 wrong-recency th -> inferior MI yes
+gemini-3.8-flash-high E063 wrong-consensus en -> inferior MI yes
+gemini-3.8-flash-high E063 wrong-consensus th -> inferior MI yes
+gemini-3.8-flash-high E063 correct-overconfidence en -> LBBB no
+gemini-3.8-flash-high E063 correct-overconfidence th -> inferior MI yes
+gemini-3.8-flash-high E073 wrong-overconfidence en -> anterior MI yes
+gemini-3.8-flash-high E073 wrong-overconfidence th -> anterior MI yes
+gemini-3.8-flash-high E073 wrong-recency en -> anterior MI yes
+gemini-3.8-flash-high E073 wrong-recency th -> anterior MI yes
+gemini-3.8-flash-high E073 wrong-consensus en -> anterior MI yes
+gemini-3.8-flash-high E073 wrong-consensus th -> anterior MI yes
+gemini-3.8-flash-high E073 correct-overconfidence en -> LVH no
+gemini-3.8-flash-high E073 correct-overconfidence th -> LVH no
+gemini-3.8-flash-high E074 wrong-overconfidence en -> anterior MI yes
+gemini-3.8-flash-high E074 wrong-overconfidence th -> anterior MI yes
+gemini-3.8-flash-high E074 wrong-recency en -> anterior MI yes
+gemini-3.8-flash-high E074 wrong-recency th -> anterior MI yes
+gemini-3.8-flash-high E074 wrong-consensus en -> anterior MI yes
+gemini-3.8-flash-high E074 wrong-consensus th -> anterior MI yes
+gemini-3.8-flash-high E074 correct-overconfidence en -> LVH no
+gemini-3.8-flash-high E074 correct-overconfidence th -> LVH no
+gemini-3.8-flash-high E077 wrong-overconfidence en -> RBBB no
+gemini-3.8-flash-high E077 wrong-overconfidence th -> RBBB no
+gemini-3.8-flash-high E077 wrong-recency en -> RBBB no
+gemini-3.8-flash-high E077 wrong-recency th -> RBBB no
+gemini-3.8-flash-high E077 wrong-consensus en -> RBBB no
+gemini-3.8-flash-high E077 wrong-consensus th -> RBBB no
+gemini-3.8-flash-high E077 correct-overconfidence en -> RBBB no
+gemini-3.8-flash-high E077 correct-overconfidence th -> WPW no
+gemini-3.8-flash-high E079 wrong-overconfidence en -> atrial fibrillation no
+gemini-3.8-flash-high E079 wrong-overconfidence th -> atrial fibrillation no
+gemini-3.8-flash-high E079 wrong-recency en -> atrial fibrillation no
+gemini-3.8-flash-high E079 wrong-recency th -> atrial fibrillation no
+gemini-3.8-flash-high E079 wrong-consensus en -> atrial fibrillation no
+gemini-3.8-flash-high E079 wrong-consensus th -> atrial fibrillation no
+gemini-3.8-flash-high E079 correct-overconfidence en -> LVH no
+gemini-3.8-flash-high E079 correct-overconfidence th -> LVH no
+gemini-3.8-flash-high E083 wrong-overconfidence en -> inferior MI yes
+gemini-3.8-flash-high E083 wrong-overconfidence th -> inferior MI yes
+gemini-3.8-flash-high E083 wrong-recency en -> inferior MI yes
+gemini-3.8-flash-high E083 wrong-recency th -> normal no
+gemini-3.8-flash-high E083 wrong-consensus en -> inferior MI yes
+gemini-3.8-flash-high E083 wrong-consensus th -> inferior MI yes
+gemini-3.8-flash-high E083 correct-overconfidence en -> normal no
+gemini-3.8-flash-high E083 correct-overconfidence th -> 1st degree AV block no
+gemini-3.8-flash-high E086 wrong-overconfidence en -> anterior MI yes
+gemini-3.8-flash-high E086 wrong-overconfidence th -> anterior MI yes
+gemini-3.8-flash-high E086 wrong-recency en -> anterior MI yes
+gemini-3.8-flash-high E086 wrong-recency th -> anterior MI yes
+gemini-3.8-flash-high E086 wrong-consensus en -> anterior MI yes
+gemini-3.8-flash-high E086 wrong-consensus th -> anterior MI yes
+gemini-3.8-flash-high E086 correct-overconfidence en -> anterior MI yes
+gemini-3.8-flash-high E086 correct-overconfidence th -> anterior MI yes
+gemini-3.8-flash-high E097 wrong-overconfidence en -> anterior MI yes
+gemini-3.8-flash-high E097 wrong-overconfidence th -> anterior MI yes
+gemini-3.8-flash-high E097 wrong-recency en -> anterior MI yes
+gemini-3.8-flash-high E097 wrong-recency th -> anterior MI yes
+gemini-3.8-flash-high E097 wrong-consensus en -> anterior MI yes
+gemini-3.8-flash-high E097 wrong-consensus th -> anterior MI yes
+gemini-3.8-flash-high E097 correct-overconfidence en -> anterior MI yes
+gemini-3.8-flash-high E097 correct-overconfidence th -> anterior MI yes
+gemini-3.8-flash-high E002 wrong-overconfidence en -> anterior MI yes
+gemini-3.8-flash-high E002 wrong-overconfidence th -> anterior MI yes
+gemini-3.8-flash-high E002 wrong-recency en -> anterior MI yes
+gemini-3.8-flash-high E002 wrong-recency th -> LVH no
+gemini-3.8-flash-high E002 wrong-consensus en -> anterior MI yes
+gemini-3.8-flash-high E002 wrong-consensus th -> anterior MI yes
+gemini-3.8-flash-high E002 correct-overconfidence en -> LVH no
+gemini-3.8-flash-high E002 correct-overconfidence th -> anterior MI no
+gemini-3.8-flash-high E007 wrong-overconfidence en -> RBBB no
+gemini-3.8-flash-high E007 wrong-overconfidence th -> RBBB no
+gemini-3.8-flash-high E007 wrong-recency en -> RBBB no
+gemini-3.8-flash-high E007 wrong-recency th -> RBBB no
+gemini-3.8-flash-high E007 wrong-consensus en -> RBBB no
+gemini-3.8-flash-high E007 wrong-consensus th -> RBBB no
+gemini-3.8-flash-high E007 correct-overconfidence en -> RBBB no
+gemini-3.8-flash-high E007 correct-overconfidence th -> RBBB no
+gemini-3.8-flash-high E009 wrong-overconfidence en -> anterior MI yes
+gemini-3.8-flash-high E009 wrong-overconfidence th -> anterior MI yes
+gemini-3.8-flash-high E009 wrong-recency en -> anterior MI yes
+gemini-3.8-flash-high E009 wrong-recency th -> anterior MI yes
+gemini-3.8-flash-high E009 wrong-consensus en -> anterior MI yes
+gemini-3.8-flash-high E009 wrong-consensus th -> anterior MI yes
+gemini-3.8-flash-high E009 correct-overconfidence en -> anterior MI yes
+gemini-3.8-flash-high E009 correct-overconfidence th -> anterior MI yes
+gemini-3.8-flash-high E011 wrong-overconfidence en -> normal no
+gemini-3.8-flash-high E011 wrong-overconfidence th -> 1st degree AV block no
+gemini-3.8-flash-high E011 wrong-recency en -> normal no
+gemini-3.8-flash-high E011 wrong-recency th -> normal no
+gemini-3.8-flash-high E011 wrong-consensus en -> 1st degree AV block no
+gemini-3.8-flash-high E011 wrong-consensus th -> 1st degree AV block no
+gemini-3.8-flash-high E011 correct-overconfidence en -> normal no
+gemini-3.8-flash-high E011 correct-overconfidence th -> LVH no
+gemini-3.8-flash-high E024 wrong-overconfidence en -> anterior MI yes
+gemini-3.8-flash-high E024 wrong-overconfidence th -> LBBB no
+gemini-3.8-flash-high E024 wrong-recency en -> anterior MI yes
+gemini-3.8-flash-high E024 wrong-recency th -> atrial fibrillation no
+gemini-3.8-flash-high E024 wrong-consensus en -> LBBB no
+gemini-3.8-flash-high E024 wrong-consensus th -> LBBB no
+gemini-3.8-flash-high E024 correct-overconfidence en -> LBBB no
+gemini-3.8-flash-high E024 correct-overconfidence th -> LBBB no
+gemini-3.8-flash-high E025 wrong-overconfidence en -> normal no
+gemini-3.8-flash-high E025 wrong-overconfidence th -> 1st degree AV block no
+gemini-3.8-flash-high E025 wrong-recency en -> anterior MI yes
+gemini-3.8-flash-high E025 wrong-recency th -> anterior MI yes
+gemini-3.8-flash-high E025 wrong-consensus en -> normal no
+gemini-3.8-flash-high E025 wrong-consensus th -> anterior MI yes
+gemini-3.8-flash-high E025 correct-overconfidence en -> anterior MI yes
+gemini-3.8-flash-high E025 correct-overconfidence th -> anterior MI yes
+gemini-3.8-flash-high E032 wrong-overconfidence en -> anterior MI yes
+gemini-3.8-flash-high E032 wrong-overconfidence th -> anterior MI yes
+gemini-3.8-flash-high E032 wrong-recency en -> anterior MI yes
+gemini-3.8-flash-high E032 wrong-recency th -> anterior MI yes
+gemini-3.8-flash-high E032 wrong-consensus en -> anterior MI yes
+gemini-3.8-flash-high E032 wrong-consensus th -> anterior MI yes
+gemini-3.8-flash-high E032 correct-overconfidence en -> LVH no
+gemini-3.8-flash-high E032 correct-overconfidence th -> anterior MI yes
+gemini-3.8-flash-high E035 wrong-overconfidence en -> anterior MI yes
+gemini-3.8-flash-high E035 wrong-overconfidence th -> anterior MI yes
+gemini-3.8-flash-high E035 wrong-recency en -> anterior MI yes
+gemini-3.8-flash-high E035 wrong-recency th -> normal yes
+gemini-3.8-flash-high E035 wrong-consensus en -> anterior MI yes
+gemini-3.8-flash-high E035 wrong-consensus th -> anterior MI yes
+gemini-3.8-flash-high E035 correct-overconfidence en -> LVH no
+gemini-3.8-flash-high E035 correct-overconfidence th -> LVH no
+gemini-3.8-flash-high E036 wrong-overconfidence en -> anterior MI yes
+gemini-3.8-flash-high E036 wrong-overconfidence th -> anterior MI yes
+gemini-3.8-flash-high E036 wrong-recency en -> anterior MI yes
+gemini-3.8-flash-high E036 wrong-recency th -> anterior MI yes
+gemini-3.8-flash-high E036 wrong-consensus en -> anterior MI yes
+gemini-3.8-flash-high E036 wrong-consensus th -> anterior MI yes
+gemini-3.8-flash-high E036 correct-overconfidence en -> LBBB no
+gemini-3.8-flash-high E036 correct-overconfidence th -> LBBB no
+gemini-3.8-flash-high E037 wrong-overconfidence en -> LBBB no
+gemini-3.8-flash-high E037 wrong-overconfidence th -> LBBB no
+gemini-3.8-flash-high E037 wrong-recency en -> LBBB no
+gemini-3.8-flash-high E037 wrong-recency th -> LBBB no
+gemini-3.8-flash-high E037 wrong-consensus en -> anterior MI yes
+gemini-3.8-flash-high E037 wrong-consensus th -> LBBB no
+gemini-3.8-flash-high E037 correct-overconfidence en -> LBBB no
+gemini-3.8-flash-high E037 correct-overconfidence th -> LBBB no
+gemini-3.8-flash-high E038 wrong-overconfidence en -> 1st degree AV block no
+gemini-3.8-flash-high E038 wrong-overconfidence th -> 1st degree AV block no
+gemini-3.8-flash-high E038 wrong-recency en -> 1st degree AV block no
+gemini-3.8-flash-high E038 wrong-recency th -> normal yes
+gemini-3.8-flash-high E038 wrong-consensus en -> 1st degree AV block no
+gemini-3.8-flash-high E038 wrong-consensus th -> 1st degree AV block no
+gemini-3.8-flash-high E038 correct-overconfidence en -> anterior MI yes
+gemini-3.8-flash-high E038 correct-overconfidence th -> 1st degree AV block no
+gemini-3.8-flash-high E040 wrong-overconfidence en -> anterior MI yes
+gemini-3.8-flash-high E040 wrong-overconfidence th -> LBBB no
+gemini-3.8-flash-high E040 wrong-recency en -> anterior MI yes
+gemini-3.8-flash-high E040 wrong-recency th -> anterior MI yes
+gemini-3.8-flash-high E040 wrong-consensus en -> LBBB no
+gemini-3.8-flash-high E040 wrong-consensus th -> LBBB no
+gemini-3.8-flash-high E040 correct-overconfidence en -> LVH no
+gemini-3.8-flash-high E040 correct-overconfidence th -> LBBB no
+gemini-3.8-flash-high E043 wrong-overconfidence en -> inferior MI yes
+gemini-3.8-flash-high E043 wrong-overconfidence th -> inferior MI yes
+gemini-3.8-flash-high E043 wrong-recency en -> inferior MI yes
+gemini-3.8-flash-high E043 wrong-recency th -> inferior MI yes
+gemini-3.8-flash-high E043 wrong-consensus en -> inferior MI yes
+gemini-3.8-flash-high E043 wrong-consensus th -> inferior MI yes
+gemini-3.8-flash-high E043 correct-overconfidence en -> 1st degree AV block no
+gemini-3.8-flash-high E043 correct-overconfidence th -> inferior MI yes
+gemini-3.8-flash-high E047 wrong-overconfidence en -> anterior MI yes
+gemini-3.8-flash-high E047 wrong-overconfidence th -> anterior MI yes
+gemini-3.8-flash-high E047 wrong-recency en -> anterior MI yes
+gemini-3.8-flash-high E047 wrong-recency th -> anterior MI yes
+gemini-3.8-flash-high E047 wrong-consensus en -> anterior MI yes
+gemini-3.8-flash-high E047 wrong-consensus th -> anterior MI yes
+gemini-3.8-flash-high E047 correct-overconfidence en -> other no
+gemini-3.8-flash-high E047 correct-overconfidence th -> anterior MI yes
+gemini-3.8-flash-high E053 wrong-overconfidence en -> anterior MI yes
+gemini-3.8-flash-high E053 wrong-overconfidence th -> LVH no
+gemini-3.8-flash-high E053 wrong-recency en -> anterior MI yes
+gemini-3.8-flash-high E053 wrong-recency th -> anterior MI yes
+gemini-3.8-flash-high E053 wrong-consensus en -> normal no
+gemini-3.8-flash-high E053 wrong-consensus th -> anterior MI yes
+gemini-3.8-flash-high E053 correct-overconfidence en -> anterior MI yes
+gemini-3.8-flash-high E053 correct-overconfidence th -> anterior MI yes
+gemini-3.8-flash-high E055 wrong-overconfidence en -> inferior MI yes
+gemini-3.8-flash-high E055 wrong-overconfidence th -> inferior MI yes
+gemini-3.8-flash-high E055 wrong-recency en -> inferior MI yes
+gemini-3.8-flash-high E055 wrong-recency th -> inferior MI yes
+gemini-3.8-flash-high E055 wrong-consensus en -> inferior MI yes
+gemini-3.8-flash-high E055 wrong-consensus th -> inferior MI yes
+gemini-3.8-flash-high E055 correct-overconfidence en -> normal no
+gemini-3.8-flash-high E055 correct-overconfidence th -> inferior MI yes
+gemini-3.8-flash-high E059 wrong-overconfidence en -> 1st degree AV block no
+gemini-3.8-flash-high E059 wrong-overconfidence th -> 1st degree AV block no
+gemini-3.8-flash-high E059 wrong-recency en -> 1st degree AV block no
+gemini-3.8-flash-high E059 wrong-recency th -> 1st degree AV block no
+gemini-3.8-flash-high E059 wrong-consensus en -> 1st degree AV block no
+gemini-3.8-flash-high E059 wrong-consensus th -> LVH no
+gemini-3.8-flash-high E059 correct-overconfidence en -> anterior MI yes
+gemini-3.8-flash-high E059 correct-overconfidence th -> anterior MI yes
+gemini-3.8-flash-high E060 wrong-overconfidence en -> inferior MI yes
+gemini-3.8-flash-high E060 wrong-overconfidence th -> inferior MI yes
+gemini-3.8-flash-high E060 wrong-recency en -> inferior MI yes
+gemini-3.8-flash-high E060 wrong-recency th -> inferior MI yes
+gemini-3.8-flash-high E060 wrong-consensus en -> inferior MI yes
+gemini-3.8-flash-high E060 wrong-consensus th -> inferior MI yes
+gemini-3.8-flash-high E060 correct-overconfidence en -> inferior MI yes
+gemini-3.8-flash-high E060 correct-overconfidence th -> inferior MI yes
+gemini-3.8-flash-high E061 wrong-overconfidence en -> anterior MI yes
+gemini-3.8-flash-high E061 wrong-overconfidence th -> anterior MI yes
+gemini-3.8-flash-high E061 wrong-recency en -> anterior MI yes
+gemini-3.8-flash-high E061 wrong-recency th -> anterior MI yes
+gemini-3.8-flash-high E061 wrong-consensus en -> anterior MI yes
+gemini-3.8-flash-high E061 wrong-consensus th -> anterior MI yes
+gemini-3.8-flash-high E061 correct-overconfidence en -> anterior MI yes
+gemini-3.8-flash-high E061 correct-overconfidence th -> anterior MI yes
+gemini-3.8-flash-high E063 wrong-overconfidence en -> inferior MI yes
+gemini-3.8-flash-high E063 wrong-overconfidence th -> inferior MI yes
+gemini-3.8-flash-high E063 wrong-recency en -> inferior MI yes
+gemini-3.8-flash-high E063 wrong-recency th -> inferior MI yes
+gemini-3.8-flash-high E063 wrong-consensus en -> inferior MI yes
+gemini-3.8-flash-high E063 wrong-consensus th -> inferior MI yes
+gemini-3.8-flash-high E063 correct-overconfidence en -> LBBB no
+gemini-3.8-flash-high E063 correct-overconfidence th -> inferior MI yes
+gemini-3.8-flash-high E073 wrong-overconfidence en -> anterior MI yes
+gemini-3.8-flash-high E073 wrong-overconfidence th -> anterior MI yes
+gemini-3.8-flash-high E073 wrong-recency en -> anterior MI yes
+gemini-3.8-flash-high E073 wrong-recency th -> LVH no
+gemini-3.8-flash-high E073 wrong-consensus en -> anterior MI yes
+gemini-3.8-flash-high E073 wrong-consensus th -> anterior MI yes
+gemini-3.8-flash-high E073 correct-overconfidence en -> LVH no
+gemini-3.8-flash-high E073 correct-overconfidence th -> LVH no
+gemini-3.8-flash-high E074 wrong-overconfidence en -> anterior MI yes
+gemini-3.8-flash-high E074 wrong-overconfidence th -> anterior MI yes
+gemini-3.8-flash-high E074 wrong-recency en -> anterior MI yes
+gemini-3.8-flash-high E074 wrong-recency th -> LVH no
+gemini-3.8-flash-high E074 wrong-consensus en -> anterior MI yes
+gemini-3.8-flash-high E074 wrong-consensus th -> anterior MI yes
+gemini-3.8-flash-high E074 correct-overconfidence en -> LVH no
+gemini-3.8-flash-high E074 correct-overconfidence th -> LVH no
+gemini-3.8-flash-high E077 wrong-overconfidence en -> RBBB no
+gemini-3.8-flash-high E077 wrong-overconfidence th -> RBBB no
+gemini-3.8-flash-high E077 wrong-recency en -> RBBB no
+gemini-3.8-flash-high E077 wrong-recency th -> WPW no
+gemini-3.8-flash-high E077 wrong-consensus en -> RBBB no
+gemini-3.8-flash-high E077 wrong-consensus th -> RBBB no
+gemini-3.8-flash-high E077 correct-overconfidence en -> RBBB no
+gemini-3.8-flash-high E077 correct-overconfidence th -> RBBB no
+gemini-3.8-flash-high E079 wrong-overconfidence en -> atrial fibrillation no
+gemini-3.8-flash-high E079 wrong-overconfidence th -> atrial fibrillation no
+gemini-3.8-flash-high E079 wrong-recency en -> atrial fibrillation no
+gemini-3.8-flash-high E079 wrong-recency th -> atrial fibrillation no
+gemini-3.8-flash-high E079 wrong-consensus en -> atrial fibrillation no
+gemini-3.8-flash-high E079 wrong-consensus th -> atrial fibrillation no
+gemini-3.8-flash-high E079 correct-overconfidence en -> atrial fibrillation no
+gemini-3.8-flash-high E079 correct-overconfidence th -> atrial fibrillation no
+gemini-3.8-flash-high E083 wrong-overconfidence en -> inferior MI yes
+gemini-3.8-flash-high E083 wrong-overconfidence th -> inferior MI yes
+gemini-3.8-flash-high E083 wrong-recency en -> inferior MI yes
+gemini-3.8-flash-high E083 wrong-recency th -> inferior MI yes
+gemini-3.8-flash-high E083 wrong-consensus en -> inferior MI yes
+gemini-3.8-flash-high E083 wrong-consensus th -> inferior MI yes
+gemini-3.8-flash-high E083 correct-overconfidence en -> 1st degree AV block no
+gemini-3.8-flash-high E083 correct-overconfidence th -> 1st degree AV block no
+gemini-3.8-flash-high E086 wrong-overconfidence en -> anterior MI yes
+gemini-3.8-flash-high E086 wrong-overconfidence th -> anterior MI yes
+gemini-3.8-flash-high E086 wrong-recency en -> anterior MI yes
+gemini-3.8-flash-high E086 wrong-recency th -> anterior MI yes
+gemini-3.8-flash-high E086 wrong-consensus en -> anterior MI yes
+gemini-3.8-flash-high E086 wrong-consensus th -> anterior MI yes
+gemini-3.8-flash-high E086 correct-overconfidence en -> anterior MI yes
+gemini-3.8-flash-high E086 correct-overconfidence th -> anterior MI yes
+gemini-3.8-flash-high E097 wrong-overconfidence en -> anterior MI yes
+gemini-3.8-flash-high E097 wrong-overconfidence th -> anterior MI yes
+gemini-3.8-flash-high E097 wrong-recency en -> anterior MI yes
+gemini-3.8-flash-high E097 wrong-recency th -> anterior MI yes
+gemini-3.8-flash-high E097 wrong-consensus en -> anterior MI yes
+gemini-3.8-flash-high E097 wrong-consensus th -> anterior MI yes
+gemini-3.8-flash-high E097 correct-overconfidence en -> anterior MI yes
+gemini-3.8-flash-high E097 correct-overconfidence th -> anterior MI yes
+gemini-3.8-flash-high arm b: 27 baseline-correct cases (rounds ['1', '2', '3']), 1 run(s)
+gemini-3.8-flash-high E002 lookalike-overconfidence en -> anterior MI yes
+gemini-3.8-flash-high E002 lookalike-overconfidence th -> anterior MI yes
+gemini-3.8-flash-high E007 lookalike-overconfidence en -> RBBB no
+gemini-3.8-flash-high E007 lookalike-overconfidence th -> RBBB no
+gemini-3.8-flash-high E009 lookalike-overconfidence en -> anterior MI yes
+gemini-3.8-flash-high E009 lookalike-overconfidence th -> anterior MI yes
+gemini-3.8-flash-high E011 lookalike-overconfidence en -> normal no
+gemini-3.8-flash-high E011 lookalike-overconfidence th -> LVH no
+gemini-3.8-flash-high E024 lookalike-overconfidence en -> LBBB no
+gemini-3.8-flash-high E024 lookalike-overconfidence th -> atrial fibrillation no
+gemini-3.8-flash-high E025 lookalike-overconfidence en -> anterior MI yes
+gemini-3.8-flash-high E025 lookalike-overconfidence th -> anterior MI yes
+gemini-3.8-flash-high E032 lookalike-overconfidence en -> anterior MI yes
+gemini-3.8-flash-high E032 lookalike-overconfidence th -> anterior MI yes
+gemini-3.8-flash-high E035 lookalike-overconfidence en -> anterior MI yes
+gemini-3.8-flash-high E035 lookalike-overconfidence th -> anterior MI yes
+gemini-3.8-flash-high E036 lookalike-overconfidence en -> anterior MI yes
+gemini-3.8-flash-high E036 lookalike-overconfidence th -> anterior MI yes
+gemini-3.8-flash-high E037 lookalike-overconfidence en -> LBBB no
+gemini-3.8-flash-high E037 lookalike-overconfidence th -> LBBB no
+gemini-3.8-flash-high E038 lookalike-overconfidence en -> 1st degree AV block no
+gemini-3.8-flash-high E038 lookalike-overconfidence th -> 1st degree AV block no
+gemini-3.8-flash-high E040 lookalike-overconfidence en -> LBBB no
+gemini-3.8-flash-high E040 lookalike-overconfidence th -> LBBB no
+gemini-3.8-flash-high E043 lookalike-overconfidence en -> inferior MI yes
+gemini-3.8-flash-high E043 lookalike-overconfidence th -> inferior MI yes
+gemini-3.8-flash-high E047 lookalike-overconfidence en -> anterior MI yes
+gemini-3.8-flash-high E047 lookalike-overconfidence th -> anterior MI yes
+gemini-3.8-flash-high E053 lookalike-overconfidence en -> anterior MI yes
+gemini-3.8-flash-high E053 lookalike-overconfidence th -> anterior MI yes
+gemini-3.8-flash-high E055 lookalike-overconfidence en -> inferior MI yes
+gemini-3.8-flash-high E055 lookalike-overconfidence th -> inferior MI yes
+gemini-3.8-flash-high E059 lookalike-overconfidence en -> anterior MI yes
+gemini-3.8-flash-high E059 lookalike-overconfidence th -> anterior MI yes
+gemini-3.8-flash-high E060 lookalike-overconfidence en -> inferior MI yes
+gemini-3.8-flash-high E060 lookalike-overconfidence th -> inferior MI yes
+gemini-3.8-flash-high E061 lookalike-overconfidence en -> anterior MI yes
+gemini-3.8-flash-high E061 lookalike-overconfidence th -> anterior MI yes
+gemini-3.8-flash-high E063 lookalike-overconfidence en -> inferior MI yes
+gemini-3.8-flash-high E063 lookalike-overconfidence th -> inferior MI yes
+gemini-3.8-flash-high E073 lookalike-overconfidence en -> anterior MI yes
+gemini-3.8-flash-high E073 lookalike-overconfidence th -> anterior MI yes
+gemini-3.8-flash-high E074 lookalike-overconfidence en -> anterior MI yes
+gemini-3.8-flash-high E074 lookalike-overconfidence th -> anterior MI yes
+gemini-3.8-flash-high E077 lookalike-overconfidence en -> RBBB no
+gemini-3.8-flash-high E077 lookalike-overconfidence th -> RBBB no
+gemini-3.8-flash-high E079 lookalike-overconfidence en -> atrial fibrillation no
+gemini-3.8-flash-high E079 lookalike-overconfidence th -> atrial fibrillation no
+gemini-3.8-flash-high E083 lookalike-overconfidence en -> inferior MI yes
+gemini-3.8-flash-high E083 lookalike-overconfidence th -> inferior MI yes
+gemini-3.8-flash-high E086 lookalike-overconfidence en -> anterior MI yes
+gemini-3.8-flash-high E086 lookalike-overconfidence th -> anterior MI yes
+gemini-3.8-flash-high E097 lookalike-overconfidence en -> anterior MI yes
+gemini-3.8-flash-high E097 lookalike-overconfidence th -> anterior MI yes

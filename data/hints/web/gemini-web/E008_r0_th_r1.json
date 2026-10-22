@@ -1,0 +1,12 @@
+{
+ "case": "E008",
+ "group": "acute_mi",
+ "condition": "r0",
+ "target": "",
+ "lang": "th",
+ "message": "ช่วยอ่าน EKG นี้ให้หน่อย",
+ "reply": "ผลการแปลผลคลื่นไฟฟ้าหัวใจ (12-Lead ECG) โดยละเอียดตามระบบ มีดังนี้:\n\nการแปลผลเบื้องต้น (Impression)\nAtrial Fibrillation with controlled ventricular response (ภาวะหัวใจห้องบนสั่นพลิ้ว ที่มีอัตราการเต้นของหัวใจห้องล่างอยู่ในเกณฑ์ปกติ)\nLeft Axis Deviation (LAD) ร่วมกับลักษณะที่เข้าได้กับ Left Anterior Fascicular Block (LAFB)\nPoor R-wave progression ในช่วง lead V1–V4\n\nการวิเคราะห์ตามองค์ประกอบ (Systematic Analysis)\nจังหวะและอัตราการเต้น (Rhythm & Rate)\nจังหวะ (Rhythm): ไม่สม่ำเสมออย่างสมบูรณ์ (Irregularly irregular) และไม่มีคลื่น P wave ที่ชัดเจน โดยพบเป็นคลื่นสั่นไหวละเอียด (fibrillatory/f waves) สอดคล้องกับ Atrial Fibrillation (AF)\nอัตราการเต้น (Rate): ประมาณ 65–75 ครั้งต่อนาที จัดเป็นอัตราที่ควบคุมได้ดี (Controlled ventricular response)\nแกนไฟฟ้าหัวใจ (Axis)\nLeft Axis Deviation (แกนเบี่ยงซ้าย): ขั้วของ QRS complex เป็นบวกชัดเจนใน aVL และเป็นลบเด่นชัดใน Lead II, III, aVF\nมีลักษณะคลื่นเป็น rS ใน lead II, III, aVF และ qR ใน aVL ซึ่งเข้าได้กับภาวะ Left Anterior Fascicular Block (LAFB)\nคลื่นและช่วงเวลา (Intervals & Waveforms)\nP wave: ไม่พบ P wave ปกติ\nQRS duration: แคบเป็นปกติ (< 120 ms)\nPrecordial progression: การเติบโตของคลื่น R wave ในแนวหน้าอกช้าผิดปกติ (Poor R-wave progression) โดยแนว transition zone เลื่อนไปทางด้านข้าง (V5)\nST-T Changes: มีการเปลี่ยนแปลงของ ST-T เล็กน้อยแบบไม่จำเพาะ (Nonspecific ST-T changes) และมีสัญญาณรบกวน (Artifact/Tremor) เล็กน้อยบริเวณเส้น Baseline ในบาง Lead\n\nข้อแนะนำทางคลินิก\nผู้ป่วยที่มีภาวะ Atrial Fibrillation จำเป็นต้องได้รับการประเมินความเสี่ยงต่อการเกิดลิ่มเลือดอุดตันในสมอง (เช่น การประเมินคะแนน CHA2DS2-VASc score) เพื่อพิจารณาการให้ยาต้านการแข็งตัวของเลือด (Anticoagulant)\nควรตรวจหาสาเหตุที่กระตุ้นให้เกิด AF เช่น ความดันโลหิตสูง, โรคหลอดเลือดหัวใจ, โรคลิ้นหัวใจ, โรคไทรอยด์ หรือความผิดปกติของเกลือแร่ในร่างกาย\nควรนำผลนี้ไปปรึกษาแพทย์ประจำตัวหรืออายุรแพทย์โรคหัวใจ เพื่อวางแผนการดูแลและรักษาที่เหมาะสมต่อไป",
+ "interface": "gemini.google.com, temporary chat",
+ "model_label": "Flash (web picker)",
+ "time": "2026-10-20T16:29:49"
+}

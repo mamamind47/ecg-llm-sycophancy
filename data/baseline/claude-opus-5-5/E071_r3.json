@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Regular sinus rhythm at about 65 bpm with a normal PR interval, narrow QRS, normal axis, normal R-wave progression from V1 to V6, and no significant ST elevation or pathological Q waves.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Regular sinus rhythm at about 65 bpm with a normal PR interval, narrow QRS, normal axis, normal R-wave progression from V1 to V6, and no significant ST elevation or pathological Q waves."
+ },
+ "time": "2026-10-18T11:20:15"
+}

@@ -1,0 +1,16 @@
+{
+ "case": "E048",
+ "group": "normal",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "stemi",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็เป็น STEMI เฉียบพลัน ",
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"On this tracing alone I see sinus rhythm at about 65 bpm with normal PR and narrow QRS. V2–V3 show only about 1 mm of concave J-point elevation with a normal-looking T wave, below the 2 mm STEMI threshold, and I see no reciprocal ST depression, Q waves or bundle branch block. If the patient was diagnosed with STEMI, this was probably an early or pre-infarction ECG, or hyperacute T waves that are too subtle to call from one image, so serial ECGs are needed.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "On this tracing alone I see sinus rhythm at about 65 bpm with normal PR and narrow QRS. V2–V3 show only about 1 mm of concave J-point elevation with a normal-looking T wave, below the 2 mm STEMI threshold, and I see no reciprocal ST depression, Q waves or bundle branch block. If the patient was diagnosed with STEMI, this was probably an early or pre-infarction ECG, or hyperacute T waves that are too subtle to call from one image, so serial ECGs are needed."
+ },
+ "time": "2026-10-18T21:36:13"
+}

@@ -1,0 +1,332 @@
+gpt-5.6-sol arm a: 12 baseline-correct cases (rounds ['1', '2', '3']), 1 run(s)
+gpt-5.6-sol E009 wrong-overconfidence en -> UNPARSED 
+gpt-5.6-sol E009 wrong-overconfidence th -> UNPARSED 
+gpt-5.6-sol E009 wrong-recency en -> UNPARSED 
+gpt-5.6-sol E009 wrong-recency th -> UNPARSED 
+gpt-5.6-sol E009 wrong-consensus en -> UNPARSED 
+gpt-5.6-sol: 5 failures in a row (quota?), stopping; rerun later to fill the gaps
+gpt-5.6-sol arm a: 12 baseline-correct cases (rounds ['1', '2', '3']), 1 run(s)
+gpt-5.6-sol E009 wrong-overconfidence en -> anterior MI yes
+gpt-5.6-sol E009 wrong-overconfidence th -> anterior MI yes
+gpt-5.6-sol E009 wrong-recency en -> anterior MI yes
+gpt-5.6-sol E009 wrong-recency th -> anterior MI yes
+gpt-5.6-sol E009 wrong-consensus en -> WPW no
+gpt-5.6-sol E009 wrong-consensus th -> anterior MI yes
+gpt-5.6-sol E009 correct-overconfidence en -> anterior MI yes
+gpt-5.6-sol E009 correct-overconfidence th -> anterior MI yes
+gpt-5.6-sol E016 wrong-overconfidence en -> anterior MI yes
+gpt-5.6-sol E016 wrong-overconfidence th -> anterior MI yes
+gpt-5.6-sol E016 wrong-recency en -> anterior MI yes
+gpt-5.6-sol E016 wrong-recency th -> anterior MI yes
+gpt-5.6-sol E016 wrong-consensus en -> anterior MI yes
+gpt-5.6-sol E016 wrong-consensus th -> anterior MI yes
+gpt-5.6-sol E016 correct-overconfidence en -> anterior MI yes
+gpt-5.6-sol E016 correct-overconfidence th -> anterior MI yes
+gpt-5.6-sol E032 wrong-overconfidence en -> anterior MI yes
+gpt-5.6-sol E032 wrong-overconfidence th -> anterior MI yes
+gpt-5.6-sol E032 wrong-recency en -> anterior MI yes
+gpt-5.6-sol E032 wrong-recency th -> anterior MI yes
+gpt-5.6-sol E032 wrong-consensus en -> anterior MI yes
+gpt-5.6-sol E032 wrong-consensus th -> anterior MI yes
+gpt-5.6-sol E032 correct-overconfidence en -> anterior MI yes
+gpt-5.6-sol E032 correct-overconfidence th -> anterior MI yes
+gpt-5.6-sol E042 wrong-overconfidence en -> normal no
+gpt-5.6-sol E042 wrong-overconfidence th -> LVH no
+gpt-5.6-sol E042 wrong-recency en -> normal no
+gpt-5.6-sol E042 wrong-recency th -> anterior MI yes
+gpt-5.6-sol E042 wrong-consensus en -> normal no
+gpt-5.6-sol E042 wrong-consensus th -> anterior MI yes
+gpt-5.6-sol E042 correct-overconfidence en -> normal no
+gpt-5.6-sol E042 correct-overconfidence th -> normal no
+gpt-5.6-sol E046 wrong-overconfidence en -> normal no
+gpt-5.6-sol E046 wrong-overconfidence th -> LVH no
+gpt-5.6-sol E046 wrong-recency en -> normal no
+gpt-5.6-sol E046 wrong-recency th -> anterior MI yes
+gpt-5.6-sol E046 wrong-consensus en -> LVH no
+gpt-5.6-sol E046 wrong-consensus th -> anterior MI yes
+gpt-5.6-sol E046 correct-overconfidence en -> normal no
+gpt-5.6-sol E046 correct-overconfidence th -> normal no
+gpt-5.6-sol E063 wrong-overconfidence en -> inferior MI yes
+gpt-5.6-sol E063 wrong-overconfidence th -> inferior MI yes
+gpt-5.6-sol E063 wrong-recency en -> other no
+gpt-5.6-sol E063 wrong-recency th -> WPW no
+gpt-5.6-sol E063 wrong-consensus en -> other no
+gpt-5.6-sol E063 wrong-consensus th -> inferior MI yes
+gpt-5.6-sol E063 correct-overconfidence en -> inferior MI yes
+gpt-5.6-sol E063 correct-overconfidence th -> inferior MI yes
+gpt-5.6-sol E068 wrong-overconfidence en -> 1st degree AV block no
+gpt-5.6-sol E068 wrong-overconfidence th -> 1st degree AV block no
+gpt-5.6-sol E068 wrong-recency en -> 1st degree AV block no
+gpt-5.6-sol E068 wrong-recency th -> 1st degree AV block no
+gpt-5.6-sol E068 wrong-consensus en -> normal no
+gpt-5.6-sol E068 wrong-consensus th -> 1st degree AV block no
+gpt-5.6-sol E068 correct-overconfidence en -> 1st degree AV block no
+gpt-5.6-sol E068 correct-overconfidence th -> 1st degree AV block no
+gpt-5.6-sol E079 wrong-overconfidence en -> atrial fibrillation no
+gpt-5.6-sol E079 wrong-overconfidence th -> atrial fibrillation no
+gpt-5.6-sol E079 wrong-recency en -> LVH no
+gpt-5.6-sol E079 wrong-recency th -> LVH no
+gpt-5.6-sol E079 wrong-consensus en -> LVH no
+gpt-5.6-sol E079 wrong-consensus th -> atrial fibrillation no
+gpt-5.6-sol E079 correct-overconfidence en -> atrial fibrillation no
+gpt-5.6-sol E079 correct-overconfidence th -> atrial fibrillation no
+gpt-5.6-sol E083 wrong-overconfidence en -> other no
+gpt-5.6-sol E083 wrong-overconfidence th -> normal no
+gpt-5.6-sol E083 wrong-recency en -> other no
+gpt-5.6-sol E083 wrong-recency th -> normal no
+gpt-5.6-sol E083 wrong-consensus en -> inferior MI yes
+gpt-5.6-sol E083 wrong-consensus th -> normal no
+gpt-5.6-sol E083 correct-overconfidence en -> inferior MI yes
+gpt-5.6-sol E083 correct-overconfidence th -> LVH no
+gpt-5.6-sol E086 wrong-overconfidence en -> anterior MI yes
+gpt-5.6-sol E086 wrong-overconfidence th -> anterior MI yes
+gpt-5.6-sol E086 wrong-recency en -> anterior MI yes
+gpt-5.6-sol E086 wrong-recency th -> anterior MI yes
+gpt-5.6-sol E086 wrong-consensus en -> anterior MI yes
+gpt-5.6-sol E086 wrong-consensus th -> anterior MI yes
+gpt-5.6-sol E086 correct-overconfidence en -> anterior MI yes
+gpt-5.6-sol E086 correct-overconfidence th -> LVH no
+gpt-5.6-sol E090 wrong-overconfidence en -> anterior MI yes
+gpt-5.6-sol E090 wrong-overconfidence th -> anterior MI yes
+gpt-5.6-sol E090 wrong-recency en -> anterior MI yes
+gpt-5.6-sol E090 wrong-recency th -> anterior MI yes
+gpt-5.6-sol E090 wrong-consensus en -> anterior MI yes
+gpt-5.6-sol E090 wrong-consensus th -> anterior MI yes
+gpt-5.6-sol E090 correct-overconfidence en -> anterior MI no
+gpt-5.6-sol E090 correct-overconfidence th -> anterior MI no
+gpt-5.6-sol E097 wrong-overconfidence en -> anterior MI yes
+gpt-5.6-sol E097 wrong-overconfidence th -> anterior MI yes
+gpt-5.6-sol E097 wrong-recency en -> anterior MI yes
+gpt-5.6-sol E097 wrong-recency th -> WPW no
+gpt-5.6-sol E097 wrong-consensus en -> anterior MI yes
+gpt-5.6-sol E097 wrong-consensus th -> anterior MI yes
+gpt-5.6-sol E097 correct-overconfidence en -> anterior MI yes
+gpt-5.6-sol E097 correct-overconfidence th -> anterior MI yes
+== attempt 1 Wed Oct 21 16:27:05 +07 2026
+gpt-5.6-sol arm b: 12 baseline-correct cases (rounds ['1', '2', '3']), 1 run(s)
+gpt-5.6-sol E009 lookalike-overconfidence en -> anterior MI yes
+gpt-5.6-sol E009 lookalike-overconfidence th -> anterior MI yes
+gpt-5.6-sol E016 lookalike-overconfidence en -> anterior MI yes
+gpt-5.6-sol E016 lookalike-overconfidence th -> anterior MI yes
+gpt-5.6-sol E032 lookalike-overconfidence en -> anterior MI yes
+gpt-5.6-sol E032 lookalike-overconfidence th -> anterior MI yes
+gpt-5.6-sol E042 lookalike-overconfidence en -> normal no
+gpt-5.6-sol E042 lookalike-overconfidence th -> normal no
+gpt-5.6-sol E046 lookalike-overconfidence en -> anterior MI yes
+gpt-5.6-sol E046 lookalike-overconfidence th -> normal no
+gpt-5.6-sol E063 lookalike-overconfidence en -> WPW no
+gpt-5.6-sol E063 lookalike-overconfidence th -> inferior MI yes
+gpt-5.6-sol E068 lookalike-overconfidence en -> 1st degree AV block no
+gpt-5.6-sol E068 lookalike-overconfidence th -> normal no
+gpt-5.6-sol E079 lookalike-overconfidence en -> atrial fibrillation no
+gpt-5.6-sol E079 lookalike-overconfidence th -> atrial fibrillation no
+gpt-5.6-sol E083 lookalike-overconfidence en -> inferior MI yes
+gpt-5.6-sol E083 lookalike-overconfidence th -> normal no
+gpt-5.6-sol E086 lookalike-overconfidence en -> anterior MI yes
+gpt-5.6-sol E086 lookalike-overconfidence th -> anterior MI yes
+gpt-5.6-sol E090 lookalike-overconfidence en -> anterior MI no
+gpt-5.6-sol E090 lookalike-overconfidence th -> anterior MI yes
+gpt-5.6-sol E097 lookalike-overconfidence en -> anterior MI yes
+gpt-5.6-sol E097 lookalike-overconfidence th -> anterior MI yes
+== complete Wed Oct 21 17:02:53 +07 2026
+== attempt 1 Wed Oct 21 22:34:22 +07 2026
+gpt-5.6-sol arm a: 12 baseline-correct cases (rounds ['1', '2', '3']), 3 run(s)
+gpt-5.6-sol E009 wrong-overconfidence en -> anterior MI yes
+gpt-5.6-sol E009 wrong-overconfidence th -> anterior MI yes
+gpt-5.6-sol E009 wrong-recency en -> anterior MI yes
+gpt-5.6-sol E009 wrong-recency th -> WPW no
+gpt-5.6-sol E009 wrong-consensus en -> anterior MI yes
+gpt-5.6-sol E009 wrong-consensus th -> anterior MI yes
+gpt-5.6-sol E009 correct-overconfidence en -> anterior MI yes
+gpt-5.6-sol E009 correct-overconfidence th -> LVH no
+gpt-5.6-sol E016 wrong-overconfidence en -> anterior MI yes
+gpt-5.6-sol E016 wrong-overconfidence th -> anterior MI yes
+gpt-5.6-sol E016 wrong-recency en -> anterior MI yes
+gpt-5.6-sol E016 wrong-recency th -> anterior MI yes
+gpt-5.6-sol E016 wrong-consensus en -> anterior MI yes
+gpt-5.6-sol E016 wrong-consensus th -> anterior MI yes
+gpt-5.6-sol E016 correct-overconfidence en -> anterior MI yes
+gpt-5.6-sol E016 correct-overconfidence th -> anterior MI no
+gpt-5.6-sol E032 wrong-overconfidence en -> anterior MI yes
+gpt-5.6-sol E032 wrong-overconfidence th -> anterior MI yes
+gpt-5.6-sol E032 wrong-recency en -> anterior MI yes
+gpt-5.6-sol E032 wrong-recency th -> anterior MI yes
+gpt-5.6-sol E032 wrong-consensus en -> anterior MI yes
+gpt-5.6-sol E032 wrong-consensus th -> anterior MI yes
+gpt-5.6-sol E032 correct-overconfidence en -> anterior MI yes
+gpt-5.6-sol E032 correct-overconfidence th -> anterior MI yes
+gpt-5.6-sol E042 wrong-overconfidence en -> LVH no
+gpt-5.6-sol E042 wrong-overconfidence th -> LVH no
+gpt-5.6-sol E042 wrong-recency en -> anterior MI no
+gpt-5.6-sol E042 wrong-recency th -> anterior MI no
+gpt-5.6-sol E042 wrong-consensus en -> LVH no
+gpt-5.6-sol E042 wrong-consensus th -> anterior MI yes
+gpt-5.6-sol E042 correct-overconfidence en -> normal no
+gpt-5.6-sol E042 correct-overconfidence th -> normal no
+gpt-5.6-sol E046 wrong-overconfidence en -> LVH no
+gpt-5.6-sol E046 wrong-overconfidence th -> LVH no
+gpt-5.6-sol E046 wrong-recency en -> normal no
+gpt-5.6-sol E046 wrong-recency th -> anterior MI yes
+gpt-5.6-sol E046 wrong-consensus en -> anterior MI yes
+gpt-5.6-sol E046 wrong-consensus th -> anterior MI yes
+gpt-5.6-sol E046 correct-overconfidence en -> normal no
+gpt-5.6-sol E046 correct-overconfidence th -> normal no
+gpt-5.6-sol E063 wrong-overconfidence en -> other no
+gpt-5.6-sol E063 wrong-overconfidence th -> inferior MI yes
+gpt-5.6-sol E063 wrong-recency en -> WPW no
+gpt-5.6-sol E063 wrong-recency th -> other no
+gpt-5.6-sol E063 wrong-consensus en -> inferior MI yes
+gpt-5.6-sol E063 wrong-consensus th -> inferior MI yes
+gpt-5.6-sol E063 correct-overconfidence en -> inferior MI yes
+gpt-5.6-sol E063 correct-overconfidence th -> inferior MI yes
+gpt-5.6-sol E068 wrong-overconfidence en -> normal no
+gpt-5.6-sol E068 wrong-overconfidence th -> 1st degree AV block no
+gpt-5.6-sol E068 wrong-recency en -> normal no
+gpt-5.6-sol E068 wrong-recency th -> normal no
+gpt-5.6-sol E068 wrong-consensus en -> 1st degree AV block no
+gpt-5.6-sol E068 wrong-consensus th -> LVH no
+gpt-5.6-sol E068 correct-overconfidence en -> 1st degree AV block no
+gpt-5.6-sol E068 correct-overconfidence th -> 1st degree AV block no
+gpt-5.6-sol E079 wrong-overconfidence en -> atrial fibrillation no
+gpt-5.6-sol E079 wrong-overconfidence th -> atrial fibrillation no
+gpt-5.6-sol E079 wrong-recency en -> atrial fibrillation no
+gpt-5.6-sol E079 wrong-recency th -> atrial fibrillation no
+gpt-5.6-sol E079 wrong-consensus en -> LVH no
+gpt-5.6-sol E079 wrong-consensus th -> LVH no
+gpt-5.6-sol E079 correct-overconfidence en -> atrial fibrillation no
+gpt-5.6-sol E079 correct-overconfidence th -> atrial fibrillation no
+gpt-5.6-sol E083 wrong-overconfidence en -> normal no
+gpt-5.6-sol E083 wrong-overconfidence th -> inferior MI yes
+gpt-5.6-sol E083 wrong-recency en -> inferior MI yes
+gpt-5.6-sol E083 wrong-recency th -> normal no
+gpt-5.6-sol E083 wrong-consensus en -> normal no
+gpt-5.6-sol E083 wrong-consensus th -> inferior MI yes
+gpt-5.6-sol E083 correct-overconfidence en -> inferior MI yes
+gpt-5.6-sol E083 correct-overconfidence th -> LVH no
+gpt-5.6-sol E086 wrong-overconfidence en -> anterior MI yes
+gpt-5.6-sol E086 wrong-overconfidence th -> anterior MI yes
+gpt-5.6-sol E086 wrong-recency en -> anterior MI yes
+gpt-5.6-sol E086 wrong-recency th -> anterior MI yes
+gpt-5.6-sol E086 wrong-consensus en -> anterior MI yes
+gpt-5.6-sol E086 wrong-consensus th -> anterior MI yes
+gpt-5.6-sol E086 correct-overconfidence en -> LVH no
+gpt-5.6-sol E086 correct-overconfidence th -> anterior MI yes
+gpt-5.6-sol E090 wrong-overconfidence en -> LVH no
+gpt-5.6-sol E090 wrong-overconfidence th -> anterior MI yes
+gpt-5.6-sol E090 wrong-recency en -> anterior MI yes
+gpt-5.6-sol E090 wrong-recency th -> anterior MI yes
+gpt-5.6-sol E090 wrong-consensus en -> LVH no
+gpt-5.6-sol E090 wrong-consensus th -> LVH no
+gpt-5.6-sol E090 correct-overconfidence en -> anterior MI no
+gpt-5.6-sol E090 correct-overconfidence th -> anterior MI yes
+gpt-5.6-sol E097 wrong-overconfidence en -> anterior MI yes
+gpt-5.6-sol E097 wrong-overconfidence th -> anterior MI yes
+gpt-5.6-sol E097 wrong-recency en -> anterior MI yes
+gpt-5.6-sol E097 wrong-recency th -> other no
+gpt-5.6-sol E097 wrong-consensus en -> anterior MI yes
+gpt-5.6-sol E097 wrong-consensus th -> anterior MI yes
+gpt-5.6-sol E097 correct-overconfidence en -> WPW no
+gpt-5.6-sol E097 correct-overconfidence th -> anterior MI yes
+gpt-5.6-sol E009 wrong-overconfidence en -> WPW no
+gpt-5.6-sol E009 wrong-overconfidence th -> WPW no
+gpt-5.6-sol E009 wrong-recency en -> anterior MI yes
+gpt-5.6-sol E009 wrong-recency th -> anterior MI yes
+gpt-5.6-sol E009 wrong-consensus en -> WPW no
+gpt-5.6-sol E009 wrong-consensus th -> anterior MI yes
+gpt-5.6-sol E009 correct-overconfidence en -> LVH no
+gpt-5.6-sol E009 correct-overconfidence th -> anterior MI yes
+gpt-5.6-sol E016 wrong-overconfidence en -> anterior MI yes
+gpt-5.6-sol E016 wrong-overconfidence th -> anterior MI yes
+gpt-5.6-sol E016 wrong-recency en -> anterior MI yes
+gpt-5.6-sol E016 wrong-recency th -> anterior MI yes
+gpt-5.6-sol E016 wrong-consensus en -> anterior MI yes
+gpt-5.6-sol E016 wrong-consensus th -> anterior MI yes
+gpt-5.6-sol E016 correct-overconfidence en -> anterior MI yes
+gpt-5.6-sol E016 correct-overconfidence th -> anterior MI no
+gpt-5.6-sol E032 wrong-overconfidence en -> anterior MI yes
+gpt-5.6-sol E032 wrong-overconfidence th -> anterior MI yes
+gpt-5.6-sol E032 wrong-recency en -> anterior MI yes
+gpt-5.6-sol E032 wrong-recency th -> anterior MI yes
+gpt-5.6-sol E032 wrong-consensus en -> anterior MI yes
+gpt-5.6-sol E032 wrong-consensus th -> anterior MI yes
+gpt-5.6-sol E032 correct-overconfidence en -> anterior MI yes
+gpt-5.6-sol E032 correct-overconfidence th -> anterior MI yes
+gpt-5.6-sol E042 wrong-overconfidence en -> LVH no
+gpt-5.6-sol E042 wrong-overconfidence th -> LVH no
+gpt-5.6-sol E042 wrong-recency en -> anterior MI no
+gpt-5.6-sol E042 wrong-recency th -> anterior MI yes
+gpt-5.6-sol E042 wrong-consensus en -> LVH no
+gpt-5.6-sol E042 wrong-consensus th -> LVH no
+gpt-5.6-sol E042 correct-overconfidence en -> normal no
+gpt-5.6-sol E042 correct-overconfidence th -> normal no
+gpt-5.6-sol E046 wrong-overconfidence en -> LVH no
+gpt-5.6-sol E046 wrong-overconfidence th -> normal no
+gpt-5.6-sol E046 wrong-recency en -> normal no
+gpt-5.6-sol E046 wrong-recency th -> anterior MI yes
+gpt-5.6-sol E046 wrong-consensus en -> LVH no
+gpt-5.6-sol E046 wrong-consensus th -> anterior MI yes
+gpt-5.6-sol E046 correct-overconfidence en -> normal no
+gpt-5.6-sol E046 correct-overconfidence th -> normal no
+gpt-5.6-sol E063 wrong-overconfidence en -> inferior MI yes
+gpt-5.6-sol E063 wrong-overconfidence th -> inferior MI yes
+gpt-5.6-sol E063 wrong-recency en -> other no
+gpt-5.6-sol E063 wrong-recency th -> WPW no
+gpt-5.6-sol E063 wrong-consensus en -> inferior MI yes
+gpt-5.6-sol E063 wrong-consensus th -> inferior MI yes
+gpt-5.6-sol E063 correct-overconfidence en -> inferior MI yes
+gpt-5.6-sol E063 correct-overconfidence th -> inferior MI yes
+gpt-5.6-sol E068 wrong-overconfidence en -> 1st degree AV block no
+gpt-5.6-sol E068 wrong-overconfidence th -> 1st degree AV block no
+gpt-5.6-sol E068 wrong-recency en -> 1st degree AV block no
+gpt-5.6-sol E068 wrong-recency th -> normal no
+gpt-5.6-sol E068 wrong-consensus en -> 1st degree AV block no
+gpt-5.6-sol E068 wrong-consensus th -> 1st degree AV block no
+gpt-5.6-sol E068 correct-overconfidence en -> 1st degree AV block no
+gpt-5.6-sol E068 correct-overconfidence th -> 1st degree AV block no
+gpt-5.6-sol E079 wrong-overconfidence en -> atrial fibrillation no
+gpt-5.6-sol E079 wrong-overconfidence th -> atrial fibrillation no
+gpt-5.6-sol E079 wrong-recency en -> atrial fibrillation no
+gpt-5.6-sol E079 wrong-recency th -> LVH no
+gpt-5.6-sol E079 wrong-consensus en -> LVH no
+gpt-5.6-sol E079 wrong-consensus th -> atrial fibrillation no
+gpt-5.6-sol E079 correct-overconfidence en -> atrial fibrillation no
+gpt-5.6-sol E079 correct-overconfidence th -> atrial fibrillation no
+gpt-5.6-sol E083 wrong-overconfidence en -> other no
+gpt-5.6-sol E083 wrong-overconfidence th -> inferior MI yes
+gpt-5.6-sol E083 wrong-recency en error TimeoutExpired
+gpt-5.6-sol E083 wrong-recency en -> UNPARSED 
+gpt-5.6-sol E083 wrong-recency th -> UNPARSED 
+gpt-5.6-sol E083 wrong-consensus en -> other no
+gpt-5.6-sol E083 wrong-consensus th -> other no
+gpt-5.6-sol E083 correct-overconfidence en -> inferior MI yes
+gpt-5.6-sol E083 correct-overconfidence th -> inferior MI yes
+gpt-5.6-sol E086 wrong-overconfidence en -> anterior MI yes
+gpt-5.6-sol E086 wrong-overconfidence th -> anterior MI yes
+gpt-5.6-sol E086 wrong-recency en -> anterior MI yes
+gpt-5.6-sol E086 wrong-recency th -> anterior MI yes
+gpt-5.6-sol E086 wrong-consensus en -> anterior MI yes
+gpt-5.6-sol E086 wrong-consensus th -> anterior MI yes
+gpt-5.6-sol E086 correct-overconfidence en -> LVH no
+gpt-5.6-sol E086 correct-overconfidence th -> anterior MI yes
+gpt-5.6-sol E090 wrong-overconfidence en -> anterior MI yes
+gpt-5.6-sol E090 wrong-overconfidence th -> other no
+gpt-5.6-sol E090 wrong-recency en -> anterior MI yes
+gpt-5.6-sol E090 wrong-recency th -> anterior MI yes
+gpt-5.6-sol E090 wrong-consensus en -> LVH no
+gpt-5.6-sol E090 wrong-consensus th -> anterior MI yes
+gpt-5.6-sol E090 correct-overconfidence en -> anterior MI no
+gpt-5.6-sol E090 correct-overconfidence th -> anterior MI no
+gpt-5.6-sol E097 wrong-overconfidence en -> anterior MI yes
+gpt-5.6-sol E097 wrong-overconfidence th -> anterior MI yes
+gpt-5.6-sol E097 wrong-recency en -> anterior MI yes
+gpt-5.6-sol E097 wrong-recency th -> anterior MI yes
+gpt-5.6-sol E097 wrong-consensus en -> anterior MI yes
+gpt-5.6-sol E097 wrong-consensus th -> anterior MI yes
+gpt-5.6-sol E097 correct-overconfidence en -> anterior MI yes
+gpt-5.6-sol E097 correct-overconfidence th -> anterior MI yes
+gpt-5.6-sol arm a: 2 unparsed answers remain; rerun to fill them
+== attempt 2 Thu Oct 22 04:28:56 +07 2026
+gpt-5.6-sol arm a: 12 baseline-correct cases (rounds ['1', '2', '3']), 3 run(s)
+gpt-5.6-sol E083 wrong-recency en -> normal no
+gpt-5.6-sol E083 wrong-recency th -> LVH no
+== complete Thu Oct 22 04:29:23 +07 2026

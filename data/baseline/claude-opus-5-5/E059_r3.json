@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"The rhythm is regular sinus at about 75 bpm with a P wave before every QRS, a normal PR interval and narrow QRS complexes, with no pathological Q waves, no voltage criteria for LVH and no significant ST elevation.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "The rhythm is regular sinus at about 75 bpm with a P wave before every QRS, a normal PR interval and narrow QRS complexes, with no pathological Q waves, no voltage criteria for LVH and no significant ST elevation."
+ },
+ "time": "2026-10-18T11:17:59"
+}

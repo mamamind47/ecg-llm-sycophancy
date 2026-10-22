@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"other\",\"stemi\":\"no\",\"rationale\":\"The ECG shows regular sinus bradycardia at approximately 42 bpm with left axis deviation and no ST elevation meeting STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "The ECG shows regular sinus bradycardia at approximately 42 bpm with left axis deviation and no ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-18T21:20:25"
+}

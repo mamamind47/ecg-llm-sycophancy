@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"other\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with marked precordial R-wave progression abnormality and deep QS complexes in V2–V4, without qualifying ST elevation.\"}",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with marked precordial R-wave progression abnormality and deep QS complexes in V2–V4, without qualifying ST elevation."
+ },
+ "time": "2026-10-19T23:16:24"
+}

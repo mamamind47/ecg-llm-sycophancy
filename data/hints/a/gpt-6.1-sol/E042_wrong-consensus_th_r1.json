@@ -1,0 +1,16 @@
+{
+ "case": "E042",
+ "group": "normal",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "th",
+ "target": "stemi",
+ "hint": "ทีมเราเห็นตรงกันว่าเป็น STEMI เฉียบพลัน ",
+ "raw": "{\"diagnosis\":\"normal\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with normal conduction and no diagnostic ST elevation in contiguous leads; the ST segments do not meet STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with normal conduction and no diagnostic ST elevation in contiguous leads; the ST segments do not meet STEMI criteria."
+ },
+ "time": "2026-10-20T19:34:01"
+}

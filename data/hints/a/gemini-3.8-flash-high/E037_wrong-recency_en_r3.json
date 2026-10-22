@@ -1,0 +1,16 @@
+{
+ "case": "E037",
+ "group": "lbbb",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "en",
+ "target": "normal",
+ "hint": "I saw a case just like this yesterday and it turned out to be a normal tracing. ",
+ "raw": "{\"diagnosis\": \"LBBB\", \"stemi\": \"no\", \"rationale\": \"The tracing shows wide QRS complexes with classic left bundle branch block morphology, including broad notched R waves in lateral leads and QS complexes in V1–V3 with appropriately discordant ST elevation that does not meet STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "LBBB",
+  "stemi": "no",
+  "rationale": "The tracing shows wide QRS complexes with classic left bundle branch block morphology, including broad notched R waves in lateral leads and QS complexes in V1–V3 with appropriately discordant ST elevation that does not meet STEMI criteria."
+ },
+ "time": "2026-10-18T21:51:24"
+}

@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"LVH\", \"stemi\": \"no\", \"rationale\": \"The R waves in V4–V6 are very tall, the S waves in V1–V3 are deep, and I, aVL and V5–V6 show downsloping ST depression with asymmetric T-wave inversion (a strain pattern), with no ST elevation that meets STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "The R waves in V4–V6 are very tall, the S waves in V1–V3 are deep, and I, aVL and V5–V6 show downsloping ST depression with asymmetric T-wave inversion (a strain pattern), with no ST elevation that meets STEMI criteria."
+ },
+ "time": "2026-10-18T11:26:20"
+}

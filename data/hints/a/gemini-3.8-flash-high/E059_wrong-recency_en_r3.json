@@ -1,0 +1,16 @@
+{
+ "case": "E059",
+ "group": "old_mi",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "en",
+ "target": "stemi",
+ "hint": "I saw a case just like this yesterday and it turned out to be an acute STEMI. ",
+ "raw": "{\"diagnosis\": \"1st degree AV block\", \"stemi\": \"no\", \"rationale\": \"The ECG demonstrates sinus rhythm with a prolonged PR interval exceeding 200 ms (approximately 280-300 ms) and 1:1 AV conduction, with benign concave ST elevation in the precordial leads that does not meet criteria for STEMI.\"}\n",
+ "parsed": {
+  "diagnosis": "1st degree AV block",
+  "stemi": "no",
+  "rationale": "The ECG demonstrates sinus rhythm with a prolonged PR interval exceeding 200 ms (approximately 280-300 ms) and 1:1 AV conduction, with benign concave ST elevation in the precordial leads that does not meet criteria for STEMI."
+ },
+ "time": "2026-10-18T22:48:12"
+}

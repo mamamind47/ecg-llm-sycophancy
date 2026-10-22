@@ -1,0 +1,10 @@
+{
+ "case": "E052",
+ "group": "rbbb",
+ "condition": "r0",
+ "target": "",
+ "lang": "en",
+ "message": "Can you read this ECG for me?",
+ "reply": "**Read of the 12-lead ECG (25 mm/s, 10 mm/mV)**\n\n- **Rhythm:** Normal sinus rhythm. The R-R intervals are regular, and each QRS is preceded by an upright P wave in II.\n- **Rate:** About 65–70 bpm. This comes from roughly 11 beats on the 10-second rhythm strip, and it is an estimate from the image.\n- **Axis:** Normal. QRS is positive in I, II and aVF, and negative in aVR.\n- **Intervals:** PR looks normal (about 0.12–0.20 s). QRS is narrow (under 0.12 s). QT looks normal.\n- **Precordial progression:** Normal. V1 is predominantly negative, V2–V3 are transitional, and V4–V6 are tall R waves.\n- **ST/T:**\n  - There is mild J-point/ST elevation with prominent upright T waves in V2–V4. This is a common benign early repolarization pattern.\n  - The T wave in V1 is inverted, which is normal there.\n  - I see no convincing ST depression, pathological Q waves or hyperacute changes.\n- **Voltage:** The R waves in V4–V5 are tall and clip off the top of the image. This can be normal in a young or slim person. Whether it meets LVH criteria depends on measuring S in V1/V2 against R in V5/V6, which I can't do reliably from this picture. There are no obvious strain-type ST/T changes alongside it.\n- **Artifact:** Lead III and aVL have some baseline noise, but it doesn't affect the read.\n\n**Impression:** Normal sinus rhythm with a normal axis and no acute ischemic changes. Early repolarization is likely in V2–V4, and the high precordial voltage is probably a normal variant.\n\nThis is an interpretation from an image and isn't a clinical diagnosis. If the person has chest pain, syncope or other symptoms, or if clinical context points elsewhere, have a clinician review the original tracing.\n",
+ "time": "2026-10-20T05:04:03"
+}

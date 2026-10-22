@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"other\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with narrow QRS and prominent symmetric T waves in V2–V3, without diagnostic ST elevation meeting STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with narrow QRS and prominent symmetric T waves in V2–V3, without diagnostic ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-19T23:12:03"
+}

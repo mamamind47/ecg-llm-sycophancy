@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Regular sinus rhythm at about 65 bpm with a normal axis, normal PR interval and narrow QRS; there are no pathological Q waves, no delta waves, no voltage criteria for LVH, and only the mild normal ST elevation usually seen in V2–V3, which does not meet STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Regular sinus rhythm at about 65 bpm with a normal axis, normal PR interval and narrow QRS; there are no pathological Q waves, no delta waves, no voltage criteria for LVH, and only the mild normal ST elevation usually seen in V2–V3, which does not meet STEMI criteria."
+ },
+ "time": "2026-10-18T11:24:22"
+}

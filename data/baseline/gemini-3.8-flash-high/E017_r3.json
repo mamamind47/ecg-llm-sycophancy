@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"The ECG demonstrates normal sinus rhythm with physiologic, concave ST-segment elevation in the anterior precordial leads consistent with benign early repolarization that does not meet STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "The ECG demonstrates normal sinus rhythm with physiologic, concave ST-segment elevation in the anterior precordial leads consistent with benign early repolarization that does not meet STEMI criteria."
+ },
+ "time": "2026-10-18T11:19:47"
+}

@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"other\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with premature atrial complexes produces an irregular rhythm with narrow QRS complexes, without ST elevation meeting STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with premature atrial complexes produces an irregular rhythm with narrow QRS complexes, without ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-18T16:01:35"
+}

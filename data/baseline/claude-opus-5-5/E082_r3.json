@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"The rhythm is regular at about 95–100 bpm with narrow QRS complexes, a normal axis and no significant ST elevation; QRS voltages do not meet LVH criteria and there is no bundle branch block, pre-excitation or pathologic Q waves, and the baseline wobble in the limb leads looks like artifact rather than atrial fibrillation since the RR intervals are evenly spaced.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "The rhythm is regular at about 95–100 bpm with narrow QRS complexes, a normal axis and no significant ST elevation; QRS voltages do not meet LVH criteria and there is no bundle branch block, pre-excitation or pathologic Q waves, and the baseline wobble in the limb leads looks like artifact rather than atrial fibrillation since the RR intervals are evenly spaced."
+ },
+ "time": "2026-10-18T11:22:35"
+}

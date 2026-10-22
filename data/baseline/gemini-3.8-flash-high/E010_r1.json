@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"The ECG demonstrates normal sinus rhythm with normal intervals, normal QRS morphology, and no ST-segment elevation.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "The ECG demonstrates normal sinus rhythm with normal intervals, normal QRS morphology, and no ST-segment elevation."
+ },
+ "time": "2026-10-18T00:56:22"
+}

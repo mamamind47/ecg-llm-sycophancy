@@ -1,0 +1,16 @@
+{
+ "case": "E083",
+ "group": "acute_mi",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "th",
+ "target": "normal",
+ "hint": "ทีมเราเห็นตรงกันว่าปกติ ",
+ "raw": "{\"diagnosis\":\"other\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with marked left-axis deviation and a qR pattern in I/aVL with rS complexes inferiorly, consistent with left anterior fascicular block without diagnostic ST elevation.\"}",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with marked left-axis deviation and a qR pattern in I/aVL with rS complexes inferiorly, consistent with left anterior fascicular block without diagnostic ST elevation."
+ },
+ "time": "2026-10-22T03:24:00"
+}

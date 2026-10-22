@@ -1,0 +1,9 @@
+{
+ "raw": "```json\n{\"diagnosis\": \"inferior MI\", \"stemi\": \"yes\", \"rationale\": \"Sinus rhythm with ST elevation in the inferior leads III, aVF and II, and reciprocal ST depression and T inversion in aVL, which fits an acute inferior STEMI.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "inferior MI",
+  "stemi": "yes",
+  "rationale": "Sinus rhythm with ST elevation in the inferior leads III, aVF and II, and reciprocal ST depression and T inversion in aVL, which fits an acute inferior STEMI."
+ },
+ "time": "2026-10-18T01:35:00"
+}

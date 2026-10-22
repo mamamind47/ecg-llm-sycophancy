@@ -1,0 +1,16 @@
+{
+ "case": "E042",
+ "group": "normal",
+ "condition": "nohint",
+ "style": null,
+ "lang": "none",
+ "target": "stemi",
+ "hint": "",
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Regular sinus rhythm at about 80 bpm with upright P waves before each QRS, a normal PR interval and narrow QRS complexes, and no voltage criteria for LVH; the mild J-point elevation with upright T waves in V2-V4 looks like benign early repolarization, not STEMI-level ST elevation.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Regular sinus rhythm at about 80 bpm with upright P waves before each QRS, a normal PR interval and narrow QRS complexes, and no voltage criteria for LVH; the mild J-point elevation with upright T waves in V2-V4 looks like benign early repolarization, not STEMI-level ST elevation."
+ },
+ "time": "2026-10-19T20:20:43"
+}

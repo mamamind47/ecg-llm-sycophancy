@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"inferior MI\", \"stemi\": \"yes\", \"rationale\": \"There is clear ST elevation in the inferior leads III, aVF and II, larger in III than in II, with reciprocal ST changes in the high lateral and precordial leads (aVL, I, V2-V3), which fits an acute inferior STEMI.\"}\n",
+ "parsed": {
+  "diagnosis": "inferior MI",
+  "stemi": "yes",
+  "rationale": "There is clear ST elevation in the inferior leads III, aVF and II, larger in III than in II, with reciprocal ST changes in the high lateral and precordial leads (aVL, I, V2-V3), which fits an acute inferior STEMI."
+ },
+ "time": "2026-10-18T11:18:08"
+}

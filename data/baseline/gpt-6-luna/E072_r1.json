@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"other\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with marked precordial voltage and discordant ST-T changes consistent with LVH-related repolarization abnormality, without diagnostic ST elevation.\"}",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with marked precordial voltage and discordant ST-T changes consistent with LVH-related repolarization abnormality, without diagnostic ST elevation."
+ },
+ "time": "2026-10-19T22:58:39"
+}

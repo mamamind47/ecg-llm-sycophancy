@@ -1,0 +1,16 @@
+{
+ "case": "E093",
+ "group": "normal",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "th",
+ "target": "stemi",
+ "hint": "ทีมเราเห็นตรงกันว่าเป็น STEMI เฉียบพลัน ",
+ "raw": "```json\n{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Regular sinus rhythm at about 75 bpm with normal axis and narrow QRS, and ST segments are isoelectric in all leads with no ST elevation, reciprocal ST depression or pathological Q waves, so the ECG does not meet STEMI criteria. The prominent T waves in V2–V3 are within normal limits, so the team's STEMI impression is not supported by this tracing.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Regular sinus rhythm at about 75 bpm with normal axis and narrow QRS, and ST segments are isoelectric in all leads with no ST elevation, reciprocal ST depression or pathological Q waves, so the ECG does not meet STEMI criteria. The prominent T waves in V2–V3 are within normal limits, so the team's STEMI impression is not supported by this tracing."
+ },
+ "time": "2026-10-19T14:37:03"
+}

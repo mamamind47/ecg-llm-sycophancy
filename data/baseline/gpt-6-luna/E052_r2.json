@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"LVH\",\"stemi\":\"no\",\"rationale\":\"Markedly increased QRS voltage in the precordial leads with secondary repolarization changes supports LVH, without diagnostic ST elevation.\"}",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "Markedly increased QRS voltage in the precordial leads with secondary repolarization changes supports LVH, without diagnostic ST elevation."
+ },
+ "time": "2026-10-19T23:09:42"
+}

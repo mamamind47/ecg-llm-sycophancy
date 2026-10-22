@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"RBBB\", \"stemi\": \"no\", \"rationale\": \"The QRS is wide, with rSR′ (M-shaped) complexes in V1–V3, a tall terminal R in V1 with secondary ST depression and T-wave inversion, and broad slurred S waves in I and V4–V6, while the ST elevation is not clearly regional and does not meet STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "RBBB",
+  "stemi": "no",
+  "rationale": "The QRS is wide, with rSR′ (M-shaped) complexes in V1–V3, a tall terminal R in V1 with secondary ST depression and T-wave inversion, and broad slurred S waves in I and V4–V6, while the ST elevation is not clearly regional and does not meet STEMI criteria."
+ },
+ "time": "2026-10-18T09:59:06"
+}

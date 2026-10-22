@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"anterior MI\", \"stemi\": \"yes\", \"rationale\": \"Marked ST elevation in V1–V4 (tombstone-like in V2–V3, well beyond 2 mm), with smaller elevation in II, III and aVF and reciprocal ST depression in aVR, points to an acute anterior STEMI, possibly from a wraparound LAD occlusion.\"}\n",
+ "parsed": {
+  "diagnosis": "anterior MI",
+  "stemi": "yes",
+  "rationale": "Marked ST elevation in V1–V4 (tombstone-like in V2–V3, well beyond 2 mm), with smaller elevation in II, III and aVF and reciprocal ST depression in aVR, points to an acute anterior STEMI, possibly from a wraparound LAD occlusion."
+ },
+ "time": "2026-10-18T09:56:40"
+}

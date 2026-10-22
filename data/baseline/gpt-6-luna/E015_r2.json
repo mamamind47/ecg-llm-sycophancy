@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"other\",\"stemi\":\"no\",\"rationale\":\"There is a regular sinus rhythm with a short PR interval and slurred initial QRS upstrokes consistent with a delta wave, without diagnostic ST elevation.\"}",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "There is a regular sinus rhythm with a short PR interval and slurred initial QRS upstrokes consistent with a delta wave, without diagnostic ST elevation."
+ },
+ "time": "2026-10-19T23:04:29"
+}

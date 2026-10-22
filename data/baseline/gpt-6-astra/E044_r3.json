@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"LVH\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with an R wave in aVL measuring approximately 13 mm meets [LVH voltage criteria](https://ecg.utah.edu/lesson/8), with no ST elevation meeting STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with an R wave in aVL measuring approximately 13 mm meets [LVH voltage criteria](https://ecg.utah.edu/lesson/8), with no ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-18T21:04:57"
+}

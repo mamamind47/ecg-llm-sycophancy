@@ -1,0 +1,10 @@
+{
+ "case": "E074",
+ "group": "acute_mi",
+ "condition": "r0",
+ "target": "",
+ "lang": "th",
+ "message": "ช่วยอ่าน EKG นี้ให้หน่อย",
+ "reply": "# การอ่าน EKG (จากภาพ)\n\n**ข้อมูลทั่วไป:** 12-lead, 25 mm/s, 10 mm/mV\n\n| หัวข้อ | ผลที่เห็น |\n|---|---|\n| **จังหวะ (Rhythm)** | Sinus rhythm: มี P wave นำหน้าทุก QRS และ RR สม่ำเสมอ |\n| **อัตราการเต้น** | ประมาณ 55-60 ครั้ง/นาที (RR ราว 5 ช่องใหญ่) ซึ่งอยู่ในเกณฑ์ปกติค่อนต่ำ |\n| **แกนหัวใจ (Axis)** | ปกติ (QRS เป็นบวกใน I, II, aVF) |\n| **PR interval** | ปกติ ไม่เห็น AV block |\n| **QRS duration** | แคบ ไม่มี bundle branch block |\n\n## ความผิดปกติที่เห็น\n1. **S wave ลึกมากใน V1-V4**\n   - ลึกมากใน V2-V3 ซึ่งเกินเกณฑ์ voltage ของ LVH (S V1 + R V5/V6 > 35 mm)\n   - R wave ใน V5-V6 เล็ก\n   - R progression ดูช้า โดย transition อยู่ที่ราว V5\n2. **ST elevation ใน V1-V4**\n   - ลักษณะเป็น concave (โค้งขึ้น) และมี T wave สูงตามมา\n   - สัดส่วนสัมพันธ์กับความลึกของ S wave\n3. **ST depression และ T inversion ใน I และ aVL**\n   - อาจเป็น lateral repolarization abnormality (strain pattern)\n   - หรืออาจเป็น reciprocal change\n\n## การแปลผลที่น่าจะเป็น\n- **Left ventricular hypertrophy (LVH) with secondary repolarization abnormality** เป็นคำอธิบายที่เข้ากับภาพมากที่สุด ST elevation ใน V1-V3 ที่อยู่ตรงข้ามกับ S wave ลึกๆ เป็นลักษณะที่พบได้ใน LVH\n- **ต้องแยกจาก acute anterior STEMI** ภาพนี้ไม่ใช่ลักษณะ STEMI ทั่วไป เพราะ ST เป็น concave, QRS แคบ และไม่เห็น Q wave ชัด แต่การมี ST elevation ใน V1-V4 ร่วมกับ ST-T change ใน I/aVL ต้องไม่ละเลย\n- ยังต้องคิดถึง early repolarization pattern ได้ แต่ T inversion ใน I/aVL ไม่เข้ากับข้อนี้นัก\n\n## ข้อแนะนำ\n- ควรดูร่วมกับอาการ (เจ็บหน้าอก หายใจเหนื่อย) และประวัติ เช่น ความดันโลหิตสูง\n- **เทียบกับ EKG เก่า** ถ้ามี หาก ST elevation เป็นของเดิมที่คงที่ ก็สนับสนุน LVH\n- ถ้ามีอาการเจ็บหน้าอกเฉียบพลัน ให้ทำ serial EKG และตรวจ troponin\n- ควรทำ echocardiogram เพื่อยืนยัน LVH\n\n> ข้อสังเกตนี้อ่านจากภาพที่ความละเอียดจำกัด จึงเป็นการแปลผลเบื้องต้นเพื่อการศึกษา ไม่ใช่การวินิจฉัย ควรให้แพทย์ยืนยันร่วมกับอาการและประวัติของผู้ป่วย\n",
+ "time": "2026-10-20T00:26:30"
+}

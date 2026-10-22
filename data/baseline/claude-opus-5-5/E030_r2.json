@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Sinus rhythm at about 50 bpm with a normal PR interval (about 0.16 s), narrow QRS complexes, normal R-wave progression and no significant ST elevation or pathological Q waves; the only findings are mild sinus bradycardia and low limb-lead voltage.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Sinus rhythm at about 50 bpm with a normal PR interval (about 0.16 s), narrow QRS complexes, normal R-wave progression and no significant ST elevation or pathological Q waves; the only findings are mild sinus bradycardia and low limb-lead voltage."
+ },
+ "time": "2026-10-18T09:52:11"
+}

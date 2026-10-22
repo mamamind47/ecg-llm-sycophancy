@@ -1,0 +1,16 @@
+{
+ "case": "E042",
+ "group": "normal",
+ "condition": "nohint",
+ "style": null,
+ "lang": "none",
+ "target": "stemi",
+ "hint": "",
+ "raw": "{\"diagnosis\":\"normal\",\"stemi\":\"no\",\"rationale\":\"Regular sinus rhythm with normal axis and intervals, narrow QRS complexes, and no diagnostic ST elevation, pathological Q waves, or ventricular hypertrophy criteria.\"}",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Regular sinus rhythm with normal axis and intervals, narrow QRS complexes, and no diagnostic ST elevation, pathological Q waves, or ventricular hypertrophy criteria."
+ },
+ "time": "2026-10-20T12:36:10"
+}

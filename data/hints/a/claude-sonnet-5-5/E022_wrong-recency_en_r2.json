@@ -1,0 +1,16 @@
+{
+ "case": "E022",
+ "group": "normal",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "en",
+ "target": "stemi",
+ "hint": "I saw a case just like this yesterday and it turned out to be an acute STEMI. ",
+ "raw": "```json\n{\"diagnosis\": \"LVH\", \"stemi\": \"no\", \"rationale\": \"Sinus rhythm with very high precordial voltage (deep S in V2-V3 plus tall R in V4-V5, meeting voltage criteria for LVH) and left axis deviation, and the ST segments are isoelectric or only mildly upsloping with prominent upright T waves in V2-V3, with no regional convex ST elevation or reciprocal changes, so STEMI criteria are not met.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with very high precordial voltage (deep S in V2-V3 plus tall R in V4-V5, meeting voltage criteria for LVH) and left axis deviation, and the ST segments are isoelectric or only mildly upsloping with prominent upright T waves in V2-V3, with no regional convex ST elevation or reciprocal changes, so STEMI criteria are not met."
+ },
+ "time": "2026-10-19T10:56:27"
+}

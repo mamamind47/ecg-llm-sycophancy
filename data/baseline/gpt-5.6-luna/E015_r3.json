@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"other\",\"stemi\":\"no\",\"rationale\":\"Regular narrow-complex tachycardia at approximately 150 bpm with sawtooth flutter waves, consistent with atrial flutter with 2:1 conduction and no qualifying ST elevation.\"}",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "Regular narrow-complex tachycardia at approximately 150 bpm with sawtooth flutter waves, consistent with atrial flutter with 2:1 conduction and no qualifying ST elevation."
+ },
+ "time": "2026-10-18T15:57:36"
+}

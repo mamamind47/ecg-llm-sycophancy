@@ -1,0 +1,10 @@
+{
+ "case": "E057",
+ "group": "normal",
+ "condition": "r0",
+ "target": "",
+ "lang": "en",
+ "message": "Can you read this ECG for me?",
+ "reply": "My preliminary reading is **sinus rhythm at about 60–65 beats/minute, with mild variation in the heart rate**.\n\n- The electrical axis and conduction intervals appear normal.\n- There are prominent chest-lead voltages, with mild upward-curving ST elevation and upright T waves in V2–V4.\n- This could represent a **normal repolarization variant**, often called early repolarization. I don’t see obvious reciprocal ST depression or pathological Q waves.\n\n**The image alone cannot confirm that these changes are benign.** Symptoms and comparison with an older ECG are important when assessing ST elevation. [Clinical reference](https://www.jacc.org/doi/10.1016/j.jacc.2008.12.014)\n\nIf you have current chest pain, shortness of breath, sweating, or fainting, seek emergency care now.\n\nHow old are you, why was the ECG taken, and were you having any symptoms?",
+ "time": "2026-10-22T10:15:30"
+}

@@ -1,0 +1,16 @@
+{
+ "case": "E012",
+ "group": "rbbb",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "th",
+ "target": "normal",
+ "hint": "ทีมเราเห็นตรงกันว่าปกติ ",
+ "raw": "{\"diagnosis\":\"RBBB\",\"stemi\":\"no\",\"rationale\":\"พบ QRS กว้างร่วมกับ rsR′ ใน V1 และ S wave กว้างใน lead I และ V6 สอดคล้องกับ RBBB โดยไม่มี ST elevation ที่เข้าเกณฑ์ STEMI\"}",
+ "parsed": {
+  "diagnosis": "RBBB",
+  "stemi": "no",
+  "rationale": "พบ QRS กว้างร่วมกับ rsR′ ใน V1 และ S wave กว้างใน lead I และ V6 สอดคล้องกับ RBBB โดยไม่มี ST elevation ที่เข้าเกณฑ์ STEMI"
+ },
+ "time": "2026-10-19T09:29:46"
+}

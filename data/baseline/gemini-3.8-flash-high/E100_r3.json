@@ -1,0 +1,9 @@
+{
+ "raw": "```json\n{\n  \"diagnosis\": \"RBBB\",\n  \"stemi\": \"no\",\n  \"rationale\": \"The ECG demonstrates a widened QRS complex with an rsR' pattern in V1 and prominent slurred S waves in leads I and V6 without diagnostic ST-segment elevation.\"\n}\n```\n",
+ "parsed": {
+  "diagnosis": "RBBB",
+  "stemi": "no",
+  "rationale": "The ECG demonstrates a widened QRS complex with an rsR' pattern in V1 and prominent slurred S waves in leads I and V6 without diagnostic ST-segment elevation."
+ },
+ "time": "2026-10-18T12:33:08"
+}

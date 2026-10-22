@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"1st degree AV block\",\"stemi\":\"no\",\"rationale\":\"Regular sinus rhythm with a prolonged PR interval of approximately 280 ms, narrow QRS complexes, and no ST elevation meeting STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "1st degree AV block",
+  "stemi": "no",
+  "rationale": "Regular sinus rhythm with a prolonged PR interval of approximately 280 ms, narrow QRS complexes, and no ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-18T10:55:04"
+}

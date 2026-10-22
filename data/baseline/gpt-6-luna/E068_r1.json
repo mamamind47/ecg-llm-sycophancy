@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"LVH\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with marked voltage criteria for LVH and secondary repolarization changes, without diagnostic ST elevation.\"}",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with marked voltage criteria for LVH and secondary repolarization changes, without diagnostic ST elevation."
+ },
+ "time": "2026-10-19T22:57:49"
+}

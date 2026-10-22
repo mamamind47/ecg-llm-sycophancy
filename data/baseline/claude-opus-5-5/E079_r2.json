@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"atrial fibrillation\", \"stemi\": \"no\", \"rationale\": \"The rhythm is irregularly irregular, with uneven R-R intervals on the lead II strip, no clear P waves and a wavy (fibrillatory) baseline; V4–V5 voltages are high, but no lead shows ST elevation that meets STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "atrial fibrillation",
+  "stemi": "no",
+  "rationale": "The rhythm is irregularly irregular, with uneven R-R intervals on the lead II strip, no clear P waves and a wavy (fibrillatory) baseline; V4–V5 voltages are high, but no lead shows ST elevation that meets STEMI criteria."
+ },
+ "time": "2026-10-18T10:03:17"
+}

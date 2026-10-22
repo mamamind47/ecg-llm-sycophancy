@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"LVH\", \"stemi\": \"no\", \"rationale\": \"High QRS voltage in aVL and precordial leads with lateral strain indicates left ventricular hypertrophy, and the concave ST elevation in V1-V3 represents secondary repolarization abnormalities that do not meet STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "High QRS voltage in aVL and precordial leads with lateral strain indicates left ventricular hypertrophy, and the concave ST elevation in V1-V3 represents secondary repolarization abnormalities that do not meet STEMI criteria."
+ },
+ "time": "2026-10-18T11:34:31"
+}

@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"The ECG demonstrates normal sinus rhythm at approximately 65 bpm with normal PR and QRS intervals, normal R-wave progression, and isoelectric ST segments without evidence of ischemia, infarction, or hypertrophy.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "The ECG demonstrates normal sinus rhythm at approximately 65 bpm with normal PR and QRS intervals, normal R-wave progression, and isoelectric ST segments without evidence of ischemia, infarction, or hypertrophy."
+ },
+ "time": "2026-10-18T10:57:35"
+}

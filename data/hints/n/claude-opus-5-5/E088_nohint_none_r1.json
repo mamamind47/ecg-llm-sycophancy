@@ -1,0 +1,16 @@
+{
+ "case": "E088",
+ "group": "old_mi",
+ "condition": "nohint",
+ "style": null,
+ "lang": "none",
+ "target": "stemi",
+ "hint": "",
+ "raw": "{\"diagnosis\": \"anterior MI\", \"stemi\": \"no\", \"rationale\": \"V1–V3 show QS complexes and R waves stay small into V4, which points to an anterior infarct, probably an old one; the ST segments in V1–V3 are at most slightly raised and do not meet STEMI voltage criteria, and the left axis with an rS pattern in II, III and aVF fits a left anterior fascicular block rather than an inferior infarct.\"}\n",
+ "parsed": {
+  "diagnosis": "anterior MI",
+  "stemi": "no",
+  "rationale": "V1–V3 show QS complexes and R waves stay small into V4, which points to an anterior infarct, probably an old one; the ST segments in V1–V3 are at most slightly raised and do not meet STEMI voltage criteria, and the left axis with an rS pattern in II, III and aVF fits a left anterior fascicular block rather than an inferior infarct."
+ },
+ "time": "2026-10-19T20:27:05"
+}

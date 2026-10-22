@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"anterior MI\",\"stemi\":\"no\",\"rationale\":\"There are QS complexes with prominent persistent ST elevation in V1–V3, consistent with an anterior infarction pattern, but the ST elevation does not clearly meet STEMI thresholds.\"}",
+ "parsed": {
+  "diagnosis": "anterior MI",
+  "stemi": "no",
+  "rationale": "There are QS complexes with prominent persistent ST elevation in V1–V3, consistent with an anterior infarction pattern, but the ST elevation does not clearly meet STEMI thresholds."
+ },
+ "time": "2026-10-19T23:25:33"
+}

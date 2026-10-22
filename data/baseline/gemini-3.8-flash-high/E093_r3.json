@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"anterior MI\", \"stemi\": \"yes\", \"rationale\": \"Marked ST-segment elevation is present in leads V2 through V4 exceeding standard diagnostic thresholds, consistent with an acute anterior myocardial infarction.\"}\n",
+ "parsed": {
+  "diagnosis": "anterior MI",
+  "stemi": "yes",
+  "rationale": "Marked ST-segment elevation is present in leads V2 through V4 exceeding standard diagnostic thresholds, consistent with an acute anterior myocardial infarction."
+ },
+ "time": "2026-10-18T12:29:26"
+}

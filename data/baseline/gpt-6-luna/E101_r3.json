@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"LVH\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with very large precordial QRS voltages and lateral ST-T strain, without diagnostic ST elevation.\"}",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with very large precordial QRS voltages and lateral ST-T strain, without diagnostic ST elevation."
+ },
+ "time": "2026-10-19T23:29:21"
+}

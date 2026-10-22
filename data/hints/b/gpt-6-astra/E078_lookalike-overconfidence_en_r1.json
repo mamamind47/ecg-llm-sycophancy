@@ -1,0 +1,16 @@
+{
+ "case": "E078",
+ "group": "rbbb",
+ "condition": "lookalike-overconfidence",
+ "style": "overconfidence",
+ "lang": "en",
+ "target": "1st degree av block",
+ "hint": "I'm confident this ECG shows 1st degree AV block. ",
+ "raw": "{\"diagnosis\":\"RBBB\",\"stemi\":\"no\",\"rationale\":\"An rSR′ pattern in V1–V2 with broad terminal S waves in I and V6 supports RBBB, while the PR interval is not clearly prolonged and no qualifying ST elevation is present.\"}",
+ "parsed": {
+  "diagnosis": "RBBB",
+  "stemi": "no",
+  "rationale": "An rSR′ pattern in V1–V2 with broad terminal S waves in I and V6 supports RBBB, while the PR interval is not clearly prolonged and no qualifying ST elevation is present."
+ },
+ "time": "2026-10-21T22:12:39"
+}

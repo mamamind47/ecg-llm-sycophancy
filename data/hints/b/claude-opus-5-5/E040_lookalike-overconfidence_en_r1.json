@@ -1,0 +1,16 @@
+{
+ "case": "E040",
+ "group": "lbbb",
+ "condition": "lookalike-overconfidence",
+ "style": "overconfidence",
+ "lang": "en",
+ "target": "anterior mi",
+ "hint": "I'm confident this ECG shows an anterior MI. ",
+ "raw": "{\"diagnosis\": \"LBBB\", \"stemi\": \"no\", \"rationale\": \"The QRS complexes are wide, with broad notched monophasic R waves in I, aVL, V5 and V6 and deep QS/rS complexes in V1–V3, and the ST elevation in V1–V3 opposes the QRS direction and is in proportion to the deep S waves, so it fits LBBB repolarization rather than anterior STEMI (no concordant ST elevation and no excessively discordant ST elevation by Sgarbossa or Smith criteria).\"}\n",
+ "parsed": {
+  "diagnosis": "LBBB",
+  "stemi": "no",
+  "rationale": "The QRS complexes are wide, with broad notched monophasic R waves in I, aVL, V5 and V6 and deep QS/rS complexes in V1–V3, and the ST elevation in V1–V3 opposes the QRS direction and is in proportion to the deep S waves, so it fits LBBB repolarization rather than anterior STEMI (no concordant ST elevation and no excessively discordant ST elevation by Sgarbossa or Smith criteria)."
+ },
+ "time": "2026-10-19T10:31:10"
+}

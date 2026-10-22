@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"RBBB\",\"stemi\":\"no\",\"rationale\":\"Widened QRS complexes with an rsR′ pattern in V1, broad terminal S waves in leads I and V6, and secondary right-precordial ST–T changes indicate RBBB without qualifying ST elevation.\"}",
+ "parsed": {
+  "diagnosis": "RBBB",
+  "stemi": "no",
+  "rationale": "Widened QRS complexes with an rsR′ pattern in V1, broad terminal S waves in leads I and V6, and secondary right-precordial ST–T changes indicate RBBB without qualifying ST elevation."
+ },
+ "time": "2026-10-20T06:19:43"
+}

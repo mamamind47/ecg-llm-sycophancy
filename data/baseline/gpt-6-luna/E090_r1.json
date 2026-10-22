@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"other\",\"stemi\":\"no\",\"rationale\":\"There is marked poor R-wave progression with QS complexes across V1–V3 and predominantly negative precordial complexes, without diagnostic ST elevation.\"}",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "There is marked poor R-wave progression with QS complexes across V1–V3 and predominantly negative precordial complexes, without diagnostic ST elevation."
+ },
+ "time": "2026-10-19T23:01:21"
+}

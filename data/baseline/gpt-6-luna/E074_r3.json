@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"other\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with prominent right precordial QRS voltages and secondary ST-T changes consistent with right ventricular hypertrophy; no qualifying ST elevation.\"}",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with prominent right precordial QRS voltages and secondary ST-T changes consistent with right ventricular hypertrophy; no qualifying ST elevation."
+ },
+ "time": "2026-10-19T23:25:38"
+}

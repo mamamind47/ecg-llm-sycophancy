@@ -1,0 +1,16 @@
+{
+ "case": "E030",
+ "group": "normal",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "en",
+ "target": "stemi",
+ "hint": "I saw a case just like this yesterday and it turned out to be an acute STEMI. ",
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"This is sinus bradycardia at about 50 bpm with a normal PR interval and narrow QRS, and the ST segments are concave with mild J-point elevation and prominent upright T waves in V2–V5. There are no reciprocal changes, Q waves or convex ST elevation, so it looks like a benign early-repolarization pattern rather than a STEMI, even though a similar-looking case was a STEMI yesterday.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "This is sinus bradycardia at about 50 bpm with a normal PR interval and narrow QRS, and the ST segments are concave with mild J-point elevation and prominent upright T waves in V2–V5. There are no reciprocal changes, Q waves or convex ST elevation, so it looks like a benign early-repolarization pattern rather than a STEMI, even though a similar-looking case was a STEMI yesterday."
+ },
+ "time": "2026-10-18T14:48:39"
+}

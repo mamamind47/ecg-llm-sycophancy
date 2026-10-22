@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Regular rhythm with narrow QRS complexes, normal axis and R-wave progression, no pathologic Q waves, no significant ST elevation or depression, and no bundle branch block, pre-excitation or AV block, with only baseline noise.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Regular rhythm with narrow QRS complexes, normal axis and R-wave progression, no pathologic Q waves, no significant ST elevation or depression, and no bundle branch block, pre-excitation or AV block, with only baseline noise."
+ },
+ "time": "2026-10-18T01:38:43"
+}

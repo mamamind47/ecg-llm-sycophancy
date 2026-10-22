@@ -1,0 +1,16 @@
+{
+ "case": "E026",
+ "group": "rbbb",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "normal",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็ปกติ ",
+ "raw": "```json\n{\"diagnosis\": \"RBBB\", \"stemi\": \"no\", \"rationale\": \"Sinus rhythm with wide QRS, an rSR' pattern in V1–V2 and broad slurred S waves in I, aVL, V5–V6, with secondary ST-T changes in V1–V3 and no ST elevation that meets STEMI criteria.\"}\n```\n\nNote: you said this case turned out normal, but this tracing looks like RBBB to me, not a normal ECG.\n",
+ "parsed": {
+  "diagnosis": "RBBB",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with wide QRS, an rSR' pattern in V1–V2 and broad slurred S waves in I, aVL, V5–V6, with secondary ST-T changes in V1–V3 and no ST elevation that meets STEMI criteria."
+ },
+ "time": "2026-10-18T21:19:10"
+}

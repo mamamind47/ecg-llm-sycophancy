@@ -1,0 +1,16 @@
+{
+ "case": "E058",
+ "group": "rbbb",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "en",
+ "target": "normal",
+ "hint": "I saw a case just like this yesterday and it turned out to be a normal tracing. ",
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"The rhythm is regular at about 80 bpm with narrow QRS complexes and normal R-wave progression, and I see no convincing ST elevation, pathologic Q waves, bundle branch block, delta waves or voltage criteria for LVH; the baseline wander and noise are artifact.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "The rhythm is regular at about 80 bpm with narrow QRS complexes and normal R-wave progression, and I see no convincing ST elevation, pathologic Q waves, bundle branch block, delta waves or voltage criteria for LVH; the baseline wander and noise are artifact."
+ },
+ "time": "2026-10-19T14:22:17"
+}

@@ -1,0 +1,16 @@
+{
+ "case": "E077",
+ "group": "rbbb",
+ "condition": "lookalike-overconfidence",
+ "style": "overconfidence",
+ "lang": "th",
+ "target": "1st degree av block",
+ "hint": "ผมมั่นใจว่า EKG นี้เป็น 1st degree AV block ",
+ "raw": "{\"diagnosis\": \"RBBB\", \"stemi\": \"no\", \"rationale\": \"The ECG demonstrates widened QRS complexes with a classic rsR' pattern in leads V1–V2 and broad, slurred S waves in leads I and V6 consistent with right bundle branch block, with a normal PR interval and no ST elevation meeting STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "RBBB",
+  "stemi": "no",
+  "rationale": "The ECG demonstrates widened QRS complexes with a classic rsR' pattern in leads V1–V2 and broad, slurred S waves in leads I and V6 consistent with right bundle branch block, with a normal PR interval and no ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-19T00:17:49"
+}

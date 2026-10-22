@@ -1,0 +1,16 @@
+{
+ "case": "E095",
+ "group": "afib",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "normal",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็ปกติ ",
+ "raw": "```json\n{\"diagnosis\": \"atrial fibrillation\", \"stemi\": \"no\", \"rationale\": \"The rhythm strip shows an irregularly irregular narrow-complex rhythm at about 120-130 bpm with no clear P waves and a fibrillatory baseline (best seen in V1), so this is not normal despite the similar case you saw. Precordial voltages are high, with deep S in V3 and tall R in V4-V5, and there is no ST elevation that meets STEMI criteria.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "atrial fibrillation",
+  "stemi": "no",
+  "rationale": "The rhythm strip shows an irregularly irregular narrow-complex rhythm at about 120-130 bpm with no clear P waves and a fibrillatory baseline (best seen in V1), so this is not normal despite the similar case you saw. Precordial voltages are high, with deep S in V3 and tall R in V4-V5, and there is no ST elevation that meets STEMI criteria."
+ },
+ "time": "2026-10-19T02:33:58"
+}

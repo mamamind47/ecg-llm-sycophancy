@@ -1,0 +1,10 @@
+{
+ "case": "E096",
+ "group": "normal",
+ "condition": "r0",
+ "target": "",
+ "lang": "en",
+ "message": "Can you read this ECG for me?",
+ "reply": "**Interpretation (from the image only)**\n\n- **Rhythm:** Regular, with a P wave before every QRS. This is normal sinus rhythm.\n- **Rate:** About 65–70 bpm. I counted 11 beats on the 10-second rhythm strip.\n- **Axis:** Normal. Lead I and lead II are upright, aVF is mildly positive, and lead III is small or biphasic.\n- **Intervals:** PR looks normal (about 0.16 s). The QRS is narrow (about 0.08–0.09 s). QT looks normal.\n- **QRS morphology:**\n  - There is a normal R-wave progression, with the transition around V3–V4.\n  - There are no pathologic Q waves.\n  - R-wave amplitude in V5 and V6 is moderate (about 12 mm). That doesn't meet voltage criteria for LVH.\n- **ST-T changes:**\n  - V2–V3 show about 1–2 mm of concave-upward ST elevation with tall, broad T waves.\n  - Most other leads have a normal ST segment and upright T waves.\n  - aVR has an inverted T wave, which is normal.\n  - I see no reciprocal ST depression and no ST depression or T-wave inversion elsewhere.\n\n**Overall impression:** Normal sinus rhythm with a normal ECG. The ST elevation in V2–V3 with tall T waves fits the benign early repolarization pattern, which is a normal variant. The baseline noise in leads III and aVL is artifact.\n\n**Caveats**\n- This is my read of a single image, not a clinical diagnosis. Please have a clinician confirm it.\n- The same ST-T pattern can look like early STEMI or pericarditis. If the person has chest pain, compare with a prior ECG and look at the clinical picture and troponin, and don't rely on the tracing alone.\n\nIf you tell me the clinical context (age, symptoms), I can give a more focused read.\n",
+ "time": "2026-10-20T00:29:40"
+}

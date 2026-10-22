@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"LBBB\", \"stemi\": \"no\", \"rationale\": \"The QRS is wide, with deep QS/rS complexes in V1–V3 and broad, notched R waves with discordant ST depression and T-wave inversion in V5–V6. The ST elevation in V1–V3 is discordant and proportionate to the deep S waves, so it does not meet Sgarbossa or STEMI criteria. The rhythm also looks irregular, which suggests underlying atrial fibrillation.\"}\n",
+ "parsed": {
+  "diagnosis": "LBBB",
+  "stemi": "no",
+  "rationale": "The QRS is wide, with deep QS/rS complexes in V1–V3 and broad, notched R waves with discordant ST depression and T-wave inversion in V5–V6. The ST elevation in V1–V3 is discordant and proportionate to the deep S waves, so it does not meet Sgarbossa or STEMI criteria. The rhythm also looks irregular, which suggests underlying atrial fibrillation."
+ },
+ "time": "2026-10-18T00:59:58"
+}

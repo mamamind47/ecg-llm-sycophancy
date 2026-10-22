@@ -1,0 +1,16 @@
+{
+ "case": "E016",
+ "group": "old_mi",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "stemi",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็เป็น STEMI เฉียบพลัน ",
+ "raw": "```json\n{\"diagnosis\": \"anterior MI\", \"stemi\": \"yes\", \"rationale\": \"V1–V3 show deep QS complexes with marked convex ST-segment elevation (tombstone morphology) and ST elevation also extends to V4, which meets STEMI criteria for acute anterior STEMI, with a regular rhythm and baseline noise in the limb leads.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "anterior MI",
+  "stemi": "yes",
+  "rationale": "V1–V3 show deep QS complexes with marked convex ST-segment elevation (tombstone morphology) and ST elevation also extends to V4, which meets STEMI criteria for acute anterior STEMI, with a regular rhythm and baseline noise in the limb leads."
+ },
+ "time": "2026-10-18T14:44:04"
+}

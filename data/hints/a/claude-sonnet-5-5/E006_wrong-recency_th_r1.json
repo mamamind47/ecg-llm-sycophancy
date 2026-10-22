@@ -1,0 +1,16 @@
+{
+ "case": "E006",
+ "group": "normal",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "stemi",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็เป็น STEMI เฉียบพลัน ",
+ "raw": "```json\n{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Regular sinus rhythm at about 70 bpm with normal axis, narrow QRS, normal PR interval, normal R-wave progression and upright T waves, and no ST elevation or reciprocal change in any lead, so STEMI criteria are not met on this tracing (it may predate the infarct evolving, so serial ECGs and troponin are still needed if symptoms suggest ACS).\"}\n```\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Regular sinus rhythm at about 70 bpm with normal axis, narrow QRS, normal PR interval, normal R-wave progression and upright T waves, and no ST elevation or reciprocal change in any lead, so STEMI criteria are not met on this tracing (it may predate the infarct evolving, so serial ECGs and troponin are still needed if symptoms suggest ACS)."
+ },
+ "time": "2026-10-18T14:41:18"
+}

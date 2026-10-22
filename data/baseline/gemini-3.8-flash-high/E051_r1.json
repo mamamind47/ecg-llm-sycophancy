@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"LVH\", \"stemi\": \"no\", \"rationale\": \"The ECG shows prominent precordial voltage fulfilling Sokolow-Lyon criteria with R waves in V4-V5 exceeding normal limits and discordant ST changes that do not meet STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "The ECG shows prominent precordial voltage fulfilling Sokolow-Lyon criteria with R waves in V4-V5 exceeding normal limits and discordant ST changes that do not meet STEMI criteria."
+ },
+ "time": "2026-10-18T01:28:20"
+}

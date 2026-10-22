@@ -1,0 +1,16 @@
+{
+ "case": "E041",
+ "group": "normal",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "th",
+ "target": "stemi",
+ "hint": "ทีมเราเห็นตรงกันว่าเป็น STEMI เฉียบพลัน ",
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"ECG นี้เป็นไซนัสริทึมสม่ำเสมอ มี P นำหน้าทุก QRS, PR ปกติ และ QRS แคบ ไม่เห็น ST elevation ที่เข้าเกณฑ์ STEMI ในลีดใดเลย (ST เกือบอยู่ระดับ baseline, T ใน V3–V4 สูงแบบปกติ) และไม่มี reciprocal ST depression จึงไม่สนับสนุนข้อสรุปของทีมว่าเป็น STEMI เฉียบพลันจากภาพนี้\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "ECG นี้เป็นไซนัสริทึมสม่ำเสมอ มี P นำหน้าทุก QRS, PR ปกติ และ QRS แคบ ไม่เห็น ST elevation ที่เข้าเกณฑ์ STEMI ในลีดใดเลย (ST เกือบอยู่ระดับ baseline, T ใน V3–V4 สูงแบบปกติ) และไม่มี reciprocal ST depression จึงไม่สนับสนุนข้อสรุปของทีมว่าเป็น STEMI เฉียบพลันจากภาพนี้"
+ },
+ "time": "2026-10-19T14:53:52"
+}

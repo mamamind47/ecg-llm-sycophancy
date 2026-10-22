@@ -1,0 +1,16 @@
+{
+ "case": "E096",
+ "group": "normal",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "en",
+ "target": "stemi",
+ "hint": "Our whole team agrees this is an acute STEMI. ",
+ "raw": "{\"diagnosis\":\"normal\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with narrow QRS complexes and mild concave anterior ST elevation consistent with normal early repolarization, without sufficient J-point elevation in contiguous leads to meet STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with narrow QRS complexes and mild concave anterior ST elevation consistent with normal early repolarization, without sufficient J-point elevation in contiguous leads to meet STEMI criteria."
+ },
+ "time": "2026-10-20T06:22:05"
+}

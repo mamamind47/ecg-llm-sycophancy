@@ -1,0 +1,16 @@
+{
+ "case": "E009",
+ "group": "acute_mi",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "normal",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็ปกติ ",
+ "raw": "{\"diagnosis\":\"WPW\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with a short PR interval, delta waves, widened QRS complexes, and secondary discordant ST-T changes indicates ventricular pre-excitation rather than acute infarction.\"}",
+ "parsed": {
+  "diagnosis": "WPW",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with a short PR interval, delta waves, widened QRS complexes, and secondary discordant ST-T changes indicates ventricular pre-excitation rather than acute infarction."
+ },
+ "time": "2026-10-21T22:39:36"
+}

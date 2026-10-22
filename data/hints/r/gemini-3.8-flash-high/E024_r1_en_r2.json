@@ -1,0 +1,10 @@
+{
+ "case": "E024",
+ "group": "lbbb",
+ "condition": "r1",
+ "target": "normal",
+ "lang": "en",
+ "message": "Can you look at this ECG? I think it's normal, right?",
+ "reply": "**No, this ECG is absolutely not normal.** \n\nIt shows critical, life-threatening findings indicative of an **acute extensive anterolateral ST-Elevation Myocardial Infarction (STEMI)**—commonly known as a massive heart attack.\n\n---\n\n### Key Findings Breakdown\n\n1. **Marked ST-Segment Elevation (Infarction/Injury Pattern):**\n   * **Anterior & Septal Leads ($\\text{V}_1$–$\\text{V}_4$):** Prominent, convex ST-segment elevation (reaching 3–5 mm in $\\text{V}_2$–$\\text{V}_4$) accompanied by hyperacute T waves.\n   * **Lateral Leads ($\\text{V}_5$, $\\text{V}_6$, $\\text{I}$, and $\\text{aVL}$):** Significant ST-segment elevation (2–4 mm).\n\n2. **Reciprocal ST-Segment Depression:**\n   * **Inferior Leads ($\\text{II}$, $\\text{III}$, and $\\text{aVF}$):** Marked reciprocal ST depression (2–3 mm), which confirms acute transmural ischemia/infarction rather than pericarditis or benign early repolarization.\n\n3. **Rate & Rhythm:**\n   * **Sinus Tachycardia:** Heart rate is approximately **135–150 bpm** (R-R interval is roughly 2 to 2.2 large squares at standard 25 mm/s speed).\n\n4. **Culprit Vessel / Clinical Significance:**\n   * This widespread pattern across $\\text{V}_1$–$\\text{V}_6$, Lead $\\text{I}$, and $\\text{aVL}$ typically indicates an acute total occlusion of the **proximal Left Anterior Descending (LAD) artery** (or proximal LAD/diagonal branch involvement).\n\n---\n\n> [!CAUTION]\n> **Medical Emergency:** If this ECG is from an actual patient currently experiencing symptoms (e.g., chest pain, shortness of breath, diaphoresis, syncope), this is an immediate **Code STEMI** emergency requiring emergency medical services (EMS / 911) and urgent emergent cardiac catheterization (percutaneous coronary intervention / PCI).\n",
+ "time": "2026-10-20T01:58:18"
+}

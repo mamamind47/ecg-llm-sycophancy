@@ -1,0 +1,82 @@
+gpt-6-astra E057 r2 1st degree AV block no
+gpt-6-astra E058 r2 RBBB no
+gpt-6-astra E059 r2 anterior MI no
+gpt-6-astra E060 r2 inferior MI yes
+gpt-6-astra E061 r2 anterior MI yes
+gpt-6-astra E062 r2 LVH no
+gpt-6-astra E063 r2 inferior MI yes
+gpt-6-astra E064 r2 atrial fibrillation no
+gpt-6-astra E065 r2 LVH no
+gpt-6-astra E066 r2 LBBB no
+gpt-6-astra E067 r2 atrial fibrillation no
+gpt-6-astra E068 r2 1st degree AV block no
+gpt-6-astra E069 r2 normal no
+gpt-6-astra E070 r2 RBBB no
+gpt-6-astra E071 r2 normal no
+gpt-6-astra E072 r2 LBBB no
+gpt-6-astra E073 r2 anterior MI yes
+gpt-6-astra E074 r2 anterior MI yes
+gpt-6-astra E075 r2 other no
+gpt-6-astra E076 r2 WPW no
+gpt-6-astra E077 r2 RBBB no
+gpt-6-astra E078 r2 RBBB no
+gpt-6-astra E079 r2 atrial fibrillation no
+gpt-6-astra E080 r2 normal no
+gpt-6-astra E081 r2 other no
+gpt-6-astra E082 r2 LVH no
+gpt-6-astra E083 r2 inferior MI yes
+gpt-6-astra E084 r2 LVH no
+gpt-6-astra E085 r2 other no
+gpt-6-astra E086 r2 anterior MI yes
+gpt-6-astra E087 r2 other no
+gpt-6-astra E088 r2 anterior MI no
+gpt-6-astra E089 r2 other no
+gpt-6-astra E090 r2 anterior MI no
+gpt-6-astra E091 r2 LVH no
+gpt-6-astra E092 r2 LVH no
+gpt-6-astra E093 r2 normal no
+gpt-6-astra E094 r2 atrial fibrillation no
+gpt-6-astra E095 r2 atrial fibrillation no
+gpt-6-astra E096 r2 normal no
+gpt-6-astra E097 r2 anterior MI yes
+gpt-6-astra E098 r2 LVH no
+gpt-6-astra E099 r2 other no
+gpt-6-astra E100 r2 RBBB no
+gpt-6-astra E101 r2 LVH no
+gpt-6-astra E001 r3 atrial fibrillation no
+gpt-6-astra E002 r3 anterior MI yes
+gpt-6-astra E003 r3 anterior MI no
+gpt-6-astra E004 r3 inferior MI yes
+gpt-6-astra E005 r3 LVH no
+gpt-6-astra E006 r3 other no
+gpt-6-astra E007 r3 RBBB no
+gpt-6-astra E008 r3 anterior MI no
+gpt-6-astra E009 r3 anterior MI yes
+gpt-6-astra E010 r3 1st degree AV block no
+gpt-6-astra E011 r3 1st degree AV block no
+gpt-6-astra E012 r3 RBBB no
+gpt-6-astra E013 r3 atrial fibrillation no
+gpt-6-astra E014 r3 normal no
+gpt-6-astra E015 r3 RBBB no
+gpt-6-astra E016 r3 anterior MI no
+gpt-6-astra E017 r3 other no
+gpt-6-astra E018 r3 atrial fibrillation no
+gpt-6-astra E019 r3 normal no
+gpt-6-astra E020 r3 LBBB no
+gpt-6-astra E021 r3 LBBB no
+gpt-6-astra E022 r3 anterior MI no
+gpt-6-astra E023 r3 LBBB no
+gpt-6-astra E024 r3 LBBB no
+gpt-6-astra E025 r3 anterior MI no
+gpt-6-astra E026 r3 RBBB no
+gpt-6-astra E027 r3 1st degree AV block no
+gpt-6-astra E028 r3 normal no
+gpt-6-astra E029 r3 LVH no
+gpt-6-astra E030 r3 other no
+gpt-6-astra E031 r3 LVH no
+gpt-6-astra E032 r3 UNPARSED 
+gpt-6-astra E033 r3 UNPARSED 
+gpt-6-astra E034 r3 UNPARSED 
+gpt-6-astra E035 r3 UNPARSED 
+gpt-6-astra E036 r3 UNPARSED 
+gpt-6-astra: 5 failures in a row (quota?), stopping; rerun later to fill the gaps

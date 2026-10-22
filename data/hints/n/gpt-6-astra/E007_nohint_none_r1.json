@@ -1,0 +1,16 @@
+{
+ "case": "E007",
+ "group": "rbbb",
+ "condition": "nohint",
+ "style": null,
+ "lang": "none",
+ "target": "normal",
+ "hint": "",
+ "raw": "{\"diagnosis\":\"RBBB\",\"stemi\":\"no\",\"rationale\":\"Widened QRS complexes with a dominant terminal R wave in V1 and terminal S waves in leads I and V6 indicate RBBB, without ST elevation meeting STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "RBBB",
+  "stemi": "no",
+  "rationale": "Widened QRS complexes with a dominant terminal R wave in V1 and terminal S waves in leads I and V6 indicate RBBB, without ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-20T13:02:15"
+}

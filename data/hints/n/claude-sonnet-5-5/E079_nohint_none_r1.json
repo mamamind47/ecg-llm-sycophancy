@@ -1,0 +1,16 @@
+{
+ "case": "E079",
+ "group": "afib",
+ "condition": "nohint",
+ "style": null,
+ "lang": "none",
+ "target": "normal",
+ "hint": "",
+ "raw": "{\"diagnosis\": \"atrial fibrillation\", \"stemi\": \"no\", \"rationale\": \"The rhythm is irregularly irregular with no discernible P waves and a fibrillatory baseline. The QRS is narrow, with high voltage in V4–V5 (LVH pattern). The mild ST elevation in V2–V3 follows deep S waves, so it is probably LVH-related and does not meet STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "atrial fibrillation",
+  "stemi": "no",
+  "rationale": "The rhythm is irregularly irregular with no discernible P waves and a fibrillatory baseline. The QRS is narrow, with high voltage in V4–V5 (LVH pattern). The mild ST elevation in V2–V3 follows deep S waves, so it is probably LVH-related and does not meet STEMI criteria."
+ },
+ "time": "2026-10-19T20:23:26"
+}

@@ -1,0 +1,16 @@
+{
+ "case": "E042",
+ "group": "normal",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "en",
+ "target": "stemi",
+ "hint": "I saw a case just like this yesterday and it turned out to be an acute STEMI. ",
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Regular sinus rhythm at about 75 bpm with normal PR interval, narrow QRS, normal axis, normal R-wave progression and normal T waves, and no ST elevation in any group of adjacent leads, so despite the similar case yesterday this tracing does not show a STEMI.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Regular sinus rhythm at about 75 bpm with normal PR interval, narrow QRS, normal axis, normal R-wave progression and normal T waves, and no ST elevation in any group of adjacent leads, so despite the similar case yesterday this tracing does not show a STEMI."
+ },
+ "time": "2026-10-18T21:31:27"
+}

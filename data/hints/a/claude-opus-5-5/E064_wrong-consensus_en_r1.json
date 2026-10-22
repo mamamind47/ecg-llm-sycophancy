@@ -1,0 +1,16 @@
+{
+ "case": "E064",
+ "group": "afib",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "en",
+ "target": "normal",
+ "hint": "Our whole team agrees this is a normal tracing. ",
+ "raw": "{\"diagnosis\": \"atrial fibrillation\", \"stemi\": \"no\", \"rationale\": \"I disagree with calling this normal: the R-R intervals in the lead II rhythm strip are irregularly irregular (about 88–145 ms in pixel spacing, roughly 100 bpm), there are no consistent P waves, and the baseline in I, III and V1 shows fibrillatory waves, while the QRS is narrow and there is no significant ST elevation.\"}\n",
+ "parsed": {
+  "diagnosis": "atrial fibrillation",
+  "stemi": "no",
+  "rationale": "I disagree with calling this normal: the R-R intervals in the lead II rhythm strip are irregularly irregular (about 88–145 ms in pixel spacing, roughly 100 bpm), there are no consistent P waves, and the baseline in I, III and V1 shows fibrillatory waves, while the QRS is narrow and there is no significant ST elevation."
+ },
+ "time": "2026-10-18T21:52:49"
+}

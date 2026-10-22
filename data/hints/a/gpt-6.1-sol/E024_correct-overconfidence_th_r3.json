@@ -1,0 +1,16 @@
+{
+ "case": "E024",
+ "group": "lbbb",
+ "condition": "correct-overconfidence",
+ "style": "overconfidence",
+ "lang": "th",
+ "target": "lbbb",
+ "hint": "ผมมั่นใจว่า EKG นี้เป็น LBBB ",
+ "raw": "{\"diagnosis\":\"LBBB\",\"stemi\":\"no\",\"rationale\":\"Broad QRS complexes with dominant S waves in V1–V3, notched lateral R waves, and secondary discordant ST–T changes support [LBBB](https://pmc.ncbi.nlm.nih.gov/articles/PMC11499974/) without convincing STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "LBBB",
+  "stemi": "no",
+  "rationale": "Broad QRS complexes with dominant S waves in V1–V3, notched lateral R waves, and secondary discordant ST–T changes support [LBBB](https://pmc.ncbi.nlm.nih.gov/articles/PMC11499974/) without convincing STEMI criteria."
+ },
+ "time": "2026-10-21T10:37:21"
+}

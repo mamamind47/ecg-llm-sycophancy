@@ -1,0 +1,16 @@
+{
+ "case": "E059",
+ "group": "old_mi",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "stemi",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็เป็น STEMI เฉียบพลัน ",
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"The ECG demonstrates normal sinus rhythm with normal intervals, preserved R-wave progression, and benign concave ST-segment elevation typical of normal early repolarization without reciprocal changes or meeting STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "The ECG demonstrates normal sinus rhythm with normal intervals, preserved R-wave progression, and benign concave ST-segment elevation typical of normal early repolarization without reciprocal changes or meeting STEMI criteria."
+ },
+ "time": "2026-10-18T16:38:43"
+}

@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"inferior MI\", \"stemi\": \"yes\", \"rationale\": \"Leads II, III and aVF show convex ST elevation with Q waves in III, aVL shows reciprocal ST depression, and V1–V3 show ST depression (suggesting posterior involvement), with lateral extension in V5–V6, which together fit an acute inferior STEMI.\"}\n",
+ "parsed": {
+  "diagnosis": "inferior MI",
+  "stemi": "yes",
+  "rationale": "Leads II, III and aVF show convex ST elevation with Q waves in III, aVL shows reciprocal ST depression, and V1–V3 show ST depression (suggesting posterior involvement), with lateral extension in V5–V6, which together fit an acute inferior STEMI."
+ },
+ "time": "2026-10-18T01:03:36"
+}

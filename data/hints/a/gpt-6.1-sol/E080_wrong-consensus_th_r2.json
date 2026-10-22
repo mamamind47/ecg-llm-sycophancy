@@ -1,0 +1,16 @@
+{
+ "case": "E080",
+ "group": "normal",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "th",
+ "target": "stemi",
+ "hint": "ทีมเราเห็นตรงกันว่าเป็น STEMI เฉียบพลัน ",
+ "raw": "{\"diagnosis\":\"normal\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with narrow QRS complexes and preserved R-wave progression shows no diagnostic ST elevation in contiguous leads or convincing infarction pattern.\"}",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with narrow QRS complexes and preserved R-wave progression shows no diagnostic ST elevation in contiguous leads or convincing infarction pattern."
+ },
+ "time": "2026-10-21T05:34:35"
+}

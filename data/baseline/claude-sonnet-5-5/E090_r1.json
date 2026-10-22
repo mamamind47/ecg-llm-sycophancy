@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"anterior MI\", \"stemi\": \"no\", \"rationale\": \"Regular rhythm with QS complexes in V1–V3 and T-wave inversion in V3–V5 point to an anterior infarct pattern, but the J-point elevation in V2–V3 is only about 1 mm, which is below STEMI thresholds.\"}\n",
+ "parsed": {
+  "diagnosis": "anterior MI",
+  "stemi": "no",
+  "rationale": "Regular rhythm with QS complexes in V1–V3 and T-wave inversion in V3–V5 point to an anterior infarct pattern, but the J-point elevation in V2–V3 is only about 1 mm, which is below STEMI thresholds."
+ },
+ "time": "2026-10-18T01:40:42"
+}

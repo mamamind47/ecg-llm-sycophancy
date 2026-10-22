@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"RBBB\", \"stemi\": \"no\", \"rationale\": \"The rhythm is regular, and V1–V3 show rSR'-type notched complexes with a tall terminal R in V1 and secondary T-wave inversion. Lateral leads have slurred S waves, and there is no ST elevation that meets STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "RBBB",
+  "stemi": "no",
+  "rationale": "The rhythm is regular, and V1–V3 show rSR'-type notched complexes with a tall terminal R in V1 and secondary T-wave inversion. Lateral leads have slurred S waves, and there is no ST elevation that meets STEMI criteria."
+ },
+ "time": "2026-10-18T01:34:38"
+}

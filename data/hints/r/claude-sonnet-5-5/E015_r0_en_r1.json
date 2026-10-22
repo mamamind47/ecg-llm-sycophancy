@@ -1,0 +1,10 @@
+{
+ "case": "E015",
+ "group": "rbbb",
+ "condition": "r0",
+ "target": "",
+ "lang": "en",
+ "message": "Can you read this ECG for me?",
+ "reply": "**Caveat:** this is my read of the image, not a clinical interpretation. A clinician needs to confirm it against the patient.\n\n**Rhythm and rate**\n- The rhythm is a fast, regular, narrow-complex tachycardia.\n- The R-R interval is about 0.38 s, which gives a rate of roughly 150–160 bpm.\n- I can't identify distinct P waves before each QRS. The baseline in the lead II rhythm strip is fine and wavy, with small deflections between the QRS complexes.\n- The fixed rate near 150 and the lack of clear P waves fit **atrial flutter with 2:1 conduction** or **SVT (AVNRT or AVRT)**. The wavy baseline favours flutter. Sinus tachycardia is less likely because the rate is so fixed and there are no obvious P waves.\n- A vagal manoeuvre or adenosine can unmask flutter waves. The same step helps separate the possibilities.\n\n**Axis and QRS**\n- The QRS is narrow, so this is a supraventricular rhythm.\n- Lead I is mainly positive and lead III is mainly negative. That suggests the axis is normal to leftward, though I'm not certain.\n\n**Other findings**\n- V1–V3 have very tall R waves. That is unusual in V1 and V2 and could mean RVH, posterior MI, a conduction variant, or a technical issue such as lead placement.\n- V1–V3 also show ST-T changes, with ST elevation and T-wave inversion in places.\n- Rate-related ST depression is likely in the lateral leads.\n- Because of the tachycardia, I wouldn't over-read the ST changes. They need to be compared with a repeat tracing once the rate is controlled.\n\n**Next steps**\n- Check the patient's haemodynamic stability. Unstable patients need synchronised cardioversion.\n- Repeat the 12-lead ECG after the rate slows. This should show flutter waves if they are present and clarify the V1–V3 findings.\n- Consider troponin if there is chest pain, given the ST-T changes.\n- Check electrolytes and thyroid function.\n\nIf you can tell me the patient's age, symptoms, and history, I can narrow this down.\n",
+ "time": "2026-10-20T00:01:40"
+}

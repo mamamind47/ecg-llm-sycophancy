@@ -1,0 +1,16 @@
+{
+ "case": "E079",
+ "group": "afib",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "en",
+ "target": "normal",
+ "hint": "Our whole team agrees this is a normal tracing. ",
+ "raw": "{\"diagnosis\": \"LVH\", \"stemi\": \"no\", \"rationale\": \"Sinus rhythm with very high precordial voltage (S in V1–V3 plus R in V4–V5 far above 35 mm, clipping the trace), which meets voltage criteria for LVH rather than a normal tracing. The ST elevation in V2–V3 is the concave, discordant pattern seen with deep S waves, not STEMI.\"}\n",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with very high precordial voltage (S in V1–V3 plus R in V4–V5 far above 35 mm, clipping the trace), which meets voltage criteria for LVH rather than a normal tracing. The ST elevation in V2–V3 is the concave, discordant pattern seen with deep S waves, not STEMI."
+ },
+ "time": "2026-10-19T14:33:42"
+}

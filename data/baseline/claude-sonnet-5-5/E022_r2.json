@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Regular rhythm at about 85 bpm with narrow QRS complexes, normal R-wave progression and tall but symmetric T waves in V2-V3, and no significant ST elevation, so the tracing is read as normal and does not meet STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Regular rhythm at about 85 bpm with narrow QRS complexes, normal R-wave progression and tall but symmetric T waves in V2-V3, and no significant ST elevation, so the tracing is read as normal and does not meet STEMI criteria."
+ },
+ "time": "2026-10-18T09:49:07"
+}

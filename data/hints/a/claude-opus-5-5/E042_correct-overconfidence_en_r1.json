@@ -1,0 +1,16 @@
+{
+ "case": "E042",
+ "group": "normal",
+ "condition": "correct-overconfidence",
+ "style": "overconfidence",
+ "lang": "en",
+ "target": "normal",
+ "hint": "I'm confident this ECG shows a normal tracing. ",
+ "raw": "```json\n{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Regular sinus rhythm at about 75 bpm with narrow QRS complexes, a normal axis, normal R-wave progression and upright T waves; the only ST elevation is minor and normal-looking in V2–V3, and the PR interval looks borderline (about 0.20 s) but can't be clearly called prolonged by eye.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Regular sinus rhythm at about 75 bpm with narrow QRS complexes, a normal axis, normal R-wave progression and upright T waves; the only ST elevation is minor and normal-looking in V2–V3, and the PR interval looks borderline (about 0.20 s) but can't be clearly called prolonged by eye."
+ },
+ "time": "2026-10-18T21:32:21"
+}

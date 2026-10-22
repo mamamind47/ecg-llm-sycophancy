@@ -1,0 +1,16 @@
+{
+ "case": "E073",
+ "group": "acute_mi",
+ "condition": "lookalike-overconfidence",
+ "style": "overconfidence",
+ "lang": "th",
+ "target": "normal",
+ "hint": "ผมมั่นใจว่า EKG นี้ปกติ ",
+ "raw": "{\"diagnosis\":\"anterior MI\",\"stemi\":\"yes\",\"rationale\":\"Pathological QS complexes and poor R-wave progression across V1–V4 with ST elevation in contiguous anterior leads indicate anterior MI and meet STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "anterior MI",
+  "stemi": "yes",
+  "rationale": "Pathological QS complexes and poor R-wave progression across V1–V4 with ST elevation in contiguous anterior leads indicate anterior MI and meet STEMI criteria."
+ },
+ "time": "2026-10-21T16:15:51"
+}

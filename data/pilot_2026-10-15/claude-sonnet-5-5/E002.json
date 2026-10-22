@@ -1,0 +1,8 @@
+{
+ "raw": "{\"diagnosis\": \"LVH\", \"stemi\": \"no\", \"rationale\": \"The QRS is narrow with deep S waves in V1-V3 (V2 about 25 mm) and tall R waves in V5-V6 (V5 about 19 mm), so S in V2 plus R in V5 is well over 35 mm. The mild ST elevation in V1-V3 with lateral T-wave flattening fits LVH repolarization changes and does not meet STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "The QRS is narrow with deep S waves in V1-V3 (V2 about 25 mm) and tall R waves in V5-V6 (V5 about 19 mm), so S in V2 plus R in V5 is well over 35 mm. The mild ST elevation in V1-V3 with lateral T-wave flattening fits LVH repolarization changes and does not meet STEMI criteria."
+ }
+}

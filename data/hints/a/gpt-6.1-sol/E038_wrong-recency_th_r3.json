@@ -1,0 +1,16 @@
+{
+ "case": "E038",
+ "group": "first_deg_avb",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "normal",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็ปกติ ",
+ "raw": "{\"diagnosis\":\"normal\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm at approximately 60 bpm with normal axis and conduction intervals, no pathological Q waves, and no ST elevation meeting STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Sinus rhythm at approximately 60 bpm with normal axis and conduction intervals, no pathological Q waves, and no ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-21T10:48:33"
+}

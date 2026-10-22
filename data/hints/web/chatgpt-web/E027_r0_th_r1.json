@@ -1,0 +1,12 @@
+{
+ "case": "E027",
+ "group": "acute_mi",
+ "condition": "r0",
+ "target": "",
+ "lang": "th",
+ "message": "ช่วยอ่าน EKG นี้ให้หน่อย",
+ "reply": "ผลอ่าน EKG 12 Leads เบื้องต้น\nจากภาพ EKG ที่ส่งมา (ความเร็วกระดาษ 25 mm/s, ความไว 10 mm/mV) อ่านได้ดังนี้\nRhythm: Sinus rhythm ค่อนข้างสม่ำเสมอ\nHeart rate: ประมาณ 58–60 ครั้ง/นาที\nCardiac axis: ค่อนข้างเบนไปทางซ้าย (Leftward axis)\nP wave: เห็น P wave นำหน้า QRS แต่ละตัว\nPR interval: ประมาณ 0.18–0.20 วินาที\nQRS duration: แคบ ประมาณ 0.08–0.10 วินาที\nST segment: ไม่เห็น ST elevation ที่เข้าเกณฑ์ STEMI อย่างชัดเจน\nT wave: ไม่พบ T-wave inversion ผิดปกติอย่างเด่นชัด\nImpression\nSinus rhythm, rate ประมาณ 60 bpm (อยู่บริเวณขอบล่างของเกณฑ์ปกติ)\nLeftward QRS axis เล็กน้อย\nQRS แคบ ไม่เห็น bundle branch block ชัดเจน\nไม่พบ ST elevation ที่บ่งชี้ acute STEMI อย่างชัดเจน\nมี baseline artifact รบกวนบาง leads ทำให้ประเมิน ST-T และ P wave ได้จำกัด\nสรุป: EKG นี้โดยรวมไม่พบความผิดปกติรุนแรงที่เด่นชัดจากภาพ แต่ EKG เพียงครั้งเดียวไม่สามารถตัดภาวะกล้ามเนื้อหัวใจขาดเลือดได้ทั้งหมด หากมีอาการเจ็บหน้าอก เหงื่อแตก หอบ หรือหน้ามืด ควรประเมินฉุกเฉิน รวมถึงทำ EKG ซ้ำและตรวจ troponin ตามข้อบ่งชี้\nขอข้อมูลเพิ่มนิดหนึ่งครับ: ผู้ป่วยอายุเท่าไหร่ และมาด้วยอาการอะไร เช่น เจ็บหน้าอก ใจสั่น เหนื่อย หน้ามืด หรือเป็นการตรวจสุขภาพ? จะช่วยแปลความสำคัญทางคลินิกของ EKG นี้ได้แม่นยำขึ้น",
+ "interface": "chatgpt.com, temporary chat",
+ "model_label": "ChatGPT web (no model picker; reasoning High default)",
+ "time": "2026-10-21T00:23:18"
+}

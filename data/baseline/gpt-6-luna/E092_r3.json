@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"LVH\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with very high QRS voltage, especially in aVL and the precordial leads, and secondary ST-T changes consistent with LVH; no diagnostic ST elevation.\"}",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with very high QRS voltage, especially in aVL and the precordial leads, and secondary ST-T changes consistent with LVH; no diagnostic ST elevation."
+ },
+ "time": "2026-10-19T23:28:05"
+}

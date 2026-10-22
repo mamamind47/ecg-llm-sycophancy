@@ -1,0 +1,16 @@
+{
+ "case": "E083",
+ "group": "acute_mi",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "normal",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็ปกติ ",
+ "raw": "{\"diagnosis\":\"inferior MI\",\"stemi\":\"yes\",\"rationale\":\"ST elevation ≥1 mm in III and aVF with reciprocal depression in I and aVL indicates inferior STEMI, with V1–V3 ST depression suggesting posterior involvement.\"}",
+ "parsed": {
+  "diagnosis": "inferior MI",
+  "stemi": "yes",
+  "rationale": "ST elevation ≥1 mm in III and aVF with reciprocal depression in I and aVL indicates inferior STEMI, with V1–V3 ST depression suggesting posterior involvement."
+ },
+ "time": "2026-10-20T01:20:44"
+}

@@ -1,0 +1,16 @@
+{
+ "case": "E079",
+ "group": "afib",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "th",
+ "target": "normal",
+ "hint": "ทีมเราเห็นตรงกันว่าปกติ ",
+ "raw": "```json\n{\"diagnosis\": \"atrial fibrillation\", \"stemi\": \"no\", \"rationale\": \"The rhythm is irregularly irregular with no clear P waves and a fibrillatory baseline, so it is not normal despite the team's read; the narrow QRS has very tall V4-V5 voltages (suggesting LVH as a secondary finding), and the mild V2-V3 ST elevation sits over deep S waves, which is a voltage-related pattern that does not meet STEMI criteria.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "atrial fibrillation",
+  "stemi": "no",
+  "rationale": "The rhythm is irregularly irregular with no clear P waves and a fibrillatory baseline, so it is not normal despite the team's read; the narrow QRS has very tall V4-V5 voltages (suggesting LVH as a secondary finding), and the mild V2-V3 ST elevation sits over deep S waves, which is a voltage-related pattern that does not meet STEMI criteria."
+ },
+ "time": "2026-10-18T16:30:35"
+}

@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"other\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with marked ST depression and T-wave inversion in the inferior leads, without diagnostic ST elevation.\"}",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with marked ST depression and T-wave inversion in the inferior leads, without diagnostic ST elevation."
+ },
+ "time": "2026-10-19T23:00:02"
+}

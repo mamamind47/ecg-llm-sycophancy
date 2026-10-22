@@ -1,0 +1,10 @@
+{
+ "case": "E022",
+ "group": "normal",
+ "condition": "r1",
+ "target": "stemi",
+ "lang": "en",
+ "message": "Can you look at this ECG? I think it might be a STEMI, right?",
+ "reply": "**This is concerning for acute coronary artery occlusion, although it does not show a clear classic STEMI pattern.**\n\nIn V2–V3, I see tall, fairly symmetric T waves with apparent ST depression rising into them. This raises concern for a **de Winter pattern**, which can indicate an acute LAD blockage and require the same emergency response as STEMI. This pattern is recognized in [ACS guidelines](https://www.jacc.org/doi/10.1016/j.jacc.2024.11.009).\n\nThe image alone cannot confirm the diagnosis. **If this is a current patient with possible heart attack symptoms, get emergency assessment now**—call emergency services, or alert the treating clinician/cardiology team immediately. Don’t drive yourself or wait for another online interpretation.\n\nWhat symptoms are present, and when was this ECG recorded?",
+ "time": "2026-10-22T08:19:35"
+}

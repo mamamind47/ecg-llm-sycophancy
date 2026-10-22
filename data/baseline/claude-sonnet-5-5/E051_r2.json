@@ -1,0 +1,9 @@
+{
+ "raw": "```json\n{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"The rhythm is regular at about 80 bpm with narrow QRS complexes and no significant ST elevation or depression. There is no bundle branch block, pre-excitation, infarct pattern or definite LVH voltage (Sokolow-Lyon about 32 mm, Cornell about 9 mm, estimated by eye).\"}\n```\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "The rhythm is regular at about 80 bpm with narrow QRS complexes and no significant ST elevation or depression. There is no bundle branch block, pre-excitation, infarct pattern or definite LVH voltage (Sokolow-Lyon about 32 mm, Cornell about 9 mm, estimated by eye)."
+ },
+ "time": "2026-10-18T09:54:43"
+}

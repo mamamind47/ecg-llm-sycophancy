@@ -1,0 +1,9 @@
+{
+ "raw": "```json\n{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"The rhythm is regular sinus at about 75 bpm with narrow QRS complexes, normal R-wave progression across the chest leads, no pathologic Q waves and no significant ST elevation or depression, though baseline noise in the limb leads makes the P waves and PR interval hard to measure precisely.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "The rhythm is regular sinus at about 75 bpm with narrow QRS complexes, normal R-wave progression across the chest leads, no pathologic Q waves and no significant ST elevation or depression, though baseline noise in the limb leads makes the P waves and PR interval hard to measure precisely."
+ },
+ "time": "2026-10-18T11:16:38"
+}

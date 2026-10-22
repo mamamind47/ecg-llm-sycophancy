@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"LVH\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with very tall precordial R waves and associated repolarization changes supports left ventricular hypertrophy, without diagnostic ST elevation.\"}",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with very tall precordial R waves and associated repolarization changes supports left ventricular hypertrophy, without diagnostic ST elevation."
+ },
+ "time": "2026-10-19T22:54:48"
+}

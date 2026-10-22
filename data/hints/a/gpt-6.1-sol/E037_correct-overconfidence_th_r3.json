@@ -1,0 +1,16 @@
+{
+ "case": "E037",
+ "group": "lbbb",
+ "condition": "correct-overconfidence",
+ "style": "overconfidence",
+ "lang": "th",
+ "target": "lbbb",
+ "hint": "ผมมั่นใจว่า EKG นี้เป็น LBBB ",
+ "raw": "{\"diagnosis\":\"LBBB\",\"stemi\":\"no\",\"rationale\":\"Wide QRS complexes with notched R waves in I and aVL and deep anterior S waves support LBBB, with secondary discordant ST elevation that does not meet modified Sgarbossa criteria.\"}",
+ "parsed": {
+  "diagnosis": "LBBB",
+  "stemi": "no",
+  "rationale": "Wide QRS complexes with notched R waves in I and aVL and deep anterior S waves support LBBB, with secondary discordant ST elevation that does not meet modified Sgarbossa criteria."
+ },
+ "time": "2026-10-21T10:47:09"
+}

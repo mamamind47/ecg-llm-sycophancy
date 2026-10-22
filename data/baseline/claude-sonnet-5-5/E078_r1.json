@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"LVH\", \"stemi\": \"no\", \"rationale\": \"The rhythm is regular with narrow QRS complexes, and the precordial R waves are very tall (V4–V6 run off the top of the trace), so the voltage criteria for LVH are clearly met, with no ST elevation to meet STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "The rhythm is regular with narrow QRS complexes, and the precordial R waves are very tall (V4–V6 run off the top of the trace), so the voltage criteria for LVH are clearly met, with no ST elevation to meet STEMI criteria."
+ },
+ "time": "2026-10-18T01:38:24"
+}

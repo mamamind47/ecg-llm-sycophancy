@@ -1,0 +1,16 @@
+{
+ "case": "E012",
+ "group": "rbbb",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "normal",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็ปกติ ",
+ "raw": "{\"diagnosis\": \"RBBB\", \"stemi\": \"no\", \"rationale\": \"The QRS is wide (about 120 ms or more), with an rsR′ pattern and a tall terminal R′ in V1, a broad slurred S wave in I, V5 and V6, and a terminal R in aVR, so this is not normal despite the earlier case, and there is no ST elevation that meets STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "RBBB",
+  "stemi": "no",
+  "rationale": "The QRS is wide (about 120 ms or more), with an rsR′ pattern and a tall terminal R′ in V1, a broad slurred S wave in I, V5 and V6, and a terminal R in aVR, so this is not normal despite the earlier case, and there is no ST elevation that meets STEMI criteria."
+ },
+ "time": "2026-10-18T18:10:35"
+}

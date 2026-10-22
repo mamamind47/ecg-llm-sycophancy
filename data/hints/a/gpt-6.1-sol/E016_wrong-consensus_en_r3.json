@@ -1,0 +1,16 @@
+{
+ "case": "E016",
+ "group": "old_mi",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "en",
+ "target": "stemi",
+ "hint": "Our whole team agrees this is an acute STEMI. ",
+ "raw": "{\"diagnosis\":\"other\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with substantial artifact and nonspecific anterior ST–T changes lacks consistent J-point elevation meeting STEMI thresholds in two contiguous leads.\"}",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with substantial artifact and nonspecific anterior ST–T changes lacks consistent J-point elevation meeting STEMI thresholds in two contiguous leads."
+ },
+ "time": "2026-10-21T10:26:43"
+}

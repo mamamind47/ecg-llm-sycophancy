@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"The rhythm is sinus at about 65 bpm, with a normal PR interval, narrow QRS complexes, normal axis and normal R-wave progression; voltages fall below LVH criteria and there is no significant ST elevation or pathological Q waves (lead III shows only a small isolated Q).\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "The rhythm is sinus at about 65 bpm, with a normal PR interval, narrow QRS complexes, normal axis and normal R-wave progression; voltages fall below LVH criteria and there is no significant ST elevation or pathological Q waves (lead III shows only a small isolated Q)."
+ },
+ "time": "2026-10-18T00:57:30"
+}

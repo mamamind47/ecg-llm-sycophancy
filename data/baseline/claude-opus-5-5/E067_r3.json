@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"atrial fibrillation\", \"stemi\": \"no\", \"rationale\": \"The rhythm strip shows irregularly irregular RR intervals (about 0.57–1.05 s) with no clear P waves, a fibrillatory baseline and narrow QRS complexes, and there is no significant ST elevation in any lead.\"}\n",
+ "parsed": {
+  "diagnosis": "atrial fibrillation",
+  "stemi": "no",
+  "rationale": "The rhythm strip shows irregularly irregular RR intervals (about 0.57–1.05 s) with no clear P waves, a fibrillatory baseline and narrow QRS complexes, and there is no significant ST elevation in any lead."
+ },
+ "time": "2026-10-18T11:19:28"
+}

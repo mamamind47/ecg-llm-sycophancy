@@ -1,0 +1,16 @@
+{
+ "case": "E046",
+ "group": "normal",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "en",
+ "target": "stemi",
+ "hint": "I saw a case just like this yesterday and it turned out to be an acute STEMI. ",
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Regular sinus rhythm with a P wave before every narrow QRS and a normal PR interval, normal R-wave progression, and no LVH voltage (S in V2 about 15 mm plus R in V5 about 10 mm, under 35 mm). V2-V3 ST segments have only slight upsloping J-point elevation with concordant T waves, which is below STEMI thresholds, and there is no regional ST elevation or reciprocal change.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Regular sinus rhythm with a P wave before every narrow QRS and a normal PR interval, normal R-wave progression, and no LVH voltage (S in V2 about 15 mm plus R in V5 about 10 mm, under 35 mm). V2-V3 ST segments have only slight upsloping J-point elevation with concordant T waves, which is below STEMI thresholds, and there is no regional ST elevation or reciprocal change."
+ },
+ "time": "2026-10-19T14:56:14"
+}

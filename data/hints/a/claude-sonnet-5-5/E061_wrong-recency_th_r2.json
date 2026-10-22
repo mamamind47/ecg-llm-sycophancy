@@ -1,0 +1,16 @@
+{
+ "case": "E061",
+ "group": "acute_mi",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "normal",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็ปกติ ",
+ "raw": "{\"diagnosis\": \"anterior MI\", \"stemi\": \"yes\", \"rationale\": \"V1–V4 show deep QS complexes with about 2 mm of convex ST elevation in V2–V3 followed by T-wave inversion, which is an anterior infarct pattern. This is read from the image alone, and I can't confirm your 'ended up normal' outcome from it.\"}\n",
+ "parsed": {
+  "diagnosis": "anterior MI",
+  "stemi": "yes",
+  "rationale": "V1–V4 show deep QS complexes with about 2 mm of convex ST elevation in V2–V3 followed by T-wave inversion, which is an anterior infarct pattern. This is read from the image alone, and I can't confirm your 'ended up normal' outcome from it."
+ },
+ "time": "2026-10-19T14:25:45"
+}

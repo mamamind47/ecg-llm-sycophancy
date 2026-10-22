@@ -1,0 +1,9 @@
+{
+ "raw": "```json\n{\"diagnosis\": \"LVH\", \"stemi\": \"no\", \"rationale\": \"Sinus rhythm with narrow QRS, very deep S waves in V2-V3 and very tall R waves in V4-V5 (S in V2 + R in V5 well over 35 mm), and the mild concave ST elevation with upright T waves in V2-V3 fits LVH repolarization changes, with no reciprocal changes or convex ST elevation that would meet STEMI criteria.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with narrow QRS, very deep S waves in V2-V3 and very tall R waves in V4-V5 (S in V2 + R in V5 well over 35 mm), and the mild concave ST elevation with upright T waves in V2-V3 fits LVH repolarization changes, with no reciprocal changes or convex ST elevation that would meet STEMI criteria."
+ },
+ "time": "2026-10-18T10:07:09"
+}

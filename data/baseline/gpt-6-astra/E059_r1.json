@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"other\",\"stemi\":\"no\",\"rationale\":\"An irregular narrow-complex rhythm below 100 bpm with at least three distinct P-wave morphologies and variable PR intervals suggests wandering atrial pacemaker, without ST elevation meeting STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "An irregular narrow-complex rhythm below 100 bpm with at least three distinct P-wave morphologies and variable PR intervals suggests wandering atrial pacemaker, without ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-18T01:04:35"
+}

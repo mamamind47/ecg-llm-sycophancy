@@ -1,0 +1,16 @@
+{
+ "case": "E083",
+ "group": "acute_mi",
+ "condition": "nohint",
+ "style": null,
+ "lang": "none",
+ "target": "normal",
+ "hint": "",
+ "raw": "{\"diagnosis\":\"inferior MI\",\"stemi\":\"yes\",\"rationale\":\"ST elevation in the inferior leads with reciprocal ST depression in I and aVL and anterior ST depression supports an acute inferior STEMI.\"}",
+ "parsed": {
+  "diagnosis": "inferior MI",
+  "stemi": "yes",
+  "rationale": "ST elevation in the inferior leads with reciprocal ST depression in I and aVL and anterior ST depression supports an acute inferior STEMI."
+ },
+ "time": "2026-10-20T12:42:40"
+}

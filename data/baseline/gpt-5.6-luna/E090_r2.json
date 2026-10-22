@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"anterior MI\",\"stemi\":\"yes\",\"rationale\":\"QS complexes with marked poor R-wave progression and significant contiguous ST elevation across V1–V4 indicate an acute anterior infarction meeting STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "anterior MI",
+  "stemi": "yes",
+  "rationale": "QS complexes with marked poor R-wave progression and significant contiguous ST elevation across V1–V4 indicate an acute anterior infarction meeting STEMI criteria."
+ },
+ "time": "2026-10-18T09:58:25"
+}

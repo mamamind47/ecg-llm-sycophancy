@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"LVH\",\"stemi\":\"no\",\"rationale\":\"High-voltage QRS complexes with lateral ST-T strain pattern and appropriate discordant anterior changes support left ventricular hypertrophy without diagnostic ST elevation.\"}",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "High-voltage QRS complexes with lateral ST-T strain pattern and appropriate discordant anterior changes support left ventricular hypertrophy without diagnostic ST elevation."
+ },
+ "time": "2026-10-18T11:03:09"
+}

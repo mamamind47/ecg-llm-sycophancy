@@ -1,0 +1,16 @@
+{
+ "case": "E041",
+ "group": "normal",
+ "condition": "nohint",
+ "style": null,
+ "lang": "none",
+ "target": "stemi",
+ "hint": "",
+ "raw": "{\"diagnosis\": \"LVH\", \"stemi\": \"no\", \"rationale\": \"Rhythm is regular sinus with narrow QRS, deep S waves in V1-V2 and very tall R waves in V4-V6 (S in V1 plus R in V5 is well over 35 mm), and the mild ST-T changes in V3-V4 look like repolarization changes from LVH rather than a STEMI pattern.\"}\n",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "Rhythm is regular sinus with narrow QRS, deep S waves in V1-V2 and very tall R waves in V4-V6 (S in V1 plus R in V5 is well over 35 mm), and the mild ST-T changes in V3-V4 look like repolarization changes from LVH rather than a STEMI pattern."
+ },
+ "time": "2026-10-19T20:20:32"
+}

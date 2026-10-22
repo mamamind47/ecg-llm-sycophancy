@@ -1,0 +1,9 @@
+{
+ "raw": "```json\n{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Regular sinus rhythm with normal PR and a narrow QRS; the large V2-V4 voltages and mild concave ST elevation there look like a normal or early-repolarization variant, with no pathological Q waves, bundle branch block or LVH criteria met (Sokolow-Lyon about 25 mm, below 35), and no ST elevation that meets STEMI criteria.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Regular sinus rhythm with normal PR and a narrow QRS; the large V2-V4 voltages and mild concave ST elevation there look like a normal or early-repolarization variant, with no pathological Q waves, bundle branch block or LVH criteria met (Sokolow-Lyon about 25 mm, below 35), and no ST elevation that meets STEMI criteria."
+ },
+ "time": "2026-10-18T11:12:13"
+}

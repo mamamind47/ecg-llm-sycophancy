@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"LBBB\", \"stemi\": \"no\", \"rationale\": \"The QRS is wide (about 140 ms or more), with deep QS/rS complexes in V1–V3 and broad, notched R waves in I, aVL and V6; the ST elevation in V1–V3 goes the opposite way to the QRS and is in proportion to the deep S waves, so it does not meet Sgarbossa/STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "LBBB",
+  "stemi": "no",
+  "rationale": "The QRS is wide (about 140 ms or more), with deep QS/rS complexes in V1–V3 and broad, notched R waves in I, aVL and V6; the ST elevation in V1–V3 goes the opposite way to the QRS and is in proportion to the deep S waves, so it does not meet Sgarbossa/STEMI criteria."
+ },
+ "time": "2026-10-18T09:53:46"
+}

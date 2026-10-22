@@ -1,0 +1,8 @@
+{
+ "raw": "```json\n{\"diagnosis\": \"LVH\", \"stemi\": \"no\", \"rationale\": \"V1-V3 show very deep S waves of about 35 mm or more with discordant ST elevation and tall T waves, and aVL has a tall R wave. That fits voltage-driven LVH, where the ST elevation is secondary to the large QRS and does not indicate STEMI.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "V1-V3 show very deep S waves of about 35 mm or more with discordant ST elevation and tall T waves, and aVL has a tall R wave. That fits voltage-driven LVH, where the ST elevation is secondary to the large QRS and does not indicate STEMI."
+ }
+}

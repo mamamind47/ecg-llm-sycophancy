@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"inferior MI\", \"stemi\": \"yes\", \"rationale\": \"Leads II, III and aVF show convex ST elevation of about 2–3 mm, highest in III, with reciprocal ST depression and T-wave inversion in aVL and I, which fits an acute inferior STEMI.\"}\n",
+ "parsed": {
+  "diagnosis": "inferior MI",
+  "stemi": "yes",
+  "rationale": "Leads II, III and aVF show convex ST elevation of about 2–3 mm, highest in III, with reciprocal ST depression and T-wave inversion in aVL and I, which fits an acute inferior STEMI."
+ },
+ "time": "2026-10-18T11:17:21"
+}

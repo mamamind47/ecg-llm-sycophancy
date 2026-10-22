@@ -1,0 +1,8 @@
+{
+ "raw": "```json\n{\n  \"diagnosis\": \"normal\",\n  \"stemi\": \"no\",\n  \"rationale\": \"The ECG demonstrates normal sinus rhythm with normal intervals, intact R-wave progression, and mild physiological concave ST elevation in leads V2–V3 that does not meet STEMI criteria.\"\n}\n```\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "The ECG demonstrates normal sinus rhythm with normal intervals, intact R-wave progression, and mild physiological concave ST elevation in leads V2–V3 that does not meet STEMI criteria."
+ }
+}

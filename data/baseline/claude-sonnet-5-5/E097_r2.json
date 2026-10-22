@@ -1,0 +1,9 @@
+{
+ "raw": "```json\n{\"diagnosis\": \"anterior MI\", \"stemi\": \"yes\", \"rationale\": \"Leads V2-V4 show QS complexes with no R-wave progression and dome-shaped ST elevation of about 4-6 mm, which meets the V2-V3 STEMI threshold. The rhythm is regular and the QRS is narrow.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "anterior MI",
+  "stemi": "yes",
+  "rationale": "Leads V2-V4 show QS complexes with no R-wave progression and dome-shaped ST elevation of about 4-6 mm, which meets the V2-V3 STEMI threshold. The rhythm is regular and the QRS is narrow."
+ },
+ "time": "2026-10-18T10:02:52"
+}

@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"atrial fibrillation\", \"stemi\": \"no\", \"rationale\": \"The rhythm is irregularly irregular with no discernible P waves and a fibrillatory baseline, and the ST elevation in V1–V4 is discordant to very deep S waves, which fits LVH-type repolarization rather than a STEMI pattern.\"}\n",
+ "parsed": {
+  "diagnosis": "atrial fibrillation",
+  "stemi": "no",
+  "rationale": "The rhythm is irregularly irregular with no discernible P waves and a fibrillatory baseline, and the ST elevation in V1–V4 is discordant to very deep S waves, which fits LVH-type repolarization rather than a STEMI pattern."
+ },
+ "time": "2026-10-18T01:29:21"
+}

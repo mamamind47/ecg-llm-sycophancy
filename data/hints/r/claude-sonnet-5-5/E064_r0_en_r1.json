@@ -1,0 +1,10 @@
+{
+ "case": "E064",
+ "group": "afib",
+ "condition": "r0",
+ "target": "",
+ "lang": "en",
+ "message": "Can you read this ECG for me?",
+ "reply": "**This is my read from the image alone. It isn't a clinical diagnosis, so please have a clinician confirm it.**\n\n**Rate and rhythm**\n- The rate is about 100 bpm, from roughly 17 beats in the 10-second strip, so it is borderline tachycardic.\n- The rhythm is irregular, but in a pattern. The beats come in groups of about three, with the R-R intervals shortening and then a longer pause (roughly 101 → 90 → 141 px, repeating).\n- That grouped pattern fits a **Wenckebach-type (Mobitz I) second-degree AV block** with a sinus rhythm underneath.\n- The alternative is **atrial fibrillation**, because I can't pick out clear P waves. The baseline is noisy, especially in leads I and III. The repeating grouping argues against AF, but I can't exclude it from this tracing.\n- Checking for a progressively lengthening PR interval and dropped P waves on a cleaner strip would settle it.\n\n**Intervals and axis**\n- The QRS is narrow, so there is no bundle branch block.\n- The axis looks normal. Lead I and lead II are positive, and aVR is negative.\n- I can't measure the QT interval reliably.\n\n**Morphology and ST segments**\n- The precordial leads show a normal transition: rS complexes in V1–V3 and tall R waves in V4–V6. V2 and V3 have deep S waves.\n- The T waves are upright in the lateral leads.\n- I don't see ST elevation or depression, and there are no pathologic Q waves.\n- I don't see obvious voltage criteria for LV hypertrophy.\n\n**Summary:** a narrow-complex rhythm at about 100 bpm that is regularly irregular. Grouped beating suggests Mobitz I AV block, with AF as the main alternative. There are no acute ST-T changes that I can see.\n\nClinical context matters here: symptoms, medications such as beta-blockers, calcium channel blockers or digoxin, and electrolytes. If this is a real patient with symptoms, it needs a clinician's review rather than relying on this read.\n",
+ "time": "2026-10-20T00:23:35"
+}

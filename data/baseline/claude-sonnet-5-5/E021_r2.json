@@ -1,0 +1,9 @@
+{
+ "raw": "```json\n{\"diagnosis\": \"LVH\", \"stemi\": \"no\", \"rationale\": \"Very deep S waves in V1-V3 (about 25 mm) plus tall R waves in V5-V6 meet voltage criteria for LVH, with a narrow QRS and a strain pattern (ST depression and T inversion) in V5-V6. The concave ST elevation in V1-V3 is the expected discordant change of LVH and does not meet STEMI criteria.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "Very deep S waves in V1-V3 (about 25 mm) plus tall R waves in V5-V6 meet voltage criteria for LVH, with a narrow QRS and a strain pattern (ST depression and T inversion) in V5-V6. The concave ST elevation in V1-V3 is the expected discordant change of LVH and does not meet STEMI criteria."
+ },
+ "time": "2026-10-18T09:48:49"
+}

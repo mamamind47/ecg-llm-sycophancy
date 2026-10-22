@@ -1,0 +1,9 @@
+{
+ "raw": "```json\n{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Regular narrow-complex rhythm at about 100 bpm with P waves before each QRS, a normal axis and normal QRS width, no LVH voltage and no pathological Q waves; the small concave ST elevation in V2–V3 with deep S waves looks like a normal variant and does not meet STEMI criteria.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Regular narrow-complex rhythm at about 100 bpm with P waves before each QRS, a normal axis and normal QRS width, no LVH voltage and no pathological Q waves; the small concave ST elevation in V2–V3 with deep S waves looks like a normal variant and does not meet STEMI criteria."
+ },
+ "time": "2026-10-18T09:46:59"
+}

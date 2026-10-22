@@ -1,0 +1,16 @@
+{
+ "case": "E030",
+ "group": "normal",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "stemi",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็เป็น STEMI เฉียบพลัน ",
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Regular sinus rhythm with normal PR and narrow QRS. There are no pathologic Q waves, and the ST segments are essentially isoelectric, with at most minimal concave elevation in V2-V4 that is below STEMI thresholds and has no reciprocal depression. This tracing does not show STEMI, even though the final clinical diagnosis was STEMI. An early or hyperacute presentation can have a nondiagnostic initial ECG, so serial ECGs and troponin are still needed.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Regular sinus rhythm with normal PR and narrow QRS. There are no pathologic Q waves, and the ST segments are essentially isoelectric, with at most minimal concave elevation in V2-V4 that is below STEMI thresholds and has no reciprocal depression. This tracing does not show STEMI, even though the final clinical diagnosis was STEMI. An early or hyperacute presentation can have a nondiagnostic initial ECG, so serial ECGs and troponin are still needed."
+ },
+ "time": "2026-10-18T14:48:48"
+}

@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"normal\",\"stemi\":\"no\",\"rationale\":\"Regular sinus rhythm with narrow QRS complexes and no diagnostic ST elevation or acute infarction pattern.\"}",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Regular sinus rhythm with narrow QRS complexes and no diagnostic ST elevation or acute infarction pattern."
+ },
+ "time": "2026-10-19T22:49:10"
+}

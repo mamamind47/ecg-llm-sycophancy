@@ -1,0 +1,9 @@
+{
+ "raw": "```json\n{\"diagnosis\": \"anterior MI\", \"stemi\": \"yes\", \"rationale\": \"The rhythm is regular at about 100 bpm. V1-V3 show QS complexes with marked ST elevation (about 2-4 mm in V2-V3) and poor R-wave progression, which fits an acute anterior STEMI; the limb leads are too noisy to assess reliably.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "anterior MI",
+  "stemi": "yes",
+  "rationale": "The rhythm is regular at about 100 bpm. V1-V3 show QS complexes with marked ST elevation (about 2-4 mm in V2-V3) and poor R-wave progression, which fits an acute anterior STEMI; the limb leads are too noisy to assess reliably."
+ },
+ "time": "2026-10-18T09:47:55"
+}

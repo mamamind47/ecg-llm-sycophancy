@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"RBBB\", \"stemi\": \"no\", \"rationale\": \"Sinus rhythm with a wide QRS, rsR'/tall notched R in V1-V2 with secondary T-wave inversion, and slurred terminal S waves in I and V5-V6, with no ST elevation meeting STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "RBBB",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with a wide QRS, rsR'/tall notched R in V1-V2 with secondary T-wave inversion, and slurred terminal S waves in I and V5-V6, with no ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-18T11:17:25"
+}

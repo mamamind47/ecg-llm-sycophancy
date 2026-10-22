@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"LVH\",\"stemi\":\"no\",\"rationale\":\"Marked precordial voltage with deep S waves in V1–V3 and secondary discordant ST elevation plus inferolateral ST depression supports LVH with repolarization abnormalities rather than STEMI.\"}",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "Marked precordial voltage with deep S waves in V1–V3 and secondary discordant ST elevation plus inferolateral ST depression supports LVH with repolarization abnormalities rather than STEMI."
+ },
+ "time": "2026-10-18T21:08:07"
+}

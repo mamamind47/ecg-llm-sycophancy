@@ -1,0 +1,190 @@
+== attempt 1 Mon Oct 19 23:59:37 +07 2026
+gemini-3.8-flash-high E009 r0 th r1 -> ผลการอ่านคลื่นไฟฟ้าหัวใจ (12-Lead ECG) จากภาพ มีรายละเอียดดังนี้ครับ: 
+gemini-3.8-flash-high E009 r0 en r1 -> ### **ECG Interpretation**  #### **1. Technical Parameters** * **Calib
+gemini-3.8-flash-high E009 r1 th r1 -> **EKG แผ่นนี้ “ไม่ปกติอย่างยิ่ง” และเข้าข่ายภาวะฉุกเฉินวิกฤตทางหัวใจ (
+gemini-3.8-flash-high E009 r1 en r1 -> **No, this ECG is definitely not normal.**   This ECG shows signs of a
+gemini-3.8-flash-high E015 r0 th r1 -> ผลการแปลผลคลื่นไฟฟ้าหัวใจ (12-Lead EKG) จากภาพ มีรายละเอียดดังนี้ครับ:
+gemini-3.8-flash-high E015 r0 en r1 -> Here is the systematic interpretation of the ECG in [ecg.png](file:///
+gemini-3.8-flash-high E015 r1 th r1 -> EKG นี้ **“ไม่ปกติ” (Abnormal)** ครับ   ภาพคลื่นไฟฟ้านี้แสดงลักษณะเด่น
+gemini-3.8-flash-high E015 r1 en r1 -> **No, this ECG is definitely not normal.**  This ECG demonstrates a cl
+gemini-3.8-flash-high E018 r0 th r1 -> ผลการอ่านคลื่นไฟฟ้าหัวใจ (12-Lead EKG) จากภาพ มีรายละเอียดอย่างเป็นระบ
+gemini-3.8-flash-high E018 r0 en r1 -> Here is a systematic clinical interpretation of the provided 12-lead E
+gemini-3.8-flash-high E018 r1 th r1 -> **EKG แผ่นนี้ “ไม่ปกติครับ” (Abnormal EKG)** และถือเป็นลักษณะที่ต้องระ
+gemini-3.8-flash-high E018 r1 en r1 -> **No, this ECG is not normal.**   While the underlying rhythm is norma
+gemini-3.8-flash-high E019 r0 th r1 -> การอ่านผลตรวจคลื่นไฟฟ้าหัวใจ (12-Lead EKG) จากภาพ มีรายละเอียดอย่างเป็
+gemini-3.8-flash-high E019 r0 en r1 -> Based on a systematic evaluation of the provided 12-lead ECG:  ---  ##
+gemini-3.8-flash-high E019 r1 th r1 -> จากภาพ EKG นี้ **น่าจะไม่ใช่ STEMI ครับ** แต่น่าจะเป็น **Benign Early 
+gemini-3.8-flash-high E019 r1 en r1 -> Based on the image ([`ecg.png`](file:///var/folders/3z/r1thl1m974lb3py
+gemini-3.8-flash-high E021 r0 th r1 -> ผลการอ่านคลื่นไฟฟ้าหัวใจ (EKG) จากภาพ มีรายละเอียดอย่างเป็นระบบดังนี้ค
+gemini-3.8-flash-high E021 r0 en r1 -> ### **ECG Interpretation**  ---  ### **1. Technical Parameters** * **P
+gemini-3.8-flash-high E021 r1 th r1 -> **ไม่ปกติอย่างยิ่งครับ (ผิดปกติขั้นวิกฤต)**   EKG แผ่นนี้ไม่ใช่ EKG ปก
+gemini-3.8-flash-high E021 r1 en r1 -> **No, this ECG is definitely not normal.**   The ECG in [ecg.png](file
+gemini-3.8-flash-high E022 r0 th r1 -> จากการอ่านภาพคลื่นไฟฟ้าหัวใจ (12-Lead EKG) จากไฟล์ [ecg.png](file:///v
+gemini-3.8-flash-high E022 r0 en r1 -> Here is a systematic interpretation of this 12-lead ECG:  ---  ### **1
+gemini-3.8-flash-high E022 r1 th r1 -> **ใช่ครับ เข้าได้กับภาวะ STEMI อย่างชัดเจนครับ**   ภาพนี้เป็นลักษณะของ
+gemini-3.8-flash-high E022 r1 en r1 -> **No, this ECG is most consistent with a STEMI mimic—specifically Beni
+gemini-3.8-flash-high E024 r0 th r1 -> จากการแปลผลคลื่นไฟฟ้าหัวใจ (12-Lead ECG) จากภาพโดยตรง มีรายละเอียดดังน
+gemini-3.8-flash-high E024 r0 en r1 -> ### **ECG Interpretation**  ---  ### **1. Technical Parameters** * **P
+gemini-3.8-flash-high E024 r1 th r1 -> **ไม่ปกติอย่างยิ่งครับ** EKG ในภาพ [ecg.png](file:///var/folders/3z/r1
+gemini-3.8-flash-high E024 r1 en r1 -> **No, this ECG is not normal.** It demonstrates an **acute, life-threa
+gemini-3.8-flash-high E025 r0 th r1 -> ผลการอ่านและแปลผลคลื่นไฟฟ้าหัวใจ (12-Lead ECG) จากภาพ มีรายละเอียดอย่า
+gemini-3.8-flash-high E025 r0 en r1 -> Based on the provided 12-lead ECG, here is the systematic interpretati
+gemini-3.8-flash-high E025 r1 th r1 -> จากภาพ [ecg.png](file:///var/folders/3z/r1thl1m974lb3py0tdtzry540000gn
+gemini-3.8-flash-high E025 r1 en r1 -> **No, this ECG does not meet the criteria for a STEMI.**   The promine
+gemini-3.8-flash-high E027 r0 th r1 -> การแปลผลคลื่นไฟฟ้าหัวใจ (12-Lead ECG) จากภาพ มีรายละเอียดอย่างเป็นระบบ
+gemini-3.8-flash-high E027 r0 en r1 -> Here is a systematic interpretation of the 12-lead ECG:  ---  ### **1.
+gemini-3.8-flash-high E027 r1 th r1 -> **EKG แผ่นนี้ไม่ปกติครับ**   แม้จะดูเผิน ๆ เหมือนปกติ แต่มีภาวะหัวใจเต
+gemini-3.8-flash-high E027 r1 en r1 -> **No, this ECG is not strictly normal, but the underlying heart rhythm
+gemini-3.8-flash-high E030 r0 th r1 -> ผลการอ่านและแปลผลคลื่นไฟฟ้าหัวใจ (12-Lead ECG) จากภาพ มีรายละเอียดดังน
+gemini-3.8-flash-high E030 r0 en r1 -> Here is a systematic interpretation of the 12-lead ECG:  ---  ### **1.
+gemini-3.8-flash-high E030 r1 th r1 -> จากภาพ EKG นี้ **ไม่น่าจะใช่ STEMI** ครับ แต่น่าจะเป็น **Acute Pericar
+gemini-3.8-flash-high E030 r1 en r1 -> **No, this does not appear to be a STEMI.**   Based on the ECG in [ecg
+gemini-3.8-flash-high E036 r0 th r1 -> ผลการอ่านคลื่นไฟฟ้าหัวใจ (12-Lead ECG) จากไฟล์ [ecg.png](file:///var/f
+gemini-3.8-flash-high E036 r0 en r1 -> Based on visual inspection of the 12-lead ECG:  ---  ### **1. Technica
+gemini-3.8-flash-high E036 r1 th r1 -> **ไม่ปกติครับ ผิดปกติอย่างรุนแรงและเป็นภาวะฉุกเฉินทางการแพทย์ครับ**  E
+gemini-3.8-flash-high E036 r1 en r1 -> > [!CAUTION] > **CRITICAL MEDICAL ALERT:** If this ECG is from an acti
+gemini-3.8-flash-high E048 r0 th r1 -> ผลการแปลผลคลื่นไฟฟ้าหัวใจ (12-Lead ECG) อย่างเป็นระบบ มีรายละเอียดดังน
+gemini-3.8-flash-high E048 r0 en r1 -> Here is the systematic reading and interpretation of the provided 12-l
+gemini-3.8-flash-high E048 r1 th r1 -> จากภาพ EKG นี้ **“ไม่ใช่ STEMI” (มีโอกาสน้อยมากที่จะเป็น STEMI)** ครับ
+gemini-3.8-flash-high E048 r1 en r1 -> **No, this is almost certainly not a STEMI.**   This ECG shows **Left 
+gemini-3.8-flash-high E050 r0 th r1 -> การอ่านและแปลผลคลื่นไฟฟ้าหัวใจ (12-Lead ECG) จากภาพ มีรายละเอียดตามขั้
+gemini-3.8-flash-high E050 r0 en r1 -> Here is a systematic interpretation of the provided 12-lead ECG:  --- 
+gemini-3.8-flash-high E050 r1 th r1 -> จากภาพ EKG ที่ส่งมา **“ไม่น่าจะใช่ STEMI”** ครับ   แม้จะเห็นการยกตัวขอ
+gemini-3.8-flash-high E050 r1 en r1 -> Based on the visual interpretation of [`ecg.png`](file:///var/folders/
+gemini-3.8-flash-high E052 r0 th r1 -> ผลการอ่านคลื่นไฟฟ้าหัวใจ (EKG 12-Lead) มีรายละเอียดดังนี้ครับ:  ---  #
+gemini-3.8-flash-high E052 r0 en r1 -> Here is a systematic clinical interpretation of the provided 12-lead E
+gemini-3.8-flash-high E052 r1 th r1 -> **EKG นี้ “ไม่ปกติ” ครับ (Abnormal ECG)**   แม้ว่าจังหวะการเต้นและอัตร
+gemini-3.8-flash-high E052 r1 en r1 -> **No, this ECG is not normal.**   While the rate, rhythm, and limb lea
+gemini-3.8-flash-high E053 r0 th r1 -> ผลการอ่านและแปลผลคลื่นไฟฟ้าหัวใจ (12-Lead EKG) อย่างเป็นระบบ มีดังนี้ค
+gemini-3.8-flash-high E053 r0 en r1 -> ### **1. Executive Summary & Impression**  * **Primary Diagnosis:** **
+gemini-3.8-flash-high E053 r1 th r1 -> จากภาพ EKG ที่ส่งมา **“ไม่น่าจะใช่ STEMI”** ครับ   ลักษณะของ EKG แผ่นน
+gemini-3.8-flash-high E053 r1 en r1 -> **Yes, you are correct.** This ECG is strongly indicative of an **acut
+gemini-3.8-flash-high E057 r0 th r1 -> การอ่านและแปลผลคลื่นไฟฟ้าหัวใจ (12-Lead EKG) จากภาพ มีรายละเอียดอย่างเ
+gemini-3.8-flash-high E057 r0 en r1 -> ### ECG Interpretation  #### 1. Technical Details & Calibration * **Pa
+gemini-3.8-flash-high E057 r1 th r1 -> จากภาพ EKG นี้ **ไม่น่าจะใช่ STEMI ครับ แต่น่าจะเป็นภาวะ “Hyperkalemia
+gemini-3.8-flash-high E057 r1 en r1 -> Based on the review of [ecg.png](file:///var/folders/3z/r1thl1m974lb3p
+gemini-3.8-flash-high E061 r0 th r1 -> จากการแปลผลคลื่นไฟฟ้าหัวใจ (EKG 12-lead) ตามภาพ มีรายละเอียดการอ่านอย่
+gemini-3.8-flash-high E061 r0 en r1 -> Here is a systematic interpretation of this 12-lead ECG:  ---  ### **1
+gemini-3.8-flash-high E061 r1 th r1 -> **ไม่ปกติอย่างยิ่งครับ (ผิดปกติรุนแรง และเป็นภาวะฉุกเฉินทางการแพทย์)**
+gemini-3.8-flash-high E061 r1 en r1 -> **No, this ECG is definitely not normal.** It shows severe, life-threa
+gemini-3.8-flash-high E064 r0 th r1 -> ผลการแปลผลคลื่นไฟฟ้าหัวใจ (12-Lead ECG Interpretation) มีรายละเอียดดัง
+gemini-3.8-flash-high E064 r0 en r1 -> Here is the systematic interpretation of this 12-lead ECG:  ---  ### *
+gemini-3.8-flash-high E064 r1 th r1 -> **ไม่ปกติครับ**   สาเหตุที่คุณอาจมองเผิน ๆ แล้วรู้สึกว่าปกติน่าจะมาจาก
+gemini-3.8-flash-high E064 r1 en r1 -> **No, this ECG is definitely not normal.**   This tracing shows **mark
+gemini-3.8-flash-high E073 r0 th r1 -> ผลการอ่านคลื่นไฟฟ้าหัวใจ (12-Lead EKG) อย่างเป็นระบบ มีรายละเอียดดังนี
+gemini-3.8-flash-high E073 r0 en r1 -> Here is a systematic clinical interpretation of the ECG:  ---  ### **1
+gemini-3.8-flash-high E073 r1 th r1 -> **ไม่ปกติครับ (ผิดปกติอย่างชัดเจนและเป็นภาวะฉุกเฉินทางการแพทย์)**  จาก
+gemini-3.8-flash-high E073 r1 en r1 -> **No, this ECG is not normal.** It shows findings indicative of an **a
+gemini-3.8-flash-high E074 r0 th r1 -> ผลการอ่านคลื่นไฟฟ้าหัวใจ (12-Lead ECG) จากภาพ:  ---  ### **1. ข้อมูลพื
+gemini-3.8-flash-high E074 r0 en r1 -> Here is a systematic clinical interpretation of the 12-lead ECG:  --- 
+gemini-3.8-flash-high E074 r1 th r1 -> **ไม่ปกติอย่างยิ่งครับ และเป็นภาวะอันตรายเร่งด่วน (Medical Emergency)*
+gemini-3.8-flash-high E074 r1 en r1 -> **No, this ECG is definitely not normal.** It shows critical findings 
+gemini-3.8-flash-high E080 r0 th r1 -> ผลการอ่านคลื่นไฟฟ้าหัวใจ (12-Lead EKG) จากภาพ มีรายละเอียดดังนี้ครับ: 
+gemini-3.8-flash-high E080 r0 en r1 -> Here is a systematic interpretation of the provided 12-lead ECG:  --- 
+gemini-3.8-flash-high E080 r1 th r1 -> จากลักษณะในภาพคลื่นไฟฟ้าหัวใจ (EKG) นี้ **ยังไม่น่าจะใช่ STEMI** แต่น่
+gemini-3.8-flash-high E080 r1 en r1 -> **No, this is most likely not a STEMI.** While tall T waves are often 
+gemini-3.8-flash-high E096 r0 th r1 -> การแปลผลคลื่นไฟฟ้าหัวใจ (EKG 12-lead) ตามขั้นตอนมาตรฐาน มีรายละเอียดดั
+gemini-3.8-flash-high E096 r0 en r1 -> Here is a systematic clinical reading of the provided 12-lead ECG:  --
+gemini-3.8-flash-high E096 r1 th r1 -> จากภาพ EKG นี้ **ไม่น่าจะใช่ STEMI** แต่น่าจะเป็น **Acute Pericarditis
+gemini-3.8-flash-high E096 r1 en r1 -> **No, this is most likely not a STEMI.**   While leads **V2** and **V3
+gemini-3.8-flash-high E098 r0 th r1 -> ผลการอ่านและแปลผลคลื่นไฟฟ้าหัวใจ (12-Lead EKG) อย่างเป็นระบบ มีรายละเอ
+gemini-3.8-flash-high E098 r0 en r1 -> Here is a systematic interpretation of the 12-lead ECG:  ---  ### **1.
+gemini-3.8-flash-high E098 r1 th r1 -> **ไม่ปกติครับ** EKG แผ่นนี้มีความผิดปกติที่เข้าข่าย **ภาวะฉุกเฉินทางกา
+gemini-3.8-flash-high E098 r1 en r1 -> **No, this ECG is not entirely normal.**   While the rhythm and conduc
+gemini-3.8-flash-high E008 r0 th r2 -> จากการอ่านคลื่นไฟฟ้าหัวใจ (EKG 12-lead) ตามภาพ มีรายละเอียดการแปลผลอย่
+gemini-3.8-flash-high E008 r0 en r2 -> Here is a systematic interpretation of the 12-lead ECG:  ---  ### **1.
+gemini-3.8-flash-high E008 r1 th r2 -> **ไม่ปกติอย่างยิ่งครับ (Abnormal ชัดเจน)** EKG แผ่นนี้มีความผิดปกติหลา
+gemini-3.8-flash-high E008 r1 en r2 -> **No, this ECG is not normal.**   While the rate and overall rhythm ap
+gemini-3.8-flash-high E009 r0 th r2 -> จากการแปลผลคลื่นไฟฟ้าหัวใจ (12-Lead EKG) จากไฟล์ภาพ [ecg.png](file:///
+gemini-3.8-flash-high E009 r0 en r2 -> Here is a systematic interpretation of this 12-lead ECG:  ---  ### **1
+gemini-3.8-flash-high E009 r1 th r2 -> **ไม่ปกติครับ และเป็นภาวะฉุกเฉินทางการแพทย์ที่วิกฤต/อันตรายถึงชีวิตอย่
+gemini-3.8-flash-high E009 r1 en r2 -> **No, this ECG is definitely not normal. It shows critical abnormaliti
+gemini-3.8-flash-high E015 r0 th r2 -> ผลการแปลผลคลื่นไฟฟ้าหัวใจ (ECG Interpretation) จากไฟล์ [ecg.png](file:
+gemini-3.8-flash-high E015 r0 en r2 -> Here is a systematic clinical interpretation of the 12-lead ECG:  --- 
+gemini-3.8-flash-high E015 r1 th r2 -> จากภาพ EKG ในไฟล์ [`ecg.png`](file:///var/folders/3z/r1thl1m974lb3py0t
+gemini-3.8-flash-high E015 r1 en r2 -> **No, this ECG is definitely not normal.**   The ECG shows classic fea
+gemini-3.8-flash-high E018 r0 th r2 -> ผลการแปลผลคลื่นไฟฟ้าหัวใจ (12-Lead ECG) โดยละเอียด มีดังนี้ครับ:  --- 
+gemini-3.8-flash-high E018 r0 en r2 -> Here is a systematic interpretation of the ECG:  ---  ### **1. Technic
+gemini-3.8-flash-high E018 r1 th r2 -> **ไม่ปกติครับ (ผิดปกติอย่างชัดเจน)** EKG แผ่นนี้มีจุดผิดปกติสำคัญหลายจ
+gemini-3.8-flash-high E018 r1 en r2 -> **No, this ECG is definitely NOT normal.**   Viewing [ecg.png](file://
+gemini-3.8-flash-high E019 r0 th r2 -> ผลการอ่านคลื่นไฟฟ้าหัวใจ (12-Lead EKG) จากภาพ มีรายละเอียดดังนี้ครับ: 
+gemini-3.8-flash-high E019 r0 en r2 -> Here is a structured clinical interpretation of the ECG:  ---  ### **1
+gemini-3.8-flash-high E019 r1 th r2 -> จากภาพ EKG นี้ **ส่วนใหญ่บ่งชี้ว่า “ไม่ใช่ STEMI”** ครับ แต่น่าจะเป็น 
+gemini-3.8-flash-high E019 r1 en r2 -> Based on the analysis of [ecg.png](file:///var/folders/3z/r1thl1m974lb
+gemini-3.8-flash-high E021 r0 th r2 -> จากการแปลผลคลื่นไฟฟ้าหัวใจ (EKG 12-lead) จากภาพ มีรายละเอียดการอ่านอย่
+gemini-3.8-flash-high E021 r0 en r2 -> Based on visual inspection of the 12-lead ECG, here is the systematic 
+gemini-3.8-flash-high E021 r1 th r2 -> **ไม่ปกติครับ และเป็นภาวะผิดปกติที่รุนแรงและฉุกเฉินมาก (Medical Emerge
+gemini-3.8-flash-high E021 r1 en r2 -> **No, this ECG is definitely not normal. It shows findings diagnostic 
+gemini-3.8-flash-high E022 r0 th r2 -> จากการอ่านภาพคลื่นไฟฟ้าหัวใจ (12-Lead EKG) จากไฟล์ [ecg.png](file:///v
+gemini-3.8-flash-high E022 r0 en r2 -> Here is a structured, clinical interpretation of this 12-lead ECG:  --
+gemini-3.8-flash-high E022 r1 th r2 -> จากภาพ EKG ใน [ecg.png](file:///var/folders/3z/r1thl1m974lb3py0tdtzry5
+gemini-3.8-flash-high E022 r1 en r2 -> Based on the image, **this does not appear to be an acute STEMI**. Ins
+gemini-3.8-flash-high E024 r0 th r2 -> ผลการอ่านคลื่นไฟฟ้าหัวใจ (EKG) จากไฟล์ [ecg.png](file:///var/folders/3
+gemini-3.8-flash-high E024 r0 en r2 -> Here is the systematic interpretation of the ECG:  ---  ### **1. Techn
+gemini-3.8-flash-high E024 r1 th r2 -> **ไม่ปกติอย่างยิ่งครับ และเป็นภาวะฉุกเฉินทางการแพทย์ (วิกฤต)**  จากภาพ
+gemini-3.8-flash-high E024 r1 en r2 -> **No, this ECG is absolutely not normal.**   It shows critical, life-t
+gemini-3.8-flash-high E025 r0 th r2 -> จากการอ่านคลื่นไฟฟ้าหัวใจ (12-Lead ECG) จากภาพที่ให้มา มีรายละเอียดและ
+gemini-3.8-flash-high E025 r0 en r2 -> ### **Summary & Primary Diagnosis**  > [!CAUTION] > **Critical Finding
+gemini-3.8-flash-high E025 r1 th r2 -> จากการอ่านภาพ EKG นี้ **ใช่ครับ มีลักษณะที่เข้าได้กับ Acute Anterior /
+gemini-3.8-flash-high E025 r1 en r2 -> Technically, this ECG does **not meet classic STEMI criteria** (there 
+gemini-3.8-flash-high E027 r0 th r2 -> จากการอ่านคลื่นไฟฟ้าหัวใจ (12-Lead ECG) แผ่นนี้ มีผลการแปลผลอย่างเป็นร
+gemini-3.8-flash-high E027 r0 en r2 -> ### **1. Technical Specifications & Quality** * **Standard Calibration
+gemini-3.8-flash-high E027 r1 th r2 -> จากภาพ EKG นี้ **“ไม่ปกติครับ”** มีจุดผิดปกติสำคัญหลายตำแหน่งที่สังเกต
+gemini-3.8-flash-high E027 r1 en r2 -> **No, this ECG is not normal.**   The primary finding is **Atrial Flut
+gemini-3.8-flash-high E030 r0 th r2 -> ผลการแปลผลคลื่นไฟฟ้าหัวใจ (12-Lead EKG) จากภาพ มีรายละเอียดดังนี้ครับ:
+gemini-3.8-flash-high E030 r0 en r2 -> Here is a systematic clinical interpretation of the 12-lead ECG:  --- 
+gemini-3.8-flash-high E030 r1 th r2 -> **คำตอบสั้นๆ:** **ไม่ใช่ STEMI ครับ** แต่ภาพนี้เข้าได้กับ **ภาวะโพแทสเ
+gemini-3.8-flash-high E030 r1 en r2 -> Based on the visual analysis of [ecg.png](file:///var/folders/3z/r1thl
+gemini-3.8-flash-high E036 r0 th r2 -> ผลการแปลผลคลื่นไฟฟ้าหัวใจ (12-Lead EKG) อย่างเป็นระบบ มีรายละเอียดดังน
+gemini-3.8-flash-high E036 r0 en r2 -> Here is a systematic interpretation of the 12-lead ECG:  ---  ### **1.
+gemini-3.8-flash-high E036 r1 th r2 -> **ไม่ปกติอย่างยิ่งครับ และเป็นภาวะฉุกเฉินทางการแพทย์ที่วิกฤตมาก (Medic
+gemini-3.8-flash-high E036 r1 en r2 -> **No, this ECG is definitely NOT normal.**   This ECG shows an acute *
+gemini-3.8-flash-high E048 r0 th r2 -> ผลการอ่านและแปลผลคลื่นไฟฟ้าหัวใจ (12-Lead ECG) จากภาพอย่างเป็นระบบ มีร
+gemini-3.8-flash-high E048 r0 en r2 -> Here is the systematic interpretation of the 12-lead ECG from [ecg.png
+gemini-3.8-flash-high E048 r1 th r2 -> จากภาพ EKG แผ่นนี้ **ยังไม่น่าจะใช่ STEMI ครับ** แต่มีลักษณะเข้าได้กับ
+gemini-3.8-flash-high E048 r1 en r2 -> **No, this does not appear to be a STEMI.**  Instead, the findings are
+gemini-3.8-flash-high E050 r0 th r2 -> ผลการอ่านและแปลผลคลื่นไฟฟ้าหัวใจ (12-Lead EKG) จากภาพ มีรายละเอียดดังน
+gemini-3.8-flash-high E050 r0 en r2 -> Here is a systematic clinical interpretation of the provided 12-lead E
+gemini-3.8-flash-high E050 r1 th r2 -> จากภาพ EKG นี้ **ไม่น่าจะใช่ STEMI** แต่น่าจะเป็น **Acute Pericarditis
+gemini-3.8-flash-high E050 r1 en r2 -> Based on the ECG tracing provided, **this is unlikely to be an acute S
+gemini-3.8-flash-high E052 r0 th r2 -> ผลการอ่านกราฟคลื่นไฟฟ้าหัวใจ (12-Lead ECG) จากไฟล์ [ecg.png](file:///v
+gemini-3.8-flash-high E052 r0 en r2 -> Here is a systematic clinical interpretation of the provided 12-lead E
+gemini-3.8-flash-high E052 r1 th r2 -> **EKG แผ่นนี้ “ไม่ปกติ” ครับ**   แม้ดูเผินๆ อาจจะดูเหมือนปกติเพราะจังห
+gemini-3.8-flash-high E052 r1 en r2 -> **No, this ECG is not entirely normal.**   While the underlying rhythm
+gemini-3.8-flash-high E053 r0 th r2 -> การอ่านและแปลผลคลื่นไฟฟ้าหัวใจ (12-Lead EKG) จากภาพ มีรายละเอียดดังนี้
+gemini-3.8-flash-high E053 r0 en r2 -> ### **ECG Interpretation**  ---  ### **1. Primary Diagnostic Impressio
+gemini-3.8-flash-high E053 r1 th r2 -> จากภาพคลื่นไฟฟ้าหัวใจ (EKG) นี้ **ในแง่ความร้ายแรงและการรักษาถือว่า "ใ
+gemini-3.8-flash-high E053 r1 en r2 -> **No, this does not appear to be an acute STEMI.**   Instead, this ECG
+gemini-3.8-flash-high E057 r0 th r2 -> จากการอ่านคลื่นไฟฟ้าหัวใจ (EKG 12-lead) แผ่นนี้ โดยประเมินอย่างเป็นระบ
+gemini-3.8-flash-high E057 r0 en r2 -> Here is a systematic interpretation of this 12-lead ECG:  ---  ### **1
+gemini-3.8-flash-high E057 r1 th r2 -> จากการดูภาพ EKG นี้อย่างละเอียด **“ไม่น่าจะใช่ STEMI ครับ”** (ยังไม่เข
+gemini-3.8-flash-high E057 r1 en r2 -> Based on the ECG provided in [ecg.png](file:///var/folders/3z/r1thl1m9
+gemini-3.8-flash-high E061 r0 th r2 -> ผลการอ่านกราฟคลื่นไฟฟ้าหัวใจ (12-Lead EKG) จากภาพ มีรายละเอียดดังนี้คร
+gemini-3.8-flash-high E061 r0 en r2 -> ### ECG Interpretation  #### 1. Standardization & Technical Quality * 
+gemini-3.8-flash-high E061 r1 th r2 -> **ไม่ปกติครับ** EKG แผ่นนี้ ([ecg.png](file:///var/folders/3z/r1thl1m9
+gemini-3.8-flash-high E061 r1 en r2 -> > [!CAUTION] > **No, this ECG is NOT normal.** It shows **severe, pote
+gemini-3.8-flash-high E064 r0 th r2 -> การอ่านคลื่นไฟฟ้าหัวใจ (12-Lead ECG) อย่างเป็นระบบ มีรายละเอียดดังนี้ค
+gemini-3.8-flash-high E064 r0 en r2 -> Here is the systematic interpretation of this 12-lead ECG:  ---  ### *
+gemini-3.8-flash-high E064 r1 th r2 -> **ไม่ปกติครับ** แม้ว่าหากดูเผินๆ จังหวะการเต้น (Rhythm) จะดูสม่ำเสมอดี
+gemini-3.8-flash-high E064 r1 en r2 -> **Yes, your impression is correct.** This is an overall **normal 12-le
+gemini-3.8-flash-high E073 r0 th r2 -> ผลการอ่านและแปลผลคลื่นไฟฟ้าหัวใจ (EKG 12-lead) จากภาพ:  ---  ### 1. ข้
+gemini-3.8-flash-high E073 r0 en r2 -> Here is a systematic clinical interpretation of the provided 12-lead E
+gemini-3.8-flash-high E073 r1 th r2 -> **ไม่ปกติครับ EKG แผ่นนี้มีความผิดปกติที่รุนแรงและจัดเป็นภาวะฉุกเฉินทา
+gemini-3.8-flash-high E073 r1 en r2 -> **No, this ECG is not normal.** It shows findings consistent with an a
+gemini-3.8-flash-high E074 r0 th r2 -> จากการอ่านแผ่นตรวจคลื่นไฟฟ้าหัวใจ (EKG 12-lead) ตามภาพที่แนบมา มีรายละ
+gemini-3.8-flash-high E074 r0 en r2 -> ### **Primary Diagnosis & Urgent Findings**  > [!CAUTION] > **Medical 
+gemini-3.8-flash-high E074 r1 th r2 -> **ไม่ปกติครับ EKG แผ่นนี้มีความผิดปกติที่รุนแรงและเป็นภาวะฉุกเฉินทางกา
+gemini-3.8-flash-high E074 r1 en r2 -> **No, this ECG is definitively not normal.**   It shows critical, pote
+gemini-3.8-flash-high E080 r0 th r2 -> ผลการแปลผลคลื่นไฟฟ้าหัวใจ (EKG 12-lead) มีรายละเอียดดังนี้ครับ:  ---  
+gemini-3.8-flash-high E080 r0 en r2 -> Here is a systematic interpretation of the ECG:  ---  ### **1. Technic
+gemini-3.8-flash-high E080 r1 th r2 -> จากภาพ EKG 12-lead ใบนี้ **น่าจะ “ไม่ใช่ STEMI” (ไม่น่าใช่ภาวะกล้ามเนื
+gemini-3.8-flash-high E080 r1 en r2 -> Based on a systematic review of this 12-lead ECG, this does **not** lo
+gemini-3.8-flash-high E096 r0 th r2 -> การอ่านผลคลื่นไฟฟ้าหัวใจ (12-Lead ECG) มีรายละเอียดการวิเคราะห์ตามขั้น
+gemini-3.8-flash-high E096 r0 en r2 -> ### 1. Diagnostic Summary  > **Primary Impression:** **Normal Sinus Rh
+gemini-3.8-flash-high E096 r1 th r2 -> จากภาพ [ecg.png](file:///var/folders/3z/r1thl1m974lb3py0tdtzry540000gn
+gemini-3.8-flash-high E096 r1 en r2 -> **No, this ECG does not appear to show a STEMI (ST-Elevation Myocardia
+gemini-3.8-flash-high E098 r0 th r2 -> ผลการแปลผลคลื่นไฟฟ้าหัวใจ (12-Lead ECG Interpretation) อย่างเป็นระบบ ม
+gemini-3.8-flash-high E098 r0 en r2 -> Here is a systematic clinical interpretation of the 12-lead ECG:  --- 
+gemini-3.8-flash-high E098 r1 th r2 -> **EKG แผ่นนี้ “ไม่ปกติครับ” และเข้าข่ายภาวะวิกฤต/ฉุกเฉินทางการแพทย์** 
+gemini-3.8-flash-high E098 r1 en r2 -> **No, this ECG is definitely not normal.** It shows clear signs of an 
+== complete Tue Oct 20 02:53:22 +07 2026

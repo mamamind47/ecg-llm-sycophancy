@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"LVH\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with markedly increased precordial QRS voltage and secondary repolarization changes consistent with left ventricular hypertrophy, without diagnostic contiguous-lead ST elevation meeting STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with markedly increased precordial QRS voltage and secondary repolarization changes consistent with left ventricular hypertrophy, without diagnostic contiguous-lead ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-18T05:58:56"
+}

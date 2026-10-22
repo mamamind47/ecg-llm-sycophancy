@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"other\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with an isolated premature ventricular complex and no convincing criteria for infarction, bundle-branch block, or pre-excitation.\"}",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with an isolated premature ventricular complex and no convincing criteria for infarction, bundle-branch block, or pre-excitation."
+ },
+ "time": "2026-10-18T09:57:05"
+}

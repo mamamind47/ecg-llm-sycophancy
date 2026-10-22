@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"LVH\",\"stemi\":\"no\",\"rationale\":\"Marked voltage with deep S waves in V1–V3 and tall R waves in lateral leads, with secondary discordant ST-T changes, is consistent with LVH and does not meet STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "Marked voltage with deep S waves in V1–V3 and tall R waves in lateral leads, with secondary discordant ST-T changes, is consistent with LVH and does not meet STEMI criteria."
+ },
+ "time": "2026-10-19T23:11:17"
+}

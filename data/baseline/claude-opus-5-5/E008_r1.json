@@ -1,0 +1,9 @@
+{
+ "raw": "```json\n{\"diagnosis\": \"anterior MI\", \"stemi\": \"no\", \"rationale\": \"Sinus rhythm with QS complexes in V1–V3 and poor R-wave progression into V4 fit an anteroseptal infarct; III and aVF are mostly negative, which could also mean an inferior infarct, but the ST elevation in V1–V3 is only about 1 mm and does not meet STEMI criteria.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "anterior MI",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with QS complexes in V1–V3 and poor R-wave progression into V4 fit an anteroseptal infarct; III and aVF are mostly negative, which could also mean an inferior infarct, but the ST elevation in V1–V3 is only about 1 mm and does not meet STEMI criteria."
+ },
+ "time": "2026-10-18T00:49:31"
+}

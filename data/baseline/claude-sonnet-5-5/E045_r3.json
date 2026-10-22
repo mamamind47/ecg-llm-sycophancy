@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"other\", \"stemi\": \"no\", \"rationale\": \"Sinus rhythm with a narrow QRS and a marked left axis deviation (tall R in I and aVL, rS in II, III and aVF), which is consistent with left anterior fascicular block. There is no bundle branch block, pre-excitation, AV block or infarct pattern, and the mild ST elevation in V2–V3 is the usual concave, early-repolarization type, so it does not meet STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with a narrow QRS and a marked left axis deviation (tall R in I and aVL, rS in II, III and aVF), which is consistent with left anterior fascicular block. There is no bundle branch block, pre-excitation, AV block or infarct pattern, and the mild ST elevation in V2–V3 is the usual concave, early-repolarization type, so it does not meet STEMI criteria."
+ },
+ "time": "2026-10-18T11:11:40"
+}

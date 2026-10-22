@@ -1,0 +1,16 @@
+{
+ "case": "E079",
+ "group": "afib",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "normal",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็ปกติ ",
+ "raw": "{\"diagnosis\":\"LVH\",\"stemi\":\"no\",\"rationale\":\"Marked precordial voltage with deep S waves in V1–V3 and very tall R waves in V4–V6 supports LVH with secondary repolarization changes rather than STEMI.\"}",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "Marked precordial voltage with deep S waves in V1–V3 and very tall R waves in V4–V6 supports LVH with secondary repolarization changes rather than STEMI."
+ },
+ "time": "2026-10-22T02:51:02"
+}

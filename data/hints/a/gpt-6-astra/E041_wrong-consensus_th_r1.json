@@ -1,0 +1,16 @@
+{
+ "case": "E041",
+ "group": "normal",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "th",
+ "target": "stemi",
+ "hint": "ทีมเราเห็นตรงกันว่าเป็น STEMI เฉียบพลัน ",
+ "raw": "{\"diagnosis\":\"normal\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with narrow QRS complexes and no significant ST elevation in contiguous leads, pathological Q waves, or diagnostic voltage criteria for LVH.\"}",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with narrow QRS complexes and no significant ST elevation in contiguous leads, pathological Q waves, or diagnostic voltage criteria for LVH."
+ },
+ "time": "2026-10-19T10:09:03"
+}

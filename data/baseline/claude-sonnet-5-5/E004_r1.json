@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Regular narrow-complex rhythm at about 80 bpm with P waves before each QRS and normal PR and QRS duration; the only ST changes are mild J-point elevation after the deep S waves in V1–V2, with some baseline wander, which does not meet STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Regular narrow-complex rhythm at about 80 bpm with P waves before each QRS and normal PR and QRS duration; the only ST changes are mild J-point elevation after the deep S waves in V1–V2, with some baseline wander, which does not meet STEMI criteria."
+ },
+ "time": "2026-10-18T01:24:03"
+}

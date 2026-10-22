@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"1st degree AV block\", \"stemi\": \"no\", \"rationale\": \"The ECG demonstrates a prolonged PR interval of approximately 260 ms with 1:1 AV conduction and no ST elevation meeting STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "1st degree AV block",
+  "stemi": "no",
+  "rationale": "The ECG demonstrates a prolonged PR interval of approximately 260 ms with 1:1 AV conduction and no ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-18T00:57:08"
+}

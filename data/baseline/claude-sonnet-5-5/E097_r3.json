@@ -1,0 +1,9 @@
+{
+ "raw": "```json\n{\"diagnosis\": \"LVH\", \"stemi\": \"no\", \"rationale\": \"V1–V3 show very deep S waves (about 30–40 mm) with a regular rhythm and discordant ST elevation and upright T waves, which fits LVH repolarization changes and not an acute anterior STEMI. The limb-lead baseline is noisy and limb-lead voltage is low, which I did not weigh heavily.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "V1–V3 show very deep S waves (about 30–40 mm) with a regular rhythm and discordant ST elevation and upright T waves, which fits LVH repolarization changes and not an acute anterior STEMI. The limb-lead baseline is noisy and limb-lead voltage is low, which I did not weigh heavily."
+ },
+ "time": "2026-10-18T11:21:00"
+}

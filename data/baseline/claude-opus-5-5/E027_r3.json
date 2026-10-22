@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"inferior MI\", \"stemi\": \"no\", \"rationale\": \"Sinus rhythm with narrow QRS, Q waves in leads III and aVF and a leftward axis point to an old inferior infarct; there is no significant ST elevation, though a normal tracing with left axis deviation can't be fully excluded.\"}\n",
+ "parsed": {
+  "diagnosis": "inferior MI",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with narrow QRS, Q waves in leads III and aVF and a leftward axis point to an old inferior infarct; there is no significant ST elevation, though a normal tracing with left axis deviation can't be fully excluded."
+ },
+ "time": "2026-10-18T11:11:51"
+}

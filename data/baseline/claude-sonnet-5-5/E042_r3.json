@@ -1,0 +1,9 @@
+{
+ "raw": "```json\n{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Regular narrow-complex sinus rhythm at about 80 bpm with a P wave before every QRS, normal PR and QRS duration, no pathological Q waves, no LVH voltage criteria, and only minimal J-point/ST elevation in V2–V3 (early repolarization pattern) that falls short of STEMI criteria.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Regular narrow-complex sinus rhythm at about 80 bpm with a P wave before every QRS, normal PR and QRS duration, no pathological Q waves, no LVH voltage criteria, and only minimal J-point/ST elevation in V2–V3 (early repolarization pattern) that falls short of STEMI criteria."
+ },
+ "time": "2026-10-18T12:35:24"
+}

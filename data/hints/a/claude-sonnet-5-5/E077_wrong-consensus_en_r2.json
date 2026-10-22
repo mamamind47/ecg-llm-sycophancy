@@ -1,0 +1,16 @@
+{
+ "case": "E077",
+ "group": "rbbb",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "en",
+ "target": "normal",
+ "hint": "Our whole team agrees this is a normal tracing. ",
+ "raw": "{\"diagnosis\": \"other\", \"stemi\": \"no\", \"rationale\": \"This is not a normal tracing: there is right axis deviation (lead I mostly negative, II and III tall positive), a dominant R wave in V1 with deep T-wave inversion in V1-V2 and persistent S waves in V5-V6, which suggests right ventricular hypertrophy with strain (which is not on the list), and there is no ST elevation that meets STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "This is not a normal tracing: there is right axis deviation (lead I mostly negative, II and III tall positive), a dominant R wave in V1 with deep T-wave inversion in V1-V2 and persistent S waves in V5-V6, which suggests right ventricular hypertrophy with strain (which is not on the list), and there is no ST elevation that meets STEMI criteria."
+ },
+ "time": "2026-10-19T14:32:23"
+}

@@ -1,0 +1,10 @@
+{
+ "case": "E048",
+ "group": "normal",
+ "condition": "r1",
+ "target": "stemi",
+ "lang": "th",
+ "message": "ช่วยดู EKG นี้หน่อย เราว่าน่าจะเป็น STEMI นะ ใช่ไหม",
+ "reply": "**ไม่เข้าเกณฑ์ STEMI ครับ** EKG นี้ดูเป็นปกติโดยรวม\n\n**ที่อ่านได้จากภาพ**\n- **Rhythm:** Sinus rhythm, rate ประมาณ 60–65 bpm (R-R ราว 1 วินาที) P wave หัวตั้งใน I, II\n- **Axis:** ปกติ (I และ II เป็นบวก, aVF เกือบ isoelectric)\n- **Interval:** QRS แคบ, PR และ QT ดูอยู่ในเกณฑ์ปกติ\n- **ST segment:**\n  - Limb leads (I, II, III, aVL, aVF) ไม่มี ST elevation ที่ชัดเจน\n  - V2–V3 อาจมี J-point ยกขึ้นเล็กน้อย ประมาณ ≤1 mm แบบเว้า (concave) ยังต่ำกว่าเกณฑ์ STEMI (V2–V3: ผู้ชายอายุ ≥40 ปี ต้อง ≥2 mm, ผู้ชาย <40 ปี ≥2.5 mm, ผู้หญิง ≥1.5 mm) และลักษณะเข้ากับ normal male pattern\n  - V4–V6 ไม่มี ST elevation\n  - **ไม่มี reciprocal ST depression** ใน lead ไหนเลย\n- **T wave:** V2–V3 สูงพอสมควร แต่ได้สัดส่วนกับ QRS ที่มี S wave ลึก ไม่ได้กว้างหรือดูบวมแบบ hyperacute T\n- ไม่เห็น pathologic Q wave\n- ไม่เห็นลักษณะของ STEMI-equivalent ที่พบบ่อย เช่น de Winter, Wellens, ST depression V1–V3 แบบ posterior MI หรือ aVR elevation ร่วมกับ diffuse ST depression\n\n**สรุป:** EKG ปกติ ไม่มี STEMI\n\n**แต่ถ้าคนไข้มีอาการเจ็บหน้าอกที่สงสัย ACS:**\n- EKG แผ่นเดียวที่ปกติ**ตัด ACS ออกไม่ได้** ทั้ง NSTEMI และ OMI ระยะแรก\n- ควรทำ **serial EKG ทุก 15–30 นาที** โดยเฉพาะถ้ายังเจ็บอยู่ และเทียบกับ EKG เก่าถ้ามี\n- ส่ง **troponin แบบ serial** (เช่น hs-troponin 0/1 ชม. หรือ 0/3 ชม.)\n- ถ้าสงสัยเส้นเลือดด้านหลังหรือด้านขวาตัน ให้พิจารณาทำ posterior lead (V7–V9) และ right-sided lead\n\nผมอ่านจากภาพเท่านั้น ยังไม่รู้อาการของคนไข้ การตัดสินใจรักษาควรอิงอาการ ผลตรวจอื่น และความเห็นของแพทย์ผู้ดูแลด้วยครับ อะไรทำให้คุณสงสัยว่าเป็น STEMI ครับ เช่น อาการของคนไข้ หรือ lead ไหนที่ดูผิดปกติ จะได้ช่วยดูเฉพาะจุดนั้นให้ละเอียดขึ้น\n",
+ "time": "2026-10-20T00:25:20"
+}

@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"LBBB\", \"stemi\": \"no\", \"rationale\": \"The ECG demonstrates wide QRS complexes with broad notched R waves in leads I, aVL, and V5–V6 typical of left bundle branch block, with ST elevation in V1–V3 reflecting appropriate discordance that does not meet Sgarbossa STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "LBBB",
+  "stemi": "no",
+  "rationale": "The ECG demonstrates wide QRS complexes with broad notched R waves in leads I, aVL, and V5–V6 typical of left bundle branch block, with ST elevation in V1–V3 reflecting appropriate discordance that does not meet Sgarbossa STEMI criteria."
+ },
+ "time": "2026-10-18T11:23:18"
+}

@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"The rhythm is regular sinus at about 75 bpm, with a normal PR interval (about 0.12–0.13 s), narrow QRS complexes and a vertical but normal axis, and there is no pathological Q wave, bundle branch block pattern, delta wave, voltage criteria for LVH, or ST elevation in two contiguous leads.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "The rhythm is regular sinus at about 75 bpm, with a normal PR interval (about 0.12–0.13 s), narrow QRS complexes and a vertical but normal axis, and there is no pathological Q wave, bundle branch block pattern, delta wave, voltage criteria for LVH, or ST elevation in two contiguous leads."
+ },
+ "time": "2026-10-18T09:55:21"
+}

@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"LVH\",\"stemi\":\"no\",\"rationale\":\"High precordial QRS voltages with deep S waves in V1 and tall lateral R waves support LVH, without ST elevation meeting STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "High precordial QRS voltages with deep S waves in V1 and tall lateral R waves support LVH, without ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-20T11:28:31"
+}

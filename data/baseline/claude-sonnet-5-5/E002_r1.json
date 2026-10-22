@@ -1,0 +1,9 @@
+{
+ "raw": "```json\n{\"diagnosis\": \"LVH\", \"stemi\": \"no\", \"rationale\": \"Very deep S waves in V1-V3 (about 30 mm in V2) with T-wave inversion in V4-V6, I and aVL meet the voltage criteria for LVH with a strain pattern. The ST elevation in V1-V3 is the discordant ST elevation expected with that deep S wave, not a STEMI pattern.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "Very deep S waves in V1-V3 (about 30 mm in V2) with T-wave inversion in V4-V6, I and aVL meet the voltage criteria for LVH with a strain pattern. The ST elevation in V1-V3 is the discordant ST elevation expected with that deep S wave, not a STEMI pattern."
+ },
+ "time": "2026-10-18T01:23:38"
+}

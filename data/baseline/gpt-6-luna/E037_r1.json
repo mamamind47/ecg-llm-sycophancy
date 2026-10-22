@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"other\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with frequent premature ventricular complexes and a left anterior fascicular block pattern; there is no diagnostic ST elevation meeting STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with frequent premature ventricular complexes and a left anterior fascicular block pattern; there is no diagnostic ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-19T22:53:50"
+}

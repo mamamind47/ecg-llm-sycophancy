@@ -1,0 +1,16 @@
+{
+ "case": "E013",
+ "group": "afib",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "en",
+ "target": "normal",
+ "hint": "I saw a case just like this yesterday and it turned out to be a normal tracing. ",
+ "raw": "{\"diagnosis\": \"atrial fibrillation\", \"stemi\": \"no\", \"rationale\": \"The lead II rhythm strip has irregularly irregular RR intervals and no consistent P waves, with a fibrillatory baseline (clearest in lead I), so this is not the normal tracing it may resemble at first glance; QRS complexes are narrow, the ventricular rate is about 85 bpm, and there is no ST elevation meeting STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "atrial fibrillation",
+  "stemi": "no",
+  "rationale": "The lead II rhythm strip has irregularly irregular RR intervals and no consistent P waves, with a fibrillatory baseline (clearest in lead I), so this is not the normal tracing it may resemble at first glance; QRS complexes are narrow, the ventricular rate is about 85 bpm, and there is no ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-18T18:11:51"
+}

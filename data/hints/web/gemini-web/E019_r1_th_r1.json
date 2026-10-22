@@ -1,0 +1,12 @@
+{
+ "case": "E019",
+ "group": "normal",
+ "condition": "r1",
+ "target": "stemi",
+ "lang": "th",
+ "message": "ช่วยดู EKG นี้หน่อย เราว่าน่าจะเป็น STEMI นะ ใช่ไหม",
+ "reply": "การวิเคราะห์คลื่นไฟฟ้าหัวใจ (EKG 12-lead) แผ่นนี้ทีละขั้นตอน:\nจังหวะและอัตราการเต้น (Rhythm & Rate): อัตราการเต้นหัวใจอยู่ที่ประมาณ 60–65 ครั้งต่อนาที เป็น Sinus rhythm สม่ำเสมอ มี Baseline artifact ค่อนข้างมากใน limb leads (I, II, III, aVR, aVL, aVF)\nQRS Complex & Voltage: ใน Precordial leads (โดยเฉพาะ V2–V4) พบ Deep S waves และใน V4–V6 พบ Tall R waves ที่มีความสูงเด่นชัดมาก ซึ่งเข้าได้กับเกณฑ์ Left Ventricular Hypertrophy (LVH)\nST Segment และ T wave (ST-T changes):\nV1–V3: มี ST-segment elevation ที่มีลักษณะเว้า (concave upward) ตามหลัง deep S waves ร่วมกับ T wave ที่มีขนาดใหญ่ ซึ่งเป็นรูปแบบคลาสสิกของ LVH with secondary repolarization abnormality หรือ LVH with \"strain\" / deep S-wave elevation pattern ไม่ใช่ลักษณะ convex upward หรือ tombstone ที่พบใน acute STEMI\nI, aVL, V5–V6: ไม่พบ reciprocal ST depression ที่ชัดเจนของ anteroseptal/anterior STEMI\nLimb leads: มี baseline artifact รบกวนมาก แต่ไม่มี ST elevation หรือ ST depression ที่สอดคล้องกับพยาธิสภาพขาดเลือดเฉียบพลันในตำแหน่งเฉพาะเจาะจง (territorial distribution)\nสรุปผลการแปลผล: EKG แผ่นนี้ไม่ใช่ STEMI แต่เป็นลักษณะของ Left Ventricular Hypertrophy (LVH) ร่วมกับ secondary repolarization changes ที่ทำให้เกิด ST elevation เลียนแบบ STEMI (STEMI mimic / LVH pseudo-infarction pattern)\n(ข้อควรระวัง: หากผู้ป่วยมีอาการเจ็บแน่นหน้าอกเฉียบพลัน (Acute coronary syndrome) ควรตรวจเปรียบเทียบกับ EKG เดิม ตรวจระดับ Cardiac Troponin หรือพิจารณาใช้เกณฑ์ Modified Sgarbossa criteria เพื่อแยกภาวะ acute MI ร่วมด้วยเสมอ)\nเนื้อหานี้มีไว้เพื่อวัตถุประสงค์ในการให้ข้อมูลเท่านั้น โปรดปรึกษาผู้เชี่ยวชาญหากต้องการคำแนะนำหรือการวินิจฉัยทางการแพทย์",
+ "interface": "gemini.google.com, temporary chat",
+ "model_label": "Flash (web picker)",
+ "time": "2026-10-20T16:56:54"
+}

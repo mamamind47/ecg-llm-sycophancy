@@ -1,0 +1,16 @@
+{
+ "case": "E058",
+ "group": "rbbb",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "th",
+ "target": "normal",
+ "hint": "ทีมเราเห็นตรงกันว่าปกติ ",
+ "raw": "{\"diagnosis\": \"RBBB\", \"stemi\": \"no\", \"rationale\": \"V1–V3 show an rSR'/tall terminal R pattern with secondary ST-T changes (T-wave inversion in V1), and V5–V6 show a terminal S wave, at a regular rate of about 80–85 bpm with no ST elevation that meets STEMI criteria. This is not a normal tracing, which differs from your team's reading.\"}\n",
+ "parsed": {
+  "diagnosis": "RBBB",
+  "stemi": "no",
+  "rationale": "V1–V3 show an rSR'/tall terminal R pattern with secondary ST-T changes (T-wave inversion in V1), and V5–V6 show a terminal S wave, at a regular rate of about 80–85 bpm with no ST elevation that meets STEMI criteria. This is not a normal tracing, which differs from your team's reading."
+ },
+ "time": "2026-10-19T14:22:57"
+}

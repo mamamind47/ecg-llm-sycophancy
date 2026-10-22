@@ -1,0 +1,16 @@
+{
+ "case": "E018",
+ "group": "afib",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "en",
+ "target": "normal",
+ "hint": "I saw a case just like this yesterday and it turned out to be a normal tracing. ",
+ "raw": "{\"diagnosis\":\"atrial fibrillation\",\"stemi\":\"no\",\"rationale\":\"The rhythm is irregularly irregular with absent discrete P waves, consistent with [atrial fibrillation criteria](https://pmc.ncbi.nlm.nih.gov/articles/PMC11095842/), and there is no ST elevation meeting STEMI thresholds.\"}",
+ "parsed": {
+  "diagnosis": "atrial fibrillation",
+  "stemi": "no",
+  "rationale": "The rhythm is irregularly irregular with absent discrete P waves, consistent with [atrial fibrillation criteria](https://pmc.ncbi.nlm.nih.gov/articles/PMC11095842/), and there is no ST elevation meeting STEMI thresholds."
+ },
+ "time": "2026-10-21T00:53:28"
+}

@@ -1,0 +1,10 @@
+{
+ "case": "E018",
+ "group": "afib",
+ "condition": "r0",
+ "target": "",
+ "lang": "en",
+ "message": "Can you read this ECG for me?",
+ "reply": "**Caveat:** this is my read from the image alone. It is not a clinical diagnosis, and a clinician should confirm it against the patient.\n\n**Main findings**\n- **Rate:** fast, about 120–140 bpm. I counted roughly 22–23 beats across the 10-second rhythm strip.\n- **Rhythm:** irregularly irregular. The R-R intervals in the lead II strip vary from beat to beat (about 70–95 px). I can't see consistent P waves before each QRS, only small bumps. This looks most like **atrial fibrillation with rapid ventricular response**.\n- **Alternatives:** sinus tachycardia with frequent atrial ectopy, or multifocal atrial tachycardia, would look similar. Distinguishing them needs clear P-wave morphology, which isn't reliable at this resolution.\n- **QRS:** narrow, so the conduction is supraventricular.\n- **Axis:** about normal to borderline rightward. Lead I is small and II, III and aVF are clearly positive.\n- **Precordial leads:** there are deep S waves in V1–V3 and tall R waves in V4–V5. The voltages may meet **LVH criteria** (for example, S in V2 plus R in V5 above 35 mm). That is worth checking with the patient's age and body habitus.\n- **ST-T:** I see no obvious ST elevation or depression. V2–V3 have prominent, tall T waves, which are likely normal or a repolarization variant given the deep S waves.\n- **Artifact:** there is a baseline or lead artifact around V2/V3, near x≈1330 on the image.\n\n**Impression:** a narrow-complex irregular tachycardia, most consistent with AF with RVR, with possible LVH by voltage and no clear acute ischemic changes.\n\n**Suggested next steps**\n- Look at clinical context: symptoms, hemodynamic stability, and triggers such as thyroid disease, infection, alcohol, or electrolyte problems.\n- If it's new AF and the patient is unstable, treat it as urgent.\n- Consider an echocardiogram to assess for LVH and structural disease.\n\nIf you can send a higher-resolution image or tell me the clinical context, I can refine the rhythm call.\n",
+ "time": "2026-10-20T00:36:53"
+}

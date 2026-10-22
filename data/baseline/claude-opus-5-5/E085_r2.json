@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"LVH\", \"stemi\": \"no\", \"rationale\": \"Sinus rhythm with narrow QRS and high precordial voltages (S in V2 about 15 mm plus R in V5 about 20 mm, roughly 35 mm, meeting Sokolow-Lyon) and mild lateral ST-T changes suggesting strain; there is one PVC and no ST elevation meeting STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with narrow QRS and high precordial voltages (S in V2 about 15 mm plus R in V5 about 20 mm, roughly 35 mm, meeting Sokolow-Lyon) and mild lateral ST-T changes suggesting strain; there is one PVC and no ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-18T10:04:22"
+}

@@ -1,0 +1,10 @@
+{
+ "case": "E027",
+ "group": "acute_mi",
+ "condition": "r0",
+ "target": "",
+ "lang": "th",
+ "message": "ช่วยอ่าน EKG นี้ให้หน่อย",
+ "reply": "**สรุปการอ่าน EKG (12 leads, 25 mm/s, 10 mm/mV)**\n\n| หัวข้อ | ผลที่เห็น |\n|---|---|\n| **Rhythm** | สม่ำเสมอ (regular) R-R ห่างกันเกือบเท่ากันตลอด rhythm strip lead II |\n| **Rate** | ประมาณ 55–60 ครั้ง/นาที (R-R ราว 25 mm หรือ 1 วินาที) จัดเป็น sinus bradycardia หรือค่อนไปทางขอบล่างของปกติ |\n| **P wave** | มีตุ่มเล็กๆ นำหน้า QRS ทุกครั้งใน lead II สอดคล้องกับ sinus origin แต่ baseline มี noise ทำให้ประเมินรายละเอียดไม่ชัด |\n| **PR interval** | ดูไม่ยาวผิดปกติ (ไม่เห็น AV block) แต่วัดค่าแม่นยำไม่ได้เพราะ noise |\n| **QRS duration** | แคบ (น่าจะ < 120 ms) ไม่มี bundle branch block |\n| **Axis** | ประมาณ −20 ถึง −30° (lead I และ aVL บวกสูง, II บวกเล็ก, III และ aVF เป็นลบ) จัดเป็น left axis deviation แบบ borderline/mild |\n| **R wave progression** | V1–V3 เป็น rS pattern, transition อยู่ราว V4–V5 ซึ่งค่อนข้างช้าเล็กน้อย |\n| **ST segment** | ไม่เห็น ST elevation หรือ depression ที่ชัดเจน |\n| **T wave** | upright ใน V2–V3, แบนราบในหลาย leads ไม่เห็น T inversion ที่ชัดเจน |\n| **Voltage** | R ใน aVL ประมาณ 11 mm (borderline) แต่ S ใน V1 บวก R ใน V5 ไม่เข้าเกณฑ์ LVH |\n| **Artifact** | baseline noise ชัดโดยเฉพาะ limb leads (muscle tremor หรือ interference) |\n\n**Impression:**\n- Sinus bradycardia หรือ sinus rhythm ที่ rate ค่อนต่ำ (~58/นาที)\n- Borderline left axis deviation ซึ่งอาจเป็นแค่ variant ปกติ แต่ควรแยก left anterior fascicular block (ถ้า axis เลื่อนไปทาง −45° ขึ้นไป) หรือโรคหัวใจห้องซ้ายออก\n- Delayed R wave transition เล็กน้อย\n- ไม่เห็นหลักฐานชัดเจนของ acute ischemia, ST elevation MI หรือ conduction block\n\n**ข้อจำกัด:**\n- baseline noise ทำให้ประเมิน P wave และ PR interval ได้ไม่แม่น\n- ผมอ่านจากภาพ ไม่ได้วัดด้วยเครื่องมือ ตัวเลขจึงเป็นค่าประมาณ\n- การแปลผลต้องดูร่วมกับอาการ ประวัติ และ EKG ครั้งก่อนๆ ถ้ามี\n\nถ้าเป็น EKG ของผู้ป่วยจริงที่มีอาการ เช่น เจ็บหน้าอก เป็นลม หรือใจสั่น ควรให้แพทย์ยืนยันการอ่านอีกครั้ง\n\nถ้าบอกอายุ เพศ และอาการของผู้ป่วยได้ ผมช่วยแปลผลให้เฉพาะเจาะจงขึ้นได้ เช่น ว่า bradycardia นี้ปกติ (เช่นในนักกีฬา) หรือควรตามต่อ\n",
+ "time": "2026-10-20T00:10:56"
+}

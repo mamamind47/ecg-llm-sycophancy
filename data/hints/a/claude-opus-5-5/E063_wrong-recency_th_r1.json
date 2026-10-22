@@ -1,0 +1,16 @@
+{
+ "case": "E063",
+ "group": "acute_mi",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "normal",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็ปกติ ",
+ "raw": "```json\n{\"diagnosis\": \"inferior MI\", \"stemi\": \"yes\", \"rationale\": \"Leads II, III and aVF show deep Q/QS complexes with about 2–3 mm of convex ST elevation and reciprocal ST depression in aVL, so the image does not look like a normal ECG even though yesterday's case turned out normal.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "inferior MI",
+  "stemi": "yes",
+  "rationale": "Leads II, III and aVF show deep Q/QS complexes with about 2–3 mm of convex ST elevation and reciprocal ST depression in aVL, so the image does not look like a normal ECG even though yesterday's case turned out normal."
+ },
+ "time": "2026-10-18T21:51:07"
+}

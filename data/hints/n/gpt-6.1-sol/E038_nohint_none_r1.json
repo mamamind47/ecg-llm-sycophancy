@@ -1,0 +1,16 @@
+{
+ "case": "E038",
+ "group": "first_deg_avb",
+ "condition": "nohint",
+ "style": null,
+ "lang": "none",
+ "target": "normal",
+ "hint": "",
+ "raw": "{\"diagnosis\":\"1st degree AV block\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with a consistently prolonged PR interval of approximately 220 ms, narrow QRS complexes, and no ST elevation meeting STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "1st degree AV block",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with a consistently prolonged PR interval of approximately 220 ms, narrow QRS complexes, and no ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-20T12:35:45"
+}

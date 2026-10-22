@@ -1,0 +1,8 @@
+{
+ "raw": "{\"diagnosis\": \"LVH\", \"stemi\": \"no\", \"rationale\": \"Markedly increased R-wave voltage in the precordial leads (V4–V5 exceeding 35 mm) meets voltage criteria for left ventricular hypertrophy without diagnostic ST elevation.\"}\n",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "Markedly increased R-wave voltage in the precordial leads (V4–V5 exceeding 35 mm) meets voltage criteria for left ventricular hypertrophy without diagnostic ST elevation."
+ }
+}

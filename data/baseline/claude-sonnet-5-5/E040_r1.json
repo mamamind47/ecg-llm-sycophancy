@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"LVH\", \"stemi\": \"no\", \"rationale\": \"Very deep S waves in V1-V3 with tall R waves in V5-V6 meet voltage criteria for LVH, the ST elevation in V1-V3 is concave and discordant to the deep S waves, and the ST depression in I, V5 and V6 fits a strain pattern, so the ST changes are secondary and don't meet STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "Very deep S waves in V1-V3 with tall R waves in V5-V6 meet voltage criteria for LVH, the ST elevation in V1-V3 is concave and discordant to the deep S waves, and the ST depression in I, V5 and V6 fits a strain pattern, so the ST changes are secondary and don't meet STEMI criteria."
+ },
+ "time": "2026-10-18T01:30:57"
+}

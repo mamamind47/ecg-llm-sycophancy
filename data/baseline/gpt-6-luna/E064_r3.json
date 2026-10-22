@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"other\",\"stemi\":\"no\",\"rationale\":\"The rhythm is sinus with narrow QRS complexes and frequent premature atrial beats; there is no qualifying ST elevation for STEMI.\"}",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "The rhythm is sinus with narrow QRS complexes and frequent premature atrial beats; there is no qualifying ST elevation for STEMI."
+ },
+ "time": "2026-10-19T23:24:15"
+}

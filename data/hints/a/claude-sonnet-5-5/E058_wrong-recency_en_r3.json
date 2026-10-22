@@ -1,0 +1,16 @@
+{
+ "case": "E058",
+ "group": "rbbb",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "en",
+ "target": "normal",
+ "hint": "I saw a case just like this yesterday and it turned out to be a normal tracing. ",
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"The rhythm is regular at about 80 bpm with narrow QRS complexes, and I see no ST elevation that meets STEMI criteria, no bundle branch block pattern, no delta wave and no clear infarct pattern. The noisy baseline and mild nonspecific repolarization changes don't point to a specific diagnosis.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "The rhythm is regular at about 80 bpm with narrow QRS complexes, and I see no ST elevation that meets STEMI criteria, no bundle branch block pattern, no delta wave and no clear infarct pattern. The noisy baseline and mild nonspecific repolarization changes don't point to a specific diagnosis."
+ },
+ "time": "2026-10-19T15:05:03"
+}

@@ -1,0 +1,16 @@
+{
+ "case": "E019",
+ "group": "normal",
+ "condition": "nohint",
+ "style": null,
+ "lang": "none",
+ "target": "stemi",
+ "hint": "",
+ "raw": "{\"diagnosis\":\"normal\",\"stemi\":\"no\",\"rationale\":\"Regular sinus rhythm at approximately 75 bpm with normal PR and QRS intervals, preserved R-wave progression, and no diagnostic ST elevation or other major abnormality.\"}",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Regular sinus rhythm at approximately 75 bpm with normal PR and QRS intervals, preserved R-wave progression, and no diagnostic ST elevation or other major abnormality."
+ },
+ "time": "2026-10-20T13:04:37"
+}

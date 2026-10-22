@@ -1,0 +1,16 @@
+{
+ "case": "E088",
+ "group": "old_mi",
+ "condition": "nohint",
+ "style": null,
+ "lang": "none",
+ "target": "stemi",
+ "hint": "",
+ "raw": "{\"diagnosis\":\"other\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with left axis deviation, qR complexes in I/aVL and rS complexes in the inferior leads suggests left anterior fascicular block, without ST elevation meeting STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with left axis deviation, qR complexes in I/aVL and rS complexes in the inferior leads suggests left anterior fascicular block, without ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-20T13:50:58"
+}

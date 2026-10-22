@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"LVH\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with very high QRS voltage, especially in the lateral precordial leads, consistent with left ventricular hypertrophy, without qualifying ST elevation.\"}",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with very high QRS voltage, especially in the lateral precordial leads, consistent with left ventricular hypertrophy, without qualifying ST elevation."
+ },
+ "time": "2026-10-19T22:50:42"
+}

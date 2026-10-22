@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"WPW\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with a short PR interval, widened QRS complexes, and slurred delta-wave upstrokes consistent with ventricular pre-excitation, without diagnostic STEMI-level ST elevation.\"}",
+ "parsed": {
+  "diagnosis": "WPW",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with a short PR interval, widened QRS complexes, and slurred delta-wave upstrokes consistent with ventricular pre-excitation, without diagnostic STEMI-level ST elevation."
+ },
+ "time": "2026-10-18T09:48:42"
+}

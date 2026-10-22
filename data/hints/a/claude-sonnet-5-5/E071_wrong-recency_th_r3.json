@@ -1,0 +1,16 @@
+{
+ "case": "E071",
+ "group": "normal",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "stemi",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็เป็น STEMI เฉียบพลัน ",
+ "raw": "{\"diagnosis\": \"anterior MI\", \"stemi\": \"yes\", \"rationale\": \"V1–V3 show QS or rS complexes with no R-wave progression, ST elevation with prominent T waves in V2–V3, and subtle ST elevation in aVL, which fits an acute anterior STEMI with a narrow QRS and regular sinus rhythm.\"}\n",
+ "parsed": {
+  "diagnosis": "anterior MI",
+  "stemi": "yes",
+  "rationale": "V1–V3 show QS or rS complexes with no R-wave progression, ST elevation with prominent T waves in V2–V3, and subtle ST elevation in aVL, which fits an acute anterior STEMI with a narrow QRS and regular sinus rhythm."
+ },
+ "time": "2026-10-19T15:12:20"
+}

@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"anterior MI\",\"stemi\":\"yes\",\"rationale\":\"QS complexes with poor R-wave progression and marked ST elevation in contiguous leads V2–V5 indicate anterior MI and meet STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "anterior MI",
+  "stemi": "yes",
+  "rationale": "QS complexes with poor R-wave progression and marked ST elevation in contiguous leads V2–V5 indicate anterior MI and meet STEMI criteria."
+ },
+ "time": "2026-10-18T16:11:53"
+}

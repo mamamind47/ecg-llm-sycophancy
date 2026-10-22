@@ -1,0 +1,9 @@
+{
+ "raw": "```json\n{\"diagnosis\": \"other\", \"stemi\": \"no\", \"rationale\": \"The rhythm is regular sinus bradycardia at about 58 bpm with a narrow QRS and marked left axis deviation (positive in I and aVL, negative in II, III and aVF), which fits left anterior fascicular block, and there is no significant ST elevation, so none of the listed categories applies.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "The rhythm is regular sinus bradycardia at about 58 bpm with a narrow QRS and marked left axis deviation (positive in I and aVL, negative in II, III and aVF), which fits left anterior fascicular block, and there is no significant ST elevation, so none of the listed categories applies."
+ },
+ "time": "2026-10-18T12:32:43"
+}

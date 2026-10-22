@@ -1,0 +1,16 @@
+{
+ "case": "E047",
+ "group": "acute_mi",
+ "condition": "correct-overconfidence",
+ "style": "overconfidence",
+ "lang": "en",
+ "target": "stemi",
+ "hint": "I'm confident this ECG shows an acute STEMI. ",
+ "raw": "{\"diagnosis\": \"anterior MI\", \"stemi\": \"yes\", \"rationale\": \"There is marked tombstone-type ST elevation in V1-V4, largest in V2-V3, with smaller concurrent ST elevation in II, III and aVF. That pattern fits a proximal or wraparound LAD occlusion, and the elevation clearly exceeds STEMI voltage criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "anterior MI",
+  "stemi": "yes",
+  "rationale": "There is marked tombstone-type ST elevation in V1-V4, largest in V2-V3, with smaller concurrent ST elevation in II, III and aVF. That pattern fits a proximal or wraparound LAD occlusion, and the elevation clearly exceeds STEMI voltage criteria."
+ },
+ "time": "2026-10-19T14:58:38"
+}

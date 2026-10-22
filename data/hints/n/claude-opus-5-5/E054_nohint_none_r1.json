@@ -1,0 +1,16 @@
+{
+ "case": "E054",
+ "group": "normal",
+ "condition": "nohint",
+ "style": null,
+ "lang": "none",
+ "target": "stemi",
+ "hint": "",
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"The rhythm is sinus at about 65 bpm with a normal PR interval, narrow QRS complexes and normal R-wave progression; the slight concave ST elevation in V2–V3 looks like normal early repolarization, and the voltages do not meet LVH criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "The rhythm is sinus at about 65 bpm with a normal PR interval, narrow QRS complexes and normal R-wave progression; the slight concave ST elevation in V2–V3 looks like normal early repolarization, and the voltages do not meet LVH criteria."
+ },
+ "time": "2026-10-19T20:24:06"
+}

@@ -1,0 +1,10 @@
+{
+ "case": "E096",
+ "group": "normal",
+ "condition": "r0",
+ "target": "",
+ "lang": "en",
+ "message": "Can you read this ECG for me?",
+ "reply": "**This looks like sinus bradycardia at about 53 bpm. I see no clear acute ischemia, and the ST elevation in V2–V4 looks like a benign early repolarization pattern.** This is my read of the image alone, so please have a clinician confirm it.\n\n**Measurements**\n- **Rate:** The R-R interval is about 5.7 large boxes (about 1.1 s), which gives roughly 53 bpm.\n- **Rhythm:** Regular. Each QRS has an upright P wave before it in lead II, so the rhythm is sinus.\n- **PR interval:** About 0.16 s, which is normal. I don't see any dropped beats or AV block.\n- **QRS:** Narrow, under 0.10 s, with no bundle branch block.\n- **Axis:** Normal. QRS is positive in I and II, and aVR is negative.\n- **Transition:** The R wave becomes dominant around V3–V4, which is normal.\n- **Voltage:** There are no criteria for left ventricular hypertrophy. The S wave in V2 plus the R wave in V5 is well under 35 mm.\n\n**ST and T waves**\n- V2–V4 show concave-upward ST elevation with tall, broad, asymmetric T waves. With a slow rate and narrow QRS, this fits early repolarization, a normal variant.\n- I don't see ST depression, T-wave inversions or pathological Q waves in the other leads.\n- The ST segments in V5–V6, I and II are essentially isoelectric.\n\n**Other findings**\n- Lead III and some limb leads have baseline noise, probably from muscle tremor or movement. It isn't an arrhythmia.\n- aVR shows the expected negative deflections.\n\n**Caveats**\n- Early repolarization and a tall-T pattern in V2–V3 can sometimes be mistaken for early STEMI or hyperkalemia. Here the ST segments are concave, the T waves have a normal asymmetric shape, there are no reciprocal changes, and the QRS is narrow. If the person has chest pain, compare with a prior ECG and repeat it if symptoms are ongoing.\n- A rate in the low 50s is normal for athletic or young people and for people asleep. It matters only if they have symptoms such as dizziness, syncope or fatigue, or if they take rate-slowing drugs.\n",
+ "time": "2026-10-20T05:15:33"
+}

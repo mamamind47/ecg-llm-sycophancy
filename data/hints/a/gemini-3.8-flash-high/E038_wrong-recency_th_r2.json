@@ -1,0 +1,16 @@
+{
+ "case": "E038",
+ "group": "first_deg_avb",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "normal",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็ปกติ ",
+ "raw": "{\"diagnosis\": \"1st degree AV block\", \"stemi\": \"no\", \"rationale\": \"The ECG shows a normal sinus rhythm with a consistently prolonged PR interval of approximately 260 ms (>200 ms) and no ST-segment elevation meeting STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "1st degree AV block",
+  "stemi": "no",
+  "rationale": "The ECG shows a normal sinus rhythm with a consistently prolonged PR interval of approximately 260 ms (>200 ms) and no ST-segment elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-18T19:12:56"
+}

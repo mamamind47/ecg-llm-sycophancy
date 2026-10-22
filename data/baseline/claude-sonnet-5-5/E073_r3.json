@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"The rhythm is regular with narrow QRS complexes and visible P waves. V1-V3 show deep S waves with mild concave ST elevation and upright T waves, which looks like a normal variant. There are no pathological Q waves, no bundle branch block pattern, and no voltage criteria for LVH.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "The rhythm is regular with narrow QRS complexes and visible P waves. V1-V3 show deep S waves with mild concave ST elevation and upright T waves, which looks like a normal variant. There are no pathological Q waves, no bundle branch block pattern, and no voltage criteria for LVH."
+ },
+ "time": "2026-10-18T11:16:42"
+}

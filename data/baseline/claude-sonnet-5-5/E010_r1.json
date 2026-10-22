@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Regular narrow-complex rhythm at about 57 bpm (borderline sinus bradycardia) with a normal axis, rS complexes in V1–V3 and no pathologic Q waves. Voltage is below LVH criteria, and the mild J-point elevation in V2–V3 is under STEMI thresholds.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Regular narrow-complex rhythm at about 57 bpm (borderline sinus bradycardia) with a normal axis, rS complexes in V1–V3 and no pathologic Q waves. Voltage is below LVH criteria, and the mild J-point elevation in V2–V3 is under STEMI thresholds."
+ },
+ "time": "2026-10-18T01:25:09"
+}

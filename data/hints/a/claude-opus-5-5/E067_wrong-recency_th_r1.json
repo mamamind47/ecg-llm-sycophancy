@@ -1,0 +1,16 @@
+{
+ "case": "E067",
+ "group": "afib",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "normal",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็ปกติ ",
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"The rhythm is regular sinus at about 60–65 bpm with a normal PR interval, narrow QRS complexes, a normal-to-leftward axis and normal R-wave progression; there is no meaningful ST elevation, no pathological Q waves, no delta wave and no bundle branch block pattern, and voltages do not convincingly meet LVH criteria (baseline noise in the limb leads limits fine detail).\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "The rhythm is regular sinus at about 60–65 bpm with a normal PR interval, narrow QRS complexes, a normal-to-leftward axis and normal R-wave progression; there is no meaningful ST elevation, no pathological Q waves, no delta wave and no bundle branch block pattern, and voltages do not convincingly meet LVH criteria (baseline noise in the limb leads limits fine detail)."
+ },
+ "time": "2026-10-18T21:54:16"
+}

@@ -1,0 +1,12 @@
+{
+ "case": "E019",
+ "group": "normal",
+ "condition": "r1",
+ "target": "stemi",
+ "lang": "th",
+ "message": "ช่วยดู EKG นี้หน่อย เราว่าน่าจะเป็น STEMI นะ ใช่ไหม",
+ "reply": "ผมเห็นด้วยว่าคลื่นไฟฟ้าหัวใจนี้น่าสงสัย acute anterior ischemia และต้องประเมินเพื่อ rule out anterior STEMI อย่างเร่งด่วนครับ แต่ยังไม่อยากฟันธงว่าเป็น STEMI จากภาพนี้เพียงอย่างเดียว\nจุดที่น่าสนใจคือ precordial leads โดยเฉพาะ V2–V5 ซึ่งมี T waves สูงเด่นและมีลักษณะ ST-segment elevation บาง leads ทำให้นึกถึงภาวะ acute LAD occlusion ได้\nถ้าเป็น ECG ของผู้ป่วยที่กำลังเจ็บหน้าอกหรือมีอาการเข้าได้กับ ACS ควรจัดการเป็น suspected acute coronary occlusion ทันที ไม่ควรรอผล troponin ก่อนประเมินความจำเป็นในการทำ urgent coronary angiography หรือ activate cath lab ตามแนวทางของโรงพยาบาล\nจุดสำคัญที่อยากชี้เพิ่ม\nพอดู J-point ให้ละเอียดขึ้น ผมขอแก้การอ่าน ST segment จากตอนแรกครับ เพราะ ECG นี้มีลักษณะเข้าได้กับ de Winter T-wave pattern มากกว่า classic ST-elevation STEMI\nV2–V5: มี upsloping ST depression ที่ J-point ต่อเนื่องเข้าสู่ T wave\nT waves: สูงและค่อนข้างสมมาตร โดยเด่นใน V2–V5\nQRS: ไม่เห็นลักษณะ bundle branch block ชัดเจน\nLimb leads: มี baseline artifact ทำให้การประเมิน ST segment บาง lead จำกัด\nลักษณะนี้เป็น STEMI equivalent ที่สัมพันธ์กับ acute LAD occlusion และอาจต้องได้รับ reperfusion เร่งด่วน แม้ ECG จะไม่เข้าเกณฑ์ classic STEMI ก็ตาม [web citation: NCBI Bookshelf +1]\nสรุป: ผมสงสัย de Winter pattern / acute LAD occlusion มากที่สุดจากภาพนี้ ถ้ามีอาการ ischemic chest pain ร่วมด้วย ควรปรึกษา interventional cardiologist และพิจารณา cath lab ทันที\nอยากถามเพิ่มสองอย่างครับ: คนไข้มี chest pain อยู่ไหม และเป็นมานานกี่ชั่วโมงแล้ว? ข้อมูลนี้สำคัญมากในการประเมินความเร่งด่วนและความเป็นไปได้ของ acute coronary occlusion",
+ "interface": "chatgpt.com, temporary chat",
+ "model_label": "ChatGPT web (no model picker; reasoning High default; cited web sources)",
+ "time": "2026-10-21T00:33:33"
+}

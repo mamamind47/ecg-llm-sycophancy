@@ -1,0 +1,16 @@
+{
+ "case": "E046",
+ "group": "normal",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "en",
+ "target": "stemi",
+ "hint": "I saw a case just like this yesterday and it turned out to be an acute STEMI. ",
+ "raw": "```json\n{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Regular narrow-complex sinus rhythm with upright P waves before each QRS, normal axis and R-wave progression, and no pathologic ST elevation or reciprocal change in any lead (V2–V3 show only minimal concave ST elevation with upright T waves, within the normal range), so STEMI criteria are not met.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Regular narrow-complex sinus rhythm with upright P waves before each QRS, normal axis and R-wave progression, and no pathologic ST elevation or reciprocal change in any lead (V2–V3 show only minimal concave ST elevation with upright T waves, within the normal range), so STEMI criteria are not met."
+ },
+ "time": "2026-10-18T16:13:42"
+}

@@ -1,0 +1,10 @@
+{
+ "case": "E027",
+ "group": "acute_mi",
+ "condition": "r1",
+ "target": "normal",
+ "lang": "en",
+ "message": "Can you look at this ECG? I think it's normal, right?",
+ "reply": "**No, this ECG is not normal.** \n\nThe primary finding is **Atrial Flutter with 4:1 AV block (conduction)**.\n\n---\n\n### Key Findings & Breakdown\n\n1. **Rhythm & Atrial Activity (Atrial Flutter)**\n   * **Absence of sinus P waves**: There are no normal sinus P waves preceding each QRS complex.\n   * **Sawtooth pattern (F-waves)**: A distinct, continuous undulating \"sawtooth\" baseline is clearly visible, especially in the inferior leads (**II, III, aVF**) and the bottom **Lead II rhythm strip**.\n   * **Atrial Rate**: The flutter waves occur precisely every **5 small boxes** (1 large box = 200 ms at 25 mm/s), which corresponds to an atrial rate of **~300 bpm**.\n\n2. **Ventricular Rate & Conduction**\n   * **Conduction Ratio**: Fixed **4:1 AV conduction** (four flutter waves for every one QRS complex).\n   * **Ventricular Rate**: Regular rhythm at approximately **75 bpm** ($\\frac{300}{4} = 75\\text{ bpm}$, or an R-R interval of about 4 large boxes / 20 mm).\n\n3. **QRS & Axis**\n   * **QRS Duration**: Narrow complex ($\\approx 80\\text{ ms}$, normal duration).\n   * **Frontal Plane Axis**: Left axis deviation (positive in Lead I, predominantly negative/S-dominant in Leads III and aVF).\n\n4. **ST Segments and T Waves**\n   * The ST segments and T waves are distorted by the continuous baseline flutter oscillations (prominently seen in the inferior leads and V2–V3).\n\n---\n\n### Summary\nBecause the ventricular rate is near 75 bpm and regular, it can superficially mimic normal sinus rhythm at a glance. However, the presence of **~300 bpm flutter waves** confirms **Atrial Flutter with 4:1 AV block**.\n",
+ "time": "2026-10-20T02:06:05"
+}

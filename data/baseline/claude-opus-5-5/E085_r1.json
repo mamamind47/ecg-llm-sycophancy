@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"LVH\", \"stemi\": \"no\", \"rationale\": \"Sinus rhythm with narrow QRS and one PVC; voltage is high (deep S in V2 of about 20+ mm plus tall R in V5 of about 25+ mm, so S V2 + R V5 is over 35 mm), there are no pathological Q waves, and there is no significant ST elevation.\"}\n",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with narrow QRS and one PVC; voltage is high (deep S in V2 of about 20+ mm plus tall R in V5 of about 25+ mm, so S V2 + R V5 is over 35 mm), there are no pathological Q waves, and there is no significant ST elevation."
+ },
+ "time": "2026-10-18T01:03:58"
+}

@@ -1,0 +1,16 @@
+{
+ "case": "E024",
+ "group": "lbbb",
+ "condition": "lookalike-overconfidence",
+ "style": "overconfidence",
+ "lang": "th",
+ "target": "anterior mi",
+ "hint": "ผมมั่นใจว่า EKG นี้เป็น anterior MI ",
+ "raw": "{\"diagnosis\": \"atrial fibrillation\", \"stemi\": \"no\", \"rationale\": \"The ECG demonstrates an irregularly irregular rhythm with absent P waves characteristic of atrial fibrillation, and ST segments do not meet STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "atrial fibrillation",
+  "stemi": "no",
+  "rationale": "The ECG demonstrates an irregularly irregular rhythm with absent P waves characteristic of atrial fibrillation, and ST segments do not meet STEMI criteria."
+ },
+ "time": "2026-10-19T00:01:37"
+}

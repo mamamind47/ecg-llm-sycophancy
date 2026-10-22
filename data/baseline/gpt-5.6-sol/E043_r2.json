@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"normal\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with normal conduction and QRS morphology, no diagnostic hypertrophy or infarction pattern, and no STEMI-level ST elevation.\"}",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with normal conduction and QRS morphology, no diagnostic hypertrophy or infarction pattern, and no STEMI-level ST elevation."
+ },
+ "time": "2026-10-18T09:52:13"
+}

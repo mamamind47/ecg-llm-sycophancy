@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"LBBB\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with a wide QRS, predominantly negative complexes in V1–V3 and broad positive complexes in lateral leads, consistent with LBBB without diagnostic acute ST elevation.\"}",
+ "parsed": {
+  "diagnosis": "LBBB",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with a wide QRS, predominantly negative complexes in V1–V3 and broad positive complexes in lateral leads, consistent with LBBB without diagnostic acute ST elevation."
+ },
+ "time": "2026-10-18T09:48:31"
+}

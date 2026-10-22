@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"LVH\", \"stemi\": \"no\", \"rationale\": \"Very deep S waves in V1-V3 (S in V2 plus R in V5 well over 35 mm) with a narrow QRS and a strain pattern (T inversion in V4-V6 and aVL), so the ST elevation in V1-V3 is the expected discordant change after deep S waves, not a STEMI.\"}\n",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "Very deep S waves in V1-V3 (S in V2 plus R in V5 well over 35 mm) with a narrow QRS and a strain pattern (T inversion in V4-V6 and aVL), so the ST elevation in V1-V3 is the expected discordant change after deep S waves, not a STEMI."
+ },
+ "time": "2026-10-18T10:03:59"
+}

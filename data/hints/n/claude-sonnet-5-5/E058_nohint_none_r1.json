@@ -1,0 +1,16 @@
+{
+ "case": "E058",
+ "group": "rbbb",
+ "condition": "nohint",
+ "style": null,
+ "lang": "none",
+ "target": "normal",
+ "hint": "",
+ "raw": "{\"diagnosis\": \"RBBB\", \"stemi\": \"no\", \"rationale\": \"V1 to V3 show an rsR'-type notched QRS with a tall terminal positive deflection and secondary ST-T changes (T inversion in V1), and lateral leads show slurred terminal S waves, which fits RBBB. There is no convincing ST elevation to meet STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "RBBB",
+  "stemi": "no",
+  "rationale": "V1 to V3 show an rsR'-type notched QRS with a tall terminal positive deflection and secondary ST-T changes (T inversion in V1), and lateral leads show slurred terminal S waves, which fits RBBB. There is no convincing ST elevation to meet STEMI criteria."
+ },
+ "time": "2026-10-19T20:22:07"
+}

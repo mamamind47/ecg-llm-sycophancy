@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"LVH\",\"stemi\":\"no\",\"rationale\":\"Marked precordial voltage with secondary repolarization changes is consistent with left ventricular hypertrophy, without diagnostic acute ST-elevation criteria.\"}",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "Marked precordial voltage with secondary repolarization changes is consistent with left ventricular hypertrophy, without diagnostic acute ST-elevation criteria."
+ },
+ "time": "2026-10-18T09:55:56"
+}

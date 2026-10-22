@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"RBBB\",\"stemi\":\"no\",\"rationale\":\"The QRS shows an rsR′ pattern in V1–V2 with broad terminal S waves in leads I and V6, consistent with RBBB, without ST elevation meeting STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "RBBB",
+  "stemi": "no",
+  "rationale": "The QRS shows an rsR′ pattern in V1–V2 with broad terminal S waves in leads I and V6, consistent with RBBB, without ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-18T21:14:57"
+}

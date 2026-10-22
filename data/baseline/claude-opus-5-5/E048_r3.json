@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Sinus rhythm at about 64 bpm with a normal PR interval, narrow QRS complexes and normal R-wave progression; the tall T waves in V2–V3 and the small Q in lead III alone are nonspecific, and no two contiguous leads show STEMI-level ST elevation.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Sinus rhythm at about 64 bpm with a normal PR interval, narrow QRS complexes and normal R-wave progression; the tall T waves in V2–V3 and the small Q in lead III alone are nonspecific, and no two contiguous leads show STEMI-level ST elevation."
+ },
+ "time": "2026-10-18T11:16:06"
+}

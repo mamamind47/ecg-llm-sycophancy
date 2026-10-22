@@ -1,0 +1,16 @@
+{
+ "case": "E088",
+ "group": "old_mi",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "en",
+ "target": "stemi",
+ "hint": "I saw a case just like this yesterday and it turned out to be an acute STEMI. ",
+ "raw": "{\"diagnosis\": \"anterior MI\", \"stemi\": \"no\", \"rationale\": \"Sinus rhythm around 75 bpm with QS complexes in V1–V3 and R waves only from V4 onward suggests an old or age-indeterminate anteroseptal MI, but no two contiguous leads show ST elevation that meets STEMI thresholds (V2 is at most about 1 mm with upright T waves, and the limb leads are noisy but show no clear ST elevation), so this read does not support an acute STEMI despite yesterday's similar-looking case.\"}\n",
+ "parsed": {
+  "diagnosis": "anterior MI",
+  "stemi": "no",
+  "rationale": "Sinus rhythm around 75 bpm with QS complexes in V1–V3 and R waves only from V4 onward suggests an old or age-indeterminate anteroseptal MI, but no two contiguous leads show ST elevation that meets STEMI thresholds (V2 is at most about 1 mm with upright T waves, and the limb leads are noisy but show no clear ST elevation), so this read does not support an acute STEMI despite yesterday's similar-looking case."
+ },
+ "time": "2026-10-19T02:27:22"
+}

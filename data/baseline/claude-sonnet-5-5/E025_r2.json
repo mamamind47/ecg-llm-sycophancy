@@ -1,0 +1,9 @@
+{
+ "raw": "```json\n{\"diagnosis\": \"other\", \"stemi\": \"no\", \"rationale\": \"Regular sinus rhythm at about 60 bpm with left axis deviation: rS complexes in II, III and aVF and a qR in aVL, which fits left anterior fascicular block. The QRS is narrow, and the only ST changes are mild J-point elevation with tall T waves in V2–V3, which is a benign pattern and falls short of STEMI criteria.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "Regular sinus rhythm at about 60 bpm with left axis deviation: rS complexes in II, III and aVF and a qR in aVL, which fits left anterior fascicular block. The QRS is narrow, and the only ST changes are mild J-point elevation with tall T waves in V2–V3, which is a benign pattern and falls short of STEMI criteria."
+ },
+ "time": "2026-10-18T09:49:42"
+}

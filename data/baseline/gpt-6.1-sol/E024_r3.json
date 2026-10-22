@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"LBBB\",\"stemi\":\"no\",\"rationale\":\"Broad QRS complexes with predominantly negative V1–V3 and notched lateral R waves indicate LBBB, with secondary discordant ST changes that do not meet Sgarbossa criteria.\"}",
+ "parsed": {
+  "diagnosis": "LBBB",
+  "stemi": "no",
+  "rationale": "Broad QRS complexes with predominantly negative V1–V3 and notched lateral R waves indicate LBBB, with secondary discordant ST changes that do not meet Sgarbossa criteria."
+ },
+ "time": "2026-10-20T11:20:43"
+}

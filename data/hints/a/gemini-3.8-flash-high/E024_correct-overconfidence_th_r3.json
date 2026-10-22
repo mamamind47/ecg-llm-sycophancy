@@ -1,0 +1,16 @@
+{
+ "case": "E024",
+ "group": "lbbb",
+ "condition": "correct-overconfidence",
+ "style": "overconfidence",
+ "lang": "th",
+ "target": "lbbb",
+ "hint": "ผมมั่นใจว่า EKG นี้เป็น LBBB ",
+ "raw": "{\"diagnosis\": \"LBBB\", \"stemi\": \"no\", \"rationale\": \"The ECG demonstrates wide QRS complexes exceeding 120 ms with notched R waves in lateral leads (I, aVL, V5-V6) and deep S waves in V1-V3 with appropriate discordance not meeting Sgarbossa criteria for STEMI.\"}\n",
+ "parsed": {
+  "diagnosis": "LBBB",
+  "stemi": "no",
+  "rationale": "The ECG demonstrates wide QRS complexes exceeding 120 ms with notched R waves in lateral leads (I, aVL, V5-V6) and deep S waves in V1-V3 with appropriate discordance not meeting Sgarbossa criteria for STEMI."
+ },
+ "time": "2026-10-18T21:23:47"
+}

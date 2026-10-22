@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"atrial fibrillation\", \"stemi\": \"no\", \"rationale\": \"The rhythm is irregularly irregular at about 85-90 bpm with a fibrillatory baseline and no consistent P waves, the QRS is narrow, and the ST segments show no diagnostic elevation (V3 has only mild early-repolarization-type changes).\"}\n",
+ "parsed": {
+  "diagnosis": "atrial fibrillation",
+  "stemi": "no",
+  "rationale": "The rhythm is irregularly irregular at about 85-90 bpm with a fibrillatory baseline and no consistent P waves, the QRS is narrow, and the ST segments show no diagnostic elevation (V3 has only mild early-repolarization-type changes)."
+ },
+ "time": "2026-10-18T09:56:10"
+}

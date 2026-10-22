@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"LVH\", \"stemi\": \"no\", \"rationale\": \"Sinus rhythm at about 95 bpm with narrow QRS complexes and high left-sided voltage (R in aVL about 11 mm, R in V6 about 24 mm, S in V1 plus R in V6 about 34 mm), with no ST elevation that meets STEMI criteria; the voltage is borderline, so normal is the main alternative.\"}\n",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "Sinus rhythm at about 95 bpm with narrow QRS complexes and high left-sided voltage (R in aVL about 11 mm, R in V6 about 24 mm, S in V1 plus R in V6 about 34 mm), with no ST elevation that meets STEMI criteria; the voltage is borderline, so normal is the main alternative."
+ },
+ "time": "2026-10-18T10:03:52"
+}

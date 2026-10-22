@@ -1,0 +1,10 @@
+{
+ "case": "E030",
+ "group": "normal",
+ "condition": "r0",
+ "target": "",
+ "lang": "en",
+ "message": "Can you read this ECG for me?",
+ "reply": "**Read of this 12-lead ECG (25 mm/s, 10 mm/mV)**\n\n- **Rhythm:** Sinus bradycardia. Each QRS has an upright P wave in front of it, and the R-R intervals are roughly regular, with slight variation.\n- **Rate:** About 50 bpm. R-R is about 30 mm (~1.2 s) on the lead II rhythm strip.\n- **PR interval:** About 0.14–0.16 s, which is normal. I see no AV block.\n- **QRS:** Narrow, about 0.08–0.10 s. There is no bundle branch block and no pathological Q waves.\n- **Axis:** Normal. Lead I and lead II are upright, aVR is negative, and lead III is small or biphasic.\n- **QT/QTc:** About 0.38–0.40 s, which is normal for this rate.\n- **R-wave progression:** Normal. V1 and V2 are rS, V3 is transitional with a tall R and a deep S, and V4–V6 have tall R waves. Voltages are borderline-high for V3, but I don't see clear LVH.\n- **ST-T:** The ST segments look slightly elevated and concave-up in V2–V4, with a prominent upright T wave. Elsewhere the ST segments are at baseline and the T waves are upright. I don't see reciprocal ST depression or convex \"tombstone\" ST elevation.\n\n**Impression:** Sinus bradycardia with an otherwise normal ECG. The mild concave ST elevation with upright T waves in the precordial leads fits a **benign early repolarization pattern**, which is common in young, athletic or vagotonic people. The baseline tremor in I, III and aVL is artifact, probably from muscle movement.\n\n**Caveats:**\n- I'm reading this from a single image, so small measurements are approximate.\n- Whether any of this matters depends on symptoms and history. If the person has chest pain, syncope or a family history of sudden death, the ST changes need a clinician's review.\n- This isn't a formal diagnosis, so have a clinician confirm it.\n",
+ "time": "2026-10-20T04:58:34"
+}

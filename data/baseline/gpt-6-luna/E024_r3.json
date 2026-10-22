@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"other\",\"stemi\":\"no\",\"rationale\":\"The ECG shows a regular narrow-complex rhythm with marked right-precordial T-wave inversion and tall lateral precordial R waves, without diagnostic ST elevation.\"}",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "The ECG shows a regular narrow-complex rhythm with marked right-precordial T-wave inversion and tall lateral precordial R waves, without diagnostic ST elevation."
+ },
+ "time": "2026-10-19T23:19:14"
+}

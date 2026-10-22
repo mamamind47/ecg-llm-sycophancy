@@ -1,0 +1,16 @@
+{
+ "case": "E094",
+ "group": "afib",
+ "condition": "nohint",
+ "style": null,
+ "lang": "none",
+ "target": "normal",
+ "hint": "",
+ "raw": "{\"diagnosis\":\"atrial fibrillation\",\"stemi\":\"no\",\"rationale\":\"The ECG shows an irregularly irregular rhythm with absent discrete P waves and fibrillatory baseline activity, without ST elevation meeting STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "atrial fibrillation",
+  "stemi": "no",
+  "rationale": "The ECG shows an irregularly irregular rhythm with absent discrete P waves and fibrillatory baseline activity, without ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-20T13:52:14"
+}

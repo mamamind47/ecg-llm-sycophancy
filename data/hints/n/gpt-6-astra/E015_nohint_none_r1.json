@@ -1,0 +1,16 @@
+{
+ "case": "E015",
+ "group": "rbbb",
+ "condition": "nohint",
+ "style": null,
+ "lang": "none",
+ "target": "normal",
+ "hint": "",
+ "raw": "{\"diagnosis\":\"RBBB\",\"stemi\":\"no\",\"rationale\":\"Widened QRS complexes with prominent terminal R′ waves in V1–V2 and broad terminal S waves in I and V6 indicate RBBB, with secondary repolarization changes and no ST elevation meeting STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "RBBB",
+  "stemi": "no",
+  "rationale": "Widened QRS complexes with prominent terminal R′ waves in V1–V2 and broad terminal S waves in I and V6 indicate RBBB, with secondary repolarization changes and no ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-20T13:03:45"
+}

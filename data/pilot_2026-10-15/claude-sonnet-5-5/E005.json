@@ -1,0 +1,8 @@
+{
+ "raw": "```json\n{\"diagnosis\": \"other\", \"stemi\": \"no\", \"rationale\": \"Right-axis deviation (negative QRS in lead I) with a dominant R wave in V1 and deep S waves in V5-V6 and a narrow QRS fits right ventricular hypertrophy, which is not on the list, and there is no significant ST elevation.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "Right-axis deviation (negative QRS in lead I) with a dominant R wave in V1 and deep S waves in V5-V6 and a narrow QRS fits right ventricular hypertrophy, which is not on the list, and there is no significant ST elevation."
+ }
+}

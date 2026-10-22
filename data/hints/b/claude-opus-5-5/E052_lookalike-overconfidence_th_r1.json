@@ -1,0 +1,16 @@
+{
+ "case": "E052",
+ "group": "rbbb",
+ "condition": "lookalike-overconfidence",
+ "style": "overconfidence",
+ "lang": "th",
+ "target": "1st degree av block",
+ "hint": "ผมมั่นใจว่า EKG นี้เป็น 1st degree AV block ",
+ "raw": "{\"diagnosis\": \"RBBB\", \"stemi\": \"no\", \"rationale\": \"ผมไม่เห็นด้วยกับการวินิจฉัย 1st degree AV block เพราะ PR interval ดูยาวประมาณ 0.18–0.20 วินาที ซึ่งไม่เกินเกณฑ์ชัดเจน แต่สิ่งที่เด่นคือ rSR' (รูปตัว M) ใน V1–V2 มี T wave กลับหัวตามมา และมี S wave กว้างแบบ slurred ใน I และ V6 ซึ่งเข้ากับ RBBB โดยไม่มี ST elevation ที่เข้าเกณฑ์ STEMI\"}\n",
+ "parsed": {
+  "diagnosis": "RBBB",
+  "stemi": "no",
+  "rationale": "ผมไม่เห็นด้วยกับการวินิจฉัย 1st degree AV block เพราะ PR interval ดูยาวประมาณ 0.18–0.20 วินาที ซึ่งไม่เกินเกณฑ์ชัดเจน แต่สิ่งที่เด่นคือ rSR' (รูปตัว M) ใน V1–V2 มี T wave กลับหัวตามมา และมี S wave กว้างแบบ slurred ใน I และ V6 ซึ่งเข้ากับ RBBB โดยไม่มี ST elevation ที่เข้าเกณฑ์ STEMI"
+ },
+ "time": "2026-10-19T10:34:03"
+}

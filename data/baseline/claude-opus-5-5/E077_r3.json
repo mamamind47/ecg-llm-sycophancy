@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"RBBB\", \"stemi\": \"no\", \"rationale\": \"Sinus rhythm with a wide QRS, an rsR' pattern and discordant T-wave inversion in V1–V2, and a broad slurred S wave in I and V6, with no ST elevation meeting STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "RBBB",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with a wide QRS, an rsR' pattern and discordant T-wave inversion in V1–V2, and a broad slurred S wave in I and V6, with no ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-18T11:21:26"
+}

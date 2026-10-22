@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"other\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with frequent premature atrial complexes and diffuse nonspecific ST-T changes, without diagnostic ST elevation.\"}",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with frequent premature atrial complexes and diffuse nonspecific ST-T changes, without diagnostic ST elevation."
+ },
+ "time": "2026-10-19T23:05:26"
+}

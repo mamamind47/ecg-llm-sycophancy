@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"RBBB\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with an rsR′ pattern in V1–V2 and terminal S waves in lateral leads consistent with right bundle branch block, without diagnostic ST elevation.\"}",
+ "parsed": {
+  "diagnosis": "RBBB",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with an rsR′ pattern in V1–V2 and terminal S waves in lateral leads consistent with right bundle branch block, without diagnostic ST elevation."
+ },
+ "time": "2026-10-18T06:05:24"
+}

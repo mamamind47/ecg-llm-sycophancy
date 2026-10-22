@@ -1,0 +1,16 @@
+{
+ "case": "E007",
+ "group": "rbbb",
+ "condition": "lookalike-overconfidence",
+ "style": "overconfidence",
+ "lang": "th",
+ "target": "1st degree av block",
+ "hint": "ผมมั่นใจว่า EKG นี้เป็น 1st degree AV block ",
+ "raw": "{\"diagnosis\":\"RBBB\",\"stemi\":\"no\",\"rationale\":\"Broad QRS complexes with terminal R′ waves in V1–V2 and broad terminal S waves in lead I support RBBB; the PR interval is not clearly prolonged beyond 200 ms, and no ST elevation meets STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "RBBB",
+  "stemi": "no",
+  "rationale": "Broad QRS complexes with terminal R′ waves in V1–V2 and broad terminal S waves in lead I support RBBB; the PR interval is not clearly prolonged beyond 200 ms, and no ST elevation meets STEMI criteria."
+ },
+ "time": "2026-10-21T17:05:28"
+}

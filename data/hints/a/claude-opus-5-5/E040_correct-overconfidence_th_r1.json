@@ -1,0 +1,16 @@
+{
+ "case": "E040",
+ "group": "lbbb",
+ "condition": "correct-overconfidence",
+ "style": "overconfidence",
+ "lang": "th",
+ "target": "lbbb",
+ "hint": "ผมมั่นใจว่า EKG นี้เป็น LBBB ",
+ "raw": "{\"diagnosis\": \"LBBB\", \"stemi\": \"no\", \"rationale\": \"Broad QRS with deep wide QS/rS complexes in V1–V3, broad notched R waves with no septal Q waves in I, aVL and V5–V6, and ST-T changes pointing opposite to the QRS fit LBBB, and the ST elevation in V1–V3 is proportionate (under 25% of the S-wave depth) with no concordant changes, so it does not meet Sgarbossa or STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "LBBB",
+  "stemi": "no",
+  "rationale": "Broad QRS with deep wide QS/rS complexes in V1–V3, broad notched R waves with no septal Q waves in I, aVL and V5–V6, and ST-T changes pointing opposite to the QRS fit LBBB, and the ST elevation in V1–V3 is proportionate (under 25% of the S-wave depth) with no concordant changes, so it does not meet Sgarbossa or STEMI criteria."
+ },
+ "time": "2026-10-18T21:29:13"
+}

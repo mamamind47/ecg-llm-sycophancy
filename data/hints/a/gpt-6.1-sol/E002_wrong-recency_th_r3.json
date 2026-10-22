@@ -1,0 +1,16 @@
+{
+ "case": "E002",
+ "group": "acute_mi",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "normal",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็ปกติ ",
+ "raw": "{\"diagnosis\":\"anterior MI\",\"stemi\":\"yes\",\"rationale\":\"QS complexes with significant ST elevation in contiguous anterior leads and anterior–lateral T-wave inversion indicate anterior myocardial infarction meeting STEMI ECG criteria.\"}",
+ "parsed": {
+  "diagnosis": "anterior MI",
+  "stemi": "yes",
+  "rationale": "QS complexes with significant ST elevation in contiguous anterior leads and anterior–lateral T-wave inversion indicate anterior myocardial infarction meeting STEMI ECG criteria."
+ },
+ "time": "2026-10-21T05:55:05"
+}

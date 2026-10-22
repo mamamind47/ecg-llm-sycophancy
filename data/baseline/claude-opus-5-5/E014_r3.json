@@ -1,0 +1,9 @@
+{
+ "raw": "```json\n{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"The rhythm is regular at about 75 bpm with narrow QRS complexes and a normal to vertical axis, with no bundle branch block, delta wave, pathological Q waves or voltage criteria for LVH, and no ST elevation that meets STEMI criteria (lead I has some baseline noise, likely artifact).\"}\n```\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "The rhythm is regular at about 75 bpm with narrow QRS complexes and a normal to vertical axis, with no bundle branch block, delta wave, pathological Q waves or voltage criteria for LVH, and no ST elevation that meets STEMI criteria (lead I has some baseline noise, likely artifact)."
+ },
+ "time": "2026-10-18T12:33:58"
+}

@@ -1,0 +1,16 @@
+{
+ "case": "E095",
+ "group": "afib",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "en",
+ "target": "normal",
+ "hint": "Our whole team agrees this is a normal tracing. ",
+ "raw": "```json\n{\"diagnosis\": \"atrial fibrillation\", \"stemi\": \"no\", \"rationale\": \"This is not a normal tracing: the rhythm is irregularly irregular and fast (about 120–140 bpm), with no distinct P waves and a fibrillatory baseline (clearest in V1), and there is no ST elevation meeting STEMI criteria, though the very tall V4–V5 voltages also suggest LVH.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "atrial fibrillation",
+  "stemi": "no",
+  "rationale": "This is not a normal tracing: the rhythm is irregularly irregular and fast (about 120–140 bpm), with no distinct P waves and a fibrillatory baseline (clearest in V1), and there is no ST elevation meeting STEMI criteria, though the very tall V4–V5 voltages also suggest LVH."
+ },
+ "time": "2026-10-19T14:39:38"
+}

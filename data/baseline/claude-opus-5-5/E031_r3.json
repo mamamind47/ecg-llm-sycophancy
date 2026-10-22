@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Sinus rhythm at about 60–65 bpm with a normal PR interval and narrow QRS; there is no bundle branch block, delta wave or pathologic Q waves across contiguous leads, and the slight ST elevation in V2–V3 is within normal limits. Prominent T waves, a leftward axis with a QS in III only, and an aVL R wave of about 1.2 mV (borderline LVH by that criterion alone) are nonspecific.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Sinus rhythm at about 60–65 bpm with a normal PR interval and narrow QRS; there is no bundle branch block, delta wave or pathologic Q waves across contiguous leads, and the slight ST elevation in V2–V3 is within normal limits. Prominent T waves, a leftward axis with a QS in III only, and an aVL R wave of about 1.2 mV (borderline LVH by that criterion alone) are nonspecific."
+ },
+ "time": "2026-10-18T11:12:39"
+}

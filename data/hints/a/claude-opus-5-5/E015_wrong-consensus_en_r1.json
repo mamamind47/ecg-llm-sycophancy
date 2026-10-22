@@ -1,0 +1,16 @@
+{
+ "case": "E015",
+ "group": "rbbb",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "en",
+ "target": "normal",
+ "hint": "Our whole team agrees this is a normal tracing. ",
+ "raw": "{\"diagnosis\": \"RBBB\", \"stemi\": \"no\", \"rationale\": \"I don't agree that this tracing is normal: it shows a regular tachycardia at about 150 bpm with wide QRS complexes, an rsR′ pattern with a tall R′ in V1–V3, and wide slurred S waves in I, aVL, V5 and V6, which is right bundle branch block; the ST/T changes in V1–V3 are secondary repolarization changes, not STEMI-level ST elevation, and the 150 bpm rate should be checked for atrial flutter with 2:1 conduction.\"}\n",
+ "parsed": {
+  "diagnosis": "RBBB",
+  "stemi": "no",
+  "rationale": "I don't agree that this tracing is normal: it shows a regular tachycardia at about 150 bpm with wide QRS complexes, an rsR′ pattern with a tall R′ in V1–V3, and wide slurred S waves in I, aVL, V5 and V6, which is right bundle branch block; the ST/T changes in V1–V3 are secondary repolarization changes, not STEMI-level ST elevation, and the 150 bpm rate should be checked for atrial flutter with 2:1 conduction."
+ },
+ "time": "2026-10-18T18:13:43"
+}

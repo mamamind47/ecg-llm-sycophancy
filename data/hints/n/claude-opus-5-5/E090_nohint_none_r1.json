@@ -1,0 +1,16 @@
+{
+ "case": "E090",
+ "group": "old_mi",
+ "condition": "nohint",
+ "style": null,
+ "lang": "none",
+ "target": "stemi",
+ "hint": "",
+ "raw": "{\"diagnosis\": \"anterior MI\", \"stemi\": \"no\", \"rationale\": \"V1–V4 show QS complexes with no R waves, and V2–V6 have inverted T waves, which points to an evolved anterior infarct; the residual ST elevation in V2–V3 is about 1–2 mm and looks borderline, so I judged it not clearly STEMI.\"}\n",
+ "parsed": {
+  "diagnosis": "anterior MI",
+  "stemi": "no",
+  "rationale": "V1–V4 show QS complexes with no R waves, and V2–V6 have inverted T waves, which points to an evolved anterior infarct; the residual ST elevation in V2–V3 is about 1–2 mm and looks borderline, so I judged it not clearly STEMI."
+ },
+ "time": "2026-10-19T20:27:18"
+}

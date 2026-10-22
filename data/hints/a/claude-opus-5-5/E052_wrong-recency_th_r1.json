@@ -1,0 +1,16 @@
+{
+ "case": "E052",
+ "group": "rbbb",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "normal",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็ปกติ ",
+ "raw": "{\"diagnosis\": \"RBBB\", \"stemi\": \"no\", \"rationale\": \"This tracing is not normal: it shows sinus rhythm at about 70 bpm with a broad QRS (about 120–140 ms), an rsR' pattern in V1–V2 with secondary T-wave inversion in V1, a terminal R in aVR and slurred S waves in I and V6, which together make RBBB, and there is no ST elevation that meets STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "RBBB",
+  "stemi": "no",
+  "rationale": "This tracing is not normal: it shows sinus rhythm at about 70 bpm with a broad QRS (about 120–140 ms), an rsR' pattern in V1–V2 with secondary T-wave inversion in V1, a terminal R in aVR and slurred S waves in I and V6, which together make RBBB, and there is no ST elevation that meets STEMI criteria."
+ },
+ "time": "2026-10-18T21:39:59"
+}

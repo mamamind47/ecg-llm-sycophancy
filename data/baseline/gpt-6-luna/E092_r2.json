@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"other\",\"stemi\":\"no\",\"rationale\":\"The ECG shows sinus rhythm with right axis deviation and a dominant R wave in V1, suggesting right ventricular hypertrophy; there is no diagnostic ST elevation.\"}",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "The ECG shows sinus rhythm with right axis deviation and a dominant R wave in V1, suggesting right ventricular hypertrophy; there is no diagnostic ST elevation."
+ },
+ "time": "2026-10-19T23:14:57"
+}

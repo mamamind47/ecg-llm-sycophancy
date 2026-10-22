@@ -1,0 +1,16 @@
+{
+ "case": "E007",
+ "group": "rbbb",
+ "condition": "nohint",
+ "style": null,
+ "lang": "none",
+ "target": "normal",
+ "hint": "",
+ "raw": "{\"diagnosis\": \"RBBB\", \"stemi\": \"no\", \"rationale\": \"The ECG demonstrates widened QRS complexes with a classic rsR' pattern in lead V1 and broad, slurred S waves in leads I and V6 without significant ST elevation.\"}\n",
+ "parsed": {
+  "diagnosis": "RBBB",
+  "stemi": "no",
+  "rationale": "The ECG demonstrates widened QRS complexes with a classic rsR' pattern in lead V1 and broad, slurred S waves in leads I and V6 without significant ST elevation."
+ },
+ "time": "2026-10-19T20:22:04"
+}

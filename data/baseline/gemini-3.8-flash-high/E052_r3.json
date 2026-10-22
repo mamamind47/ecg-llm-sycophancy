@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"WPW\", \"stemi\": \"no\", \"rationale\": \"The ECG shows a short PR interval with prominent delta waves and widened QRS complexes characteristic of Wolff-Parkinson-White pattern, without ST-segment elevation meeting STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "WPW",
+  "stemi": "no",
+  "rationale": "The ECG shows a short PR interval with prominent delta waves and widened QRS complexes characteristic of Wolff-Parkinson-White pattern, without ST-segment elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-18T11:48:17"
+}

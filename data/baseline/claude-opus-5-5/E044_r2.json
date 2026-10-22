@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"inferior MI\", \"stemi\": \"no\", \"rationale\": \"Sinus rhythm with left axis deviation, a deep QS complex in III, a notched W-shaped QS in aVF and a small q in II point to an old inferior infarct (LAFB is the main alternative); the ST segments are flat with no STEMI-level elevation in any contiguous leads.\"}\n",
+ "parsed": {
+  "diagnosis": "inferior MI",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with left axis deviation, a deep QS complex in III, a notched W-shaped QS in aVF and a small q in II point to an old inferior infarct (LAFB is the main alternative); the ST segments are flat with no STEMI-level elevation in any contiguous leads."
+ },
+ "time": "2026-10-18T09:56:04"
+}

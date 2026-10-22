@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"LVH\", \"stemi\": \"no\", \"rationale\": \"The rhythm is regular and the QRS is narrow. There are deep S waves in V1–V3 with tall R waves in V4–V6 and left axis deviation, which fits LVH. The ST changes in V1–V3 are minimal and secondary to the voltage, so they do not meet STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "The rhythm is regular and the QRS is narrow. There are deep S waves in V1–V3 with tall R waves in V4–V6 and left axis deviation, which fits LVH. The ST changes in V1–V3 are minimal and secondary to the voltage, so they do not meet STEMI criteria."
+ },
+ "time": "2026-10-18T10:01:23"
+}

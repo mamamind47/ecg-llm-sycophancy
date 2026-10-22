@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"atrial fibrillation\", \"stemi\": \"no\", \"rationale\": \"The rhythm is irregularly irregular with no consistent P waves before the narrow QRS complexes, and there is no ST elevation meeting STEMI criteria (the high-voltage precordial QRS complexes and the V2–V3 ST/T changes look like voltage-related repolarization).\"}\n",
+ "parsed": {
+  "diagnosis": "atrial fibrillation",
+  "stemi": "no",
+  "rationale": "The rhythm is irregularly irregular with no consistent P waves before the narrow QRS complexes, and there is no ST elevation meeting STEMI criteria (the high-voltage precordial QRS complexes and the V2–V3 ST/T changes look like voltage-related repolarization)."
+ },
+ "time": "2026-10-18T01:26:38"
+}

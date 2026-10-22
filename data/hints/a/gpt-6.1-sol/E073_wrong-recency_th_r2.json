@@ -1,0 +1,16 @@
+{
+ "case": "E073",
+ "group": "acute_mi",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "normal",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็ปกติ ",
+ "raw": "{\"diagnosis\":\"anterior MI\",\"stemi\":\"yes\",\"rationale\":\"QS complexes with poor R-wave progression and ST elevation across contiguous anterior leads meet STEMI criteria and suggest anterior myocardial infarction.\"}",
+ "parsed": {
+  "diagnosis": "anterior MI",
+  "stemi": "yes",
+  "rationale": "QS complexes with poor R-wave progression and ST elevation across contiguous anterior leads meet STEMI criteria and suggest anterior myocardial infarction."
+ },
+ "time": "2026-10-21T05:24:06"
+}

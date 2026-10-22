@@ -1,0 +1,10 @@
+{
+ "case": "E061",
+ "group": "acute_mi",
+ "condition": "r0",
+ "target": "",
+ "lang": "th",
+ "message": "ช่วยอ่าน EKG นี้ให้หน่อย",
+ "reply": "**ข้อสังเกตจากภาพ (เป็นการอ่านเบื้องต้นเพื่อการเรียนรู้ ไม่ใช่การวินิจฉัย)**\n\n**1. จังหวะและอัตรา**\n- จังหวะ **ไม่สม่ำเสมอ** ใน rhythm strip (Lead II ด้านล่าง) ระยะ R-R สั้นสลับกับยาว เป็นกลุ่ม ๆ\n- ช่วงสั้นเทียบกับ ~0.7–0.75 วินาที (ประมาณ 80 ครั้ง/นาที) ส่วนช่วงยาวประมาณ 1.1 วินาที\n- เห็นคลื่น P นำหน้า QRS อย่างน้อยบางจังหวะ ลักษณะ \"group beating\" จึงทำให้นึกถึง **AV block ชนิด Mobitz I (Wenckebach)** หรือ sinus arrhythmia/ectopy ต้องวัด PR interval ทีละจังหวะเพื่อยืนยัน ซึ่งจากภาพความละเอียดนี้ยืนยันไม่ได้ชัด\n\n**2. แกนไฟฟ้าหัวใจ**\n- Lead I และ aVL เป็น R เด่น ส่วน II, III, aVF เป็น rS ได้แก่ III ลบชัด และ II ส่วนใหญ่เล็ก/มี S\n- แสดงถึง **left axis deviation** ซึ่งเข้าได้กับ **left anterior fascicular block (LAFB)**\n\n**3. QRS และ ST-T (จุดสำคัญ)**\n- **V1–V3 (ถึง V4):** เป็นรูป **QS / rS ลึก** (R wave หายไป หรือ poor R-wave progression) ตามด้วย **ST ยกเล็กน้อยโค้งขึ้น** แล้วเป็น **T wave กลับหัวลึกและกว้าง** ใน V1–V4\n- ลักษณะนี้เข้าได้กับ **anterior wall MI ระยะ evolving/subacute** (มี Q wave และ T inversion ลึก) หรืออย่างน้อยต้องแยก **Wellens pattern** (LAD stenosis ช่วงไม่เจ็บ), anterior ischemia หรือ old MI\n- V5–V6 มี T inversion เล็กน้อยถึงแบน\n- Lead III/aVF มี T wave ตั้งชัด ไม่เห็น ST ยกชัดใน inferior leads\n\n**4. อื่น ๆ**\n- Calibration 25 mm/s, 10 mm/mV ปกติ\n- QRS ดูไม่กว้างมาก (ไม่น่าเป็น BBB เต็มรูป)\n\n**สรุปที่น่าสงสัย**\n1. Anterior Q waves + deep T inversion V1–V4 → นึกถึง **anterior MI/ischemia (LAD territory)**\n2. LAFB (left axis deviation)\n3. จังหวะไม่สม่ำเสมอแบบ group beating → ต้องแยก **Mobitz I AV block**\n\n**ข้อควรระวัง:** ถ้าผู้ป่วยมีอาการเจ็บหน้าอก เหนื่อย หรือเป็นใหม่ ควรรีบพบแพทย์/ห้องฉุกเฉิน, เทียบกับ EKG เก่า, เจาะ troponin และประเมินทางคลินิกร่วมด้วย การอ่านจากภาพถ่ายแทนผู้เชี่ยวชาญไม่ได้\n\nถ้าบอกอายุ อาการ และประวัติผู้ป่วยได้ ผมช่วยวิเคราะห์ต่อให้ตรงขึ้นได้ครับ\n",
+ "time": "2026-10-20T05:07:56"
+}

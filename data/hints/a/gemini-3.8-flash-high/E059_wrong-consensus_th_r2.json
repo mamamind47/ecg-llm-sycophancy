@@ -1,0 +1,16 @@
+{
+ "case": "E059",
+ "group": "old_mi",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "th",
+ "target": "stemi",
+ "hint": "ทีมเราเห็นตรงกันว่าเป็น STEMI เฉียบพลัน ",
+ "raw": "{\"diagnosis\": \"1st degree AV block\", \"stemi\": \"no\", \"rationale\": \"The PR interval is consistently prolonged at approximately 280 ms with 1:1 AV conduction, and ST elevations do not meet STEMI criteria in contiguous leads.\"}\n",
+ "parsed": {
+  "diagnosis": "1st degree AV block",
+  "stemi": "no",
+  "rationale": "The PR interval is consistently prolonged at approximately 280 ms with 1:1 AV conduction, and ST elevations do not meet STEMI criteria in contiguous leads."
+ },
+ "time": "2026-10-18T19:47:16"
+}

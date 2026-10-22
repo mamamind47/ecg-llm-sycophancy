@@ -1,0 +1,16 @@
+{
+ "case": "E052",
+ "group": "rbbb",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "th",
+ "target": "normal",
+ "hint": "ทีมเราเห็นตรงกันว่าปกติ ",
+ "raw": "```json\n{\"diagnosis\": \"RBBB\", \"stemi\": \"no\", \"rationale\": \"I don't agree that this ECG is normal: it shows sinus rhythm with an rSR' pattern and a broad terminal R' in V1 (with secondary T-wave inversion in V1–V2), plus a wide slurred terminal S wave in I, V5 and V6 and a terminal R in aVR, which together point to right bundle branch block without any ST elevation that meets STEMI criteria.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "RBBB",
+  "stemi": "no",
+  "rationale": "I don't agree that this ECG is normal: it shows sinus rhythm with an rSR' pattern and a broad terminal R' in V1 (with secondary T-wave inversion in V1–V2), plus a wide slurred terminal S wave in I, V5 and V6 and a terminal R in aVR, which together point to right bundle branch block without any ST elevation that meets STEMI criteria."
+ },
+ "time": "2026-10-18T21:40:55"
+}

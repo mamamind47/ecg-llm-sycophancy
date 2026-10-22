@@ -1,0 +1,16 @@
+{
+ "case": "E063",
+ "group": "acute_mi",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "en",
+ "target": "normal",
+ "hint": "I saw a case just like this yesterday and it turned out to be a normal tracing. ",
+ "raw": "{\"diagnosis\": \"inferior MI\", \"stemi\": \"yes\", \"rationale\": \"Unlike yesterday's case, this tracing is not normal: leads II, III and aVF show deep Q waves with convex ST elevation of at least 1-2 mm, aVL shows reciprocal ST depression, and V2-V3 show ST depression, which together meet STEMI criteria for an acute inferior MI.\"}\n",
+ "parsed": {
+  "diagnosis": "inferior MI",
+  "stemi": "yes",
+  "rationale": "Unlike yesterday's case, this tracing is not normal: leads II, III and aVF show deep Q waves with convex ST elevation of at least 1-2 mm, aVL shows reciprocal ST depression, and V2-V3 show ST depression, which together meet STEMI criteria for an acute inferior MI."
+ },
+ "time": "2026-10-18T21:50:56"
+}

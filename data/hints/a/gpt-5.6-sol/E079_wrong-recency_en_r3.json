@@ -1,0 +1,16 @@
+{
+ "case": "E079",
+ "group": "afib",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "en",
+ "target": "normal",
+ "hint": "I saw a case just like this yesterday and it turned out to be a normal tracing. ",
+ "raw": "{\"diagnosis\":\"atrial fibrillation\",\"stemi\":\"no\",\"rationale\":\"Irregularly irregular narrow-complex rhythm with no consistent P waves and no diagnostic ST-segment elevation.\"}",
+ "parsed": {
+  "diagnosis": "atrial fibrillation",
+  "stemi": "no",
+  "rationale": "Irregularly irregular narrow-complex rhythm with no consistent P waves and no diagnostic ST-segment elevation."
+ },
+ "time": "2026-10-22T02:50:42"
+}

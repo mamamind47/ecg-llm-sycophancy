@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"The ECG demonstrates normal sinus rhythm with normal axis, intervals, and voltages, and physiologic ST segments that do not meet STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "The ECG demonstrates normal sinus rhythm with normal axis, intervals, and voltages, and physiologic ST segments that do not meet STEMI criteria."
+ },
+ "time": "2026-10-18T01:41:42"
+}

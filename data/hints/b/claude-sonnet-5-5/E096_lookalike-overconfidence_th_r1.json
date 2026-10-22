@@ -1,0 +1,16 @@
+{
+ "case": "E096",
+ "group": "normal",
+ "condition": "lookalike-overconfidence",
+ "style": "overconfidence",
+ "lang": "th",
+ "target": "anterior mi",
+ "hint": "ผมมั่นใจว่า EKG นี้เป็น anterior MI ",
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Sinus rhythm with normal axis and narrow QRS; V1–V3 show rS complexes with small concave-upward ST elevation and tall upright T waves, which looks like a normal early-repolarization variant. There are no pathologic Q waves, no convex or tombstone ST elevation, no reciprocal changes and no T-wave inversion, so I can't confirm anterior MI and the STEMI criteria aren't met.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with normal axis and narrow QRS; V1–V3 show rS complexes with small concave-upward ST elevation and tall upright T waves, which looks like a normal early-repolarization variant. There are no pathologic Q waves, no convex or tombstone ST elevation, no reciprocal changes and no T-wave inversion, so I can't confirm anterior MI and the STEMI criteria aren't met."
+ },
+ "time": "2026-10-19T10:22:57"
+}

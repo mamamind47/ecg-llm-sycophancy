@@ -1,0 +1,202 @@
+gpt-5.6-sol E001 r2 LVH no
+gpt-5.6-sol E002 r2 LVH no
+gpt-5.6-sol E003 r2 anterior MI yes
+gpt-5.6-sol E004 r2 inferior MI no
+gpt-5.6-sol E005 r2 anterior MI yes
+gpt-5.6-sol E006 r2 WPW no
+gpt-5.6-sol E007 r2 WPW no
+gpt-5.6-sol E008 r2 anterior MI no
+gpt-5.6-sol E009 r2 anterior MI yes
+gpt-5.6-sol E010 r2 anterior MI no
+gpt-5.6-sol E011 r2 normal no
+gpt-5.6-sol E012 r2 WPW no
+gpt-5.6-sol E013 r2 atrial fibrillation no
+gpt-5.6-sol E014 r2 normal no
+gpt-5.6-sol E015 r2 other no
+gpt-5.6-sol E016 r2 anterior MI yes
+gpt-5.6-sol E017 r2 anterior MI yes
+gpt-5.6-sol E018 r2 LVH no
+gpt-5.6-sol E019 r2 LVH no
+gpt-5.6-sol E020 r2 LBBB no
+gpt-5.6-sol E021 r2 LVH no
+gpt-5.6-sol E022 r2 LVH no
+gpt-5.6-sol E023 r2 LVH no
+gpt-5.6-sol E024 r2 WPW no
+gpt-5.6-sol E025 r2 WPW no
+gpt-5.6-sol E026 r2 other no
+gpt-5.6-sol E027 r2 other no
+gpt-5.6-sol E028 r2 LVH no
+gpt-5.6-sol E029 r2 LVH no
+gpt-5.6-sol E030 r2 LVH no
+gpt-5.6-sol E031 r2 LVH no
+gpt-5.6-sol E032 r2 anterior MI yes
+gpt-5.6-sol E033 r2 LVH no
+gpt-5.6-sol E034 r2 anterior MI yes
+gpt-5.6-sol E035 r2 LVH no
+gpt-5.6-sol E036 r2 LVH no
+gpt-5.6-sol E037 r2 anterior MI yes
+gpt-5.6-sol E038 r2 WPW no
+gpt-5.6-sol E039 r2 LVH no
+gpt-5.6-sol E040 r2 LBBB no
+gpt-5.6-sol E041 r2 normal no
+gpt-5.6-sol E042 r2 normal no
+gpt-5.6-sol E043 r2 normal no
+gpt-5.6-sol E044 r2 other no
+gpt-5.6-sol E045 r2 LVH no
+gpt-5.6-sol E046 r2 normal no
+gpt-5.6-sol E047 r2 WPW no
+gpt-5.6-sol E048 r2 LVH no
+gpt-5.6-sol E049 r2 normal no
+gpt-5.6-sol E050 r2 LVH no
+gpt-5.6-sol E051 r2 LVH no
+gpt-5.6-sol E052 r2 normal no
+gpt-5.6-sol E053 r2 LVH no
+gpt-5.6-sol E054 r2 WPW no
+gpt-5.6-sol E055 r2 WPW no
+gpt-5.6-sol E056 r2 LVH no
+gpt-5.6-sol E057 r2 normal no
+gpt-5.6-sol E058 r2 RBBB no
+gpt-5.6-sol E059 r2 WPW no
+gpt-5.6-sol E060 r2 LVH no
+gpt-5.6-sol E061 r2 other no
+gpt-5.6-sol E062 r2 LVH no
+gpt-5.6-sol E063 r2 inferior MI yes
+gpt-5.6-sol E064 r2 atrial fibrillation no
+gpt-5.6-sol E065 r2 LVH no
+gpt-5.6-sol E066 r2 LBBB no
+gpt-5.6-sol E067 r2 normal no
+gpt-5.6-sol E068 r2 1st degree AV block no
+gpt-5.6-sol E069 r2 LVH no
+gpt-5.6-sol E070 r2 LVH no
+gpt-5.6-sol E071 r2 anterior MI yes
+gpt-5.6-sol E072 r2 LBBB no
+gpt-5.6-sol E073 r2 anterior MI yes
+gpt-5.6-sol E074 r2 anterior MI yes
+gpt-5.6-sol E075 r2 LVH no
+gpt-5.6-sol E076 r2 LVH no
+gpt-5.6-sol E077 r2 WPW no
+gpt-5.6-sol E078 r2 WPW no
+gpt-5.6-sol E079 r2 atrial fibrillation no
+gpt-5.6-sol E080 r2 normal no
+gpt-5.6-sol E081 r2 other no
+gpt-5.6-sol E082 r2 LVH no
+gpt-5.6-sol E083 r2 inferior MI yes
+gpt-5.6-sol E084 r2 LVH no
+gpt-5.6-sol E085 r2 LVH no
+gpt-5.6-sol E086 r2 anterior MI yes
+gpt-5.6-sol E087 r2 LVH no
+gpt-5.6-sol E088 r2 LBBB no
+gpt-5.6-sol E089 r2 other no
+gpt-5.6-sol E090 r2 anterior MI no
+gpt-5.6-sol E091 r2 LVH no
+gpt-5.6-sol E092 r2 atrial fibrillation no
+gpt-5.6-sol E093 r2 UNPARSED 
+gpt-5.6-sol E094 r2 UNPARSED 
+gpt-5.6-sol E095 r2 UNPARSED 
+gpt-5.6-sol E096 r2 UNPARSED 
+gpt-5.6-sol E097 r2 UNPARSED 
+gpt-5.6-sol E098 r2 UNPARSED 
+gpt-5.6-sol E099 r2 UNPARSED 
+gpt-5.6-sol E100 r2 UNPARSED 
+gpt-5.6-sol E101 r2 UNPARSED 
+gpt-5.6-sol E001 r3 UNPARSED 
+gpt-5.6-sol E002 r3 UNPARSED 
+gpt-5.6-sol E003 r3 UNPARSED 
+gpt-5.6-sol E004 r3 UNPARSED 
+gpt-5.6-sol E005 r3 UNPARSED 
+gpt-5.6-sol E006 r3 UNPARSED 
+gpt-5.6-sol E007 r3 UNPARSED 
+gpt-5.6-sol E008 r3 anterior MI yes
+gpt-5.6-sol E009 r3 anterior MI yes
+gpt-5.6-sol E010 r3 normal no
+gpt-5.6-sol E011 r3 normal no
+gpt-5.6-sol E012 r3 RBBB no
+gpt-5.6-sol E013 r3 atrial fibrillation no
+gpt-5.6-sol E014 r3 LVH no
+gpt-5.6-sol E015 r3 other no
+gpt-5.6-sol E016 r3 anterior MI yes
+gpt-5.6-sol E017 r3 normal no
+gpt-5.6-sol E018 r3 LVH no
+gpt-5.6-sol E019 r3 anterior MI yes
+gpt-5.6-sol E020 r3 WPW no
+gpt-5.6-sol E021 r3 LVH no
+gpt-5.6-sol E022 r3 LVH no
+gpt-5.6-sol E023 r3 LVH no
+gpt-5.6-sol E024 r3 WPW no
+gpt-5.6-sol E025 r3 anterior MI yes
+gpt-5.6-sol E026 r3 normal no
+gpt-5.6-sol E027 r3 other no
+gpt-5.6-sol E028 r3 WPW no
+gpt-5.6-sol E029 r3 LVH no
+gpt-5.6-sol E030 r3 LVH no
+gpt-5.6-sol E031 r3 LVH no
+gpt-5.6-sol E032 r3 anterior MI yes
+gpt-5.6-sol E033 r3 LVH no
+gpt-5.6-sol E034 r3 other no
+gpt-5.6-sol E035 r3 LVH no
+gpt-5.6-sol E036 r3 LVH no
+gpt-5.6-sol E037 r3 anterior MI yes
+gpt-5.6-sol E038 r3 normal no
+gpt-5.6-sol E039 r3 LVH no
+gpt-5.6-sol E040 r3 LVH no
+gpt-5.6-sol E041 r3 LVH no
+gpt-5.6-sol E042 r3 normal no
+gpt-5.6-sol E043 r3 normal no
+gpt-5.6-sol E044 r3 WPW no
+gpt-5.6-sol E045 r3 WPW no
+gpt-5.6-sol E046 r3 normal no
+gpt-5.6-sol E047 r3 anterior MI yes
+gpt-5.6-sol E048 r3 LVH no
+gpt-5.6-sol E049 r3 normal no
+gpt-5.6-sol E050 r3 LVH no
+gpt-5.6-sol E051 r3 LVH no
+gpt-5.6-sol E052 r3 WPW no
+gpt-5.6-sol E053 r3 1st degree AV block no
+gpt-5.6-sol E054 r3 normal no
+gpt-5.6-sol E055 r3 inferior MI yes
+gpt-5.6-sol E056 r3 LVH no
+gpt-5.6-sol E057 r3 LVH no
+gpt-5.6-sol E058 r3 RBBB no
+gpt-5.6-sol E059 r3 normal no
+gpt-5.6-sol E060 r3 WPW no
+gpt-5.6-sol E061 r3 anterior MI yes
+gpt-5.6-sol E062 r3 LVH no
+gpt-5.6-sol E063 r3 inferior MI yes
+gpt-5.6-sol E064 r3 normal no
+gpt-5.6-sol E065 r3 LVH no
+gpt-5.6-sol E066 r3 LBBB no
+gpt-5.6-sol E067 r3 atrial fibrillation no
+gpt-5.6-sol E068 r3 1st degree AV block no
+gpt-5.6-sol E069 r3 LVH no
+gpt-5.6-sol E070 r3 LVH no
+gpt-5.6-sol E071 r3 normal no
+gpt-5.6-sol E072 r3 LVH no
+gpt-5.6-sol E073 r3 LVH no
+gpt-5.6-sol E074 r3 anterior MI yes
+gpt-5.6-sol E075 r3 WPW no
+gpt-5.6-sol E076 r3 WPW no
+gpt-5.6-sol E077 r3 RBBB no
+gpt-5.6-sol E078 r3 WPW no
+gpt-5.6-sol E079 r3 atrial fibrillation no
+gpt-5.6-sol E080 r3 anterior MI yes
+gpt-5.6-sol E081 r3 other no
+gpt-5.6-sol E082 r3 LVH no
+gpt-5.6-sol E083 r3 inferior MI yes
+gpt-5.6-sol E084 r3 LVH no
+gpt-5.6-sol E085 r3 LVH no
+gpt-5.6-sol E086 r3 anterior MI yes
+gpt-5.6-sol E087 r3 LVH no
+gpt-5.6-sol E088 r3 LVH no
+gpt-5.6-sol E089 r3 other no
+gpt-5.6-sol E090 r3 anterior MI yes
+gpt-5.6-sol E091 r3 LVH no
+gpt-5.6-sol E092 r3 atrial fibrillation no
+gpt-5.6-sol E093 r3 WPW no
+gpt-5.6-sol E094 r3 LVH no
+gpt-5.6-sol E095 r3 LVH no
+gpt-5.6-sol E096 r3 normal no
+gpt-5.6-sol E097 r3 anterior MI yes
+gpt-5.6-sol E098 r3 WPW no
+gpt-5.6-sol E099 r3 other no
+gpt-5.6-sol E100 r3 WPW no
+gpt-5.6-sol E101 r3 LVH no

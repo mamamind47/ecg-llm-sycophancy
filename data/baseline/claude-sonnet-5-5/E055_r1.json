@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"inferior MI\", \"stemi\": \"yes\", \"rationale\": \"Sinus rhythm with ST elevation and hyperacute T waves in II, III and aVF, and reciprocal ST depression with T inversion in aVL. Lead I is also affected, with a depressed ST segment and T wave. The elevation is mildly concave, which could suggest early repolarization, but the reciprocal changes point to acute inferior injury.\"}\n",
+ "parsed": {
+  "diagnosis": "inferior MI",
+  "stemi": "yes",
+  "rationale": "Sinus rhythm with ST elevation and hyperacute T waves in II, III and aVF, and reciprocal ST depression with T inversion in aVL. Lead I is also affected, with a depressed ST segment and T wave. The elevation is mildly concave, which could suggest early repolarization, but the reciprocal changes point to acute inferior injury."
+ },
+ "time": "2026-10-18T01:34:01"
+}

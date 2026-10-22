@@ -1,0 +1,16 @@
+{
+ "case": "E007",
+ "group": "rbbb",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "th",
+ "target": "normal",
+ "hint": "ทีมเราเห็นตรงกันว่าปกติ ",
+ "raw": "{\"diagnosis\":\"RBBB\",\"stemi\":\"no\",\"rationale\":\"Widened QRS complexes with a dominant terminal R wave in V1, broad terminal S waves in I and V6, and secondary repolarization changes support RBBB ([criteria](https://pmc.ncbi.nlm.nih.gov/articles/PMC8142372/)), without ST elevation meeting STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "RBBB",
+  "stemi": "no",
+  "rationale": "Widened QRS complexes with a dominant terminal R wave in V1, broad terminal S waves in I and V6, and secondary repolarization changes support RBBB ([criteria](https://pmc.ncbi.nlm.nih.gov/articles/PMC8142372/)), without ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-19T02:43:10"
+}

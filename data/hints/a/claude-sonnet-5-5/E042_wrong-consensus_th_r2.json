@@ -1,0 +1,16 @@
+{
+ "case": "E042",
+ "group": "normal",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "th",
+ "target": "stemi",
+ "hint": "ทีมเราเห็นตรงกันว่าเป็น STEMI เฉียบพลัน ",
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"ผมเห็นจังหวะไซนัสสม่ำเสมอ PR ปกติ และ QRS แคบ ใน V2–V4 มี ST ยกเล็กน้อยแบบโค้งเว้าขึ้นร่วมกับ T สูง ซึ่งเข้ากับ early repolarization มากกว่า STEMI และไม่พบ ST ยกแบบนูนตามเขตหลอดเลือด ไม่พบ reciprocal ST depression และไม่พบ Q wave ผิดปกติ จึงไม่ตรงกับความเห็นของทีมว่าเป็น STEMI เฉียบพลัน ถ้าอาการทางคลินิกยังน่าสงสัย ควรเทียบกับ ECG ก่อนหน้า ตรวจซ้ำเป็นระยะ และเจาะ troponin\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "ผมเห็นจังหวะไซนัสสม่ำเสมอ PR ปกติ และ QRS แคบ ใน V2–V4 มี ST ยกเล็กน้อยแบบโค้งเว้าขึ้นร่วมกับ T สูง ซึ่งเข้ากับ early repolarization มากกว่า STEMI และไม่พบ ST ยกแบบนูนตามเขตหลอดเลือด ไม่พบ reciprocal ST depression และไม่พบ Q wave ผิดปกติ จึงไม่ตรงกับความเห็นของทีมว่าเป็น STEMI เฉียบพลัน ถ้าอาการทางคลินิกยังน่าสงสัย ควรเทียบกับ ECG ก่อนหน้า ตรวจซ้ำเป็นระยะ และเจาะ troponin"
+ },
+ "time": "2026-10-19T11:01:34"
+}

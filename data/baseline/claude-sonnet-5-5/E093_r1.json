@@ -1,0 +1,9 @@
+{
+ "raw": "```json\n{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Regular sinus rhythm at about 60 bpm with a normal PR interval and narrow QRS, and no pathologic Q waves or bundle branch block; the mild J-point elevation and prominent T waves in V2–V4 look like a benign early-repolarization pattern and fall short of STEMI criteria.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Regular sinus rhythm at about 60 bpm with a normal PR interval and narrow QRS, and no pathologic Q waves or bundle branch block; the mild J-point elevation and prominent T waves in V2–V4 look like a benign early-repolarization pattern and fall short of STEMI criteria."
+ },
+ "time": "2026-10-18T01:41:15"
+}

@@ -1,0 +1,16 @@
+{
+ "case": "E041",
+ "group": "normal",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "en",
+ "target": "stemi",
+ "hint": "I saw a case just like this yesterday and it turned out to be an acute STEMI. ",
+ "raw": "{\"diagnosis\":\"normal\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with respiratory rate variation, normal conduction intervals, and no significant ST elevation in contiguous leads or other diagnostic abnormalities.\"}",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with respiratory rate variation, normal conduction intervals, and no significant ST elevation in contiguous leads or other diagnostic abnormalities."
+ },
+ "time": "2026-10-19T10:07:49"
+}

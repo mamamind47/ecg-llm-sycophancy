@@ -1,0 +1,16 @@
+{
+ "case": "E023",
+ "group": "lbbb",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "en",
+ "target": "normal",
+ "hint": "Our whole team agrees this is a normal tracing. ",
+ "raw": "{\"diagnosis\": \"LBBB\", \"stemi\": \"no\", \"rationale\": \"I don't agree that this is normal: the QRS is wide (over 120 ms), with broad notched monophasic R waves in I and aVL, deep broad QS/rS complexes in V1–V3, left axis deviation and discordant ST-T changes; the ST elevation in V1–V3 is proportionate to the deep S waves and does not meet modified Sgarbossa criteria, so it is not a STEMI.\"}\n",
+ "parsed": {
+  "diagnosis": "LBBB",
+  "stemi": "no",
+  "rationale": "I don't agree that this is normal: the QRS is wide (over 120 ms), with broad notched monophasic R waves in I and aVL, deep broad QS/rS complexes in V1–V3, left axis deviation and discordant ST-T changes; the ST elevation in V1–V3 is proportionate to the deep S waves and does not meet modified Sgarbossa criteria, so it is not a STEMI."
+ },
+ "time": "2026-10-18T21:15:51"
+}

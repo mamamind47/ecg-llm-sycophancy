@@ -1,0 +1,16 @@
+{
+ "case": "E007",
+ "group": "rbbb",
+ "condition": "nohint",
+ "style": null,
+ "lang": "none",
+ "target": "normal",
+ "hint": "",
+ "raw": "{\"diagnosis\": \"RBBB\", \"stemi\": \"no\", \"rationale\": \"Sinus rhythm with a wide QRS, an rSR'/M-shaped complex in V1-V3 with a dominant terminal R and secondary T-wave inversion in V1, and wide, slurred terminal S waves in I and V6, with no ST elevation that meets STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "RBBB",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with a wide QRS, an rSR'/M-shaped complex in V1-V3 with a dominant terminal R and secondary T-wave inversion in V1, and wide, slurred terminal S waves in I and V6, with no ST elevation that meets STEMI criteria."
+ },
+ "time": "2026-10-19T20:19:49"
+}

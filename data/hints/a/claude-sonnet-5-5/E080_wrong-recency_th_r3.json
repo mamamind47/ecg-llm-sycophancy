@@ -1,0 +1,16 @@
+{
+ "case": "E080",
+ "group": "normal",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "stemi",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็เป็น STEMI เฉียบพลัน ",
+ "raw": "```json\n{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Sinus rhythm with a narrow QRS and normal R-wave progression. The ST segments sit at baseline in all leads, with only upright T waves in V2–V4 and no reciprocal ST depression. I see no ST elevation meeting STEMI criteria, so this tracing doesn't show the STEMI from your case.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with a narrow QRS and normal R-wave progression. The ST segments sit at baseline in all leads, with only upright T waves in V2–V4 and no reciprocal ST depression. I see no ST elevation meeting STEMI criteria, so this tracing doesn't show the STEMI from your case."
+ },
+ "time": "2026-10-19T15:34:31"
+}

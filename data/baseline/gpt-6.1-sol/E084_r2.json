@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"LVH\",\"stemi\":\"no\",\"rationale\":\"Marked precordial QRS voltage with deep anterior S waves and secondary repolarization changes supports LVH, without ST elevation meeting STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "Marked precordial QRS voltage with deep anterior S waves and secondary repolarization changes supports LVH, without ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-20T06:52:29"
+}

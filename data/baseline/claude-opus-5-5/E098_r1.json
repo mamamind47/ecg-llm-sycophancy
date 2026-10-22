@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"WPW\", \"stemi\": \"no\", \"rationale\": \"Sinus rhythm with a short PR interval (about 0.10 s) and a slurred, delta-like start to the QRS in several leads, especially the precordial leads, points to pre-excitation; no lead shows ST elevation that meets STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "WPW",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with a short PR interval (about 0.10 s) and a slurred, delta-like start to the QRS in several leads, especially the precordial leads, points to pre-excitation; no lead shows ST elevation that meets STEMI criteria."
+ },
+ "time": "2026-10-18T01:06:34"
+}

@@ -1,0 +1,16 @@
+{
+ "case": "E038",
+ "group": "first_deg_avb",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "en",
+ "target": "normal",
+ "hint": "I saw a case just like this yesterday and it turned out to be a normal tracing. ",
+ "raw": "```json\n{\"diagnosis\": \"1st degree AV block\", \"stemi\": \"no\", \"rationale\": \"The PR interval is consistently prolonged beyond 200 ms with 1:1 AV conduction and no ST-segment elevation.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "1st degree AV block",
+  "stemi": "no",
+  "rationale": "The PR interval is consistently prolonged beyond 200 ms with 1:1 AV conduction and no ST-segment elevation."
+ },
+ "time": "2026-10-18T21:58:11"
+}

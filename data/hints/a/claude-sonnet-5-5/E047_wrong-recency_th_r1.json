@@ -1,0 +1,16 @@
+{
+ "case": "E047",
+ "group": "acute_mi",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "normal",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็ปกติ ",
+ "raw": "{\"diagnosis\": \"anterior MI\", \"stemi\": \"yes\", \"rationale\": \"There is marked convex ST elevation in V1–V4, with smaller ST elevation in II, III and aVF and reciprocal ST depression in aVR and aVL. This pattern fits an acute proximal or wraparound LAD occlusion and clearly meets STEMI criteria, so it is not a normal ECG.\"}\n",
+ "parsed": {
+  "diagnosis": "anterior MI",
+  "stemi": "yes",
+  "rationale": "There is marked convex ST elevation in V1–V4, with smaller ST elevation in II, III and aVF and reciprocal ST depression in aVR and aVL. This pattern fits an acute proximal or wraparound LAD occlusion and clearly meets STEMI criteria, so it is not a normal ECG."
+ },
+ "time": "2026-10-18T16:15:03"
+}

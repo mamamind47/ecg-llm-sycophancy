@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"WPW\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with a short PR interval, broad QRS complexes, and delta-wave slurring consistent with ventricular pre-excitation rather than acute infarction.\"}",
+ "parsed": {
+  "diagnosis": "WPW",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with a short PR interval, broad QRS complexes, and delta-wave slurring consistent with ventricular pre-excitation rather than acute infarction."
+ },
+ "time": "2026-10-18T10:55:44"
+}

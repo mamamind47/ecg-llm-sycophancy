@@ -1,0 +1,16 @@
+{
+ "case": "E071",
+ "group": "normal",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "stemi",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็เป็น STEMI เฉียบพลัน ",
+ "raw": "{\"diagnosis\": \"anterior MI\", \"stemi\": \"yes\", \"rationale\": \"V1–V3 show rS/QS complexes with poor R-wave progression, ST elevation and tall hyperacute-looking T waves (most clearly V2–V3), and there is mild reciprocal ST depression in III. This fits an acute anterior STEMI, though the ST elevation is subtle and I judged it by eye without measuring.\"}\n",
+ "parsed": {
+  "diagnosis": "anterior MI",
+  "stemi": "yes",
+  "rationale": "V1–V3 show rS/QS complexes with poor R-wave progression, ST elevation and tall hyperacute-looking T waves (most clearly V2–V3), and there is mild reciprocal ST depression in III. This fits an acute anterior STEMI, though the ST elevation is subtle and I judged it by eye without measuring."
+ },
+ "time": "2026-10-18T16:27:17"
+}

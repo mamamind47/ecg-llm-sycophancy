@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"The rhythm is regular sinus at about 75 bpm, with normal PR and narrow QRS complexes, normal R-wave progression from V1 to V6, normal axis, upright T waves in I, II and V2–V6, and no significant ST elevation or pathological Q waves.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "The rhythm is regular sinus at about 75 bpm, with normal PR and narrow QRS complexes, normal R-wave progression from V1 to V6, normal axis, upright T waves in I, II and V2–V6, and no significant ST elevation or pathological Q waves."
+ },
+ "time": "2026-10-18T11:15:45"
+}

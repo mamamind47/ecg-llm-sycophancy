@@ -1,0 +1,9 @@
+{
+ "raw": "```json\n{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Regular sinus rhythm at about 60 bpm with a normal PR interval and narrow QRS, normal R-wave progression, no pathological Q waves and no significant ST elevation, with voltage below LVH criteria.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Regular sinus rhythm at about 60 bpm with a normal PR interval and narrow QRS, normal R-wave progression, no pathological Q waves and no significant ST elevation, with voltage below LVH criteria."
+ },
+ "time": "2026-10-18T11:15:41"
+}

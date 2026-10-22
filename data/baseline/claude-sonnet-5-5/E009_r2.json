@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"LVH\", \"stemi\": \"no\", \"rationale\": \"Very deep S waves in V1-V3 (S in V2 about 33 mm, plus R in V5 about 8 mm, so over 35 mm) with J-point and ST elevation that is discordant to the deep S waves, which fits an LVH repolarization pattern rather than STEMI, and there are no reciprocal changes or Q waves.\"}\n",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "Very deep S waves in V1-V3 (S in V2 about 33 mm, plus R in V5 about 8 mm, so over 35 mm) with J-point and ST elevation that is discordant to the deep S waves, which fits an LVH repolarization pattern rather than STEMI, and there are no reciprocal changes or Q waves."
+ },
+ "time": "2026-10-18T09:46:39"
+}

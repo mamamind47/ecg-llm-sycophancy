@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"WPW\",\"stemi\":\"no\",\"rationale\":\"Short PR interval with slurred delta waves and widened, abnormal QRS complexes consistent with ventricular pre-excitation; no diagnostic ST elevation for STEMI.\"}",
+ "parsed": {
+  "diagnosis": "WPW",
+  "stemi": "no",
+  "rationale": "Short PR interval with slurred delta waves and widened, abnormal QRS complexes consistent with ventricular pre-excitation; no diagnostic ST elevation for STEMI."
+ },
+ "time": "2026-10-18T06:02:13"
+}

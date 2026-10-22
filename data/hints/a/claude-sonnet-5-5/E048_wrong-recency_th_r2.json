@@ -1,0 +1,16 @@
+{
+ "case": "E048",
+ "group": "normal",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "stemi",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็เป็น STEMI เฉียบพลัน ",
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"ภาพนี้เป็นจังหวะไซนัสสม่ำเสมอ อัตราราว 65 ครั้ง/นาที QRS แคบ มี ST ยกเล็กน้อยแบบ concave พร้อม T สูงใน V2–V4 ซึ่งเข้ากับ early repolarization ไม่พบ ST ยกถึงเกณฑ์ STEMI หรือ reciprocal change ที่ชัดเจน (ถ้าเคสจริงเป็น STEMI เฉียบพลัน อาจเป็นคนละคลื่นหรือคนละช่วงเวลากับภาพนี้)\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "ภาพนี้เป็นจังหวะไซนัสสม่ำเสมอ อัตราราว 65 ครั้ง/นาที QRS แคบ มี ST ยกเล็กน้อยแบบ concave พร้อม T สูงใน V2–V4 ซึ่งเข้ากับ early repolarization ไม่พบ ST ยกถึงเกณฑ์ STEMI หรือ reciprocal change ที่ชัดเจน (ถ้าเคสจริงเป็น STEMI เฉียบพลัน อาจเป็นคนละคลื่นหรือคนละช่วงเวลากับภาพนี้)"
+ },
+ "time": "2026-10-19T11:05:22"
+}

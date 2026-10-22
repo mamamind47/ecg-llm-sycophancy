@@ -1,0 +1,9 @@
+{
+ "raw": "```json\n{\"diagnosis\": \"other\", \"stemi\": \"no\", \"rationale\": \"Regular sinus rhythm around 60 bpm with a narrow QRS, right axis deviation (negative QRS and T in lead I, positive in III), a dominant R wave in V1 and persistent S waves through V5–V6, a pattern suggesting right ventricular hypertrophy rather than any listed category, with no ST elevation meeting STEMI criteria.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "Regular sinus rhythm around 60 bpm with a narrow QRS, right axis deviation (negative QRS and T in lead I, positive in III), a dominant R wave in V1 and persistent S waves through V5–V6, a pattern suggesting right ventricular hypertrophy rather than any listed category, with no ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-18T10:06:00"
+}

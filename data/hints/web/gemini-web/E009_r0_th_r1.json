@@ -1,0 +1,12 @@
+{
+ "case": "E009",
+ "group": "acute_mi",
+ "condition": "r0",
+ "target": "",
+ "lang": "th",
+ "message": "ช่วยอ่าน EKG นี้ให้หน่อย",
+ "reply": "ผลการอ่านคลื่นไฟฟ้าหัวใจ (12-Lead EKG) มีรายละเอียดดังนี้:\n1. อัตราและจังหวะการเต้นของหัวใจ (Rate & Rhythm)\nRhythm: Sinus rhythm (มี P wave นำหน้า QRS complex สม่ำเสมอ)\nRate: ประมาณ 52–58 ครั้งต่อนาที (จัดอยู่ในเกณฑ์ Borderline sinus bradycardia)\n2. แกนหัวใจและช่วงคลื่นไฟฟ้า (Axis & Intervals)\nAxis: ปกติ (Normal cardiac axis)\nPR interval & QRS duration: อยู่ในเกณฑ์ปกติ\n3. ความผิดปกติสำคัญที่ตรวจพบ (Key Abnormalities)\nST-segment Elevation: พบการยกตัวของ ST-segment อย่างชัดเจนในลักษณะนูน (Coved/Convex pattern) ในลีดผนังด้านหน้าหัวใจ: V2, V3, V4, V5 ยกสูงชัดเจน (ประมาณ 2–4 มม.) พบการยกตัวเล็กน้อยในลีด I, aVL และ V6\nReciprocal Changes: พบ ST-segment depression หรือการแบนลงของ ST เล็กน้อยใน Inferior leads (โดยเฉพาะ lead III และ aVF)\nR-wave progression: พบ Poor R-wave progression ร่วมกับ QRS deflection ที่ลึกใน V1–V3\nการแปลผล (Interpretation)\nAcute Anterior / Anterolateral STEMI (ภาวะกล้ามเนื้อหัวใจตายเฉียบพลันชนิด ST ยก บริเวณผนังด้านหน้าและด้านข้าง)\nพยาธิสภาพส่วนใหญ่มักสัมพันธ์กับการอุดตันเฉียบพลันของหลอดเลือดหัวใจโคโรนารีเส้น Left Anterior Descending (LAD)\nข้อแนะนำทางคลินิก\nถือเป็น ภาวะฉุกเฉินทางการแพทย์ระดับวิกฤต (Medical Emergency)\nหากเป็นผู้ป่วยจริง ต้องเปิดทางเดินระบบเร่งด่วน (STEMI Fast Track) เพื่อเตรียมเปิดหลอดเลือดหัวใจ (Reperfusion therapy เช่น Primary PCI หรือให้ยาละลายลิ่มเลือด Fibrinolytic) ทันที\nประเมินสัญญาณชีพ อาการเจ็บแน่นหน้าอก และให้การดูแลเบื้องต้นตามแนวทางของภาวะกล้ามเนื้อหัวใจขาดเลือดเฉียบพลันโดยด่วน",
+ "interface": "gemini.google.com, temporary chat",
+ "model_label": "Flash (web picker)",
+ "time": "2026-10-20T16:35:12"
+}

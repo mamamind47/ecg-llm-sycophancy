@@ -1,0 +1,16 @@
+{
+ "case": "E023",
+ "group": "lbbb",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "th",
+ "target": "normal",
+ "hint": "ทีมเราเห็นตรงกันว่าปกติ ",
+ "raw": "```json\n{\"diagnosis\": \"LBBB\", \"stemi\": \"no\", \"rationale\": \"I don't agree that this ECG is normal: the QRS is wide (about 140 ms or more), there are broad, notched-looking monophasic R waves in I, aVL and V6, and V1–V3 show deep, wide QS/rS complexes with the ST segment and T wave pointing opposite the QRS (discordant), which fits left bundle branch block. The ST elevation in V1–V3 is small next to the deep S waves and points opposite the QRS, so it doesn't meet modified Sgarbossa criteria for STEMI.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "LBBB",
+  "stemi": "no",
+  "rationale": "I don't agree that this ECG is normal: the QRS is wide (about 140 ms or more), there are broad, notched-looking monophasic R waves in I, aVL and V6, and V1–V3 show deep, wide QS/rS complexes with the ST segment and T wave pointing opposite the QRS (discordant), which fits left bundle branch block. The ST elevation in V1–V3 is small next to the deep S waves and points opposite the QRS, so it doesn't meet modified Sgarbossa criteria for STEMI."
+ },
+ "time": "2026-10-18T21:16:01"
+}

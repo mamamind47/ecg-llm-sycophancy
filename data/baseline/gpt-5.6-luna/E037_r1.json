@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"LBBB\",\"stemi\":\"no\",\"rationale\":\"Wide QRS complexes with broad dominant R waves in lateral leads and deep discordant S waves in V1–V3 are consistent with left bundle branch block without definite concordant STEMI-pattern ST elevation.\"}",
+ "parsed": {
+  "diagnosis": "LBBB",
+  "stemi": "no",
+  "rationale": "Wide QRS complexes with broad dominant R waves in lateral leads and deep discordant S waves in V1–V3 are consistent with left bundle branch block without definite concordant STEMI-pattern ST elevation."
+ },
+ "time": "2026-10-18T06:06:57"
+}

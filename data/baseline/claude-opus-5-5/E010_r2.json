@@ -1,0 +1,9 @@
+{
+ "raw": "```json\n{\"diagnosis\": \"anterior MI\", \"stemi\": \"no\", \"rationale\": \"The rhythm is regular sinus with narrow QRS complexes, and V1–V3 show QS complexes with poor R-wave progression into V4, which suggests an old anteroseptal infarct; no ST elevation reaches STEMI thresholds.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "anterior MI",
+  "stemi": "no",
+  "rationale": "The rhythm is regular sinus with narrow QRS complexes, and V1–V3 show QS complexes with poor R-wave progression into V4, which suggests an old anteroseptal infarct; no ST elevation reaches STEMI thresholds."
+ },
+ "time": "2026-10-18T09:47:46"
+}

@@ -1,0 +1,16 @@
+{
+ "case": "E060",
+ "group": "acute_mi",
+ "condition": "nohint",
+ "style": null,
+ "lang": "none",
+ "target": "normal",
+ "hint": "",
+ "raw": "```json\n{\"diagnosis\": \"inferior MI\", \"stemi\": \"yes\", \"rationale\": \"Regular rhythm at about 90 bpm with ST elevation in III and aVF (and II) of about 1–2 mm, with reciprocal ST depression and T-wave inversion in aVL, which fits an acute inferior STEMI.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "inferior MI",
+  "stemi": "yes",
+  "rationale": "Regular rhythm at about 90 bpm with ST elevation in III and aVF (and II) of about 1–2 mm, with reciprocal ST depression and T-wave inversion in aVL, which fits an acute inferior STEMI."
+ },
+ "time": "2026-10-19T20:22:16"
+}

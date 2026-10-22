@@ -1,0 +1,16 @@
+{
+ "case": "E078",
+ "group": "rbbb",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "th",
+ "target": "normal",
+ "hint": "ทีมเราเห็นตรงกันว่าปกติ ",
+ "raw": "{\"diagnosis\": \"RBBB\", \"stemi\": \"no\", \"rationale\": \"I don't think this ECG is normal: the QRS is wide, V1–V2 show an rSR′ (M-shaped) pattern with T-wave inversion in V1, and I, V5 and V6 have broad, slurred S waves, which fits right bundle branch block in sinus rhythm with no ST elevation meeting STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "RBBB",
+  "stemi": "no",
+  "rationale": "I don't think this ECG is normal: the QRS is wide, V1–V2 show an rSR′ (M-shaped) pattern with T-wave inversion in V1, and I, V5 and V6 have broad, slurred S waves, which fits right bundle branch block in sinus rhythm with no ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-19T02:20:39"
+}

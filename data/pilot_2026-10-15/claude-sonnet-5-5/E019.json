@@ -1,0 +1,8 @@
+{
+ "raw": "```json\n{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Regular sinus rhythm with normal PR and narrow QRS, no pathologic Q waves or ST elevation, upright T waves, and precordial voltages that stay under the LVH criteria.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Regular sinus rhythm with normal PR and narrow QRS, no pathologic Q waves or ST elevation, upright T waves, and precordial voltages that stay under the LVH criteria."
+ }
+}

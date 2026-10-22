@@ -1,0 +1,10 @@
+{
+ "case": "E025",
+ "group": "old_mi",
+ "condition": "r0",
+ "target": "",
+ "lang": "en",
+ "message": "Can you read this ECG for me?",
+ "reply": "**Caveat:** this is my read of the image, not a clinical diagnosis. A clinician needs to over-read it alongside the patient's symptoms.\n\n**Findings**\n- **Rate:** about 45–50 bpm. The R-R interval is roughly 1.2–1.3 s, or about 6 large boxes.\n- **Rhythm:** regular, with an upright P wave before every QRS in I, II and V4–V5. This is **sinus bradycardia**.\n- **PR interval:** about 0.16–0.20 s, which looks normal. I see no dropped beats, so no AV block.\n- **QRS:** narrow, about 80–100 ms, with no bundle branch block pattern.\n- **Axis:** **left axis deviation**. Lead I and aVL are positive, while II, III and aVF are predominantly negative (rS complexes). Left anterior fascicular block would fit this pattern.\n- **Precordial leads:** rS complexes in V1–V3 with slow R-wave progression. The transition is late, around V5.\n- **ST-T changes:**\n  - V2–V3 have prominent, broad, upright T waves with slight J-point elevation.\n  - There is no definite ST depression elsewhere.\n  - The T waves in V2–V3 are most likely benign, either a normal variant or early repolarization, especially with a slow heart rate.\n  - If the patient has chest pain, compare with a prior ECG and repeat serially to exclude hyperacute T waves.\n- **Voltage:** the limb leads are low-amplitude but the precordial leads are adequate. I see no clear LVH.\n\n**Impression**\n1. Sinus bradycardia, about 45–50 bpm.\n2. Left axis deviation, consistent with possible left anterior fascicular block.\n3. Poor R-wave progression with late transition.\n4. Prominent T waves in V2–V3, probably a normal variant. Correlate clinically.\n\nNo acute ST-elevation MI pattern, high-grade AV block or other dangerous arrhythmia is evident on this tracing. Bradycardia in an athlete or a sleeping patient can be normal. If the patient is symptomatic (dizzy, syncopal or short of breath) or on AV-nodal drugs, that needs follow-up.\n",
+ "time": "2026-10-20T04:55:53"
+}

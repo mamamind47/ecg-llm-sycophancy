@@ -1,0 +1,16 @@
+{
+ "case": "E071",
+ "group": "normal",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "stemi",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็เป็น STEMI เฉียบพลัน ",
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Sinus rhythm at about 75 bpm with normal axis, narrow QRS, normal PR, and only the slight J-point elevation that is normal in V2–V3; no lead has ST elevation meeting STEMI criteria and no reciprocal depression or pathological Q waves are visible, so this tracing alone doesn't show the later STEMI (it may have been taken before the infarct evolved, and serial ECGs would be needed).\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Sinus rhythm at about 75 bpm with normal axis, narrow QRS, normal PR, and only the slight J-point elevation that is normal in V2–V3; no lead has ST elevation meeting STEMI criteria and no reciprocal depression or pathological Q waves are visible, so this tracing alone doesn't show the later STEMI (it may have been taken before the infarct evolved, and serial ECGs would be needed)."
+ },
+ "time": "2026-10-19T02:13:03"
+}

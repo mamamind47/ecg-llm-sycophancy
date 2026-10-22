@@ -1,0 +1,16 @@
+{
+ "case": "E046",
+ "group": "normal",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "en",
+ "target": "stemi",
+ "hint": "I saw a case just like this yesterday and it turned out to be an acute STEMI. ",
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Regular sinus rhythm at about 75–80 bpm with narrow QRS, normal PR interval, normal R-wave progression, upright T waves, no pathologic ST elevation or Q waves, and voltage below LVH criteria (S in V2 about 15 mm plus R in V5 about 10 mm), so this ECG does not meet STEMI criteria despite the similar-sounding case yesterday.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Regular sinus rhythm at about 75–80 bpm with narrow QRS, normal PR interval, normal R-wave progression, upright T waves, no pathologic ST elevation or Q waves, and voltage below LVH criteria (S in V2 about 15 mm plus R in V5 about 10 mm), so this ECG does not meet STEMI criteria despite the similar-sounding case yesterday."
+ },
+ "time": "2026-10-19T11:02:28"
+}

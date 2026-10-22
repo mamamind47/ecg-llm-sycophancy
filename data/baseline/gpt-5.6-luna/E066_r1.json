@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"LVH\",\"stemi\":\"no\",\"rationale\":\"Marked voltage criteria for left ventricular hypertrophy with secondary lateral repolarization abnormalities and no qualifying ST elevation.\"}",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "Marked voltage criteria for left ventricular hypertrophy with secondary lateral repolarization abnormalities and no qualifying ST elevation."
+ },
+ "time": "2026-10-18T06:10:57"
+}

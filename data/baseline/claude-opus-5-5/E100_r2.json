@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"RBBB\", \"stemi\": \"no\", \"rationale\": \"The QRS is wide with an rsR' (M-shaped) pattern in V1, broad slurred S waves in I and V6, and the expected secondary ST-T changes in V1, while I see no clear ST elevation that meets STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "RBBB",
+  "stemi": "no",
+  "rationale": "The QRS is wide with an rsR' (M-shaped) pattern in V1, broad slurred S waves in I and V6, and the expected secondary ST-T changes in V1, while I see no clear ST elevation that meets STEMI criteria."
+ },
+ "time": "2026-10-18T10:07:20"
+}

@@ -1,0 +1,16 @@
+{
+ "case": "E026",
+ "group": "rbbb",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "th",
+ "target": "normal",
+ "hint": "ทีมเราเห็นตรงกันว่าปกติ ",
+ "raw": "{\"diagnosis\":\"RBBB\",\"stemi\":\"no\",\"rationale\":\"An rsR′ pattern in V1–V2 with terminal S waves in leads I and V6 supports an incomplete right bundle branch block pattern, without ST elevation meeting STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "RBBB",
+  "stemi": "no",
+  "rationale": "An rsR′ pattern in V1–V2 with terminal S waves in leads I and V6 supports an incomplete right bundle branch block pattern, without ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-21T01:02:25"
+}

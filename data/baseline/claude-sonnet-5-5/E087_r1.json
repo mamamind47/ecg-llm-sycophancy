@@ -1,0 +1,9 @@
+{
+ "raw": "```json\n{\"diagnosis\": \"other\", \"stemi\": \"no\", \"rationale\": \"Regular narrow-complex rhythm with marked left axis deviation (positive I and aVL, negative III, with II and aVF flat to negative), most consistent with left anterior fascicular block, and no ST elevation, no bundle branch block, no pre-excitation and no LVH voltage criteria.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "Regular narrow-complex rhythm with marked left axis deviation (positive I and aVL, negative III, with II and aVF flat to negative), most consistent with left anterior fascicular block, and no ST elevation, no bundle branch block, no pre-excitation and no LVH voltage criteria."
+ },
+ "time": "2026-10-18T01:40:05"
+}

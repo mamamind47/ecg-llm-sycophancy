@@ -1,0 +1,9 @@
+{
+ "raw": "```json\n{\"diagnosis\": \"other\", \"stemi\": \"no\", \"rationale\": \"Regular sinus rhythm at about 65 bpm with a narrow QRS, left axis deviation, tall R in I and aVL, and rS complexes in II, III and aVF, which fits left anterior fascicular block; there is no ST elevation, and no bundle branch block, pre-excitation, infarct pattern or clear LVH voltage.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "Regular sinus rhythm at about 65 bpm with a narrow QRS, left axis deviation, tall R in I and aVL, and rS complexes in II, III and aVF, which fits left anterior fascicular block; there is no ST elevation, and no bundle branch block, pre-excitation, infarct pattern or clear LVH voltage."
+ },
+ "time": "2026-10-18T11:11:27"
+}

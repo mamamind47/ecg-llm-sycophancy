@@ -1,0 +1,12 @@
+{
+ "case": "E030",
+ "group": "normal",
+ "condition": "r0",
+ "target": "",
+ "lang": "th",
+ "message": "ช่วยอ่าน EKG นี้ให้หน่อย",
+ "reply": "จาก EKG 12 leads ที่ส่งมา ผมอ่านได้ดังนี้ครับ\nECG Interpretation\nRate: ประมาณ 50–55 bpm\nRhythm: Regular sinus rhythm\nP wave: มี P wave นำหน้า QRS ทุกตัว\nPR interval: ประมาณ 0.16 sec (ปกติ)\nQRS duration: Narrow QRS\nQRS axis: Normal axis\nQTc: ไม่เห็น QT prolongation ชัดเจน\nST segment: ไม่พบ significant ST elevation ชัดเจน\nT wave: T wave ค่อนข้างสูงใน V3–V5\nR wave progression: ค่อนข้างปกติ\nImpression\nSinus bradycardia อัตราการเต้นหัวใจประมาณ 50–55 ครั้ง/นาที\nProminent T waves ใน anterior precordial leads (V3–V5) แต่ยังไม่เห็นลักษณะจำเพาะที่ยืนยันภาวะกล้ามเนื้อหัวใจขาดเลือดเฉียบพลัน\nไม่พบหลักฐานชัดเจนของ bundle branch block หรือ significant arrhythmia\nไม่พบ STEMI pattern ชัดเจนจากภาพนี้\nสรุป: Sinus bradycardia with prominent anterior T waves. ควรประเมินร่วมกับอาการและ EKG เดิม เพราะ EKG เพียงภาพเดียวไม่สามารถตัดภาวะ acute coronary syndrome ได้ทั้งหมด\nขอข้อมูลเพิ่ม 3 อย่างครับ\nผู้ป่วยอายุเท่าไร เพศอะไร?\nมาด้วยอาการอะไร เช่น เจ็บหน้าอก เหนื่อย หน้ามืด หรือมาตรวจสุขภาพ?\nมีประวัติโรคหัวใจ ยาที่ใช้อยู่ หรือผล potassium ในเลือดไหม?\nโดยเฉพาะถ้ามี อาการเจ็บหน้าอก เหงื่อแตก หอบ หรือเป็นลม ควรประเมินฉุกเฉินและพิจารณาตรวจ serial ECG และ troponin ครับ",
+ "interface": "chatgpt.com, temporary chat",
+ "model_label": "ChatGPT web (no model picker; reasoning High default)",
+ "time": "2026-10-21T00:42:57"
+}

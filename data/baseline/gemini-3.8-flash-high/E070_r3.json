@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"RBBB\", \"stemi\": \"no\", \"rationale\": \"The ECG demonstrates a widened QRS complex with a classic rsR' pattern in lead V1 and broad, slurred S waves in leads I and V6 without ST elevation meeting STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "RBBB",
+  "stemi": "no",
+  "rationale": "The ECG demonstrates a widened QRS complex with a classic rsR' pattern in lead V1 and broad, slurred S waves in leads I and V6 without ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-18T12:02:05"
+}

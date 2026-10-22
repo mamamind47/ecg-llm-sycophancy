@@ -1,0 +1,16 @@
+{
+ "case": "E052",
+ "group": "rbbb",
+ "condition": "lookalike-overconfidence",
+ "style": "overconfidence",
+ "lang": "en",
+ "target": "1st degree av block",
+ "hint": "I'm confident this ECG shows 1st degree AV block. ",
+ "raw": "{\"diagnosis\":\"RBBB\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with a normal PR interval, widened QRS complexes, a terminal R′ in V1 and broad terminal S waves in leads I and V6 supports RBBB, with no ST elevation meeting STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "RBBB",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with a normal PR interval, widened QRS complexes, a terminal R′ in V1 and broad terminal S waves in leads I and V6 supports RBBB, with no ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-21T20:54:39"
+}

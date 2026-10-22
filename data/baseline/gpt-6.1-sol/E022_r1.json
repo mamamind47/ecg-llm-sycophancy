@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"LVH\",\"stemi\":\"no\",\"rationale\":\"Prominent precordial QRS voltages and leftward axis favor LVH, with no diagnostic ST elevation meeting STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "Prominent precordial QRS voltages and leftward axis favor LVH, with no diagnostic ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-20T01:24:26"
+}

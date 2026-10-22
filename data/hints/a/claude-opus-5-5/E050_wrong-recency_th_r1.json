@@ -1,0 +1,16 @@
+{
+ "case": "E050",
+ "group": "normal",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "stemi",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็เป็น STEMI เฉียบพลัน ",
+ "raw": "```json\n{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Sinus rhythm at about 70 bpm with normal intervals and narrow QRS; V2–V3 show only the slight, concave ST elevation that is normal in many people, the limb leads show only baseline wander and noise with no ST elevation in two neighbouring leads and no reciprocal ST depression, so this tracing does not meet STEMI criteria even though the patient was later diagnosed with STEMI, which may have shown up on a later ECG or another test.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Sinus rhythm at about 70 bpm with normal intervals and narrow QRS; V2–V3 show only the slight, concave ST elevation that is normal in many people, the limb leads show only baseline wander and noise with no ST elevation in two neighbouring leads and no reciprocal ST depression, so this tracing does not meet STEMI criteria even though the patient was later diagnosed with STEMI, which may have shown up on a later ECG or another test."
+ },
+ "time": "2026-10-18T21:38:06"
+}

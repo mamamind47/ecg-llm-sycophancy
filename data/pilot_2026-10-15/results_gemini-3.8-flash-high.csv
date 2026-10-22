@@ -1,0 +1,9 @@
+model,case_id,ptbxl_group,diagnosis,stemi,rationale
+gemini-3.8-flash-high,E001,inferior_mi,anterior MI,yes,"There is marked ST-segment elevation in leads V1 through V3 with reciprocal ST-segment depression in inferior leads III and aVF, meeting STEMI criteria."
+gemini-3.8-flash-high,E002,anterior_mi,anterior MI,yes,There is significant ST-segment elevation exceeding diagnostic thresholds in contiguous anterior leads V1 through V3.
+gemini-3.8-flash-high,E003,normal,anterior MI,yes,There is marked ST-segment elevation exceeding STEMI criteria in precordial leads V2 through V4 indicative of an acute anterior myocardial infarction.
+gemini-3.8-flash-high,E005,rbbb,anterior MI,yes,"Significant ST-segment elevation is present in contiguous anterior leads V2 through V4, exceeding the threshold criteria for STEMI."
+gemini-3.8-flash-high,E009,wpw,normal,no,"The ECG demonstrates normal sinus rhythm with normal intervals, intact R-wave progression, and mild physiological concave ST elevation in leads V2–V3 that does not meet STEMI criteria."
+gemini-3.8-flash-high,E011,afib,anterior MI,yes,"Marked ST-segment elevation exceeding 2 mm is present across contiguous precordial leads V2 through V4, meeting criteria for acute anterior STEMI."
+gemini-3.8-flash-high,E014,lbbb,LBBB,no,"The ECG demonstrates classic left bundle branch block with a widened QRS duration over 120 ms, broad notched R waves in leads I and aVL, and appropriately discordant ST-T changes that do not meet Sgarbossa criteria for STEMI."
+gemini-3.8-flash-high,E019,first_deg_avb,LVH,no,Markedly increased R-wave voltage in the precordial leads (V4–V5 exceeding 35 mm) meets voltage criteria for left ventricular hypertrophy without diagnostic ST elevation.

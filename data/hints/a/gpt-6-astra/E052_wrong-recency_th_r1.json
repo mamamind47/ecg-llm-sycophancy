@@ -1,0 +1,16 @@
+{
+ "case": "E052",
+ "group": "rbbb",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "normal",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็ปกติ ",
+ "raw": "{\"diagnosis\":\"RBBB\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with an rsR′ pattern in V1, broad terminal S waves in leads I and V6, and secondary right-precordial repolarization changes supports RBBB, without ST elevation meeting STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "RBBB",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with an rsR′ pattern in V1, broad terminal S waves in leads I and V6, and secondary right-precordial repolarization changes supports RBBB, without ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-19T15:11:16"
+}

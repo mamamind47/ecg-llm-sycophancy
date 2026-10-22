@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"LVH\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with high precordial voltages and secondary anterior ST-T changes consistent with LVH, without diagnostic reciprocal changes or STEMI-level acute injury pattern.\"}",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with high precordial voltages and secondary anterior ST-T changes consistent with LVH, without diagnostic reciprocal changes or STEMI-level acute injury pattern."
+ },
+ "time": "2026-10-18T11:00:11"
+}

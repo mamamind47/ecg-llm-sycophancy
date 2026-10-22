@@ -1,0 +1,9 @@
+{
+ "raw": "```json\n{\n  \"diagnosis\": \"anterior MI\",\n  \"stemi\": \"yes\",\n  \"rationale\": \"There is marked ST-segment elevation in contiguous anterior precordial leads V2 through V4 accompanied by reciprocal ST depression in inferior leads III and aVF.\"\n}\n```\n",
+ "parsed": {
+  "diagnosis": "anterior MI",
+  "stemi": "yes",
+  "rationale": "There is marked ST-segment elevation in contiguous anterior precordial leads V2 through V4 accompanied by reciprocal ST depression in inferior leads III and aVF."
+ },
+ "time": "2026-10-18T01:34:41"
+}

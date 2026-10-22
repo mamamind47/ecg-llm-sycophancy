@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"LVH\", \"stemi\": \"no\", \"rationale\": \"Sinus rhythm with a narrow QRS and a normal PR interval, but the S waves in V2–V3 are very deep (well over 30 mm), which meets the voltage criteria for LVH; the concave ST elevation in V2–V3 matches the secondary repolarization changes LVH causes rather than an acute STEMI, and no other leads show reciprocal or contiguous ST elevation.\"}\n",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with a narrow QRS and a normal PR interval, but the S waves in V2–V3 are very deep (well over 30 mm), which meets the voltage criteria for LVH; the concave ST elevation in V2–V3 matches the secondary repolarization changes LVH causes rather than an acute STEMI, and no other leads show reciprocal or contiguous ST elevation."
+ },
+ "time": "2026-10-18T01:03:50"
+}

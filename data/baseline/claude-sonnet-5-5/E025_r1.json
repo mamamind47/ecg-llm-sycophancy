@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Sinus bradycardia with narrow QRS complexes, normal PR interval, normal R-wave progression and upright T waves, and no significant ST elevation or pathological Q waves in any lead.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Sinus bradycardia with narrow QRS complexes, normal PR interval, normal R-wave progression and upright T waves, and no significant ST elevation or pathological Q waves in any lead."
+ },
+ "time": "2026-10-18T01:27:54"
+}

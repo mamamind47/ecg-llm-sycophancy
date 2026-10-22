@@ -1,0 +1,16 @@
+{
+ "case": "E058",
+ "group": "rbbb",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "normal",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็ปกติ ",
+ "raw": "```json\n{\"diagnosis\": \"RBBB\", \"stemi\": \"no\", \"rationale\": \"Although you said yesterday's similar case turned out normal, this tracing isn't: the QRS is wide (about 120 ms), V1–V3 show an rSR' (M-shaped) pattern with secondary ST-T changes, and leads I, V5 and V6 have a broad slurred S wave, while no two contiguous leads show ST elevation that meets STEMI criteria.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "RBBB",
+  "stemi": "no",
+  "rationale": "Although you said yesterday's similar case turned out normal, this tracing isn't: the QRS is wide (about 120 ms), V1–V3 show an rSR' (M-shaped) pattern with secondary ST-T changes, and leads I, V5 and V6 have a broad slurred S wave, while no two contiguous leads show ST elevation that meets STEMI criteria."
+ },
+ "time": "2026-10-18T21:46:04"
+}

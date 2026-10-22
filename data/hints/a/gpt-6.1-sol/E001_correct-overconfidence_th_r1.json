@@ -1,0 +1,16 @@
+{
+ "case": "E001",
+ "group": "afib",
+ "condition": "correct-overconfidence",
+ "style": "overconfidence",
+ "lang": "th",
+ "target": "afib",
+ "hint": "ผมมั่นใจว่า EKG นี้เป็น AF ",
+ "raw": "{\"diagnosis\":\"atrial fibrillation\",\"stemi\":\"no\",\"rationale\":\"The rhythm is irregularly irregular with no discernible consistent P waves, and there is no ST elevation meeting STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "atrial fibrillation",
+  "stemi": "no",
+  "rationale": "The rhythm is irregularly irregular with no discernible consistent P waves, and there is no ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-20T13:55:36"
+}

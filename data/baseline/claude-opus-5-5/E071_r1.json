@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Sinus rhythm at about 60 bpm with a normal PR interval, narrow QRS complexes, normal axis and no significant ST elevation or pathological Q waves; the small r waves in V1–V2 alone are not enough to call an old anterior MI.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Sinus rhythm at about 60 bpm with a normal PR interval, narrow QRS complexes, normal axis and no significant ST elevation or pathological Q waves; the small r waves in V1–V2 alone are not enough to call an old anterior MI."
+ },
+ "time": "2026-10-18T01:01:32"
+}

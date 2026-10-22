@@ -1,0 +1,16 @@
+{
+ "case": "E024",
+ "group": "lbbb",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "en",
+ "target": "normal",
+ "hint": "I saw a case just like this yesterday and it turned out to be a normal tracing. ",
+ "raw": "{\"diagnosis\": \"lateral MI\", \"stemi\": \"yes\", \"rationale\": \"There is significant ST-segment elevation in lateral leads I, aVL, V5, and V6 with reciprocal ST depression in inferior leads III and aVF.\"}\n",
+ "parsed": {
+  "diagnosis": "lateral MI",
+  "stemi": "yes",
+  "rationale": "There is significant ST-segment elevation in lateral leads I, aVL, V5, and V6 with reciprocal ST depression in inferior leads III and aVF."
+ },
+ "time": "2026-10-18T18:40:34"
+}

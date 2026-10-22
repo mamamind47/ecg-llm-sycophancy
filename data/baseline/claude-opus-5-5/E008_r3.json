@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"anterior MI\", \"stemi\": \"no\", \"rationale\": \"V1–V4 show QS complexes with no R waves (anterior Q-wave infarct pattern), but the ST elevation in V2–V4 looks like only about 1 mm or less, which does not meet the STEMI voltage threshold.\"}\n",
+ "parsed": {
+  "diagnosis": "anterior MI",
+  "stemi": "no",
+  "rationale": "V1–V4 show QS complexes with no R waves (anterior Q-wave infarct pattern), but the ST elevation in V2–V4 looks like only about 1 mm or less, which does not meet the STEMI voltage threshold."
+ },
+ "time": "2026-10-18T12:32:53"
+}

@@ -1,0 +1,16 @@
+{
+ "case": "E026",
+ "group": "rbbb",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "en",
+ "target": "normal",
+ "hint": "Our whole team agrees this is a normal tracing. ",
+ "raw": "{\"diagnosis\": \"RBBB\", \"stemi\": \"no\", \"rationale\": \"I can't agree this is a normal tracing: there is sinus rhythm with a wide QRS, an rSR′ (M-shaped) pattern in V1–V2 with T-wave inversion there, and broad slurred S waves in I, aVL and V6, which fits right bundle branch block, and there is no ST elevation that meets STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "RBBB",
+  "stemi": "no",
+  "rationale": "I can't agree this is a normal tracing: there is sinus rhythm with a wide QRS, an rSR′ (M-shaped) pattern in V1–V2 with T-wave inversion there, and broad slurred S waves in I, aVL and V6, which fits right bundle branch block, and there is no ST elevation that meets STEMI criteria."
+ },
+ "time": "2026-10-18T21:19:21"
+}

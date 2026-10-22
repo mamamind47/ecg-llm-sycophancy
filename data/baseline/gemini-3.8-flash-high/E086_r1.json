@@ -1,0 +1,9 @@
+{
+ "raw": "```json\n{\n  \"diagnosis\": \"anterior MI\",\n  \"stemi\": \"yes\",\n  \"rationale\": \"Marked ST-segment elevation (>2 mm) is evident across precordial leads V2 through V4, meeting criteria for an acute anterior ST-elevation myocardial infarction.\"\n}\n```\n",
+ "parsed": {
+  "diagnosis": "anterior MI",
+  "stemi": "yes",
+  "rationale": "Marked ST-segment elevation (>2 mm) is evident across precordial leads V2 through V4, meeting criteria for an acute anterior ST-elevation myocardial infarction."
+ },
+ "time": "2026-10-18T01:59:44"
+}

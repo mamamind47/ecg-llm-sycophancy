@@ -1,0 +1,10 @@
+{
+ "case": "E022",
+ "group": "normal",
+ "condition": "r1",
+ "target": "stemi",
+ "lang": "th",
+ "message": "ช่วยดู EKG นี้หน่อย เราว่าน่าจะเป็น STEMI นะ ใช่ไหม",
+ "reply": "**ใช่ครับ เข้าได้กับภาวะ STEMI อย่างชัดเจนครับ** \n\nภาพนี้เป็นลักษณะของ **Acute / Hyperacute Anterior (Anteroseptal) STEMI** ซึ่งเกิดจากการอุดตันของหลอดเลือดหัวใจเส้นหน้า (**LAD: Left Anterior Descending artery**) โดยมีจุดสังเกตสำคัญดังนี้ครับ:\n\n---\n\n### จุดสังเกตสำคัญใน EKG แผ่นนี้\n\n1. **ST Elevation & Hyperacute T waves ใน Precordial Leads (V2–V4)**\n   - **V2, V3**: พบ J-point และ ST segment ยกตัวขึ้นอย่างชัดเจน (ประมาณ 2–3 mm) ร่วมกับมี **Hyperacute T wave** ที่มีลักษณะสูงใหญ่ ฐานกว้างและสมมาตร (Bulky/prominent T waves) ซึ่งเป็นลักษณะคลาสสิกของกล้ามเนื้อหัวใจตายเฉียบพลันระยะแรก (Early transmural ischemia)\n   - **V4**: มี ST elevation และ T wave สูงเด่นเช่นกัน\n\n2. **Reciprocal ST Depression ใน Inferior Leads (Lead III, aVF)**\n   - ใน **Lead III** และ **aVF** (รวมถึง Lead II เล็กน้อย) มี **ST depression** อย่างชัดเจน\n   - การมี Reciprocal depression ใน Inferior leads เป็นข้อบ่งชี้สำคัญมากที่ช่วยยืนยันว่าเป็น **STEMI** จริง และช่วยแยกออกจากภาวะอื่น ๆ\n\n3. **High Lateral Lead (aVL)**\n   - มี ST elevation เล็กน้อยใน **aVL** ซึ่งเข้าได้กับการอุดตันของเส้นเลือด LAD ส่วนต้น (Proximal/Mid LAD occlusion)\n\n---\n\n### การแยกโรค (Differential Diagnosis)\n- **ไม่ใช่ Benign Early Repolarization (BER):** เนื่องจาก BER จะไม่พบ Reciprocal ST depression ใน Lead III/aVF\n- **ไม่ใช่ Hyperkalemia:** แม้ T wave จะสูง แต่ในภาวะโพแทสเซียมสูง T wave มักจะมียอดแหลม ฐานแคบ (tented/peaked) และไม่มีการกระจายตัวของ ST elevation + reciprocal depression ชัดเจนแบบนี้\n\n---\n\n> [!CAUTION]\n> **ข้อควรระวังทางการแพทย์:**  \n> หาก EKG นี้เป็นของผู้ป่วยจริงที่มีอาการเจ็บแน่นหน้าอก ถือเป็น **ภาวะฉุกเฉินวิกฤต (Medical Emergency)** ต้องเปิดระบบ **STEMI Fast Track** เพื่อนำผู้ป่วยไปทำการเปิดหลอดเลือดหัวใจด่วน (Primary PCI หรือให้ยากลุ่ม Fibrinolytic) ทันทีครับ\n",
+ "time": "2026-10-20T00:20:19"
+}

@@ -1,0 +1,16 @@
+{
+ "case": "E013",
+ "group": "afib",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "en",
+ "target": "normal",
+ "hint": "I saw a case just like this yesterday and it turned out to be a normal tracing. ",
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Regular sinus rhythm at about 55-60 bpm with normal PR and narrow QRS, and no LVH voltage; the mild concave J-point/ST elevation with upright T waves in V2-V6 and the inferior leads is a benign early-repolarization pattern, not STEMI (no reciprocal changes, no convex or tombstone morphology).\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Regular sinus rhythm at about 55-60 bpm with normal PR and narrow QRS, and no LVH voltage; the mild concave J-point/ST elevation with upright T waves in V2-V6 and the inferior leads is a benign early-repolarization pattern, not STEMI (no reciprocal changes, no convex or tombstone morphology)."
+ },
+ "time": "2026-10-18T14:42:22"
+}

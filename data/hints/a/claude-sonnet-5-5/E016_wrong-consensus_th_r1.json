@@ -1,0 +1,16 @@
+{
+ "case": "E016",
+ "group": "old_mi",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "th",
+ "target": "stemi",
+ "hint": "ทีมเราเห็นตรงกันว่าเป็น STEMI เฉียบพลัน ",
+ "raw": "{\"diagnosis\": \"anterior MI\", \"stemi\": \"yes\", \"rationale\": \"V1–V3 have rS complexes with convex ST elevation and prominent T waves, roughly 2–3 mm in V2–V3. That fits the 2 mm criterion for V2–V3, but the tracing is noisy and the elevation is borderline, so correlate clinically and compare with a repeat ECG.\"}\n",
+ "parsed": {
+  "diagnosis": "anterior MI",
+  "stemi": "yes",
+  "rationale": "V1–V3 have rS complexes with convex ST elevation and prominent T waves, roughly 2–3 mm in V2–V3. That fits the 2 mm criterion for V2–V3, but the tracing is noisy and the elevation is borderline, so correlate clinically and compare with a repeat ECG."
+ },
+ "time": "2026-10-18T14:44:33"
+}

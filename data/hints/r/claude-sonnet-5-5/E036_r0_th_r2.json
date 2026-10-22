@@ -1,0 +1,10 @@
+{
+ "case": "E036",
+ "group": "acute_mi",
+ "condition": "r0",
+ "target": "",
+ "lang": "th",
+ "message": "ช่วยอ่าน EKG นี้ให้หน่อย",
+ "reply": "**สรุป: ECG นี้เข้าได้กับ anterior STEMI (ST elevation ที่ V1–V4 ร่วมกับ Q wave) ควรถือเป็นภาวะฉุกเฉิน**\n\nผมอ่านจากภาพนี้อย่างเดียว ภาพมี noise และ baseline wander พอสมควร จึงควรใช้ ECG จริงและอาการของผู้ป่วยประกอบด้วย\n\n**Rate / Rhythm**\n- อัตราประมาณ 100–110 ครั้ง/นาที (R-R ประมาณ 14 mm ที่ 25 mm/s) จังหวะสม่ำเสมอ\n- เข้าได้กับ sinus tachycardia แต่ P wave เห็นไม่ชัดเพราะ baseline noise\n- QRS แคบ ไม่มี wide QRS\n\n**Axis**\n- Lead I และ aVL เป็นบวก ส่วน III และ aVF เป็นลบ ได้ left axis deviation เล็กน้อย\n\n**ST-T changes**\n- **V1–V4 มี ST elevation ชัดเจน** โดย V2–V3 เด่นที่สุด ลักษณะโค้งนูน (convex) ต่อเนื่องเป็น T wave\n- **V1–V3 เป็น QS/rS** คือมี S ลึกและ R หายหรือน้อยมาก (poor R wave progression) แปลว่ามี Q wave แล้ว อาจเป็น infarct ที่กำลังดำเนินไปแล้วช่วงหนึ่ง\n- **V4–V5 (บางส่วน V6)** มี ST elevation ลดหลั่นลงมา แสดงว่าอาจลามไป anterolateral\n- **Lead I และ aVL** R สูงและ ST ค่อนข้าง elevate เล็กน้อย อาจมี high lateral involvement\n- **Lead III และ aVF** ตามหลักควรหา reciprocal ST depression ซึ่งในภาพชัดไม่เต็มที่เพราะ noise\n\n**การแปลผลที่น่าจะเป็น**\n1. Acute anterior (± anterolateral) STEMI จาก LAD occlusion โดยเฉพาะ proximal LAD ถ้า I/aVL เกี่ยวด้วย\n2. ที่ต้องแยก: LV aneurysm (ถ้ามีประวัติ MI เก่า ST elevation + QS ค้างได้), early repolarization และ pericarditis แต่ convex ST + QS ร่วมกับ reciprocal change เอนไปทาง STEMI มากกว่า\n\n**ควรทำต่อ**\n- ถ้าเป็นผู้ป่วยจริงที่มีอาการเจ็บหน้าอก/หายใจลำบาก ให้ activate STEMI pathway และปรึกษา cardiology เพื่อทำ primary PCI โดยเร็ว\n- ตรวจ troponin, ทำ ECG ซ้ำ (เพิ่ม V7–V9 และ right-sided leads ถ้าสงสัย) และ bedside echo ดู wall motion\n- ติดตามความเสี่ยง arrhythmia และ heart failure\n\nถ้าบอกอายุ อาการ และประวัติ (เช่น เคย MI ไหม) ได้ ผมช่วยแยกกลุ่มวินิจฉัยให้แคบลงได้\n",
+ "time": "2026-10-20T04:59:37"
+}

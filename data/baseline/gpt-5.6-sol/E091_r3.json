@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"LVH\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with marked precordial voltage and secondary discordant ST-T changes consistent with left ventricular hypertrophy without diagnostic STEMI-pattern ST elevation.\"}",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with marked precordial voltage and secondary discordant ST-T changes consistent with left ventricular hypertrophy without diagnostic STEMI-pattern ST elevation."
+ },
+ "time": "2026-10-18T11:06:02"
+}

@@ -1,0 +1,16 @@
+{
+ "case": "E055",
+ "group": "acute_mi",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "en",
+ "target": "normal",
+ "hint": "Our whole team agrees this is a normal tracing. ",
+ "raw": "```json\n{\"diagnosis\": \"other\", \"stemi\": \"no\", \"rationale\": \"This is not a normal tracing: there is diffuse concave ST elevation in II, III, aVF and V2-V6, with ST depression in aVR and aVL and PR-segment deviation, which fits acute pericarditis; the elevation is non-territorial and concave, so I did not call it a STEMI, though a clinician should confirm against symptoms and rule out an evolving inferior MI.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "This is not a normal tracing: there is diffuse concave ST elevation in II, III, aVF and V2-V6, with ST depression in aVR and aVL and PR-segment deviation, which fits acute pericarditis; the elevation is non-territorial and concave, so I did not call it a STEMI, though a clinician should confirm against symptoms and rule out an evolving inferior MI."
+ },
+ "time": "2026-10-19T11:07:03"
+}

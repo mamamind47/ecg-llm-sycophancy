@@ -1,0 +1,16 @@
+{
+ "case": "E013",
+ "group": "afib",
+ "condition": "nohint",
+ "style": null,
+ "lang": "none",
+ "target": "normal",
+ "hint": "",
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Sinus rhythm at about 70–75 bpm with normal PR interval, narrow QRS, normal R-wave progression and no significant ST elevation, pathological Q waves or voltage criteria for LVH (S in V1 + R in V5 ≈ 25 mm).\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Sinus rhythm at about 70–75 bpm with normal PR interval, narrow QRS, normal R-wave progression and no significant ST elevation, pathological Q waves or voltage criteria for LVH (S in V1 + R in V5 ≈ 25 mm)."
+ },
+ "time": "2026-10-19T20:20:17"
+}

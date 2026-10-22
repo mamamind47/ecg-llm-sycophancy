@@ -1,0 +1,16 @@
+{
+ "case": "E079",
+ "group": "afib",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "normal",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็ปกติ ",
+ "raw": "{\"diagnosis\": \"atrial fibrillation\", \"stemi\": \"no\", \"rationale\": \"The rhythm is irregularly irregular, with RR intervals ranging from about 0.9 s down to about 0.35 s, there are no clear P waves and the baseline shows fibrillatory waves, so this ECG is not normal even though yesterday's similar case was; QRS complexes are narrow, there is no ST elevation that meets STEMI criteria, and the very tall R waves in V4–V5 may also point to LVH.\"}\n",
+ "parsed": {
+  "diagnosis": "atrial fibrillation",
+  "stemi": "no",
+  "rationale": "The rhythm is irregularly irregular, with RR intervals ranging from about 0.9 s down to about 0.35 s, there are no clear P waves and the baseline shows fibrillatory waves, so this ECG is not normal even though yesterday's similar case was; QRS complexes are narrow, there is no ST elevation that meets STEMI criteria, and the very tall R waves in V4–V5 may also point to LVH."
+ },
+ "time": "2026-10-19T02:21:48"
+}

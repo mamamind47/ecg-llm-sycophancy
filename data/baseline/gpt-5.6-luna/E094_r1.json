@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"atrial fibrillation\",\"stemi\":\"no\",\"rationale\":\"The ECG shows an irregularly irregular narrow-complex rhythm without consistent P waves and no diagnostic ST elevation.\"}",
+ "parsed": {
+  "diagnosis": "atrial fibrillation",
+  "stemi": "no",
+  "rationale": "The ECG shows an irregularly irregular narrow-complex rhythm without consistent P waves and no diagnostic ST elevation."
+ },
+ "time": "2026-10-18T06:14:35"
+}

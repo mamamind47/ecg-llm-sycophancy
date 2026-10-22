@@ -1,0 +1,16 @@
+{
+ "case": "E073",
+ "group": "acute_mi",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "normal",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็ปกติ ",
+ "raw": "{\"diagnosis\": \"anterior MI\", \"stemi\": \"yes\", \"rationale\": \"Sinus rhythm at about 75 bpm with narrow QRS; V1–V3 show QS complexes with poor R-wave progression and about 2 mm ST elevation in V2–V3 (about 1.5 mm in V4), which is not a normal ECG even though the case turned out benign, so an old anterior MI with persistent ST elevation or an LV aneurysm should be ruled out against prior ECGs, troponin and echo.\"}\n",
+ "parsed": {
+  "diagnosis": "anterior MI",
+  "stemi": "yes",
+  "rationale": "Sinus rhythm at about 75 bpm with narrow QRS; V1–V3 show QS complexes with poor R-wave progression and about 2 mm ST elevation in V2–V3 (about 1.5 mm in V4), which is not a normal ECG even though the case turned out benign, so an old anterior MI with persistent ST elevation or an LV aneurysm should be ruled out against prior ECGs, troponin and echo."
+ },
+ "time": "2026-10-19T02:15:13"
+}

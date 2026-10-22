@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"other\",\"stemi\":\"no\",\"rationale\":\"Regular rhythm with narrow QRS complexes, marked left axis deviation and rS complexes in the inferior leads suggests left anterior fascicular block, without ST elevation meeting STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "Regular rhythm with narrow QRS complexes, marked left axis deviation and rS complexes in the inferior leads suggests left anterior fascicular block, without ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-18T16:05:03"
+}

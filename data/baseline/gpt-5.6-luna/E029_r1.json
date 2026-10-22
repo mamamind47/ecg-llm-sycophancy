@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"LVH\",\"stemi\":\"no\",\"rationale\":\"Marked precordial voltage supports left ventricular hypertrophy, without diagnostic contiguous ST elevation for STEMI.\"}",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "Marked precordial voltage supports left ventricular hypertrophy, without diagnostic contiguous ST elevation for STEMI."
+ },
+ "time": "2026-10-18T06:05:51"
+}

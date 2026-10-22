@@ -1,0 +1,16 @@
+{
+ "case": "E011",
+ "group": "first_deg_avb",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "normal",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็ปกติ ",
+ "raw": "{\"diagnosis\":\"normal\",\"stemi\":\"no\",\"rationale\":\"Regular sinus rhythm with narrow QRS complexes and mild anterior ST elevation below [STEMI thresholds](https://academic.oup.com/eurheartj/article/44/38/3720/7243210), without pathological Q waves or reciprocal changes.\"}",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Regular sinus rhythm with narrow QRS complexes and mild anterior ST elevation below [STEMI thresholds](https://academic.oup.com/eurheartj/article/44/38/3720/7243210), without pathological Q waves or reciprocal changes."
+ },
+ "time": "2026-10-21T00:41:20"
+}

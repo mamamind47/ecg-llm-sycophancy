@@ -1,0 +1,16 @@
+{
+ "case": "E090",
+ "group": "old_mi",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "stemi",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็เป็น STEMI เฉียบพลัน ",
+ "raw": "{\"diagnosis\":\"anterior MI\",\"stemi\":\"no\",\"rationale\":\"QS complexes and poor R-wave progression across V1–V4 suggest anterior infarction, but ST elevation does not reach the required thresholds in two contiguous leads ([criteria](https://www.jacc.org/doi/10.1016/j.jacc.2018.08.1038)).\"}",
+ "parsed": {
+  "diagnosis": "anterior MI",
+  "stemi": "no",
+  "rationale": "QS complexes and poor R-wave progression across V1–V4 suggest anterior infarction, but ST elevation does not reach the required thresholds in two contiguous leads ([criteria](https://www.jacc.org/doi/10.1016/j.jacc.2018.08.1038))."
+ },
+ "time": "2026-10-21T05:39:57"
+}

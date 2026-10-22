@@ -1,0 +1,9 @@
+{
+ "raw": "```json\n{\"diagnosis\": \"other\", \"stemi\": \"no\", \"rationale\": \"Regular sinus rhythm with a narrow QRS, right axis deviation (lead I predominantly negative, lead III positive), a tall R wave in V1 and deep S waves in V5–V6, which fits right ventricular hypertrophy rather than any listed option, and there is no significant ST elevation.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "Regular sinus rhythm with a narrow QRS, right axis deviation (lead I predominantly negative, lead III positive), a tall R wave in V1 and deep S waves in V5–V6, which fits right ventricular hypertrophy rather than any listed option, and there is no significant ST elevation."
+ },
+ "time": "2026-10-18T09:47:11"
+}

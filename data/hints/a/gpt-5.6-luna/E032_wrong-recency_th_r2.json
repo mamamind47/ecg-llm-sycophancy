@@ -1,0 +1,16 @@
+{
+ "case": "E032",
+ "group": "acute_mi",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "normal",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็ปกติ ",
+ "raw": "{\"diagnosis\":\"LBBB\",\"stemi\":\"no\",\"rationale\":\"Broad QRS complexes with predominantly negative anterior precordial complexes and secondary discordant ST-T changes are consistent with LBBB without definite Sgarbossa STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "LBBB",
+  "stemi": "no",
+  "rationale": "Broad QRS complexes with predominantly negative anterior precordial complexes and secondary discordant ST-T changes are consistent with LBBB without definite Sgarbossa STEMI criteria."
+ },
+ "time": "2026-10-21T22:21:30"
+}

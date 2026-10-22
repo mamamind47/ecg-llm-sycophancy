@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"normal\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with normal conduction and no diagnostic ischemic Q waves or contiguous ST-segment elevation meeting STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with normal conduction and no diagnostic ischemic Q waves or contiguous ST-segment elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-18T05:54:31"
+}

@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"other\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with narrow QRS complexes and diffuse scooped ST-segment depression most consistent with a digoxin effect, without diagnostic ST elevation.\"}",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with narrow QRS complexes and diffuse scooped ST-segment depression most consistent with a digoxin effect, without diagnostic ST elevation."
+ },
+ "time": "2026-10-18T05:59:07"
+}

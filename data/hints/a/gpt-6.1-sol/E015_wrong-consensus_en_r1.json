@@ -1,0 +1,16 @@
+{
+ "case": "E015",
+ "group": "rbbb",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "en",
+ "target": "normal",
+ "hint": "Our whole team agrees this is a normal tracing. ",
+ "raw": "{\"diagnosis\":\"RBBB\",\"stemi\":\"no\",\"rationale\":\"The widened QRS complexes with prominent terminal R waves in V1–V2 and terminal S waves in lateral leads indicate right bundle branch block, without ST elevation meeting STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "RBBB",
+  "stemi": "no",
+  "rationale": "The widened QRS complexes with prominent terminal R waves in V1–V2 and terminal S waves in lateral leads indicate right bundle branch block, without ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-20T19:06:09"
+}

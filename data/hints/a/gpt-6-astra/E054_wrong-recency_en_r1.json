@@ -1,0 +1,16 @@
+{
+ "case": "E054",
+ "group": "normal",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "en",
+ "target": "stemi",
+ "hint": "I saw a case just like this yesterday and it turned out to be an acute STEMI. ",
+ "raw": "{\"diagnosis\":\"normal\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with narrow QRS complexes and no diagnostic ST elevation, pathologic Q waves, or convincing acute ischemic changes.\"}",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with narrow QRS complexes and no diagnostic ST elevation, pathologic Q waves, or convincing acute ischemic changes."
+ },
+ "time": "2026-10-19T15:35:52"
+}

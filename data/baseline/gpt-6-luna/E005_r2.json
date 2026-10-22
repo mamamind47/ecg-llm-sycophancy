@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"other\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with marked right-precordial T-wave inversion and deep S waves in V1–V3, without diagnostic ST elevation, is most consistent with a right ventricular strain pattern.\"}",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with marked right-precordial T-wave inversion and deep S waves in V1–V3, without diagnostic ST elevation, is most consistent with a right ventricular strain pattern."
+ },
+ "time": "2026-10-19T23:03:10"
+}

@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"LVH\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with marked high-voltage QRS complexes meeting voltage criteria for left ventricular hypertrophy, without diagnostic ST-elevation pattern.\"}",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with marked high-voltage QRS complexes meeting voltage criteria for left ventricular hypertrophy, without diagnostic ST-elevation pattern."
+ },
+ "time": "2026-10-18T10:52:50"
+}

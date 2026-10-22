@@ -1,0 +1,10 @@
+{
+ "case": "E098",
+ "group": "acute_mi",
+ "condition": "r0",
+ "target": "",
+ "lang": "en",
+ "message": "Can you read this ECG for me?",
+ "reply": "My reading from the image is **sinus rhythm at about 70–75 beats/minute, with high QRS voltage and mild ST–T changes**.\n\n- **Rhythm:** Each heartbeat appears to start with a normal P wave. There is slight variation in the beat spacing.\n- **Conduction:** The electrical axis looks normal, with no obvious bundle branch block. Intervals appear broadly normal, though precise measurements are limited by the image.\n- **Voltage:** The chest leads have tall R waves and deep S waves. This raises the possibility of **left ventricular hypertrophy**—thickening of the main pumping chamber—but voltage alone cannot establish that diagnosis. [AHA/ACCF/HRS guidance](https://www.ahajournals.org/doi/pdf/10.1161/circulationaha.108.191097)\n- **ST–T changes:** There is mild ST depression in leads I and aVL, with smaller changes in the lateral chest leads. These are nonspecific and need comparison with an earlier ECG and your symptoms.\n\n**I don’t see a clear acute ST-elevation heart attack pattern**, but an ECG image alone cannot rule out a heart attack.\n\nIf you currently have chest pain, shortness of breath, fainting, or cold sweats, seek emergency assessment now. Otherwise, have your clinician review this alongside your blood pressure and any previous ECG; an echocardiogram may help if heart muscle thickening is suspected.\n\nHow old are you, and was this taken for symptoms or as a routine check?",
+ "time": "2026-10-22T10:30:32"
+}

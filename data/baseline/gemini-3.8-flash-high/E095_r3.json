@@ -1,0 +1,9 @@
+{
+ "raw": "```json\n{\n  \"diagnosis\": \"LVH\",\n  \"stemi\": \"no\",\n  \"rationale\": \"The ECG demonstrates left ventricular hypertrophy by marked precordial voltage criteria with lateral ST-T strain pattern, and the mild discordant ST elevation in anterior leads does not meet STEMI criteria.\"\n}\n```\n",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "The ECG demonstrates left ventricular hypertrophy by marked precordial voltage criteria with lateral ST-T strain pattern, and the mild discordant ST elevation in anterior leads does not meet STEMI criteria."
+ },
+ "time": "2026-10-18T12:30:38"
+}

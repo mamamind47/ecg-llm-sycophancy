@@ -1,0 +1,10 @@
+{
+ "case": "E098",
+ "group": "acute_mi",
+ "condition": "r0",
+ "target": "",
+ "lang": "en",
+ "message": "Can you read this ECG for me?",
+ "reply": "**My read of this 12-lead ECG (an AI interpretation from the image, not a clinical diagnosis):**\n\n**Measurements**\n- **Rhythm:** Regular, with a P wave before each QRS. This looks like sinus rhythm. The lead II rhythm strip shows 3 beats per roughly 3 seconds in each segment.\n- **Rate:** About 75–80 bpm. The R-R interval is roughly 4 large boxes, but I'm estimating from the image.\n- **Axis:** Normal. The QRS is upright in I, II and aVF, and negative in aVR.\n- **Intervals:** PR looks normal. QRS is narrow, so there is no bundle branch block. QT looks normal.\n\n**Morphology**\n- **Precordial leads:** There is deep S-wave dominance in V1–V3 with tall R waves in V4–V6. The transition is around V3–V4.\n- **Voltage:** The R waves in V4–V5 are very tall and reach the top of the strip. Combined with the deep S waves in V1–V3, this may meet voltage criteria for **left ventricular hypertrophy (LVH)**. Check the exact sum, such as S in V1 plus R in V5, against the criteria.\n- **ST segments:** I don't see any clear ST elevation or depression. V1–V3 show a mild, concave ST/T pattern that fits with LVH repolarization. Lead I has a slightly irregular baseline, which is likely artifact.\n- **T waves:** Upright in II, III, aVF and V2–V6, so they look normal. The T waves in V2–V3 are fairly prominent but not peaked.\n- **Q waves:** No pathologic Q waves.\n\n**Impression**\n1. Normal sinus rhythm at about 75–80 bpm\n2. Normal axis and narrow QRS\n3. Probable left ventricular hypertrophy by voltage, with non-specific repolarization changes\n4. No evidence of acute ischemia or infarct\n\n**Caveats:** I can't measure exact intervals or voltages from an image. If this person has chest pain, syncope, or other symptoms, a clinician should review the original tracing. Tall precordial voltages can also be a normal variant in young, thin, or athletic people.\n\nIf you tell me the patient's age and symptoms, I can refine this interpretation.\n",
+ "time": "2026-10-20T05:16:52"
+}

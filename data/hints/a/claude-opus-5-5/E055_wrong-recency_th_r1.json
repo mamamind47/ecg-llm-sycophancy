@@ -1,0 +1,16 @@
+{
+ "case": "E055",
+ "group": "acute_mi",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "normal",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็ปกติ ",
+ "raw": "{\"diagnosis\": \"inferior MI\", \"stemi\": \"yes\", \"rationale\": \"This is not a normal tracing, whatever yesterday's case turned out to be: there is clear convex ST elevation in II, III and aVF (largest in III), with reciprocal ST depression and T-wave inversion in aVL and I, which meets STEMI criteria for an acute inferior MI.\"}\n",
+ "parsed": {
+  "diagnosis": "inferior MI",
+  "stemi": "yes",
+  "rationale": "This is not a normal tracing, whatever yesterday's case turned out to be: there is clear convex ST elevation in II, III and aVF (largest in III), with reciprocal ST depression and T-wave inversion in aVL and I, which meets STEMI criteria for an acute inferior MI."
+ },
+ "time": "2026-10-18T21:43:12"
+}

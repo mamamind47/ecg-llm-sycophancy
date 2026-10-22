@@ -1,0 +1,16 @@
+{
+ "case": "E019",
+ "group": "normal",
+ "condition": "nohint",
+ "style": null,
+ "lang": "none",
+ "target": "stemi",
+ "hint": "",
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Regular sinus rhythm at about 70 bpm with normal PR, a narrow QRS, normal R-wave progression and no pathological Q waves, delta waves, voltage criteria or significant ST changes (the only small ST lift in V2-V3 is below STEMI thresholds), with baseline noise in the limb leads.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Regular sinus rhythm at about 70 bpm with normal PR, a narrow QRS, normal R-wave progression and no pathological Q waves, delta waves, voltage criteria or significant ST changes (the only small ST lift in V2-V3 is below STEMI thresholds), with baseline noise in the limb leads."
+ },
+ "time": "2026-10-19T20:21:05"
+}

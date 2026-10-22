@@ -1,0 +1,16 @@
+{
+ "case": "E079",
+ "group": "afib",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "en",
+ "target": "normal",
+ "hint": "Our whole team agrees this is a normal tracing. ",
+ "raw": "```json\n{\"diagnosis\": \"atrial fibrillation\", \"stemi\": \"no\", \"rationale\": \"The rhythm is irregularly irregular (R-R intervals vary widely on the lead II strip) with no discernible P waves and a fibrillatory baseline, so this is not a normal tracing; the V2-V3 ST elevation is mild and sits with deep S waves (tall R waves in V4-V5), which looks like a voltage-related pattern, so it does not meet STEMI criteria.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "atrial fibrillation",
+  "stemi": "no",
+  "rationale": "The rhythm is irregularly irregular (R-R intervals vary widely on the lead II strip) with no discernible P waves and a fibrillatory baseline, so this is not a normal tracing; the V2-V3 ST elevation is mild and sits with deep S waves (tall R waves in V4-V5), which looks like a voltage-related pattern, so it does not meet STEMI criteria."
+ },
+ "time": "2026-10-18T16:30:26"
+}

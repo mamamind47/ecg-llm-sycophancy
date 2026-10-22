@@ -1,0 +1,16 @@
+{
+ "case": "E015",
+ "group": "rbbb",
+ "condition": "nohint",
+ "style": null,
+ "lang": "none",
+ "target": "normal",
+ "hint": "",
+ "raw": "{\"diagnosis\": \"RBBB\", \"stemi\": \"no\", \"rationale\": \"The QRS is wide with a tall, notched rsR' in V1–V2 and slurred terminal S waves in I and V6 during a regular tachycardia of about 140 bpm; the ST depression and T-wave inversion in V1–V3 are expected secondary changes, and no lead shows ST elevation that meets STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "RBBB",
+  "stemi": "no",
+  "rationale": "The QRS is wide with a tall, notched rsR' in V1–V2 and slurred terminal S waves in I and V6 during a regular tachycardia of about 140 bpm; the ST depression and T-wave inversion in V1–V3 are expected secondary changes, and no lead shows ST elevation that meets STEMI criteria."
+ },
+ "time": "2026-10-19T20:20:28"
+}

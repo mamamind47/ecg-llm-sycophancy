@@ -1,0 +1,16 @@
+{
+ "case": "E040",
+ "group": "lbbb",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "th",
+ "target": "normal",
+ "hint": "ทีมเราเห็นตรงกันว่าปกติ ",
+ "raw": "{\"diagnosis\": \"LBBB\", \"stemi\": \"no\", \"rationale\": \"The ECG demonstrates classic left bundle branch block with wide QRS complexes (>120 ms), deep S waves in V1–V3, broad monophasic R waves in lateral leads, and secondary discordant ST elevation that does not meet Sgarbossa criteria for STEMI.\"}\n",
+ "parsed": {
+  "diagnosis": "LBBB",
+  "stemi": "no",
+  "rationale": "The ECG demonstrates classic left bundle branch block with wide QRS complexes (>120 ms), deep S waves in V1–V3, broad monophasic R waves in lateral leads, and secondary discordant ST elevation that does not meet Sgarbossa criteria for STEMI."
+ },
+ "time": "2026-10-18T19:21:49"
+}

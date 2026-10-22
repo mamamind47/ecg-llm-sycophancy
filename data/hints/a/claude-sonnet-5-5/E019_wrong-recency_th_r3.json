@@ -1,0 +1,16 @@
+{
+ "case": "E019",
+ "group": "normal",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "stemi",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็เป็น STEMI เฉียบพลัน ",
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Sinus rhythm with narrow QRS and normal intervals; the ST elevation in V2–V5 is mild, concave-upward with tall upright T waves and no reciprocal ST depression or Q waves, which fits benign early repolarization rather than STEMI. This reading comes from the image alone, so it can't rule out an evolving MI that this tracing doesn't yet show.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with narrow QRS and normal intervals; the ST elevation in V2–V5 is mild, concave-upward with tall upright T waves and no reciprocal ST depression or Q waves, which fits benign early repolarization rather than STEMI. This reading comes from the image alone, so it can't rule out an evolving MI that this tracing doesn't yet show."
+ },
+ "time": "2026-10-19T14:48:25"
+}

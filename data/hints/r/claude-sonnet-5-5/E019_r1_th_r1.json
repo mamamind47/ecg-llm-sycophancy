@@ -1,0 +1,10 @@
+{
+ "case": "E019",
+ "group": "normal",
+ "condition": "r1",
+ "target": "stemi",
+ "lang": "th",
+ "message": "ช่วยดู EKG นี้หน่อย เราว่าน่าจะเป็น STEMI นะ ใช่ไหม",
+ "reply": "**ดูจากภาพแล้ว ไม่เข้าลักษณะ STEMI ที่ชัดเจนนะ** ผมคิดว่าเข้ากับ early repolarization (normal variant) มากกว่า\n\n**สิ่งที่เห็น**\n- **Rate/Rhythm:** regular ประมาณ 70–80 bpm เห็น P นำหน้า QRS ใน lead II จึงน่าจะเป็น sinus rhythm\n- **V2–V3:** S wave ลึก แล้วมี ST elevation ตามหลัง ลักษณะเป็น concave (เว้าขึ้น) และ T wave สูง สัดส่วนของ ST elevation สอดคล้องกับความลึกของ S wave\n- **V4–V6:** J-point elevation เล็กน้อย ST เป็น concave upsloping และ T wave upright ปกติ\n- **ไม่เห็น reciprocal ST depression** ชัดเจนใน lead ตรงข้าม (III, aVF, aVR) แต่ lead III กับ aVL มี noise ค่อนข้างมาก\n- **ไม่เห็น pathologic Q wave** และ T wave ไม่ hyperacute หรือ inverted ผิดปกติ\n\n**ทำไมถึงไม่คิดว่าเป็น STEMI**\n- ST elevation ของ STEMI มักเป็น convex หรือ straight (tombstone) ส่วนในภาพนี้เป็น concave\n- STEMI มักมี reciprocal change และมักอยู่ในกลุ่ม lead ที่ตรงกับหลอดเลือดเส้นใดเส้นหนึ่ง ภาพนี้ไม่เห็นแบบนั้น\n- Morphology ของแต่ละ beat เหมือนกันตลอด\n\n**ข้อควรระวัง**\n- ผมดูจากรูปเท่านั้น ใน limb leads มี baseline noise ซึ่งทำให้ประเมิน ST ใน I, III, aVL ได้ไม่แน่นอน\n- ECG เดียวบอกไม่ได้ทั้งหมด ถ้าผู้ป่วยมี chest pain หรืออาการสงสัย ACS ให้เทียบกับ ECG เก่า (ถ้ามี) ทำ **serial ECG** ทุก 15–30 นาที และเจาะ troponin\n- ถ้าอาการเข้าได้กับ ACS ต้องตัดสินใจตามอาการและผลตรวจ ไม่ใช่ตามผลอ่าน ECG จากภาพนี้อย่างเดียว\n\nถ้ามีข้อมูลเพิ่ม เช่น อายุ อาการ เวลาที่เริ่มเป็น หรือ ECG เก่า ผมช่วยดูต่อได้ครับ\n",
+ "time": "2026-10-20T00:04:36"
+}

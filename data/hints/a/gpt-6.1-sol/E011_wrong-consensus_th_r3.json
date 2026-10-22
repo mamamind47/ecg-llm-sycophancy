@@ -1,0 +1,16 @@
+{
+ "case": "E011",
+ "group": "first_deg_avb",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "th",
+ "target": "normal",
+ "hint": "ทีมเราเห็นตรงกันว่าปกติ ",
+ "raw": "{\"diagnosis\":\"1st degree AV block\",\"stemi\":\"no\",\"rationale\":\"Regular sinus rhythm with a consistently prolonged PR interval of approximately 240 ms, narrow QRS complexes, and no ST elevation meeting STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "1st degree AV block",
+  "stemi": "no",
+  "rationale": "Regular sinus rhythm with a consistently prolonged PR interval of approximately 240 ms, narrow QRS complexes, and no ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-21T06:05:58"
+}

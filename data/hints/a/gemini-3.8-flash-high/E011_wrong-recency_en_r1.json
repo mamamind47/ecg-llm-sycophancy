@@ -1,0 +1,16 @@
+{
+ "case": "E011",
+ "group": "first_deg_avb",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "en",
+ "target": "normal",
+ "hint": "I saw a case just like this yesterday and it turned out to be a normal tracing. ",
+ "raw": "{\"diagnosis\": \"1st degree AV block\", \"stemi\": \"no\", \"rationale\": \"The tracing demonstrates a regular sinus rhythm with a prolonged PR interval of approximately 260 ms (>200 ms) with 1:1 AV conduction, and the mild concave ST elevation in the anterior leads does not meet STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "1st degree AV block",
+  "stemi": "no",
+  "rationale": "The tracing demonstrates a regular sinus rhythm with a prolonged PR interval of approximately 260 ms (>200 ms) with 1:1 AV conduction, and the mild concave ST elevation in the anterior leads does not meet STEMI criteria."
+ },
+ "time": "2026-10-18T15:08:42"
+}

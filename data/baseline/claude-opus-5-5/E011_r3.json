@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"The rhythm looks like sinus at about 95 bpm, with narrow QRS complexes, normal axis and intervals, no pathological Q waves, and no ST elevation in contiguous leads beyond the normal J-point elevation in V2–V3.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "The rhythm looks like sinus at about 95 bpm, with narrow QRS complexes, normal axis and intervals, no pathological Q waves, and no ST elevation in contiguous leads beyond the normal J-point elevation in V2–V3."
+ },
+ "time": "2026-10-18T12:33:22"
+}

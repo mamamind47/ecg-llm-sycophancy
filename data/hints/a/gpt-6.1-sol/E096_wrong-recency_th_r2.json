@@ -1,0 +1,16 @@
+{
+ "case": "E096",
+ "group": "normal",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "stemi",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็เป็น STEMI เฉียบพลัน ",
+ "raw": "{\"diagnosis\":\"anterior MI\",\"stemi\":\"no\",\"rationale\":\"Prominent broad anterior T waves suggest acute anterior myocardial infarction, but J-point ST elevation does not meet STEMI criteria in contiguous leads.\"}",
+ "parsed": {
+  "diagnosis": "anterior MI",
+  "stemi": "no",
+  "rationale": "Prominent broad anterior T waves suggest acute anterior myocardial infarction, but J-point ST elevation does not meet STEMI criteria in contiguous leads."
+ },
+ "time": "2026-10-21T05:47:46"
+}

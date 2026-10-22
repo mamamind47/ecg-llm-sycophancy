@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"LVH\", \"stemi\": \"no\", \"rationale\": \"Very deep S waves in V1–V3 (about 25 mm or more) and very tall R waves in V4–V5 meet voltage criteria for LVH, and the concave ST elevation with tall T waves in V1–V3 is the expected LVH repolarization pattern rather than STEMI, with no reciprocal changes.\"}\n",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "Very deep S waves in V1–V3 (about 25 mm or more) and very tall R waves in V4–V5 meet voltage criteria for LVH, and the concave ST elevation with tall T waves in V1–V3 is the expected LVH repolarization pattern rather than STEMI, with no reciprocal changes."
+ },
+ "time": "2026-10-18T12:34:09"
+}

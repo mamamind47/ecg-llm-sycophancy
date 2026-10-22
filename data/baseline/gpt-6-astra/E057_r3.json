@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"normal\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with normal axis and intervals, preserved R-wave progression, and mild concave anterior ST elevation below STEMI thresholds.\"}",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with normal axis and intervals, preserved R-wave progression, and mild concave anterior ST elevation below STEMI thresholds."
+ },
+ "time": "2026-10-18T21:08:31"
+}

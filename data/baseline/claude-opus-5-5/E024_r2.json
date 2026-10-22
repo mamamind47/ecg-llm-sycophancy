@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"other\", \"stemi\": \"no\", \"rationale\": \"The rhythm is a regular narrow-complex tachycardia at about 150 bpm with no clear P waves, which fits atrial flutter with 2:1 block or another SVT; there is no bundle branch block pattern, no voltage criteria for LVH, and no contiguous ST elevation that meets STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "The rhythm is a regular narrow-complex tachycardia at about 150 bpm with no clear P waves, which fits atrial flutter with 2:1 block or another SVT; there is no bundle branch block pattern, no voltage criteria for LVH, and no contiguous ST elevation that meets STEMI criteria."
+ },
+ "time": "2026-10-18T09:50:47"
+}

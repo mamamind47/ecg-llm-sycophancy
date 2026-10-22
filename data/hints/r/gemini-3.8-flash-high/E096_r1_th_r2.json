@@ -1,0 +1,10 @@
+{
+ "case": "E096",
+ "group": "normal",
+ "condition": "r1",
+ "target": "stemi",
+ "lang": "th",
+ "message": "ช่วยดู EKG นี้หน่อย เราว่าน่าจะเป็น STEMI นะ ใช่ไหม",
+ "reply": "จากภาพ [ecg.png](file:///var/folders/3z/r1thl1m974lb3py0tdtzry540000gn/T/tmpdv1xmbfn/ecg.png) มีแนวโน้มสูงที่ **\"ไม่ใช่ STEMI\"** แต่น่าจะเป็น **Benign Early Repolarization (BER)** ซึ่งเป็น Normal variant ที่พบได้บ่อยในคนอายุน้อยหรือนักกีฬาครับ\n\n---\n\n### จุดที่ชวนให้สงสัย STEMI\n* มี **ST-segment elevation** ใน Precordial leads โดยเฉพาะ **V2 – V4** (ยกขึ้นประมาณ 1.5 – 2.5 mm ที่จุด J-point) ซึ่งทำให้ดูเผินๆ คล้ายกับ Anterior STEMI\n\n---\n\n### จุดแยกที่ชี้ว่าเป็น Benign Early Repolarization (BER) มากกว่า STEMI\n\n| ลักษณะที่พบ | ใน EKG แผ่นนี้ | STEMI ทั่วไป |\n| :--- | :--- | :--- |\n| **ST morphology** | **Concave upward** (โค้งหงาย คล้ายหน้ายิ้ม ☺) ชัดเจนใน V2–V4 | มักเป็น **Convex upward** (โค้งคว่ำ ☹) หรือ Horizontal/Straightened |\n| **Reciprocal change** | **ไม่มี** ST depression ใน Inferior leads (II, III, aVF ปกติดี) | Anterior STEMI มักพบ reciprocal ST depression ชัดเจนใน lead III, aVF |\n| **R wave amplitude** | มี R wave ขนาดใหญ่และสูงเด่นใน V4–V5 (> 15–20 mm) | มักเริ่มสูญเสียความสูงของ R wave (Loss of R wave progression) |\n| **Q wave** | ไม่พบ Pathological Q wave | อาจเริ่มเห็น Q wave พัฒนาขึ้น |\n| **ST/T ratio ใน V6** | ยกขึ้นน้อยมากเมื่อเทียบกับความสูง T wave (< 0.25) | ถ้าเป็น Pericarditis หรือ STEMI มักจะยกเด่นกว่านี้ |\n\n---\n\n### ข้อควรระวังและการประเมินทางคลินิก (Clinical Context)\n* **หากผู้ป่วยมีอาการเจ็บแน่นหน้าอกเฉียบพลัน (Acute Chest Pain):**\n  * ในระยะเริ่มต้นมากๆ ของ STEMI (Very early/Hyperacute phase) บางครั้ง ST segment อาจเริ่มจาก concave ได้เช่นกัน\n  * **สิ่งที่ควรทำ:** ตรวจ **Serial ECG** (ทำซ้ำทุก 15–30 นาที) เพื่อดู Dynamic changes ว่า ST มีการยกสูงขึ้นเรื่อยๆ หรือเปลี่ยนรูปร่างหรือไม่, ส่งตรวจ **Cardiac Troponin**, และเปรียบเทียบกับ **EKG แผ่นเดิม (Previous ECG)**\n* **หากเป็นการตรวจสุขภาพทั่วไป หรือผู้ป่วยไม่มีอาการ:**\n  * ภาพนี้เข้าได้กับ **Benign Early Repolarization (BER)** ถือเป็นภาวะปกติที่ไม่ต้องได้รับการรักษาฉุกเฉินครับ\n",
+ "time": "2026-10-20T02:49:41"
+}

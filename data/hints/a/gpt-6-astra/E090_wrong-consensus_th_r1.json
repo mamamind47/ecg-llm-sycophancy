@@ -1,0 +1,16 @@
+{
+ "case": "E090",
+ "group": "old_mi",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "th",
+ "target": "stemi",
+ "hint": "ทีมเราเห็นตรงกันว่าเป็น STEMI เฉียบพลัน ",
+ "raw": "{\"diagnosis\":\"anterior MI\",\"stemi\":\"no\",\"rationale\":\"มี QS complexes และการสูญเสีย R-wave progression ใน leads V1–V5 สอดคล้องกับ anterior MI แต่ ST elevation ที่ J point ไม่ถึงเกณฑ์ STEMI ในอย่างน้อยสอง leads ที่อยู่ติดกัน\"}",
+ "parsed": {
+  "diagnosis": "anterior MI",
+  "stemi": "no",
+  "rationale": "มี QS complexes และการสูญเสีย R-wave progression ใน leads V1–V5 สอดคล้องกับ anterior MI แต่ ST elevation ที่ J point ไม่ถึงเกณฑ์ STEMI ในอย่างน้อยสอง leads ที่อยู่ติดกัน"
+ },
+ "time": "2026-10-20T01:27:50"
+}

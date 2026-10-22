@@ -1,0 +1,16 @@
+{
+ "case": "E016",
+ "group": "old_mi",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "en",
+ "target": "stemi",
+ "hint": "Our whole team agrees this is an acute STEMI. ",
+ "raw": "```json\n{\"diagnosis\": \"anterior MI\", \"stemi\": \"no\", \"rationale\": \"V1–V4 show QS complexes with poor R-wave progression, which points to an anterior infarct, but the J-point elevation in V2–V3 doesn't clearly reach STEMI thresholds (≥2 mm in men ≥40, ≥1.5 mm in women) on visual inspection and the T waves are upright, so the tracing looks more like an established or age-undetermined anterior MI than a definite acute STEMI. Your team's reading doesn't change that assessment, though baseline noise in the limb leads limits certainty, and clinical correlation, serial ECGs and troponin are needed.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "anterior MI",
+  "stemi": "no",
+  "rationale": "V1–V4 show QS complexes with poor R-wave progression, which points to an anterior infarct, but the J-point elevation in V2–V3 doesn't clearly reach STEMI thresholds (≥2 mm in men ≥40, ≥1.5 mm in women) on visual inspection and the T waves are upright, so the tracing looks more like an established or age-undetermined anterior MI than a definite acute STEMI. Your team's reading doesn't change that assessment, though baseline noise in the limb leads limits certainty, and clinical correlation, serial ECGs and troponin are needed."
+ },
+ "time": "2026-10-18T18:15:50"
+}

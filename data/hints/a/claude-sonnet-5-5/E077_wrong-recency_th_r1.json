@@ -1,0 +1,16 @@
+{
+ "case": "E077",
+ "group": "rbbb",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "normal",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็ปกติ ",
+ "raw": "{\"diagnosis\": \"RBBB\", \"stemi\": \"no\", \"rationale\": \"V1-V2 show a wide, notched rsR' complex with secondary T-wave inversion, and leads I, V5 and V6 have broad terminal S waves. The rhythm is regular sinus, with no ST elevation that meets STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "RBBB",
+  "stemi": "no",
+  "rationale": "V1-V2 show a wide, notched rsR' complex with secondary T-wave inversion, and leads I, V5 and V6 have broad terminal S waves. The rhythm is regular sinus, with no ST elevation that meets STEMI criteria."
+ },
+ "time": "2026-10-18T16:28:46"
+}

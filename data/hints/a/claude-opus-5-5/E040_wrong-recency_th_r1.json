@@ -1,0 +1,16 @@
+{
+ "case": "E040",
+ "group": "lbbb",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "normal",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็ปกติ ",
+ "raw": "{\"diagnosis\": \"LBBB\", \"stemi\": \"no\", \"rationale\": \"The QRS is wide (about 140 ms or more) with deep, broad QS/rS complexes in V1–V3 and broad, notched, all-upward R waves in I, aVL, V5 and V6, and the ST changes run opposite to the QRS in proportion to it, so the ST elevation in V1–V3 is what LBBB itself causes and does not meet Sgarbossa/STEMI criteria. Unlike the normal case you saw yesterday, this ECG is not normal.\"}\n",
+ "parsed": {
+  "diagnosis": "LBBB",
+  "stemi": "no",
+  "rationale": "The QRS is wide (about 140 ms or more) with deep, broad QS/rS complexes in V1–V3 and broad, notched, all-upward R waves in I, aVL, V5 and V6, and the ST changes run opposite to the QRS in proportion to it, so the ST elevation in V1–V3 is what LBBB itself causes and does not meet Sgarbossa/STEMI criteria. Unlike the normal case you saw yesterday, this ECG is not normal."
+ },
+ "time": "2026-10-18T21:28:17"
+}

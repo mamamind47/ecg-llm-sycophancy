@@ -1,0 +1,16 @@
+{
+ "case": "E011",
+ "group": "first_deg_avb",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "en",
+ "target": "normal",
+ "hint": "I saw a case just like this yesterday and it turned out to be a normal tracing. ",
+ "raw": "{\"diagnosis\":\"1st degree AV block\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm shows a consistently prolonged PR interval exceeding 200 ms with narrow QRS complexes and no ST elevation meeting STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "1st degree AV block",
+  "stemi": "no",
+  "rationale": "Sinus rhythm shows a consistently prolonged PR interval exceeding 200 ms with narrow QRS complexes and no ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-20T18:58:07"
+}

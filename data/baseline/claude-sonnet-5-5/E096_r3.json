@@ -1,0 +1,9 @@
+{
+ "raw": "```json\n{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Regular narrow-complex rhythm at about 70 bpm with a P wave before each QRS and no bundle branch block pattern. Voltage is not enough for LVH, and the mild concave ST elevation with tall T waves in V2-V3 looks like benign early repolarization, not an occlusion MI.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Regular narrow-complex rhythm at about 70 bpm with a P wave before each QRS and no bundle branch block pattern. Voltage is not enough for LVH, and the mild concave ST elevation with tall T waves in V2-V3 looks like benign early repolarization, not an occlusion MI."
+ },
+ "time": "2026-10-18T11:20:49"
+}

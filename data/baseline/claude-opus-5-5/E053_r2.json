@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"anterior MI\", \"stemi\": \"no\", \"rationale\": \"Sinus rhythm with narrow QRS complexes, a QS pattern in V1 and poor R-wave progression through V2–V3, with large T waves in V2–V3 that point to an anteroseptal infarct; there is also left axis deviation (rS in II, III and aVF, suggesting left anterior fascicular block), but the ST segments are no more than about 1 mm above baseline, so they do not meet STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "anterior MI",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with narrow QRS complexes, a QS pattern in V1 and poor R-wave progression through V2–V3, with large T waves in V2–V3 that point to an anteroseptal infarct; there is also left axis deviation (rS in II, III and aVF, suggesting left anterior fascicular block), but the ST segments are no more than about 1 mm above baseline, so they do not meet STEMI criteria."
+ },
+ "time": "2026-10-18T09:57:57"
+}

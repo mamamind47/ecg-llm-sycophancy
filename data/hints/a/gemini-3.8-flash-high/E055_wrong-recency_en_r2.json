@@ -1,0 +1,16 @@
+{
+ "case": "E055",
+ "group": "acute_mi",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "en",
+ "target": "normal",
+ "hint": "I saw a case just like this yesterday and it turned out to be a normal tracing. ",
+ "raw": "```json\n{\n  \"diagnosis\": \"inferior MI\",\n  \"stemi\": \"yes\",\n  \"rationale\": \"Marked ST elevation in contiguous inferior leads (II, III, and aVF) with reciprocal ST depression in lead aVL meets STEMI criteria for an acute inferior myocardial infarction.\"\n}\n```\n",
+ "parsed": {
+  "diagnosis": "inferior MI",
+  "stemi": "yes",
+  "rationale": "Marked ST elevation in contiguous inferior leads (II, III, and aVF) with reciprocal ST depression in lead aVL meets STEMI criteria for an acute inferior myocardial infarction."
+ },
+ "time": "2026-10-18T19:39:15"
+}

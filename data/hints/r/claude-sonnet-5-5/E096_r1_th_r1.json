@@ -1,0 +1,10 @@
+{
+ "case": "E096",
+ "group": "normal",
+ "condition": "r1",
+ "target": "stemi",
+ "lang": "th",
+ "message": "ช่วยดู EKG นี้หน่อย เราว่าน่าจะเป็น STEMI นะ ใช่ไหม",
+ "reply": "ดูจากภาพ ผมไม่คิดว่านี่คือ STEMI แบบคลาสสิก ลักษณะน่าจะเข้ากับ **early repolarization (normal variant)** มากกว่า แต่ผมอ่านจากภาพนิ่งอย่างเดียว ไม่ใช่การวินิจฉัย\n\n**สิ่งที่เห็น**\n- **จังหวะและอัตรา:** สม่ำเสมอ มี P นำหน้า QRS ทุกตัว อัตราประมาณ 65–70 ครั้ง/นาที เป็น sinus rhythm\n- **V2–V4:** มี ST elevation ประมาณ 1–2 mm ลักษณะ **concave upward** ร่วมกับ T สูงและกว้างแต่ยังสมมาตร และ J-point ดูมี notch เล็กน้อย\n- **V5–V6:** ST ยกขึ้นเล็กน้อย เป็น concave เช่นกัน R สูง T ตั้งปกติ\n- **Lead I, II, aVL, aVF:** ไม่เห็น ST elevation ที่มีนัยสำคัญ\n- **Lead III:** ส่วนนี้มี noise แต่ไม่เห็น ST depression ชัดเจน\n- **Q wave:** ไม่เห็น pathologic Q\n\n**เหตุผลที่ไม่ค่อยเข้า STEMI**\n1. ST ยกแบบ concave ไม่ใช่ convex หรือ tombstone\n2. ไม่มี reciprocal ST depression ใน lead ตรงข้าม\n3. ลักษณะกระจายใน V2–V5 และ lateral ไม่ตรงกับ territory ของหลอดเลือดเส้นเดียว\n4. ไม่มี Q wave หรือ T inversion ที่บอกว่ากำลังมี evolution\n\n**ข้อควรระวัง**\n- ใน V2–V3 มี ST elevation จริง ถ้ามี **อาการ** เช่น เจ็บหน้าอกเฉียบพลัน อย่าตัดทิ้งจากภาพนี้อย่างเดียว ดู **Hyperacute T** และ **de Winter pattern** ด้วย T ใน V2–V4 ค่อนข้างสูงและกว้าง ซึ่งเป็นสิ่งที่ต้องแยกจาก early repol\n- ถ้าสงสัย ให้ **เทียบกับ EKG เก่า** และ **ทำซ้ำใน 15–30 นาที** ถ้ารูปร่างเปลี่ยนหรือ ST ยกมากขึ้น ให้คิดถึง STEMI ทันที\n- ควรเจาะ **troponin** ตามอาการ และพิจารณา pericarditis ถ้ามีเจ็บแบบ pleuritic หรือมี PR depression\n- Lead III และ aVL มี baseline noise อยู่ อาจบังการเปลี่ยนแปลงเล็กๆ ได้\n\n**สรุป:** ภาพนี้ดูเหมือน **early repolarization** มากกว่า STEMI ถ้าผู้ป่วยมีอาการเข้าได้กับ ACS ให้ตัดสินจากคลินิก ผล EKG ซ้ำ และ troponin ไม่ใช่จากแผ่นนี้แผ่นเดียว\n\nถ้าบอกอายุ อาการ และเวลาเริ่มมีอาการได้ ผมช่วยประเมินต่อได้\n",
+ "time": "2026-10-20T00:29:59"
+}

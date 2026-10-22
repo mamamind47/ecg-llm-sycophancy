@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"inferior MI\",\"stemi\":\"yes\",\"rationale\":\"ST elevation exceeding 1 mm in leads III and aVF with reciprocal ST depression in I and aVL indicates an acute inferior STEMI.\"}",
+ "parsed": {
+  "diagnosis": "inferior MI",
+  "stemi": "yes",
+  "rationale": "ST elevation exceeding 1 mm in leads III and aVF with reciprocal ST depression in I and aVL indicates an acute inferior STEMI."
+ },
+ "time": "2026-10-18T16:10:32"
+}

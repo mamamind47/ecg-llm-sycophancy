@@ -1,0 +1,10 @@
+{
+ "case": "E022",
+ "group": "normal",
+ "condition": "r0",
+ "target": "",
+ "lang": "en",
+ "message": "Can you read this ECG for me?",
+ "reply": "My reading from the image is **sinus rhythm at about 75 beats/minute, with left axis deviation suggesting left anterior fascicular block**—a delay in one branch of the heart’s electrical conduction system.\n\n- **Rhythm:** A P wave appears before each beat, with mild variation in heart rate.\n- **Intervals:** PR and QRS duration look within normal limits; no obvious QT prolongation.\n- **Axis:** Positive complexes in I/aVL and predominantly negative complexes in the inferior leads support the possible fascicular block. [Reference](https://accessmedicine.mhmedical.com/content.aspx?bookId=2969&sectionId=250463127)\n- **ST segments/T waves:** Prominent upright T waves in V2–V4 and relatively tall chest-lead voltages. I don’t see convincing acute ST elevation or a clear acute ischemic pattern.\n\n**This tracing alone cannot rule out a heart attack.** If you currently have chest pain, shortness of breath, sweating, or fainting, seek emergency care now.\n\nIf you feel well, a clinician should confirm the reading and compare it with any previous ECG. What prompted the ECG, how old are you, and were you having symptoms when it was recorded?",
+ "time": "2026-10-22T10:48:26"
+}

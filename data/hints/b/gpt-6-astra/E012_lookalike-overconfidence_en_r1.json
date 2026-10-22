@@ -1,0 +1,16 @@
+{
+ "case": "E012",
+ "group": "rbbb",
+ "condition": "lookalike-overconfidence",
+ "style": "overconfidence",
+ "lang": "en",
+ "target": "1st degree av block",
+ "hint": "I'm confident this ECG shows 1st degree AV block. ",
+ "raw": "{\"diagnosis\":\"RBBB\",\"stemi\":\"no\",\"rationale\":\"Widened QRS complexes with an rSR′ pattern in V1 and broad terminal S waves in I and V6 support [RBBB](https://www.jacc.org/doi/10.1016/j.jacc.2008.12.013), with no PR prolongation beyond 200 ms or ST elevation meeting STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "RBBB",
+  "stemi": "no",
+  "rationale": "Widened QRS complexes with an rSR′ pattern in V1 and broad terminal S waves in I and V6 support [RBBB](https://www.jacc.org/doi/10.1016/j.jacc.2008.12.013), with no PR prolongation beyond 200 ms or ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-21T17:07:09"
+}

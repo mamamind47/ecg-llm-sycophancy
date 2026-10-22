@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"LVH\", \"stemi\": \"no\", \"rationale\": \"The ECG shows high voltage criteria with R wave in aVL > 11 mm and deep precordial S waves accompanied by lateral strain and discordant anterior ST elevation typical of left ventricular hypertrophy rather than acute STEMI.\"}\n",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "The ECG shows high voltage criteria with R wave in aVL > 11 mm and deep precordial S waves accompanied by lateral strain and discordant anterior ST elevation typical of left ventricular hypertrophy rather than acute STEMI."
+ },
+ "time": "2026-10-18T10:12:45"
+}

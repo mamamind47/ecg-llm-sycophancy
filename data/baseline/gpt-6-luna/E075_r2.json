@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"other\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with narrow QRS complexes and prominent precordial voltages; no diagnostic ST elevation or clear acute infarction pattern.\"}",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with narrow QRS complexes and prominent precordial voltages; no diagnostic ST elevation or clear acute infarction pattern."
+ },
+ "time": "2026-10-19T23:12:32"
+}

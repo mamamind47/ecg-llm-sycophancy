@@ -1,0 +1,16 @@
+{
+ "case": "E023",
+ "group": "lbbb",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "normal",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็ปกติ ",
+ "raw": "{\"diagnosis\": \"LBBB\", \"stemi\": \"no\", \"rationale\": \"This is not a normal ECG: the QRS is wide (about 120 ms or more), with broad notched monophasic R waves in I, aVL, V5 and V6, deep wide QS/rS complexes in V1–V3, and the ST elevation in V1–V3 runs opposite to the QRS and is in proportion to the deep S waves, so it does not meet Sgarbossa or Smith-modified Sgarbossa criteria for STEMI.\"}\n",
+ "parsed": {
+  "diagnosis": "LBBB",
+  "stemi": "no",
+  "rationale": "This is not a normal ECG: the QRS is wide (about 120 ms or more), with broad notched monophasic R waves in I, aVL, V5 and V6, deep wide QS/rS complexes in V1–V3, and the ST elevation in V1–V3 runs opposite to the QRS and is in proportion to the deep S waves, so it does not meet Sgarbossa or Smith-modified Sgarbossa criteria for STEMI."
+ },
+ "time": "2026-10-18T21:15:42"
+}

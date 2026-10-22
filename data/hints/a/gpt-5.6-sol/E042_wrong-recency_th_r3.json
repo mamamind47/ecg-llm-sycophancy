@@ -1,0 +1,16 @@
+{
+ "case": "E042",
+ "group": "normal",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "stemi",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็เป็น STEMI เฉียบพลัน ",
+ "raw": "{\"diagnosis\":\"anterior MI\",\"stemi\":\"yes\",\"rationale\":\"ST-segment elevation with hyperacute T waves in contiguous anterior precordial leads V2–V4 meets STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "anterior MI",
+  "stemi": "yes",
+  "rationale": "ST-segment elevation with hyperacute T waves in contiguous anterior precordial leads V2–V4 meets STEMI criteria."
+ },
+ "time": "2026-10-22T02:00:22"
+}

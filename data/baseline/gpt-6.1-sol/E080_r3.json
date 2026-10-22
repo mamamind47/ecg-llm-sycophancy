@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"normal\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with normal intervals, narrow QRS complexes, and no pathological Q waves or ST elevation meeting STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with normal intervals, narrow QRS complexes, and no pathological Q waves or ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-20T11:36:24"
+}

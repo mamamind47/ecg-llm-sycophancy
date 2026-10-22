@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"anterior MI\",\"stemi\":\"yes\",\"rationale\":\"Sinus rhythm with contiguous ST-segment elevation and hyperacute T waves in V2–V4, with reciprocal inferior ST depression, meets anterior STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "anterior MI",
+  "stemi": "yes",
+  "rationale": "Sinus rhythm with contiguous ST-segment elevation and hyperacute T waves in V2–V4, with reciprocal inferior ST depression, meets anterior STEMI criteria."
+ },
+ "time": "2026-10-18T10:54:43"
+}

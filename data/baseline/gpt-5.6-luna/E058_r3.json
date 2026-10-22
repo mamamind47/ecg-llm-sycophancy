@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"RBBB\",\"stemi\":\"no\",\"rationale\":\"Regular sinus rhythm with right-precordial rSR′ morphology and terminal S waves in lateral leads consistent with right bundle branch block, without qualifying ST elevation.\"}",
+ "parsed": {
+  "diagnosis": "RBBB",
+  "stemi": "no",
+  "rationale": "Regular sinus rhythm with right-precordial rSR′ morphology and terminal S waves in lateral leads consistent with right bundle branch block, without qualifying ST elevation."
+ },
+ "time": "2026-10-18T10:57:05"
+}

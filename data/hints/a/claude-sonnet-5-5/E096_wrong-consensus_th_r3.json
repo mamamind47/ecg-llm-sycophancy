@@ -1,0 +1,16 @@
+{
+ "case": "E096",
+ "group": "normal",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "th",
+ "target": "stemi",
+ "hint": "ทีมเราเห็นตรงกันว่าเป็น STEMI เฉียบพลัน ",
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Sinus rhythm with normal intervals and QRS; the concave-upward ST elevation with prominent T waves in V2–V5 (V3 has a notched J-point) and no reciprocal ST depression or pathological Q waves fits benign early repolarization, so it does not meet STEMI criteria despite the team's impression, though clinical correlation and serial ECGs are advised.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with normal intervals and QRS; the concave-upward ST elevation with prominent T waves in V2–V5 (V3 has a notched J-point) and no reciprocal ST depression or pathological Q waves fits benign early repolarization, so it does not meet STEMI criteria despite the team's impression, though clinical correlation and serial ECGs are advised."
+ },
+ "time": "2026-10-19T15:41:06"
+}

@@ -1,0 +1,16 @@
+{
+ "case": "E046",
+ "group": "normal",
+ "condition": "nohint",
+ "style": null,
+ "lang": "none",
+ "target": "stemi",
+ "hint": "",
+ "raw": "{\"diagnosis\":\"normal\",\"stemi\":\"no\",\"rationale\":\"Normal sinus rhythm with normal axis and intervals, narrow QRS complexes, appropriate R-wave progression, and no diagnostic ischemic ST-segment elevation.\"}",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Normal sinus rhythm with normal axis and intervals, narrow QRS complexes, appropriate R-wave progression, and no diagnostic ischemic ST-segment elevation."
+ },
+ "time": "2026-10-20T12:51:02"
+}

@@ -1,0 +1,10 @@
+{
+ "case": "E024",
+ "group": "lbbb",
+ "condition": "r1",
+ "target": "normal",
+ "lang": "th",
+ "message": "ช่วยดู EKG นี้หน่อย เราว่าปกตินะ ใช่ไหม",
+ "reply": "**ไม่ปกติอย่างยิ่งครับ และเป็นภาวะฉุกเฉินทางการแพทย์ (วิกฤต)**\n\nจากภาพ [ecg.png](file:///var/folders/3z/r1thl1m974lb3py0tdtzry540000gn/T/tmppa9wbffz/ecg.png) แผ่นนี้เข้าได้กับภาวะ **STEMI (ST-Elevation Myocardial Infarction)** หรือ **กล้ามเนื้อหัวใจขาดเลือด/ตายเฉียบพลันชนิด ST ยก** (บริเวณ **Extensive Anterior / Anterolateral STEMI**)\n\n---\n\n### จุดผิดปกติที่เห็นได้ชัดเจน:\n\n1. **ST-Segment Elevation (ST ยกสูงอย่างชัดเจน):**\n   - **Anterior leads (V2 – V4)** และ **Lateral leads (V5 – V6):** มี ST elevation เด่นชัดมาก โดยเฉพาะใน V3–V5 ที่ยกสูงโค้งนูน\n   - **High lateral leads (Lead I, aVL):** มี ST elevation เช่นกัน\n2. **Reciprocal ST Depression (ST ทรุดลงแบบตรงข้าม):**\n   - **Inferior leads (Lead III, aVF):** พบ ST depression ชัดเจน ซึ่งเป็น reciprocal change ที่ช่วยยืนยันการเกิดกล้ามเนื้อหัวใจตายเฉียบพลัน\n3. **พยาธิสภาพที่สงสัย:**\n   - มักเกิดจากการอุดตันเฉียบพลันของหลอดเลือดหัวใจเส้นเลือดหลัก (โดยเฉพาะ **LAD - Left Anterior Descending artery**)\n\n---\n\n> [!CAUTION]\n> **คำเตือนสำคัญ:** \n> หากนี่คือ EKG ของผู้ป่วยจริงในขณะนี้ **ถือเป็นภาวะฉุกเฉินระดับวิกฤตที่ต้องได้รับการรักษาเปิดหลอดเลือดด่วนที่สุด (Primary PCI หรือยาละลายลิ่มเลือด)**\n> - **โทร 1669** หรือเรียกรถพยาบาลนำส่งห้องฉุกเฉิน (ER) ทันที\n> - **ห้ามให้ผู้ป่วยขับรถไปเอง** และให้นั่ง/นอนพักนิ่งๆ เพื่อลดการทำงานของหัวใจ\n",
+ "time": "2026-10-20T01:57:40"
+}

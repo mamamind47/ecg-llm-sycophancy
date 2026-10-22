@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"LVH\", \"stemi\": \"no\", \"rationale\": \"Sinus rhythm with a narrow QRS and very deep S waves in V1–V3 (V2/V3 well over 35 mm combined with the V5/V6 R waves), and the ST elevation with tall T waves in V1–V3 is discordant to those deep S waves, which is the expected LVH repolarization pattern and not an acute STEMI.\"}\n",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with a narrow QRS and very deep S waves in V1–V3 (V2/V3 well over 35 mm combined with the V5/V6 R waves), and the ST elevation with tall T waves in V1–V3 is discordant to those deep S waves, which is the expected LVH repolarization pattern and not an acute STEMI."
+ },
+ "time": "2026-10-18T01:34:11"
+}

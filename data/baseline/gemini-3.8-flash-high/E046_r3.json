@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Normal sinus rhythm at approximately 60 bpm with normal axis, normal intervals, and physiologic ST segments in V2-V3 that do not meet STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Normal sinus rhythm at approximately 60 bpm with normal axis, normal intervals, and physiologic ST segments in V2-V3 that do not meet STEMI criteria."
+ },
+ "time": "2026-10-18T11:41:04"
+}

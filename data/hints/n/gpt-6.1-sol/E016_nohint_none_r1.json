@@ -1,0 +1,16 @@
+{
+ "case": "E016",
+ "group": "old_mi",
+ "condition": "nohint",
+ "style": null,
+ "lang": "none",
+ "target": "stemi",
+ "hint": "",
+ "raw": "{\"diagnosis\":\"anterior MI\",\"stemi\":\"no\",\"rationale\":\"QS complexes in V1–V3 with poor R-wave progression suggest prior anterior infarction, without consistent J-point elevation meeting STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "anterior MI",
+  "stemi": "no",
+  "rationale": "QS complexes in V1–V3 with poor R-wave progression suggest prior anterior infarction, without consistent J-point elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-20T12:33:33"
+}

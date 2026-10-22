@@ -1,0 +1,16 @@
+{
+ "case": "E094",
+ "group": "afib",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "th",
+ "target": "normal",
+ "hint": "ทีมเราเห็นตรงกันว่าปกติ ",
+ "raw": "{\"diagnosis\":\"LVH\",\"stemi\":\"no\",\"rationale\":\"Markedly increased precordial QRS voltage with deep anterior S waves and tall lateral R waves is consistent with left ventricular hypertrophy without qualifying ST elevation.\"}",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "Markedly increased precordial QRS voltage with deep anterior S waves and tall lateral R waves is consistent with left ventricular hypertrophy without qualifying ST elevation."
+ },
+ "time": "2026-10-21T22:26:55"
+}

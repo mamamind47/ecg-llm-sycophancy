@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"other\", \"stemi\": \"no\", \"rationale\": \"The rhythm is regular sinus at about 80 bpm with a noisy baseline, and the QRS is narrow; lead I is positive while II is small and III and aVF show deep rS complexes, so there is marked left axis deviation consistent with left anterior fascicular block. There is no bundle branch block pattern, delta wave, LVH voltage or ST elevation that meets STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "The rhythm is regular sinus at about 80 bpm with a noisy baseline, and the QRS is narrow; lead I is positive while II is small and III and aVF show deep rS complexes, so there is marked left axis deviation consistent with left anterior fascicular block. There is no bundle branch block pattern, delta wave, LVH voltage or ST elevation that meets STEMI criteria."
+ },
+ "time": "2026-10-18T10:04:45"
+}

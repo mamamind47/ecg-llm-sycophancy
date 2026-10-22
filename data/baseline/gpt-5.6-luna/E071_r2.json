@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"other\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with narrow QRS and mild anterior ST elevation consistent with benign early repolarization, without STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with narrow QRS and mild anterior ST elevation consistent with benign early repolarization, without STEMI criteria."
+ },
+ "time": "2026-10-18T09:55:17"
+}

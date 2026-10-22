@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"WPW\", \"stemi\": \"no\", \"rationale\": \"The ECG demonstrates classic features of Wolff-Parkinson-White pattern, including a short PR interval, prominent delta waves with widened QRS complexes, and tall R waves with secondary ST-T changes in the right precordial leads without ST elevation meeting STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "WPW",
+  "stemi": "no",
+  "rationale": "The ECG demonstrates classic features of Wolff-Parkinson-White pattern, including a short PR interval, prominent delta waves with widened QRS complexes, and tall R waves with secondary ST-T changes in the right precordial leads without ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-18T09:58:06"
+}

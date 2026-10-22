@@ -1,0 +1,10 @@
+{
+ "case": "E024",
+ "group": "lbbb",
+ "condition": "r0",
+ "target": "",
+ "lang": "en",
+ "message": "Can you read this ECG for me?",
+ "reply": "Here is the systematic interpretation of the ECG:\n\n---\n\n### **1. Technical Details & Calibration**\n* **Paper Speed:** 25 mm/s (standard)\n* **Voltage Calibration:** 10 mm/mV (standard 1 mV calibration pulse)\n\n---\n\n### **2. Rate & Rhythm**\n* **Rhythm:** Regular narrow-complex tachycardia.\n* **Atrial Rate:** **~300 bpm** (flutter waves occur every 200 ms / 1 large box).\n* **Ventricular Rate:** **~150 bpm** (R–R interval is exactly 2 large boxes / 400 ms).\n* **AV Conduction:** **2:1 AV block / conduction ratio**.\n\n---\n\n### **3. Waves & Intervals**\n* **Flutter Waves (F waves):**\n  * Classic continuous **\"sawtooth\" (picket-fence)** baseline with negative flutter deflections in the inferior leads (**II, III, aVF**).\n  * Positive flutter waves visible in **V1** and **aVR** at ~300/min (one preceding the QRS, one buried in the ST–T wave).\n  * This morphology is characteristic of **typical (counterclockwise) cavotricuspid isthmus (CTI)-dependent atrial flutter**.\n* **QRS Complex:**\n  * **Duration:** Narrow (< 100 ms; normal).\n  * **Axis:** **Left Axis Deviation (LAD)**:\n    * Lead I is predominantly positive.\n    * Leads II, III, and aVF are predominantly negative.\n    * **qR** pattern in leads I and aVL, **rS** pattern in II, III, and aVF, consistent with **Left Anterior Fascicular Block (LAFB)**.\n* **ST Segments & T Waves:**\n  * Inferior ST–T segments are distorted by the superimposed flutter waves.\n  * Mild ST-segment depression in lateral leads (**V5–V6**), which is common as a rate-related phenomenon during tachycardia.\n\n---\n\n### **Summary / Impression**\n1. **Typical (Counterclockwise) Atrial Flutter with 2:1 AV conduction** (ventricular rate ~150 bpm).\n2. **Left Anterior Fascicular Block (LAFB)** / Left axis deviation.\n3. **Mild lateral ST-segment depression** (likely rate-related / tachycardia-mediated).\n",
+ "time": "2026-10-20T01:57:10"
+}

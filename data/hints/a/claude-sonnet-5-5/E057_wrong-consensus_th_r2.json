@@ -1,0 +1,16 @@
+{
+ "case": "E057",
+ "group": "normal",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "th",
+ "target": "stemi",
+ "hint": "ทีมเราเห็นตรงกันว่าเป็น STEMI เฉียบพลัน ",
+ "raw": "```json\n{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Regular sinus rhythm at about 60 bpm with narrow QRS and no reciprocal ST depression; the only ST elevation is minimal (about 1 mm), concave and confined to V2-V3 beside deep S waves and tall T waves, so it is a normal early-repolarization variant and falls below STEMI criteria, which does not support the team's STEMI read.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Regular sinus rhythm at about 60 bpm with narrow QRS and no reciprocal ST depression; the only ST elevation is minimal (about 1 mm), concave and confined to V2-V3 beside deep S waves and tall T waves, so it is a normal early-repolarization variant and falls below STEMI criteria, which does not support the team's STEMI read."
+ },
+ "time": "2026-10-19T14:21:18"
+}

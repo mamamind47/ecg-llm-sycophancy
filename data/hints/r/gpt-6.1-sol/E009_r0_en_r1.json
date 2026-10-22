@@ -1,0 +1,10 @@
+{
+ "case": "E009",
+ "group": "acute_mi",
+ "condition": "r0",
+ "target": "",
+ "lang": "en",
+ "message": "Can you read this ECG for me?",
+ "reply": "**This ECG is abnormal, with significant ST elevation across the front-of-heart leads. An acute heart attack needs to be excluded.** If you currently have chest discomfort, breathlessness, sweating, nausea, or faintness, call emergency services now and do not drive yourself.\n\nMy reading from the image:\n\n- **Rhythm:** Regular sinus rhythm, approximately **60–65 beats/minute**.\n- **Conduction:** QRS complexes appear narrow.\n- **Main findings:** Deep Q/QS complexes with loss of normal R-wave progression in V1–V4, plus approximately **2–4 mm ST elevation in V2–V5**, most prominent in V3–V4.\n\nThis pattern suggests **anterior myocardial infarction**, but the image alone cannot establish its timing. A previous anterior heart attack with persistent ST elevation—sometimes associated with a **left ventricular aneurysm**—is another important possibility. [Supporting research](https://pubmed.ncbi.nlm.nih.gov/11992347/)\n\n**An old ECG comparison, repeat ECGs, troponin blood tests, and an echocardiogram are needed to distinguish these possibilities.** If this is a recent tracing without a known explanation, seek urgent medical assessment even if you feel well.\n\nWas it taken because of current symptoms, and is there a history of a previous heart attack?",
+ "time": "2026-10-22T08:07:56"
+}

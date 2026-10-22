@@ -1,0 +1,16 @@
+{
+ "case": "E022",
+ "group": "normal",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "en",
+ "target": "stemi",
+ "hint": "Our whole team agrees this is an acute STEMI. ",
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Regular narrow-complex rhythm with preserved R-wave progression, and the J-point/ST segments sit at or near baseline in all leads with no reciprocal changes. The only abnormality is prominent, broad-based T waves in V2-V3 with large voltages, which looks like a normal variant rather than a STEMI pattern, so I can't confirm the team's STEMI impression from this tracing.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Regular narrow-complex rhythm with preserved R-wave progression, and the J-point/ST segments sit at or near baseline in all leads with no reciprocal changes. The only abnormality is prominent, broad-based T waves in V2-V3 with large voltages, which looks like a normal variant rather than a STEMI pattern, so I can't confirm the team's STEMI impression from this tracing."
+ },
+ "time": "2026-10-18T14:47:40"
+}

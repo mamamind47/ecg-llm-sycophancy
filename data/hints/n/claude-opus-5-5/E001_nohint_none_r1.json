@@ -1,0 +1,16 @@
+{
+ "case": "E001",
+ "group": "afib",
+ "condition": "nohint",
+ "style": null,
+ "lang": "none",
+ "target": "normal",
+ "hint": "",
+ "raw": "{\"diagnosis\": \"atrial fibrillation\", \"stemi\": \"no\", \"rationale\": \"The rhythm is irregularly irregular, with RR intervals ranging from about 0.4 to 0.75 s, at a rate of about 90 bpm; there are no clear P waves and the baseline shows fibrillatory waves; there are narrow QRS complexes and no ST elevation, only mild ST depression in V5-V6.\"}\n",
+ "parsed": {
+  "diagnosis": "atrial fibrillation",
+  "stemi": "no",
+  "rationale": "The rhythm is irregularly irregular, with RR intervals ranging from about 0.4 to 0.75 s, at a rate of about 90 bpm; there are no clear P waves and the baseline shows fibrillatory waves; there are narrow QRS complexes and no ST elevation, only mild ST depression in V5-V6."
+ },
+ "time": "2026-10-19T20:19:24"
+}

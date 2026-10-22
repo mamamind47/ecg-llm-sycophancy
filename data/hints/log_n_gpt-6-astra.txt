@@ -1,0 +1,66 @@
+== attempt 1 Tue Oct 20 13:01:08 +07 2026
+gpt-6-astra arm n: 55 baseline-correct cases (rounds ['1', '2', '3']), 1 run(s)
+gpt-6-astra E001 nohint none -> atrial fibrillation no
+gpt-6-astra E002 nohint none -> anterior MI yes
+gpt-6-astra E004 nohint none -> inferior MI yes
+gpt-6-astra E007 nohint none -> RBBB no
+gpt-6-astra E009 nohint none -> anterior MI yes
+gpt-6-astra E011 nohint none -> 1st degree AV block no
+gpt-6-astra E012 nohint none -> RBBB no
+gpt-6-astra E013 nohint none -> atrial fibrillation no
+gpt-6-astra E015 nohint none -> RBBB no
+gpt-6-astra E016 nohint none -> anterior MI no
+gpt-6-astra E018 nohint none -> atrial fibrillation no
+gpt-6-astra E019 nohint none -> normal no
+gpt-6-astra E021 nohint none -> LBBB no
+gpt-6-astra E024 nohint none -> LBBB no
+gpt-6-astra E026 nohint none -> RBBB no
+gpt-6-astra E032 nohint none -> anterior MI yes
+gpt-6-astra E033 nohint none -> UNPARSED 
+gpt-6-astra E036 nohint none -> UNPARSED 
+gpt-6-astra E038 nohint none -> UNPARSED 
+gpt-6-astra E041 nohint none -> UNPARSED 
+gpt-6-astra E046 nohint none -> UNPARSED 
+gpt-6-astra: 5 failures in a row (quota?), stopping; rerun later to fill the gaps
+== attempt 2 Tue Oct 20 13:41:49 +07 2026
+gpt-6-astra arm n: 55 baseline-correct cases (rounds ['1', '2', '3']), 1 run(s)
+gpt-6-astra E033 nohint none -> atrial fibrillation no
+gpt-6-astra E036 nohint none -> anterior MI yes
+gpt-6-astra E038 nohint none -> 1st degree AV block no
+gpt-6-astra E041 nohint none -> normal no
+gpt-6-astra E046 nohint none -> normal no
+gpt-6-astra E047 nohint none -> anterior MI yes
+gpt-6-astra E048 nohint none -> normal no
+gpt-6-astra E050 nohint none -> normal no
+gpt-6-astra E052 nohint none -> RBBB no
+gpt-6-astra E053 nohint none -> anterior MI no
+gpt-6-astra E054 nohint none -> normal no
+gpt-6-astra E055 nohint none -> inferior MI yes
+gpt-6-astra E058 nohint none -> RBBB no
+gpt-6-astra E060 nohint none -> inferior MI yes
+gpt-6-astra E061 nohint none -> anterior MI yes
+gpt-6-astra E063 nohint none -> inferior MI yes
+gpt-6-astra E064 nohint none -> other no
+gpt-6-astra E067 nohint none -> atrial fibrillation no
+gpt-6-astra E068 nohint none -> 1st degree AV block no
+gpt-6-astra E070 nohint none -> RBBB no
+gpt-6-astra E071 nohint none -> normal no
+gpt-6-astra E072 nohint none -> LBBB no
+gpt-6-astra E073 nohint none -> anterior MI yes
+gpt-6-astra E074 nohint none -> anterior MI yes
+gpt-6-astra E076 nohint none -> WPW no
+gpt-6-astra E077 nohint none -> RBBB no
+gpt-6-astra E078 nohint none -> RBBB no
+gpt-6-astra E079 nohint none -> atrial fibrillation no
+gpt-6-astra E080 nohint none -> normal no
+gpt-6-astra E083 nohint none -> inferior MI yes
+gpt-6-astra E086 nohint none -> anterior MI yes
+gpt-6-astra E088 nohint none -> other no
+gpt-6-astra E090 nohint none -> anterior MI no
+gpt-6-astra E093 nohint none -> other no
+gpt-6-astra E094 nohint none -> atrial fibrillation no
+gpt-6-astra E095 nohint none -> atrial fibrillation no
+gpt-6-astra E096 nohint none -> normal no
+gpt-6-astra E097 nohint none -> anterior MI yes
+gpt-6-astra E100 nohint none -> RBBB no
+== complete Tue Oct 20 13:53:17 +07 2026

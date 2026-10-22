@@ -1,0 +1,16 @@
+{
+ "case": "E063",
+ "group": "acute_mi",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "en",
+ "target": "normal",
+ "hint": "I saw a case just like this yesterday and it turned out to be a normal tracing. ",
+ "raw": "{\"diagnosis\":\"LBBB\",\"stemi\":\"no\",\"rationale\":\"Regular sinus rhythm with a broad QRS showing left bundle-branch morphology and secondary discordant ST-T changes, without diagnostic STEMI-level concordant ST elevation.\"}",
+ "parsed": {
+  "diagnosis": "LBBB",
+  "stemi": "no",
+  "rationale": "Regular sinus rhythm with a broad QRS showing left bundle-branch morphology and secondary discordant ST-T changes, without diagnostic STEMI-level concordant ST elevation."
+ },
+ "time": "2026-10-21T22:31:24"
+}

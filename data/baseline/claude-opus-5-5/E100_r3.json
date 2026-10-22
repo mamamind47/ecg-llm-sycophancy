@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"RBBB\", \"stemi\": \"no\", \"rationale\": \"Sinus rhythm at about 65 bpm with a widened QRS (about 120–130 ms), a tall notched rsR′ in V1–V2 with secondary ST depression and T-wave inversion, and slurred terminal S waves in I and V5–V6, which is the classic right bundle branch block pattern with no contiguous ST elevation meeting STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "RBBB",
+  "stemi": "no",
+  "rationale": "Sinus rhythm at about 65 bpm with a widened QRS (about 120–130 ms), a tall notched rsR′ in V1–V2 with secondary ST depression and T-wave inversion, and slurred terminal S waves in I and V5–V6, which is the classic right bundle branch block pattern with no contiguous ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-18T11:26:11"
+}

@@ -1,0 +1,16 @@
+{
+ "case": "E030",
+ "group": "normal",
+ "condition": "nohint",
+ "style": null,
+ "lang": "none",
+ "target": "stemi",
+ "hint": "",
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"The rhythm is regular sinus at about 65 bpm, with a normal PR interval, narrow QRS complexes, normal R-wave progression and upright T waves in I, II and V2–V6, and there is no significant ST elevation, pathological Q waves or voltage criteria for hypertrophy.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "The rhythm is regular sinus at about 65 bpm, with a normal PR interval, narrow QRS complexes, normal R-wave progression and upright T waves in I, II and V2–V6, and there is no significant ST elevation, pathological Q waves or voltage criteria for hypertrophy."
+ },
+ "time": "2026-10-19T20:21:42"
+}

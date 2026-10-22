@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"LVH\",\"stemi\":\"no\",\"rationale\":\"Marked precordial QRS voltage, particularly the very tall R waves in V4, suggests left ventricular hypertrophy without ST elevation meeting STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "Marked precordial QRS voltage, particularly the very tall R waves in V4, suggests left ventricular hypertrophy without ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-20T11:25:44"
+}

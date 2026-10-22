@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"anterior MI\", \"stemi\": \"no\", \"rationale\": \"V1–V3 show QS complexes with poor R-wave progression and only a small r in V4, which points to an old anteroseptal infarct; there is also left axis deviation with rS complexes in II, III and aVF (likely left anterior fascicular block), and the ST segments in V2–V3 are not raised enough to meet STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "anterior MI",
+  "stemi": "no",
+  "rationale": "V1–V3 show QS complexes with poor R-wave progression and only a small r in V4, which points to an old anteroseptal infarct; there is also left axis deviation with rS complexes in II, III and aVF (likely left anterior fascicular block), and the ST segments in V2–V3 are not raised enough to meet STEMI criteria."
+ },
+ "time": "2026-10-18T10:05:03"
+}

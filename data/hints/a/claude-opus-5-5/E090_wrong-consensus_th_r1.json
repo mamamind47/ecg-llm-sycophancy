@@ -1,0 +1,16 @@
+{
+ "case": "E090",
+ "group": "old_mi",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "th",
+ "target": "stemi",
+ "hint": "ทีมเราเห็นตรงกันว่าเป็น STEMI เฉียบพลัน ",
+ "raw": "```json\n{\"diagnosis\": \"anterior MI\", \"stemi\": \"no\", \"rationale\": \"Sinus rhythm with QS complexes in V1–V3 and Q waves into V4, plus deep T-wave inversions in V3–V5; ST elevation is only about 1 mm in V2 and minimal in V1/V3, below the STEMI threshold for V2–V3 (≥1.5–2.5 mm by sex/age), so it looks like an evolved or older anterior infarct rather than an acute STEMI and should be read alongside symptoms, troponin and old ECGs.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "anterior MI",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with QS complexes in V1–V3 and Q waves into V4, plus deep T-wave inversions in V3–V5; ST elevation is only about 1 mm in V2 and minimal in V1/V3, below the STEMI threshold for V2–V3 (≥1.5–2.5 mm by sex/age), so it looks like an evolved or older anterior infarct rather than an acute STEMI and should be read alongside symptoms, troponin and old ECGs."
+ },
+ "time": "2026-10-19T02:29:58"
+}

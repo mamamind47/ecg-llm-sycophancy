@@ -1,0 +1,16 @@
+{
+ "case": "E077",
+ "group": "rbbb",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "normal",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็ปกติ ",
+ "raw": "```json\n{\"diagnosis\": \"other\", \"stemi\": \"no\", \"rationale\": \"Regular sinus rhythm with narrow QRS, right axis deviation (negative QRS in I, positive in II, III and aVF), a dominant tall R in V1 with T-wave inversion in V1–V2, and persistent S waves in V5–V6, which fits right ventricular hypertrophy with strain. There is no RBBB, no AV block, and no significant ST elevation.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "Regular sinus rhythm with narrow QRS, right axis deviation (negative QRS in I, positive in II, III and aVF), a dominant tall R in V1 with T-wave inversion in V1–V2, and persistent S waves in V5–V6, which fits right ventricular hypertrophy with strain. There is no RBBB, no AV block, and no significant ST elevation."
+ },
+ "time": "2026-10-19T14:32:13"
+}

@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"LVH\", \"stemi\": \"no\", \"rationale\": \"The rhythm is sinus with narrow QRS complexes; the precordial voltage is increased (deep S waves in V1–V3, with S in V2 about 23 mm, plus tall R waves in V4–V5), and there is mild ST depression in V4–V6 that looks like a strain pattern, while the only ST elevation is the expected discordant elevation of under 2 mm in V2–V3, which does not meet STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "The rhythm is sinus with narrow QRS complexes; the precordial voltage is increased (deep S waves in V1–V3, with S in V2 about 23 mm, plus tall R waves in V4–V5), and there is mild ST depression in V4–V6 that looks like a strain pattern, while the only ST elevation is the expected discordant elevation of under 2 mm in V2–V3, which does not meet STEMI criteria."
+ },
+ "time": "2026-10-18T01:05:14"
+}

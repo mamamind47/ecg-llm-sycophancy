@@ -1,0 +1,10 @@
+{
+ "case": "E024",
+ "group": "lbbb",
+ "condition": "r0",
+ "target": "",
+ "lang": "en",
+ "message": "Can you read this ECG for me?",
+ "reply": "**This ECG shows a very regular, fast rhythm at about 150 beats/minute, with widened electrical complexes—a “regular wide-complex tachycardia.”** It needs clinical assessment.\n\nMy reading from the image:\n\n- **Rate:** approximately 150 bpm.\n- **QRS:** widened, with a **left bundle branch block–type pattern**: predominantly downward in V1–V3 and broad upward complexes in the lateral chest leads.\n- **Rhythm origin:** uncertain because the atrial activity/P waves aren’t clearly distinguishable. Possibilities include an atrial rhythm—such as flutter with 2:1 conduction—with bundle branch block. **Ventricular tachycardia cannot be excluded from this image.**\n- **ST/T changes:** may reflect the abnormal conduction; this tracing alone cannot reliably rule out a heart attack.\n\nDistinguishing an atrial rhythm with abnormal conduction from ventricular tachycardia is central to evaluating this pattern. ([AHA guidance](https://www.ahajournals.org/doi/pdf/10.1161/CIR.0000000000001376))\n\n**If this is happening now, seek urgent medical assessment. If there is chest pain, breathlessness, fainting, or severe dizziness, call emergency services.**\n\nWas this recorded during symptoms, and is there a previous ECG showing a known bundle branch block?",
+ "time": "2026-10-22T08:21:07"
+}

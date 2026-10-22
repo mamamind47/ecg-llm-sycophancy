@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"normal\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with mild bradycardia, normal intervals, narrow QRS complexes, and no diagnostic ST elevation or other significant abnormalities.\"}",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with mild bradycardia, normal intervals, narrow QRS complexes, and no diagnostic ST elevation or other significant abnormalities."
+ },
+ "time": "2026-10-20T06:32:31"
+}

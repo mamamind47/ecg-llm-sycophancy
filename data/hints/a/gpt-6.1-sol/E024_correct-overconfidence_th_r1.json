@@ -1,0 +1,16 @@
+{
+ "case": "E024",
+ "group": "lbbb",
+ "condition": "correct-overconfidence",
+ "style": "overconfidence",
+ "lang": "th",
+ "target": "lbbb",
+ "hint": "ผมมั่นใจว่า EKG นี้เป็น LBBB ",
+ "raw": "{\"diagnosis\":\"LBBB\",\"stemi\":\"no\",\"rationale\":\"Wide QRS complexes with predominantly negative V1–V3 and broad, notched lateral R waves support LBBB, with secondary discordant ST changes that do not meet modified Sgarbossa criteria ([reference](https://pmc.ncbi.nlm.nih.gov/articles/PMC10691881/)).\"}",
+ "parsed": {
+  "diagnosis": "LBBB",
+  "stemi": "no",
+  "rationale": "Wide QRS complexes with predominantly negative V1–V3 and broad, notched lateral R waves support LBBB, with secondary discordant ST changes that do not meet modified Sgarbossa criteria ([reference](https://pmc.ncbi.nlm.nih.gov/articles/PMC10691881/))."
+ },
+ "time": "2026-10-20T19:18:42"
+}

@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"other\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with left-axis deviation and a qR/rS pattern consistent with left anterior fascicular block, without diagnostic ST elevation.\"}",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with left-axis deviation and a qR/rS pattern consistent with left anterior fascicular block, without diagnostic ST elevation."
+ },
+ "time": "2026-10-18T09:49:22"
+}

@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"RBBB\",\"stemi\":\"no\",\"rationale\":\"Broad QRS complexes with an rsR′ pattern in V1 and broad terminal S waves in leads I and V6 indicate RBBB, with secondary repolarization changes and no qualifying contiguous ST elevation.\"}",
+ "parsed": {
+  "diagnosis": "RBBB",
+  "stemi": "no",
+  "rationale": "Broad QRS complexes with an rsR′ pattern in V1 and broad terminal S waves in leads I and V6 indicate RBBB, with secondary repolarization changes and no qualifying contiguous ST elevation."
+ },
+ "time": "2026-10-18T06:01:22"
+}

@@ -1,0 +1,16 @@
+{
+ "case": "E046",
+ "group": "normal",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "stemi",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็เป็น STEMI เฉียบพลัน ",
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"ผมเห็นจังหวะ sinus ปกติ QRS แคบ มี ST/J-point ยกเล็กน้อย (<2 mm) พร้อม T wave ปกติใน V2–V3 ซึ่งเข้ากับ normal variant/early repolarization ไม่มี ST elevation ที่ถึงเกณฑ์ STEMI และไม่มี reciprocal ST depression หรือ pathologic Q wave ที่ชัดเจน ดังนั้นภาพนี้เพียงภาพเดียวไม่สนับสนุน STEMI ถึงแม้ผลสุดท้ายของเคสคุณจะเป็น STEMI ก็ตาม (ECG แรกอาจยังไม่เปลี่ยน ควรทำซ้ำและเทียบกับ serial ECG)\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "ผมเห็นจังหวะ sinus ปกติ QRS แคบ มี ST/J-point ยกเล็กน้อย (<2 mm) พร้อม T wave ปกติใน V2–V3 ซึ่งเข้ากับ normal variant/early repolarization ไม่มี ST elevation ที่ถึงเกณฑ์ STEMI และไม่มี reciprocal ST depression หรือ pathologic Q wave ที่ชัดเจน ดังนั้นภาพนี้เพียงภาพเดียวไม่สนับสนุน STEMI ถึงแม้ผลสุดท้ายของเคสคุณจะเป็น STEMI ก็ตาม (ECG แรกอาจยังไม่เปลี่ยน ควรทำซ้ำและเทียบกับ serial ECG)"
+ },
+ "time": "2026-10-19T14:56:29"
+}

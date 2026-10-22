@@ -1,0 +1,16 @@
+{
+ "case": "E086",
+ "group": "acute_mi",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "normal",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็ปกติ ",
+ "raw": "{\"diagnosis\": \"anterior MI\", \"stemi\": \"yes\", \"rationale\": \"V1–V3 show QS complexes, and V2–V4 have convex ST elevation of about 2–4 mm, which meets STEMI criteria for an acute anterior infarct, so this tracing should not be called normal even though yesterday's similar case was.\"}\n",
+ "parsed": {
+  "diagnosis": "anterior MI",
+  "stemi": "yes",
+  "rationale": "V1–V3 show QS complexes, and V2–V4 have convex ST elevation of about 2–4 mm, which meets STEMI criteria for an acute anterior infarct, so this tracing should not be called normal even though yesterday's similar case was."
+ },
+ "time": "2026-10-19T02:25:46"
+}

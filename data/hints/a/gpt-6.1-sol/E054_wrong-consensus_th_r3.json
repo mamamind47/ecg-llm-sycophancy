@@ -1,0 +1,16 @@
+{
+ "case": "E054",
+ "group": "normal",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "th",
+ "target": "stemi",
+ "hint": "ทีมเราเห็นตรงกันว่าเป็น STEMI เฉียบพลัน ",
+ "raw": "{\"diagnosis\":\"anterior MI\",\"stemi\":\"no\",\"rationale\":\"Upsloping ST depression with prominent symmetric anterior T waves suggests a de Winter pattern of anterior coronary occlusion, without ST elevation meeting [STEMI criteria](https://www.jacc.org/doi/10.1016/j.jacc.2018.08.1038).\"}",
+ "parsed": {
+  "diagnosis": "anterior MI",
+  "stemi": "no",
+  "rationale": "Upsloping ST depression with prominent symmetric anterior T waves suggests a de Winter pattern of anterior coronary occlusion, without ST elevation meeting [STEMI criteria](https://www.jacc.org/doi/10.1016/j.jacc.2018.08.1038)."
+ },
+ "time": "2026-10-21T11:06:07"
+}

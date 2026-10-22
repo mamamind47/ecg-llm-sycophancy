@@ -1,0 +1,9 @@
+{
+ "raw": "```json\n{\n  \"diagnosis\": \"atrial fibrillation\",\n  \"stemi\": \"no\",\n  \"rationale\": \"The tracing shows an irregularly irregular rhythm with absent P waves and fibrillatory baseline undulations, with no ST-segment elevation meeting STEMI criteria.\"\n}\n```\n",
+ "parsed": {
+  "diagnosis": "atrial fibrillation",
+  "stemi": "no",
+  "rationale": "The tracing shows an irregularly irregular rhythm with absent P waves and fibrillatory baseline undulations, with no ST-segment elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-18T12:13:01"
+}

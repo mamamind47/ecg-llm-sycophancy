@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"normal\",\"stemi\":\"no\",\"rationale\":\"Regular sinus rhythm with narrow QRS complexes and no convincing pathologic Q waves or contiguous-lead ST elevation meeting STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Regular sinus rhythm with narrow QRS complexes and no convincing pathologic Q waves or contiguous-lead ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-19T23:06:55"
+}

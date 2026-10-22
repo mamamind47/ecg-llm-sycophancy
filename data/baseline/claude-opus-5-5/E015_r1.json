@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"RBBB\", \"stemi\": \"no\", \"rationale\": \"The QRS is wide, with a tall rsR' pattern in V1–V2, secondary ST depression and T-wave inversion in the right precordial leads, and a broad slurred S wave in I and V6; I see no ST elevation that meets STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "RBBB",
+  "stemi": "no",
+  "rationale": "The QRS is wide, with a tall rsR' pattern in V1–V2, secondary ST depression and T-wave inversion in the right precordial leads, and a broad slurred S wave in I and V6; I see no ST elevation that meets STEMI criteria."
+ },
+ "time": "2026-10-18T00:50:39"
+}

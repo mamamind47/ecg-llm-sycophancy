@@ -1,0 +1,16 @@
+{
+ "case": "E041",
+ "group": "normal",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "stemi",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็เป็น STEMI เฉียบพลัน ",
+ "raw": "```json\n{\"diagnosis\": \"LVH\", \"stemi\": \"no\", \"rationale\": \"Sinus rhythm with very high precordial voltage (deep S in V1-V2 and tall R in V4-V6, summing to well over 35 mm) and no regional ST elevation meeting STEMI criteria. The ST segments are essentially isoelectric, with only the normal early-repolarisation-type ST/T morphology in V2-V4 that comes with high voltage.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with very high precordial voltage (deep S in V1-V2 and tall R in V4-V6, summing to well over 35 mm) and no regional ST elevation meeting STEMI criteria. The ST segments are essentially isoelectric, with only the normal early-repolarisation-type ST/T morphology in V2-V4 that comes with high voltage."
+ },
+ "time": "2026-10-19T10:59:38"
+}

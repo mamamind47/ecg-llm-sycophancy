@@ -1,0 +1,16 @@
+{
+ "case": "E041",
+ "group": "normal",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "stemi",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็เป็น STEMI เฉียบพลัน ",
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"The tracing shows sinus rhythm at about 75 bpm with narrow QRS complexes, a normal PR interval, normal R-wave progression and no pathological Q waves; I see no ST elevation of 1 mm or more in two contiguous limb leads, or of 2 mm or more in V2–V3, so it does not meet STEMI criteria, even though you say the patient was later found to have an acute STEMI.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "The tracing shows sinus rhythm at about 75 bpm with narrow QRS complexes, a normal PR interval, normal R-wave progression and no pathological Q waves; I see no ST elevation of 1 mm or more in two contiguous limb leads, or of 2 mm or more in V2–V3, so it does not meet STEMI criteria, even though you say the patient was later found to have an acute STEMI."
+ },
+ "time": "2026-10-18T21:30:07"
+}

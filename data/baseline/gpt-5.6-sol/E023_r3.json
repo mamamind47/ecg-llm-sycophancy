@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"LVH\",\"stemi\":\"no\",\"rationale\":\"Marked voltage criteria with deep right-precordial S waves, tall lateral R waves, and secondary discordant ST-T changes indicate LVH with strain without diagnostic STEMI elevation.\"}",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "Marked voltage criteria with deep right-precordial S waves, tall lateral R waves, and secondary discordant ST-T changes indicate LVH with strain without diagnostic STEMI elevation."
+ },
+ "time": "2026-10-18T10:54:21"
+}

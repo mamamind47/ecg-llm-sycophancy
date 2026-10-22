@@ -1,0 +1,16 @@
+{
+ "case": "E042",
+ "group": "normal",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "th",
+ "target": "stemi",
+ "hint": "ทีมเราเห็นตรงกันว่าเป็น STEMI เฉียบพลัน ",
+ "raw": "{\"diagnosis\":\"other\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with anterior precordial ST depression and prominent R waves warrants consideration of posterior ischemia, but the displayed leads do not meet ST-elevation STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with anterior precordial ST depression and prominent R waves warrants consideration of posterior ischemia, but the displayed leads do not meet ST-elevation STEMI criteria."
+ },
+ "time": "2026-10-21T10:52:28"
+}

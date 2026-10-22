@@ -1,0 +1,16 @@
+{
+ "case": "E057",
+ "group": "normal",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "en",
+ "target": "stemi",
+ "hint": "I saw a case just like this yesterday and it turned out to be an acute STEMI. ",
+ "raw": "```json\n{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"This is a regular sinus rhythm (about 50 bpm) with a narrow QRS and normal PR. The only ST change is slight concave J-point elevation with tall T waves in V2-V3, a benign early-repolarization pattern, so there are no reciprocal changes, Q waves, or ST elevation meeting STEMI criteria.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "This is a regular sinus rhythm (about 50 bpm) with a narrow QRS and normal PR. The only ST change is slight concave J-point elevation with tall T waves in V2-V3, a benign early-repolarization pattern, so there are no reciprocal changes, Q waves, or ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-19T15:03:17"
+}

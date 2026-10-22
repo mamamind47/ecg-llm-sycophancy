@@ -1,0 +1,102 @@
+case_id,ecg_id,group,ptbxl_codes,infarction_stadium,strat_fold,report_de,age,sex,filename_hr
+E001,2886,afib,DIG:100;STE_:0;AFIB:0,,9,"vorhofflimmern normocard llt st-hebung in avr   st-senkung in i,ii,avl,v4-v6 digitalisveraenderung pathologisches ekg",82.0,F,records500/02000/02886_hr
+E002,3076,acute_mi,ASMI:100;ALMI:100;INVT:0;SR:0,Stadium I,6,"sinus rhythm. st segments are elevated in v2,3. t waves are inverted in i, avl, v2-6. tiny r waves in v2, qs complexes in v3,4. consistent with anterior myocardial infarction of uncertain age.",69.0,M,records500/03000/03076_hr
+E003,15962,acute_mi,ASMI:100;SR:0,Stadium I-II,6,sinus rhythm. poor anteroseptal r progression indicates possible previous infarction. nonspecific lateral t flattening.,70.0,F,records500/15000/15962_hr
+E004,19270,acute_mi,ILMI:100;ASMI:100;ABQRS:0;SR:0,Stadium I,7,sinusrhythmus lagetyp normal qrs(t) abnormal    anteriorer myokardschaden    inferolateraler myokardschaden rechtsableitung,87.0,F,records500/19000/19270_hr
+E005,3165,normal,NORM:100;SR:0,,10,sinus rhythm. normal ecg.,36.0,F,records500/03000/03165_hr
+E006,1094,normal,NORM:100;SR:0,,10,sinusrhythmus lagetyp normal normales ekg,21.0,F,records500/01000/01094_hr
+E007,10359,rbbb,CRBBB:100;SR:0,,10,sinus rhythm. right bundle branch block.,76.0,M,records500/10000/10359_hr
+E008,14625,acute_mi,ASMI:100;IMI:100;STACH:0,Stadium I-II,1,sinus tachycardia. left axis deviation. probable left anterior fascicular block (lafb).  low limb lead voltage. poor anteroseptal r progression may reflect lafb but cant exclude previous anteroseptal infarction.,78.0,F,records500/14000/14625_hr
+E009,20617,acute_mi,ASMI:100;ALMI:100;ABQRS:0;LVOLT:0;SR:0,Stadium I,6,"sinusrhythmus linkstyp periphere niederspannung qrs(t) abnormal    anterolateraler infarkt     mÖgl. akut st & t abnormal, mÖglicherweise neuer    anteriorer myokard- oder perikardschaden",47.0,M,records500/20000/20617_hr
+E010,20614,normal,NORM:100;SR:0,,9,sinusrhythmus lagetyp normal periphere niederspannung unspezifisches abnormales t,70.0,F,records500/20000/20614_hr
+E011,7079,first_deg_avb,1AVB:100;SR:0,,10,sinusrhythmus a-v block i lagetyp normal,58.0,F,records500/07000/07079_hr
+E012,3155,rbbb,CRBBB:100;SR:0,,9,sinus rhythm. right bundle branch block.,86.0,M,records500/03000/03155_hr
+E013,10342,afib,NDT:100;AFIB:0,,10,atrial fibrillation. otherwise normal ecg.,77.0,M,records500/10000/10342_hr
+E014,18303,old_mi,LMI:50;ABQRS:0;SR:0,Stadium III,8,"sinusrhythmus lagetyp normal qrs(t) abnormal    hochlateraler infarkt mÖglich Edit: LMI 15, (LMI 50)",51.0,F,records500/18000/18303_hr
+E015,15526,rbbb,CRBBB:100,,10,supraventr. tachykardie ueberdrehter linkstyp vollstÄndiger rechtsschenkelblock t neg in v1-v3 path. ekg,77.0,F,records500/15000/15526_hr
+E016,3446,old_mi,ASMI:15;SR:0,Stadium III,2,"sinus rhythm. tiny r waves in v2,3, old anteroseptal myocardial infarction cannot be excluded.",74.0,F,records500/03000/03446_hr
+E017,6154,lbbb,CLBBB:100,,10,"trace only requested. Edit: CLBBB, TOR,  MI, ISC, BBB",69.0,F,records500/06000/06154_hr
+E018,4117,afib,AFIB:100,,9,slt tachykardes vorhofflimmern sves hohes t in v2-4 pathologisches ekg,39.0,M,records500/04000/04117_hr
+E019,14944,normal,NORM:100;SR:0,,10,sinus rhythm. normal ecg.,69.0,F,records500/14000/14944_hr
+E020,1367,lbbb,CLBBB:100;LAO/LAE:50;SR:0,,9,sinusrytm misstÄnkt hypertrofi av vÄnster fÖrmak vÄnster el-axel vÄnstersidigt skÄnkelblock,63.0,M,records500/01000/01367_hr
+E021,2940,lbbb,CLBBB:100;SR:0,,9,sinusrhythmus linkstyp linksschenkelblock,74.0,M,records500/02000/02940_hr
+E022,14170,normal,NORM:100;SR:0,,10,"sinusrhythmus llt rechts neg.t-veraenderungen in iii,v1 wahrscheinlich normales ekg",59.0,M,records500/14000/14170_hr
+E023,11174,lbbb,CLBBB:100;SR:0,,9,sinusrhythmus linkstyp linksschenkelblock,69.0,M,records500/11000/11174_hr
+E024,7304,lbbb,CLBBB:100,,9,ventrikulÄre tachykardie,71.0,M,records500/07000/07304_hr
+E025,13839,old_mi,ILMI:50;SR:0,Stadium III,9,sinusrytm extrem vÄnster el-axel lÅga qrs amplituder i extremitetsavledningarna avvikande qrs(t) fÖrlopp    anterolateral infarkt bÖr ÖvervÄgas    inferior infarkt     sannolikt Äldre,62.0,M,records500/13000/13839_hr
+E026,1123,rbbb,CRBBB:100;SR:0,Stadium III,9,"sinus rhythm. right bundle branch block. Edit: ASMI 15, CRBBB, (CRBBB)",87.0,F,records500/01000/01123_hr
+E027,17083,acute_mi,IMI:50,Stadium I,10,"av-bradykardie linkstyp st & t abnormal,  infarkt inferior,subakut, sicher pathologisch",73.0,F,records500/17000/17083_hr
+E028,11300,wpw,WPW:100;ABQRS:0;SR:0,,9,sinusrhythmus lagetyp normal qrs(t) abnormal    anteroseptaler myokardschaden nicht auszuschliessen,53.0,M,records500/11000/11300_hr
+E029,3960,old_mi,IPLMI:100;DIG:100;LOWT:0;STD_:0;SR:0,Stadium III,9,"sinus rhythm. st segments are depressed in i, ii, v2-6. t waves are low or flat in these leads. non-specific but consistent with myocardial ischaemia and digitalis effect. possible old inferior myocardial infarction.",87.0,F,records500/03000/03960_hr
+E030,6151,normal,NORM:100;SR:0,,10,sinusrhythmus p-sinistrocardiale lagetyp normal,50.0,M,records500/06000/06151_hr
+E031,10695,first_deg_avb,LAO/LAE:100;1AVB:100;SR:0,,9,sinusrhythmus a-v block i p-sinistrocardiale linkstyp,52.0,M,records500/10000/10695_hr
+E032,5891,acute_mi,ASMI:100;ALMI:100;IMI:15;SR:0,Stadium I,6,supraventpykulÄr(a) extrasystoli(er) sinusrytm svÅrbestÄmmbar el-axel lÅga qrs amplituder i extremitetsavledningarna avvikande qrs(t) fÖrlopp    anterior infarkt     mÖjligen fÄrsk    inferolateral infarkt     Ålder ej bestÄmmbar                       !,80.0,M,records500/05000/05891_hr
+E033,963,afib,NDT:100;NT_:0;AFIB:0,,10,"atrial fibrillation with rapid ventricular response. low limb lead voltage. non-specific t wave flattening in limb leads and    v4,5,6.",86.0,F,records500/00000/00963_hr
+E034,4830,acute_mi,IMI:100;ASMI:100;LAO/LAE:100;STACH:0,Stadium I,8,"sinustachykardie linkslagetyp intraventr. leitungsstÖrung  in v2,v6 inferiorer infarkt sicher (akut,chronisch) vorhofsÜberbelastung links st-senkung in avl,i path. ekg",300.0,M,records500/04000/04830_hr
+E035,7835,acute_mi,AMI:100;ABQRS:0;SR:0,Stadium I,3,supraventrikulÄre extrasystole(n) sinusrhythmus linkstyp qrs(t) abnorm    anteroseptaler infarkt     mÖgl. akut 4.46                          unbestÄtigter bericht,84.0,M,records500/07000/07835_hr
+E036,12190,acute_mi,ASMI:100;ILMI:100;ABQRS:0;STACH:0,Stadium I,10,"sinustachykardie linkstyp qrs(t) abnormal    anteriorer infarkt     mÖgl. akut st & t abnormal, wahrscheinlich pathologisch",77.0,F,records500/12000/12190_hr
+E037,946,lbbb,CLBBB:100,,9,trace only requested.,74.0,F,records500/00000/00946_hr
+E038,8251,first_deg_avb,LAO/LAE:100;1AVB:100;SBRAD:0,,9,llt sinusbradykardie mÖgliche links-vorhofsÜberbelastung av-block 1. pathologsiches ekg,54.0,M,records500/08000/08251_hr
+E039,14285,acute_mi,ILMI:100;ASMI:100;SARRH:0,Stadium I,4,sinus arrhythmia. non-specific intraventricular block. anterior and inferolateral infarcts of uncertain age.,300.0,F,records500/14000/14285_hr
+E040,10283,lbbb,CLBBB:100;SR:0,,10,sinusrhythmus ueberdrehter linkstyp linksschenkelblock ekg pathologisch,64.0,M,records500/10000/10283_hr
+E041,1197,normal,NORM:100;SARRH:0,,10,sinus arrhythmia. normal ecg.,35.0,F,records500/01000/01197_hr
+E042,553,normal,NORM:100;SR:0,,9,sinusrytm normalt ekg,78.0,F,records500/00000/00553_hr
+E043,2525,acute_mi,IMI:50;ISCAN:100,Stadium I,6,"trace only requested. Edit: IMI 15, ISC 19,3, EKG:sehr frischer IMI(IMI 50, ISCAN)",61.0,M,records500/02000/02525_hr
+E044,19920,wpw,WPW:100;ABQRS:0;SR:0,unknown,10,"sinusrhythmus mÖglicherweise wpw typ b linkstyp qrs(t) abnorm    anteroseptaler myokardschaden mÖglich    inferiorer infarkt     alter unbest. st & t abnorm, wahrscheinlich    hochlaterale ischÄmie oder linksbelastung 4.46                          unbestÄ",44.0,F,records500/19000/19920_hr
+E045,14653,wpw,WPW:100;SR:0,,10,sinus rhythm. r-s transition zone in v leads displaced to the right. incomplete right bundle branch block. pr interval is rather short and delta waves are  evident. patient probably has wolff-parkinson-white syndrome. such patients may be prone to bouts o,13.0,F,records500/14000/14653_hr
+E046,5161,normal,NORM:100;SR:0,,9,sinusrhythmus lagetyp normal normales ekg,27.0,F,records500/05000/05161_hr
+E047,1063,acute_mi,ASMI:100;ILMI:100;SR:0,Stadium I,6,"sinus rhythm. st segments are markedly elevated in ii, iii, avf,  v1-5. recent inferior and anterior myocardial infarction is likely.",69.0,M,records500/01000/01063_hr
+E048,935,normal,NORM:100;SR:0,,10,sinusrhythmus normales ekg,44.0,M,records500/00000/00935_hr
+E049,17937,first_deg_avb,1AVB:100;LAO/LAE:100;SR:0,,10,sinusrhythmus a-v block i lagetyp normal,73.0,F,records500/17000/17937_hr
+E050,17613,normal,NORM:100;SR:0,,9,sinus rhythm. normal ecg.,59.0,M,records500/17000/17613_hr
+E051,16209,first_deg_avb,1AVB:100;NDT:100;SR:0,,9,sinusrhythmus lagetyp normal partieller av-block 1.grades pathologische repolarisation pathologisches ekg,75.0,M,records500/16000/16209_hr
+E052,8504,rbbb,CRBBB:100;SR:0,,10,"sinusrhythmus lagetyp normal rechtsschenkelblock vorhofsueberlastung links, moeglich pathologisch",68.0,M,records500/08000/08504_hr
+E053,430,old_mi,ASMI:15;SR:0,Stadium III,10,sinus rhythm. qs complexes in v2 suggesting old anteroseptal infarct. otherwise normal ecg.,62.0,M,records500/00000/00430_hr
+E054,11182,normal,NORM:100;SR:0,,10,sinusrhythmus lagetyp normal normales ekg,56.0,M,records500/11000/11182_hr
+E055,12899,acute_mi,IMI:100;STD_:0;SR:0,Stadium I,7,"sinus rhythm. st segments are elevated in ii, iii, avf. st segments are depressed in i, avl, this is probably  reciprocal. consistent with early inferior myocardial infarction.",67.0,F,records500/12000/12899_hr
+E056,9081,lbbb,CLBBB:100;SR:0,,9,sinusrhythmus lagetyp normal linksschenkelblock,71.0,M,records500/09000/09081_hr
+E057,6574,normal,NORM:100;SR:0,,9,sinus rhythm. normal ecg.,25.0,M,records500/06000/06574_hr
+E058,11529,rbbb,CRBBB:100;SR:0,,9,sinusrhythmus verdacht auf p-sinistrocardiale lagetyp normal rechtsschenkelblock,66.0,F,records500/11000/11529_hr
+E059,4946,old_mi,AMI:100;PAC:0;QWAVE:0;SR:0,Stadium III,7,premature atrial contraction(s). sinus rhythm. q waves in v2 suggesting old anteroseptal    myocardial infarction.,70.0,F,records500/04000/04946_hr
+E060,19269,acute_mi,IPMI:100;SR:0,Stadium I,7,"sinusrhythmus mlt rechts, rechtsableitungen subakuter inferiorer infarkt sicher st-hebung in ii,iii,avf,v4-v6 st-senkung in i,avl terminale neg. t-veraenderungen in iii,avf, v4-v6 pathologisches ekg",87.0,F,records500/19000/19269_hr
+E061,11940,acute_mi,ASMI:100;SARRH:0,Stadium I-II,6,"sinus arrhythmie linkstyp subakuter anteriorer infarkt st-hebung in v1-4 t neg in i,avl,v1-5 infarktablauf",74.0,M,records500/11000/11940_hr
+E062,16046,lbbb,CLBBB:100;STACH:0,,10,"llt sinustachykardie sves ( vorhof) Über 5/min. vollstÄndiger lsb neg t in v5,6 i,avl pathologisches ekg",72.0,M,records500/16000/16046_hr
+E063,532,acute_mi,IMI:100;SR:0,Stadium I,4,"sinusrytm extrem vÄnster el-axel avvikande qrs(t) fÖrlopp    inferior infarkt     mÖjligen fÄrsk st sÄnkning, mÖjligen orsakad av    lateral subendokardiell myokardaffektion",73.0,F,records500/00000/00532_hr
+E064,12632,afib,AFIB:100;LVOLT:0,,9,atrial fibrillation with rapid ventricular response. low limb lead voltage. otherwise normal ecg.,61.0,F,records500/12000/12632_hr
+E065,9338,normal,NORM:100;STACH:0,,10,ruhe-ekg zur belastung sinustachykardie,44.0,F,records500/09000/09338_hr
+E066,6240,wpw,WPW:100;SR:0,,9,sinusrhythmus ueberdrehter linkstyp linksschenkelblock linkshypertrophie mÖglich mÖglicherweise wpw typ b,71.0,M,records500/06000/06240_hr
+E067,3433,afib,NDT:100;LOWT:0;AFIB:0,,9,atrial fibrillation. t waves are low or flat throughout. findings are likely to be due to ischaemic heart  disease. suggest exclude hypokalaemia.,73.0,F,records500/03000/03433_hr
+E068,9108,first_deg_avb,1AVB:100;SR:0,,10,sinusrhythmus a-v block i lagetyp normal periphere niederspannung,83.0,M,records500/09000/09108_hr
+E069,19147,wpw,WPW:100;ABQRS:0;SR:0,,10,sinusrhythmus lagetyp normal qrs(t) abnorm    anteroseptaler myokardschaden nicht auszuschliessen,18.0,F,records500/19000/19147_hr
+E070,8863,rbbb,CRBBB:100;SBRAD:0,,9,"sinus-bradykardie lagetyp normal rechtsschenkelblock st- senkung v5, v6, v4 t-veraenderungen v2, v3, biphasisch ekg pathologisch",83.0,M,records500/08000/08863_hr
+E071,7920,normal,NORM:100;SARRH:0,,9,sinus arrhythmie lagetyp normal lage-q verzoegerte r-progression Über vorderwand,32.0,F,records500/07000/07920_hr
+E072,15128,lbbb,CLBBB:100;SR:0,,9,"sinus rhythm. borderline left axis deviation. left bundle branch block, this is most commonly due to    ischaemic heart disease.",300.0,F,records500/15000/15128_hr
+E073,8652,acute_mi,ILMI:100;SR:0,Stadium I,8,"sinus rhythm. compared with tracing of 30:7:92. there is now st segment elevation in v5,6 and to a minimal degree in ii, iii, avf. recent ischaemia or early infarction is possible.",75.0,F,records500/08000/08652_hr
+E074,13858,acute_mi,ASMI:100;IMI:15;SR:0,Stadium I,8,"sinusrytm misstÄnkt hypertrofi av vÄnster fÖrmak avvikande qrs(t) fÖrlopp    anterior infarkt     mÖjligen fÄrsk t-fÖrÄndring, sÅsom vid    hÖg lateral myokardaffektion",46.0,M,records500/13000/13858_hr
+E075,15834,afib,AFIB:100,,10,fÖrmaksflimmer/-fladder vÄnster el-axel qt fÖrlÄngd,82.0,F,records500/15000/15834_hr
+E076,17885,wpw,WPW:100;SR:0,,10,sinusrhythmus lagetyp normal intermittierender lsb,27.0,M,records500/17000/17885_hr
+E077,20243,rbbb,CRBBB:100;SR:0,,9,sinusrhythmus lagetyp normal rechtsschenkelblock 4.46                          unbestÄtigter bericht,69.0,M,records500/20000/20243_hr
+E078,11103,rbbb,CRBBB:100;SBRAD:0,,10,"sinusbradykardie lagetyp normal rechtsschenkelblock t- veraenderungen neg v1, v2 ekg pathologisch",63.0,M,records500/11000/11103_hr
+E079,1624,afib,NDT:100;DIG:100;LOWT:0;STD_:0;AFIB:0,,10,"atrial fibrillation. st segments are depressed in i, ii, avf, v4,5,6. t waves are low or flat in limb leads and v4,5,6. findings are likely to be due to ischaemic heart  disease and digitalis effect.",63.0,M,records500/01000/01624_hr
+E080,17717,normal,NORM:100;SR:0,,9,sinus rhythm. normal ecg.,52.0,F,records500/17000/17717_hr
+E081,20892,normal,NORM:100;SR:0,,9,sinusrhythmus lagetyp normal normales ekg,67.0,F,records500/20000/20892_hr
+E082,8391,old_mi,IMI:15;HVOLT:0;SR:0,Stadium III,3,"sinus rhythm. voltages in limb leads are at upper limit. no definite pathology. Edit: NORM 50, QSIII, qaVF, (IMI 15)",71.0,F,records500/08000/08391_hr
+E083,2993,acute_mi,IPLMI:100;SR:0,Stadium I,7,sinus rhythm. acute inferolateral infarct with true posterior involvement.,85.0,F,records500/02000/02993_hr
+E084,5416,normal,NORM:100;SR:0,,9,sinusrhythmus normales ekg,43.0,M,records500/05000/05416_hr
+E085,3337,first_deg_avb,1AVB:100;DIG:35;STACH:0,,9,"sinus tachycardia. ventricular premature beat. first degree av block, pr interval 0.24 seconds. st sagging most likely due to digitalis.",80.0,F,records500/03000/03337_hr
+E086,11353,acute_mi,ASMI:100;ILMI:35;LVOLT:0;SR:0,Stadium I,7,"sinusrhythmus lagetyp normal mÖglicher chronischer inferiorer infarkt sicherer akuter,subakuter anteriorer infarkt st-hebung in v2-5, t verÄnderunger in extr.abl, v1,v6 periphere lowvoltage pathologisches ekg",73.0,M,records500/11000/11353_hr
+E087,6910,first_deg_avb,1AVB:100;SR:0,,9,sinusrhythmus llt av-block 1.grades (grenzwertig),58.0,M,records500/06000/06910_hr
+E088,14541,old_mi,ASMI:100;SR:0,Stadium III,5,"sinus rhythm. possible left atrial enlargement. small r waves in v2,3, old anteroseptal infarct cannot be excluded.",78.0,F,records500/14000/14541_hr
+E089,319,old_mi,ASMI:35;NT_:0;QWAVE:0;SR:0,Stadium III,2,sinus rhythm. possible left atrial enlargement. q wave and small r wave in v2 suggesting old  anteroseptal myocardial infarction. non-specific t wave flattening in v6.,85.0,F,records500/00000/00319_hr
+E090,17976,old_mi,ASMI:100;ALMI:50;INVT:0;SR:0,Stadium III,9,"sinus rhythm. left axis deviation. qs complexes in v2-5. t waves are inverted in these leads and flat in i, v6. consistent with ischaemic heart disease with anterior myocardial infarction, probably old.",62.0,F,records500/17000/17976_hr
+E091,14280,acute_mi,IMI:100;QWAVE:0;SR:0,Stadium I,8,"sinusrhythmus st akuter inferiorer infarkt sicher st-hebung Über v2 leichte st-senkung Über v5 t verÄnderung in ii,iii,avf  t flach in v5,v6 q in ii,iii,avf st-senkung: u,u,u",66.0,M,records500/14000/14280_hr
+E092,3956,acute_mi,IMI:100;ISCAL:100;STACH:0,Stadium I,1,"sinus tachycardia. compared with tracing of 8:4:92, t waves are now    inverted in v4,5,6. the changed pattern suggests recent ischaemia. Edit: IMI 100, LVH 50, ISC 100, VH 8,4, frischer IMI(IMI 100, ISCAL)",61.0,F,records500/03000/03956_hr
+E093,8538,normal,NORM:100;SR:0,,10,sinus rhythm. normal ecg.,30.0,M,records500/08000/08538_hr
+E094,1026,afib,NST_:100;STD_:0;AFIB:0,,9,"atrial fibrillation with rapid ventricular response. low limb lead voltage. st segments are depressed in ii, v2-6. findings are likely to be due to ischaemic heart    disease.",78.0,F,records500/01000/01026_hr
+E095,10196,afib,NST_:100;AFIB:0,,10,"tachykardes vorhofflimmern/flattern lagetyp normal verzoegerte r-progression v1-3 st-senkung in i,v5-6",75.0,F,records500/10000/10196_hr
+E096,9992,normal,NORM:100;SR:0,,10,sinus rhythm. normal ecg.,33.0,M,records500/09000/09992_hr
+E097,19067,acute_mi,ASMI:100;ALMI:100;ABQRS:0;SR:0,Stadium I,10,sinusrhythmus schwierig bestimmbare qrs-achse periphere niederspannung qrs(t) abnorm    anteriorer infarkt     mÖgl. akut t abnorm in lateralen ableitungen 4.46                          unbestÄtigter bericht,59.0,M,records500/19000/19067_hr
+E098,8611,acute_mi,IMI:100;STD_:0;SR:0,Stadium I,2,"sinus rhythm. st segments are elevated in iii, avf. st segments are depressed in i, avl, v2-5. early inferior myocardial infarction is a possibility. suggest enzyme studies and repeat tracing.",54.0,M,records500/08000/08611_hr
+E099,19978,wpw,WPW:100;SBRAD:0,,9,"sinusbradykardie linkstyp vollstÄndiger rechtsschenkelblock verdacht auf wpw (typ a ) - pq-zeit unter 0,12 sec - delta-welle - qrs bis 0,12 sec - nicht erfÜllt : diskordantes se v4-6 pathologisches ekg",72.0,M,records500/19000/19978_hr
+E100,14116,rbbb,CRBBB:100;LAO/LAE:50;SR:0,,9,sinus rhythm. possible left atrial enlargement. right bundle branch block.,83.0,M,records500/14000/14116_hr
+E101,9823,wpw,WPW:100;SR:0,,10,sinusrytm vÄnster el-axel vÄnstersidigt skÄnkelblock ÖvervÄg wpw syndrom typ b,77.0,F,records500/09000/09823_hr

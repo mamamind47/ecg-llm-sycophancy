@@ -1,0 +1,16 @@
+{
+ "case": "E007",
+ "group": "rbbb",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "en",
+ "target": "normal",
+ "hint": "Our whole team agrees this is a normal tracing. ",
+ "raw": "{\"diagnosis\": \"RBBB\", \"stemi\": \"no\", \"rationale\": \"The ECG demonstrates right bundle branch block characterized by a widened QRS complex with an rsR' pattern in leads V1–V3 and slurred S waves in leads I and V6, with no ST-segment elevation meeting STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "RBBB",
+  "stemi": "no",
+  "rationale": "The ECG demonstrates right bundle branch block characterized by a widened QRS complex with an rsR' pattern in leads V1–V3 and slurred S waves in leads I and V6, with no ST-segment elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-18T18:23:52"
+}

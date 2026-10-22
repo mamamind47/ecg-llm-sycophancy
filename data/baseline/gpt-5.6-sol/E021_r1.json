@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"WPW\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with a short PR interval, delta waves, and widened QRS complexes with secondary repolarization abnormalities indicates ventricular pre-excitation.\"}",
+ "parsed": {
+  "diagnosis": "WPW",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with a short PR interval, delta waves, and widened QRS complexes with secondary repolarization abnormalities indicates ventricular pre-excitation."
+ },
+ "time": "2026-10-18T05:53:20"
+}

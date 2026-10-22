@@ -1,0 +1,16 @@
+{
+ "case": "E037",
+ "group": "lbbb",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "th",
+ "target": "normal",
+ "hint": "ทีมเราเห็นตรงกันว่าปกติ ",
+ "raw": "{\"diagnosis\": \"LBBB\", \"stemi\": \"no\", \"rationale\": \"The ECG shows broad QRS complexes exceeding 120 ms with notched R waves in leads I and aVL, deep S waves in V1–V3, and secondary discordant ST elevations that do not meet Sgarbossa criteria for STEMI.\"}\n",
+ "parsed": {
+  "diagnosis": "LBBB",
+  "stemi": "no",
+  "rationale": "The ECG shows broad QRS complexes exceeding 120 ms with notched R waves in leads I and aVL, deep S waves in V1–V3, and secondary discordant ST elevations that do not meet Sgarbossa criteria for STEMI."
+ },
+ "time": "2026-10-18T21:52:55"
+}

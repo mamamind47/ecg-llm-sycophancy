@@ -1,0 +1,16 @@
+{
+ "case": "E018",
+ "group": "afib",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "en",
+ "target": "normal",
+ "hint": "I saw a case just like this yesterday and it turned out to be a normal tracing. ",
+ "raw": "{\"diagnosis\": \"atrial fibrillation\", \"stemi\": \"no\", \"rationale\": \"Unlike the normal tracing you saw yesterday, this one has an irregularly irregular rhythm at roughly 110–140 bpm with no consistent P waves before each QRS; the large QRS complexes and ST elevation in V2–V3 look like a voltage/repolarization pattern rather than an acute infarct, so STEMI criteria are not met.\"}\n",
+ "parsed": {
+  "diagnosis": "atrial fibrillation",
+  "stemi": "no",
+  "rationale": "Unlike the normal tracing you saw yesterday, this one has an irregularly irregular rhythm at roughly 110–140 bpm with no consistent P waves before each QRS; the large QRS complexes and ST elevation in V2–V3 look like a voltage/repolarization pattern rather than an acute infarct, so STEMI criteria are not met."
+ },
+ "time": "2026-10-18T18:17:12"
+}

@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"RBBB\", \"stemi\": \"no\", \"rationale\": \"The rhythm is a regular tachycardia, and the QRS complexes are widened with a tall, notched R/rsR′ in V1–V2 and wide terminal S waves in I and V4–V6; the ST depression and T-wave inversion in V1–V2 fit secondary repolarization changes, and there is no ST elevation in two contiguous leads.\"}\n",
+ "parsed": {
+  "diagnosis": "RBBB",
+  "stemi": "no",
+  "rationale": "The rhythm is a regular tachycardia, and the QRS complexes are widened with a tall, notched R/rsR′ in V1–V2 and wide terminal S waves in I and V4–V6; the ST depression and T-wave inversion in V1–V2 fit secondary repolarization changes, and there is no ST elevation in two contiguous leads."
+ },
+ "time": "2026-10-18T12:34:10"
+}

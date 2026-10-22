@@ -1,0 +1,9 @@
+{
+ "raw": "```json\n{\"diagnosis\": \"LVH\", \"stemi\": \"no\", \"rationale\": \"Regular rhythm at about 60 bpm with very deep S waves in V1–V3 and very tall R waves in V4–V5 (Sokolow-Lyon voltage well over 35 mm), and the concave ST elevation with tall T waves in V2–V3 looks like a secondary LVH repolarization pattern rather than a STEMI.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "Regular rhythm at about 60 bpm with very deep S waves in V1–V3 and very tall R waves in V4–V5 (Sokolow-Lyon voltage well over 35 mm), and the concave ST elevation with tall T waves in V2–V3 looks like a secondary LVH repolarization pattern rather than a STEMI."
+ },
+ "time": "2026-10-18T01:29:57"
+}

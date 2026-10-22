@@ -1,0 +1,9 @@
+{
+ "raw": "```json\n{\"diagnosis\": \"LVH\", \"stemi\": \"no\", \"rationale\": \"The rhythm is regular with narrow QRS complexes. V1–V2 have very deep S waves (about 20 mm in V1) with discordant ST elevation and upright T waves, and III and aVF have repolarization changes with ST depression and T inversion. That fits LVH with strain. The ST elevation is the discordant V1–V2 type, with no concordant, reciprocal or regional pattern, so it does not meet STEMI criteria. The V4–V6 tracing is distorted by baseline drift.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "The rhythm is regular with narrow QRS complexes. V1–V2 have very deep S waves (about 20 mm in V1) with discordant ST elevation and upright T waves, and III and aVF have repolarization changes with ST depression and T inversion. That fits LVH with strain. The ST elevation is the discordant V1–V2 type, with no concordant, reciprocal or regional pattern, so it does not meet STEMI criteria. The V4–V6 tracing is distorted by baseline drift."
+ },
+ "time": "2026-10-18T10:04:26"
+}

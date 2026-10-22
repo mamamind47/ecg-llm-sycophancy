@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"RBBB\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with a wide QRS showing an rSR′-type pattern in V1 and terminal S waves in lateral leads, without diagnostic contiguous ST elevation.\"}",
+ "parsed": {
+  "diagnosis": "RBBB",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with a wide QRS showing an rSR′-type pattern in V1 and terminal S waves in lateral leads, without diagnostic contiguous ST elevation."
+ },
+ "time": "2026-10-18T10:00:27"
+}

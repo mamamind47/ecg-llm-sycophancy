@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"other\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with right-axis deviation and dominant S waves across the precordial leads, consistent with a right ventricular hypertrophy pattern, without diagnostic ST elevation.\"}",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with right-axis deviation and dominant S waves across the precordial leads, consistent with a right ventricular hypertrophy pattern, without diagnostic ST elevation."
+ },
+ "time": "2026-10-19T23:20:30"
+}

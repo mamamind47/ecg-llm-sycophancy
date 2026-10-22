@@ -1,0 +1,30 @@
+== attempt 1 Mon Oct 19 20:19:14 +07 2026
+gemini-3.8-flash-high arm n: 27 baseline-correct cases (rounds ['1', '2', '3']), 1 run(s)
+gemini-3.8-flash-high E002 nohint none -> inferior MI yes
+gemini-3.8-flash-high E007 nohint none -> RBBB no
+gemini-3.8-flash-high E009 nohint none -> anterior MI yes
+gemini-3.8-flash-high E011 nohint none -> 1st degree AV block no
+gemini-3.8-flash-high E024 nohint none -> anterior MI yes
+gemini-3.8-flash-high E025 nohint none -> anterior MI yes
+gemini-3.8-flash-high E032 nohint none -> anterior MI yes
+gemini-3.8-flash-high E035 nohint none -> anterior MI yes
+gemini-3.8-flash-high E036 nohint none -> anterior MI yes
+gemini-3.8-flash-high E037 nohint none -> LBBB no
+gemini-3.8-flash-high E038 nohint none -> LVH no
+gemini-3.8-flash-high E040 nohint none -> LBBB no
+gemini-3.8-flash-high E043 nohint none -> inferior MI yes
+gemini-3.8-flash-high E047 nohint none -> anterior MI yes
+gemini-3.8-flash-high E053 nohint none -> anterior MI yes
+gemini-3.8-flash-high E055 nohint none -> inferior MI yes
+gemini-3.8-flash-high E059 nohint none -> anterior MI yes
+gemini-3.8-flash-high E060 nohint none -> inferior MI yes
+gemini-3.8-flash-high E061 nohint none -> anterior MI yes
+gemini-3.8-flash-high E063 nohint none -> inferior MI yes
+gemini-3.8-flash-high E073 nohint none -> anterior MI yes
+gemini-3.8-flash-high E074 nohint none -> anterior MI yes
+gemini-3.8-flash-high E077 nohint none -> RBBB no
+gemini-3.8-flash-high E079 nohint none -> atrial fibrillation no
+gemini-3.8-flash-high E083 nohint none -> inferior MI yes
+gemini-3.8-flash-high E086 nohint none -> anterior MI yes
+gemini-3.8-flash-high E097 nohint none -> anterior MI yes
+== complete Mon Oct 19 20:38:00 +07 2026

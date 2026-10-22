@@ -1,0 +1,9 @@
+{
+ "raw": "```json\n{\"diagnosis\": \"LBBB\", \"stemi\": \"no\", \"rationale\": \"Wide notched QRS with broad monophasic R waves in I, aVL, V5 and V6 and deep rS/QS complexes in V1-V3 at about 65 bpm, with ST elevation in V1-V3 that is small relative to the S-wave depth, so it looks like expected LBBB discordance and not STEMI.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "LBBB",
+  "stemi": "no",
+  "rationale": "Wide notched QRS with broad monophasic R waves in I, aVL, V5 and V6 and deep rS/QS complexes in V1-V3 at about 65 bpm, with ST elevation in V1-V3 that is small relative to the S-wave depth, so it looks like expected LBBB discordance and not STEMI."
+ },
+ "time": "2026-10-18T09:48:07"
+}

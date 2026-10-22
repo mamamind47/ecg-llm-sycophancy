@@ -1,0 +1,12 @@
+{
+ "case": "E019",
+ "group": "normal",
+ "condition": "r0",
+ "target": "",
+ "lang": "th",
+ "message": "ช่วยอ่าน EKG นี้ให้หน่อย",
+ "reply": "ผลการอ่านคลื่นไฟฟ้าหัวใจ (EKG 12-lead) มีรายละเอียดดังนี้:\nอัตราและจังหวะการเต้น (Rate & Rhythm): Sinus rhythm อัตราการเต้นของหัวใจประมาณ 75–85 ครั้งต่อนาที สม่ำเสมอ\nสิ่งรบกวน (Artifact): มี Tremor/Baseline artifact รบกวนค่อนข้างมากในกลุ่ม Limb leads (I, II, III, aVR, aVL, aVF) ซึ่งมักเกิดจากการสั่น การเกร็งของกล้ามเนื้อ หรือการขยับตัว\nความผิดปกติสำคัญ (Key Finding): พบ ST-segment elevation ยกสูงอย่างชัดเจนใน Lead V2, V3, V4, V5 (และยกขึ้นเล็กน้อยใน V6) ร่วมกับมี T wave ขนาดใหญ่ (Hyperacute T waves)\nการแปลผล (Interpretation): Acute Anterior / Extensive Anterior STEMI (ภาวะกล้ามเนื้อหัวใจตายเฉียบพลันชนิด ST ยก บริเวณผนังด้านหน้าของหัวใจ)\nข้อควรระวังเร่งด่วน: หากเป็นผลตรวจของผู้ป่วยจริงและมีอาการเจ็บแน่นหน้าอก เหนื่อย หอบ หรือเหงื่อแตกใจสั่น ถือเป็น ภาวะฉุกเฉินวิกฤตทางการแพทย์ (Medical Emergency) ที่ต้องได้รับการดูแลในห้องฉุกเฉิน และเปิดหลอดเลือดหัวใจอย่างเร่งด่วน (Reperfusion therapy เช่น ทำบอลลูนสวนหัวใจ PCI หรือให้ยาละลายลิ่มเลือด) ทันที",
+ "interface": "gemini.google.com, temporary chat",
+ "model_label": "Flash (web picker)",
+ "time": "2026-10-20T16:52:45"
+}

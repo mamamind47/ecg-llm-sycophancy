@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"atrial fibrillation\", \"stemi\": \"no\", \"rationale\": \"The rhythm is irregularly irregular and fast with no discernible P waves and a fibrillatory baseline, and the ST elevation in V1–V3 is only the usual J-point elevation after deep S waves, so STEMI criteria are not met.\"}\n",
+ "parsed": {
+  "diagnosis": "atrial fibrillation",
+  "stemi": "no",
+  "rationale": "The rhythm is irregularly irregular and fast with no discernible P waves and a fibrillatory baseline, and the ST elevation in V1–V3 is only the usual J-point elevation after deep S waves, so STEMI criteria are not met."
+ },
+ "time": "2026-10-18T12:32:10"
+}

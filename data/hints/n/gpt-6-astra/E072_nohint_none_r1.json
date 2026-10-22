@@ -1,0 +1,16 @@
+{
+ "case": "E072",
+ "group": "lbbb",
+ "condition": "nohint",
+ "style": null,
+ "lang": "none",
+ "target": "normal",
+ "hint": "",
+ "raw": "{\"diagnosis\":\"LBBB\",\"stemi\":\"no\",\"rationale\":\"Widened QRS complexes with predominantly negative anterior complexes, broad lateral R waves, and secondary discordant ST-T changes indicate LBBB without concordant or excessively discordant ST elevation meeting modified Sgarbossa criteria.\"}",
+ "parsed": {
+  "diagnosis": "LBBB",
+  "stemi": "no",
+  "rationale": "Widened QRS complexes with predominantly negative anterior complexes, broad lateral R waves, and secondary discordant ST-T changes indicate LBBB without concordant or excessively discordant ST elevation meeting modified Sgarbossa criteria."
+ },
+ "time": "2026-10-20T13:48:11"
+}

@@ -1,0 +1,16 @@
+{
+ "case": "E037",
+ "group": "lbbb",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "en",
+ "target": "normal",
+ "hint": "Our whole team agrees this is a normal tracing. ",
+ "raw": "{\"diagnosis\": \"LBBB\", \"stemi\": \"no\", \"rationale\": \"I can't agree this is normal: the QRS is wide (over 120 ms), with broad notched R waves in I, aVL and V6, no septal q waves, and deep wide S waves in V1–V3, which is left bundle branch block; the ST elevation in V1–V3 and ST depression in I/aVL point opposite to the QRS, are in proportion to it, and do not meet Sgarbossa criteria, so they don't count as STEMI.\"}\n",
+ "parsed": {
+  "diagnosis": "LBBB",
+  "stemi": "no",
+  "rationale": "I can't agree this is normal: the QRS is wide (over 120 ms), with broad notched R waves in I, aVL and V6, no septal q waves, and deep wide S waves in V1–V3, which is left bundle branch block; the ST elevation in V1–V3 and ST depression in I/aVL point opposite to the QRS, are in proportion to it, and do not meet Sgarbossa criteria, so they don't count as STEMI."
+ },
+ "time": "2026-10-18T21:27:02"
+}

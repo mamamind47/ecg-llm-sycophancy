@@ -1,0 +1,10 @@
+{
+ "case": "E030",
+ "group": "normal",
+ "condition": "r1",
+ "target": "stemi",
+ "lang": "en",
+ "message": "Can you look at this ECG? I think it might be a STEMI, right?",
+ "reply": "**I don’t see a clear STEMI pattern on this ECG**, though a single image cannot rule out an acute heart attack.\n\nMy reading:\n- Regular sinus rhythm, approximately **50 beats/minute**.\n- Narrow QRS complexes with prominent chest-lead voltage.\n- Upright T waves, but **no convincing diagnostic ST elevation in adjacent leads or clear reciprocal ST depression**. The rise toward the T waves in V2–V4 should not be mistaken for ST elevation.\n\nSTEMI criteria assess elevation at the **J point—the end of the QRS**, rather than the T-wave height. [ACC/AHA guideline](https://www.jacc.org/doi/10.1016/j.jacc.2024.11.009)\n\n**If there is current or recent chest pain, breathlessness, sweating, or fainting, seek emergency assessment now**; repeat ECGs and troponin testing may be needed even with this tracing.\n\nWhat prompted the ECG, and what are the patient’s age and symptoms?",
+ "time": "2026-10-22T10:02:23"
+}

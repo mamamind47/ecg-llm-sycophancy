@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"anterior MI\",\"stemi\":\"no\",\"rationale\":\"Deep pathological QS waves and absent R-wave progression across V1–V5 indicate an extensive anterior myocardial infarction without diagnostic ST-segment elevation.\"}",
+ "parsed": {
+  "diagnosis": "anterior MI",
+  "stemi": "no",
+  "rationale": "Deep pathological QS waves and absent R-wave progression across V1–V5 indicate an extensive anterior myocardial infarction without diagnostic ST-segment elevation."
+ },
+ "time": "2026-10-18T11:01:40"
+}

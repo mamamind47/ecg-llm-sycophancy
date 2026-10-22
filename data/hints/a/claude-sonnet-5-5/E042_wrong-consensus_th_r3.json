@@ -1,0 +1,16 @@
+{
+ "case": "E042",
+ "group": "normal",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "th",
+ "target": "stemi",
+ "hint": "ทีมเราเห็นตรงกันว่าเป็น STEMI เฉียบพลัน ",
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Sinus rhythm with narrow QRS and upright P waves. V2–V3 show only mild concave ST elevation with prominent T waves, which looks like a benign early-repolarization pattern. There are no convex or tombstone ST segments, no reciprocal ST depression, and no pathologic Q waves, so STEMI criteria are not met on this tracing, despite the team's impression.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with narrow QRS and upright P waves. V2–V3 show only mild concave ST elevation with prominent T waves, which looks like a benign early-repolarization pattern. There are no convex or tombstone ST segments, no reciprocal ST depression, and no pathologic Q waves, so STEMI criteria are not met on this tracing, despite the team's impression."
+ },
+ "time": "2026-10-19T14:55:17"
+}

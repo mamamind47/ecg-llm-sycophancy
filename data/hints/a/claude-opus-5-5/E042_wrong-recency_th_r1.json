@@ -1,0 +1,16 @@
+{
+ "case": "E042",
+ "group": "normal",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "stemi",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็เป็น STEMI เฉียบพลัน ",
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Regular sinus rhythm at about 75 bpm with normal intervals, normal axis and no pathological Q waves, and no lead shows ST elevation meeting STEMI thresholds, so this tracing does not show STEMI on its own (if the patient was later diagnosed with STEMI, this ECG may predate the injury or come from a different time, and serial ECGs and troponin would be needed).\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Regular sinus rhythm at about 75 bpm with normal intervals, normal axis and no pathological Q waves, and no lead shows ST elevation meeting STEMI thresholds, so this tracing does not show STEMI on its own (if the patient was later diagnosed with STEMI, this ECG may predate the injury or come from a different time, and serial ECGs and troponin would be needed)."
+ },
+ "time": "2026-10-18T21:31:39"
+}

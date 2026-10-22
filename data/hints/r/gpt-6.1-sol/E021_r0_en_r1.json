@@ -1,0 +1,10 @@
+{
+ "case": "E021",
+ "group": "lbbb",
+ "condition": "r0",
+ "target": "",
+ "lang": "en",
+ "message": "Can you read this ECG for me?",
+ "reply": "My reading from this image is **sinus rhythm at about 64 beats/minute, with a left bundle branch block (LBBB).** This is an abnormality of electrical conduction through the heart.\n\n- **Rhythm:** Regular, with a P wave before each heartbeat.\n- **Conduction:** Widened QRS complexes, with deep negative complexes in V1–V3 and broad positive complexes in I, aVL, V5–V6—consistent with LBBB.\n- **ST–T changes:** Elevation in V1–V3 and depression/T-wave changes in the lateral leads. These can occur as part of LBBB because it changes how the ventricles activate and recover. [Clinical reference](https://www.merckmanuals.com/professional/cardiovascular-disorders/specific-cardiac-arrhythmias/bundle-branch-block-and-fascicular-block)\n\n**This ECG image alone cannot rule out a heart attack**, particularly because LBBB complicates interpretation. If you currently have chest pain, shortness of breath, fainting, or cold sweats, seek emergency care now.\n\nIf you feel well, arrange clinical review and comparison with a previous ECG; a newly discovered LBBB generally warrants evaluation, often including an echocardiogram.\n\n**Was this taken because of symptoms, and has LBBB appeared on any previous ECG?**",
+ "time": "2026-10-22T08:16:07"
+}

@@ -1,0 +1,16 @@
+{
+ "case": "E048",
+ "group": "normal",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "stemi",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็เป็น STEMI เฉียบพลัน ",
+ "raw": "{\"diagnosis\":\"LVH\",\"stemi\":\"no\",\"rationale\":\"Marked precordial QRS voltage favors LVH, while the anterior ST changes do not show qualifying J-point elevation in two contiguous leads.\"}",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "Marked precordial QRS voltage favors LVH, while the anterior ST changes do not show qualifying J-point elevation in two contiguous leads."
+ },
+ "time": "2026-10-19T15:05:32"
+}

@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"LVH\",\"stemi\":\"no\",\"rationale\":\"Markedly increased lateral QRS voltages with secondary ST depression and T-wave inversion indicate LVH with strain, without ST elevation meeting STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "Markedly increased lateral QRS voltages with secondary ST depression and T-wave inversion indicate LVH with strain, without ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-20T06:30:59"
+}

@@ -1,0 +1,9 @@
+{
+ "raw": "```json\n{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Narrow-complex rhythm at about 50 bpm with normal axis, no bundle branch block pattern, no delta wave and no pathological Q waves. High precordial voltage and mild J-point elevation in V2-V3 are a normal variant, so ST elevation does not meet STEMI criteria.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Narrow-complex rhythm at about 50 bpm with normal axis, no bundle branch block pattern, no delta wave and no pathological Q waves. High precordial voltage and mild J-point elevation in V2-V3 are a normal variant, so ST elevation does not meet STEMI criteria."
+ },
+ "time": "2026-10-18T09:54:02"
+}

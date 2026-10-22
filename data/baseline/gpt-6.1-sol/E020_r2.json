@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"LBBB\",\"stemi\":\"no\",\"rationale\":\"Broad QRS complexes with predominantly negative QRS in V1–V3, broad lateral R waves, and discordant ST–T changes indicate LBBB without qualifying Sgarbossa criteria for STEMI.\"}",
+ "parsed": {
+  "diagnosis": "LBBB",
+  "stemi": "no",
+  "rationale": "Broad QRS complexes with predominantly negative QRS in V1–V3, broad lateral R waves, and discordant ST–T changes indicate LBBB without qualifying Sgarbossa criteria for STEMI."
+ },
+ "time": "2026-10-20T06:36:08"
+}

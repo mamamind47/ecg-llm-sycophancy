@@ -1,0 +1,9 @@
+{
+ "raw": "```json\n{\"diagnosis\": \"1st degree AV block\", \"stemi\": \"no\", \"rationale\": \"There is a regular sinus rhythm with a uniformly prolonged PR interval of approximately 280 ms without ST elevation meeting STEMI criteria.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "1st degree AV block",
+  "stemi": "no",
+  "rationale": "There is a regular sinus rhythm with a uniformly prolonged PR interval of approximately 280 ms without ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-18T01:42:47"
+}

@@ -1,0 +1,9 @@
+{
+ "raw": "```json\n{\"diagnosis\": \"LVH\", \"stemi\": \"no\", \"rationale\": \"Very deep S waves in V1-V3 reach far beyond the grid, with left axis deviation and ST depression with T inversion in the lateral leads (aVL, V5-V6). The ST elevation with tall T waves in V1-V3 is discordant to those deep S waves, which is the expected LVH repolarization pattern, not a STEMI.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "Very deep S waves in V1-V3 reach far beyond the grid, with left axis deviation and ST depression with T inversion in the lateral leads (aVL, V5-V6). The ST elevation with tall T waves in V1-V3 is discordant to those deep S waves, which is the expected LVH repolarization pattern, not a STEMI."
+ },
+ "time": "2026-10-18T01:27:03"
+}

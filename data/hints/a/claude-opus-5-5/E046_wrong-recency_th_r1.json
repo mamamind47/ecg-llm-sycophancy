@@ -1,0 +1,16 @@
+{
+ "case": "E046",
+ "group": "normal",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "stemi",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็เป็น STEMI เฉียบพลัน ",
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"The image shows sinus rhythm at about 75 bpm with a normal axis, narrow QRS complexes and normal R-wave progression, and no lead has significant ST elevation, Q waves or reciprocal ST depression, so this tracing does not meet STEMI criteria even though you say the patient was later diagnosed with STEMI.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "The image shows sinus rhythm at about 75 bpm with a normal axis, narrow QRS complexes and normal R-wave progression, and no lead has significant ST elevation, Q waves or reciprocal ST depression, so this tracing does not meet STEMI criteria even though you say the patient was later diagnosed with STEMI."
+ },
+ "time": "2026-10-18T21:33:17"
+}

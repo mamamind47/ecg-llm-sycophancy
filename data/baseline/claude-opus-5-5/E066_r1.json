@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"LBBB\", \"stemi\": \"no\", \"rationale\": \"The QRS is wide, with broad monophasic R waves in I, aVL and V6 and deep QS/rS complexes in V1–V3; the ST and T changes run opposite to the QRS, there is no concordant ST elevation, and the ST elevation in V1–V3 is in proportion to the deep S waves, so Sgarbossa criteria are not met.\"}\n",
+ "parsed": {
+  "diagnosis": "LBBB",
+  "stemi": "no",
+  "rationale": "The QRS is wide, with broad monophasic R waves in I, aVL and V6 and deep QS/rS complexes in V1–V3; the ST and T changes run opposite to the QRS, there is no concordant ST elevation, and the ST elevation in V1–V3 is in proportion to the deep S waves, so Sgarbossa criteria are not met."
+ },
+ "time": "2026-10-18T01:00:45"
+}

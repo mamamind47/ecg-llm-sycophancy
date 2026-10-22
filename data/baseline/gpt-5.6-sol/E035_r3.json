@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"LVH\",\"stemi\":\"no\",\"rationale\":\"Marked precordial voltage with deep S waves in V1–V3 and very tall R waves in V4–V6, accompanied by discordant secondary ST-T changes, supports LVH rather than acute STEMI.\"}",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "Marked precordial voltage with deep S waves in V1–V3 and very tall R waves in V4–V6, accompanied by discordant secondary ST-T changes, supports LVH rather than acute STEMI."
+ },
+ "time": "2026-10-18T10:56:17"
+}

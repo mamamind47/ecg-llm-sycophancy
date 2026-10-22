@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"LVH\", \"stemi\": \"no\", \"rationale\": \"Marked voltage criteria for left ventricular hypertrophy are met with S in V1 plus R in V5 exceeding 35 mm, and the secondary concave ST elevation in V1–V3 is proportional to the deep S waves rather than meeting criteria for STEMI.\"}\n",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "Marked voltage criteria for left ventricular hypertrophy are met with S in V1 plus R in V5 exceeding 35 mm, and the secondary concave ST elevation in V1–V3 is proportional to the deep S waves rather than meeting criteria for STEMI."
+ },
+ "time": "2026-10-18T01:47:47"
+}

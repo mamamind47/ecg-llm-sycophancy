@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Sinus rhythm at about 70 bpm with a normal PR interval, narrow QRS complexes, normal axis and normal R-wave progression; there is no significant ST elevation or Q waves, and voltages do not meet LVH criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Sinus rhythm at about 70 bpm with a normal PR interval, narrow QRS complexes, normal axis and normal R-wave progression; there is no significant ST elevation or Q waves, and voltages do not meet LVH criteria."
+ },
+ "time": "2026-10-18T10:01:28"
+}

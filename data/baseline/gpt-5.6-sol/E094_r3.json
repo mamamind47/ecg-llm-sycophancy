@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"LVH\",\"stemi\":\"no\",\"rationale\":\"Marked precordial voltage with deep S waves in V2–V3 and very tall R waves in V4–V6 supports left ventricular hypertrophy without diagnostic ST-segment elevation.\"}",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "Marked precordial voltage with deep S waves in V2–V3 and very tall R waves in V4–V6 supports left ventricular hypertrophy without diagnostic ST-segment elevation."
+ },
+ "time": "2026-10-18T11:06:23"
+}

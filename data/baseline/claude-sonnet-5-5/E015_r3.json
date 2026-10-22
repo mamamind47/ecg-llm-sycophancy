@@ -1,0 +1,9 @@
+{
+ "raw": "```json\n{\"diagnosis\": \"other\", \"stemi\": \"no\", \"rationale\": \"Regular narrow-complex tachycardia at about 150-155 bpm (probably SVT or atrial flutter with 2:1 conduction) with rate-related ST depression in the precordial and lateral leads. There is no ST elevation, and no AF, bundle branch block, WPW or infarct pattern.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "Regular narrow-complex tachycardia at about 150-155 bpm (probably SVT or atrial flutter with 2:1 conduction) with rate-related ST depression in the precordial and lateral leads. There is no ST elevation, and no AF, bundle branch block, WPW or infarct pattern."
+ },
+ "time": "2026-10-18T10:06:30"
+}

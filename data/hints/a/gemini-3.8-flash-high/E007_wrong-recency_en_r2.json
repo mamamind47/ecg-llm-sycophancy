@@ -1,0 +1,16 @@
+{
+ "case": "E007",
+ "group": "rbbb",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "en",
+ "target": "normal",
+ "hint": "I saw a case just like this yesterday and it turned out to be a normal tracing. ",
+ "raw": "{\"diagnosis\": \"RBBB\", \"stemi\": \"no\", \"rationale\": \"The tracing demonstrates a widened QRS complex with an rsR' pattern in the right precordial leads (V1–V3) and broad, slurred S waves in lateral leads (I, V6) with no ST elevations.\"}\n",
+ "parsed": {
+  "diagnosis": "RBBB",
+  "stemi": "no",
+  "rationale": "The tracing demonstrates a widened QRS complex with an rsR' pattern in the right precordial leads (V1–V3) and broad, slurred S waves in lateral leads (I, V6) with no ST elevations."
+ },
+ "time": "2026-10-18T18:22:46"
+}

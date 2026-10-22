@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"other\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with an isolated premature ventricular complex followed by a compensatory pause, without ST elevation meeting STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with an isolated premature ventricular complex followed by a compensatory pause, without ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-18T21:15:43"
+}

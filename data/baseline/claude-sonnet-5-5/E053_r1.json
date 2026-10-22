@@ -1,0 +1,9 @@
+{
+ "raw": "```json\n{\"diagnosis\": \"other\", \"stemi\": \"no\", \"rationale\": \"Sinus rhythm with a normal PR interval and narrow QRS, but there is marked left axis deviation (rS in II, III and aVF with tall R in I and aVL), which fits left anterior fascicular block; the high-voltage V2–V3 ST segments with tall, broad T waves look like a normal repolarization variant and fall short of STEMI criteria.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with a normal PR interval and narrow QRS, but there is marked left axis deviation (rS in II, III and aVF with tall R in I and aVL), which fits left anterior fascicular block; the high-voltage V2–V3 ST segments with tall, broad T waves look like a normal repolarization variant and fall short of STEMI criteria."
+ },
+ "time": "2026-10-18T01:33:42"
+}

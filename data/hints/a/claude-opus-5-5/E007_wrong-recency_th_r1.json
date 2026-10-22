@@ -1,0 +1,16 @@
+{
+ "case": "E007",
+ "group": "rbbb",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "normal",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็ปกติ ",
+ "raw": "{\"diagnosis\": \"RBBB\", \"stemi\": \"no\", \"rationale\": \"I know you said yesterday's similar case was normal, but this tracing isn't: QRS is wide (about 120 ms or more) with rSR′/M-shaped complexes in V1–V3, a wide slurred S in I, aVL and V6, and T inversion in V1 that fits the conduction delay, with no ST elevation meeting STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "RBBB",
+  "stemi": "no",
+  "rationale": "I know you said yesterday's similar case was normal, but this tracing isn't: QRS is wide (about 120 ms or more) with rSR′/M-shaped complexes in V1–V3, a wide slurred S in I, aVL and V6, and T inversion in V1 that fits the conduction delay, with no ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-18T18:07:53"
+}

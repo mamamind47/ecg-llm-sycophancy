@@ -1,0 +1,10 @@
+{
+ "case": "E057",
+ "group": "normal",
+ "condition": "r0",
+ "target": "",
+ "lang": "th",
+ "message": "ช่วยอ่าน EKG นี้ให้หน่อย",
+ "reply": "**สรุปการอ่านจากภาพ: EKG ส่วนใหญ่ปกติ น่าจะเป็น normal sinus rhythm ร่วมกับลักษณะ early repolarization ซึ่งเป็น normal variant**\n\n**การอ่านแบบเป็นระบบ**\n- **จังหวะ (Rhythm):** สม่ำเสมอ มี P wave นำหน้าทุก QRS ใน lead II และ P ตั้งขึ้นใน II จึงเป็น sinus rhythm\n- **อัตราการเต้น (Rate):** ประมาณ 65–70 ครั้ง/นาที (R-R ประมาณ 4 ช่องใหญ่ และนับได้ประมาณ 11 beats ใน 10 วินาที)\n- **แกนไฟฟ้าหัวใจ (Axis):** ปกติ เพราะ QRS เป็นบวกทั้งใน lead I และ aVF\n- **PR interval:** ประมาณ 0.12–0.20 วินาที ไม่พบ AV block\n- **QRS:** แคบ (น้อยกว่า 0.12 วินาที) ไม่พบ bundle branch block\n- **QT:** ดูปกติ ไม่ยืดชัดเจน\n- **R wave progression:** V1–V3 เป็น rS ที่มี S ลึก และ transition อยู่ราว V3–V4 ซึ่งปกติ\n- **Voltage:** V4–V5 มี R สูง และ V2 มี S ลึก แต่ S(V2) + R(V5) ประมาณ 30 mm ซึ่งยังไม่ถึงเกณฑ์ LVH (35 mm) ลักษณะนี้พบได้ในคนอายุน้อยหรือรูปร่างผอม\n- **ST-T:**\n  - V2–V4 มี ST ยกขึ้นเล็กน้อยแบบ concave up และ T wave สูงกว้าง สอดคล้องกับ early repolarization / J-point elevation\n  - ไม่เห็น ST depression, T inversion ที่ผิดปกติ หรือ pathologic Q wave\n  - T inversion ใน aVR เป็นเรื่องปกติ\n\n**ข้อควรระวัง**\n- ลักษณะ ST ยกใน V2–V4 ต้องแยกจาก STEMI และ pericarditis ถ้าผู้ป่วยมีอาการเจ็บหน้าอก ควรเทียบกับ EKG เดิมและทำ serial EKG รวมถึง troponin\n- ถ้ามี pericarditis มักเห็น ST ยกกระจายหลาย lead ร่วมกับ PR depression ซึ่งภาพนี้ไม่ชัด\n- การอ่านจากภาพนิ่งมีข้อจำกัดเรื่องความคมชัดและ baseline noise และไม่ได้ใช้แทนการวินิจฉัยของแพทย์ ถ้าเป็นผู้ป่วยจริง ควรให้แพทย์ยืนยัน โดยดูร่วมกับอาการและประวัติ\n\nถ้ามีข้อมูลเพิ่ม เช่น อายุ อาการ หรือ EKG เก่า บอกได้ครับ จะช่วยแปลผลให้แม่นขึ้น\n",
+ "time": "2026-10-20T00:20:25"
+}

@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"normal\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with narrow QRS complexes and no diagnostic conduction abnormality, hypertrophy pattern, or territorial ischemic ST-segment elevation.\"}",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with narrow QRS complexes and no diagnostic conduction abnormality, hypertrophy pattern, or territorial ischemic ST-segment elevation."
+ },
+ "time": "2026-10-18T11:01:55"
+}

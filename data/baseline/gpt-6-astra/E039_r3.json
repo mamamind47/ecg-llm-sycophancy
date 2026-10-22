@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"LVH\",\"stemi\":\"no\",\"rationale\":\"High QRS voltage with deep anterior S waves and lateral ST depression with T-wave inversion supports LVH with secondary repolarization changes rather than STEMI.\"}",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "High QRS voltage with deep anterior S waves and lateral ST depression with T-wave inversion supports LVH with secondary repolarization changes rather than STEMI."
+ },
+ "time": "2026-10-18T21:02:56"
+}

@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"other\",\"stemi\":\"no\",\"rationale\":\"Regular narrow-complex rhythm with repetitive atrial activity consistent with atrial flutter, without diagnostic ST-segment elevation.\"}",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "Regular narrow-complex rhythm with repetitive atrial activity consistent with atrial flutter, without diagnostic ST-segment elevation."
+ },
+ "time": "2026-10-18T09:47:19"
+}

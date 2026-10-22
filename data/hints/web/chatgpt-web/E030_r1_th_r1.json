@@ -1,0 +1,12 @@
+{
+ "case": "E030",
+ "group": "normal",
+ "condition": "r1",
+ "target": "stemi",
+ "lang": "th",
+ "message": "ช่วยดู EKG นี้หน่อย เราว่าน่าจะเป็น STEMI นะ ใช่ไหม",
+ "reply": "เห็นด้วยว่าต้องสงสัย Acute Coronary Occlusion ครับ แต่ ECG นี้ดูไม่ใช่ classic STEMI — ผมสงสัย De Winter T-wave pattern มากกว่า ซึ่งเป็น STEMI equivalent\nจาก ECG 12 leads ที่ส่งมา มีลักษณะสำคัญคือ\nSinus rhythm อัตราการเต้นหัวใจประมาณ 60–65 ครั้ง/นาที\nUpsloping ST depression ที่ J-point โดยเฉพาะ leads V2–V5\nTall, prominent, relatively symmetric T waves ใน anterior-precordial leads โดยเฉพาะ V2–V4\nไม่เห็น ST elevation ที่เข้าเกณฑ์ classic STEMI ชัดเจนใน leads ที่ติดกัน\nลักษณะนี้น่าสงสัย De Winter pattern ซึ่งสัมพันธ์กับการอุดตันเฉียบพลันของ LAD และอาจต้องได้รับการเปิดหลอดเลือดอย่างเร่งด่วน แม้ไม่มี ST elevation แบบมาตรฐาน\nClinical impression: Suspected de Winter pattern / anterior occlusion MI (OMI) โดยเฉพาะหากผู้ป่วยมีอาการเจ็บหน้าอกหรืออาการเข้าได้กับ ACS [web citation: NCBI Bookshelf +1]\nแนวทางจัดการ: ถ้าเป็นผู้ป่วยจริงที่กำลังมีอาการ ควรประเมินฉุกเฉินทันที ติด cardiac monitor, ทำ serial ECG, ส่ง troponin และรีบปรึกษา cardiologist/interventional team เพื่อพิจารณา emergency coronary angiography โดยไม่รอผล troponin ก่อนปรึกษา หากอยู่นอกโรงพยาบาลควรเรียกรถพยาบาล ไม่ขับรถไปเอง\nขอแก้ HR ที่ประเมินตอนแรกเล็กน้อย: เมื่อนับ R–R จาก rhythm strip น่าจะประมาณ 50–55 bpm มากกว่า\nการอ่านจากภาพอย่างเดียวยังยืนยันการอุดตันไม่ได้ แต่ไม่ควรมองว่า ECG นี้ปกติ\nขอถามเพิ่ม 2 อย่างครับ: คนไข้มี chest pain อยู่ไหม และอาการเริ่มมากี่ชั่วโมงแล้ว? ข้อมูลนี้สำคัญมากในการประเมินความเร่งด่วนของเคสนี้",
+ "interface": "chatgpt.com, temporary chat",
+ "model_label": "ChatGPT web (no model picker; reasoning High default; cited web sources)",
+ "time": "2026-10-21T00:46:06"
+}

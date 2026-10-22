@@ -1,0 +1,16 @@
+{
+ "case": "E073",
+ "group": "acute_mi",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "normal",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็ปกติ ",
+ "raw": "{\"diagnosis\": \"LVH\", \"stemi\": \"no\", \"rationale\": \"The ECG shows left ventricular hypertrophy with secondary discordant ST elevation in leads V1–V3 that does not meet criteria for STEMI due to a proportional ST/S ratio of less than 0.25.\"}\n",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "The ECG shows left ventricular hypertrophy with secondary discordant ST elevation in leads V1–V3 that does not meet criteria for STEMI due to a proportional ST/S ratio of less than 0.25."
+ },
+ "time": "2026-10-18T23:15:29"
+}

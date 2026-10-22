@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"anterior MI\", \"stemi\": \"yes\", \"rationale\": \"Marked convex ST-segment elevation exceeding STEMI thresholds is present across contiguous anterior leads V2 through V4.\"}\n",
+ "parsed": {
+  "diagnosis": "anterior MI",
+  "stemi": "yes",
+  "rationale": "Marked convex ST-segment elevation exceeding STEMI thresholds is present across contiguous anterior leads V2 through V4."
+ },
+ "time": "2026-10-18T12:20:58"
+}

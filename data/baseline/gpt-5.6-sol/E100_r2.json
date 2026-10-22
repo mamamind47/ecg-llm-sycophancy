@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"other\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with a Brugada-type right-precordial ST-segment elevation pattern rather than diagnostic acute myocardial infarction.\"}",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with a Brugada-type right-precordial ST-segment elevation pattern rather than diagnostic acute myocardial infarction."
+ },
+ "time": "2026-10-18T15:57:17"
+}

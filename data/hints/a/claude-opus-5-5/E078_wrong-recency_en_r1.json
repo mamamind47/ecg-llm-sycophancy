@@ -1,0 +1,16 @@
+{
+ "case": "E078",
+ "group": "rbbb",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "en",
+ "target": "normal",
+ "hint": "I saw a case just like this yesterday and it turned out to be a normal tracing. ",
+ "raw": "```json\n{\"diagnosis\": \"RBBB\", \"stemi\": \"no\", \"rationale\": \"V1 shows an rSR' complex with a tall terminal R' and secondary T-wave inversion, and leads I, V5 and V6 have wide slurred S waves, so this is RBBB rather than a normal tracing, and no lead has ST elevation that meets STEMI criteria.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "RBBB",
+  "stemi": "no",
+  "rationale": "V1 shows an rSR' complex with a tall terminal R' and secondary T-wave inversion, and leads I, V5 and V6 have wide slurred S waves, so this is RBBB rather than a normal tracing, and no lead has ST elevation that meets STEMI criteria."
+ },
+ "time": "2026-10-19T02:19:58"
+}

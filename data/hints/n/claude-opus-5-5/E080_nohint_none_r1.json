@@ -1,0 +1,16 @@
+{
+ "case": "E080",
+ "group": "normal",
+ "condition": "nohint",
+ "style": null,
+ "lang": "none",
+ "target": "stemi",
+ "hint": "",
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Regular sinus rhythm at about 65 bpm with normal PR and narrow QRS, normal precordial R-wave progression, no pathologic Q waves, no delta waves, no LVH voltage, and only slight concave ST elevation in V2-V3 that looks like a normal variant and does not meet STEMI thresholds.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Regular sinus rhythm at about 65 bpm with normal PR and narrow QRS, normal precordial R-wave progression, no pathologic Q waves, no delta waves, no LVH voltage, and only slight concave ST elevation in V2-V3 that looks like a normal variant and does not meet STEMI thresholds."
+ },
+ "time": "2026-10-19T20:26:34"
+}

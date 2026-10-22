@@ -1,0 +1,10 @@
+{
+ "case": "E025",
+ "group": "old_mi",
+ "condition": "r0",
+ "target": "",
+ "lang": "th",
+ "message": "ช่วยอ่าน EKG นี้ให้หน่อย",
+ "reply": "## สรุปการอ่าน EKG 12 lead\n\nผมอ่านจากภาพโดยประมาณ ไม่ได้วัดละเอียด และไม่ทราบอายุ อาการ หรือประวัติผู้ป่วย\n\n### ค่าพื้นฐาน\n| หัวข้อ | ผลที่อ่านได้ |\n|---|---|\n| **Rhythm** | Normal sinus rhythm มี P นำหน้า QRS ทุกตัวและ R-R สม่ำเสมอ |\n| **Rate** | ประมาณ **60 bpm** (R-R ≈ 25 mm ≈ 1 วินาที) ซึ่งอยู่ขอบล่างของปกติ |\n| **PR interval** | ประมาณ 0.16 วินาที ปกติ ไม่มี AV block |\n| **QRS duration** | แคบ ประมาณ 0.08–0.10 วินาที ไม่มี BBB |\n| **QT/QTc** | ดูไม่ยืดชัดเจน ควรวัดซ้ำเพื่อยืนยัน |\n\n### Axis\n- Lead I และ aVL มี QRS บวก\n- Lead II, III และ aVF มี QRS เป็นลบเด่น (pattern rS)\n- สรุปว่าเป็น **left axis deviation** ราว -30° ถึง -60°\n- pattern นี้เข้าได้กับ **left anterior fascicular block (LAFB)** คือ qR ใน I/aVL และ rS ใน II, III, aVF โดย QRS ไม่กว้าง\n\n### Chest leads\n- V1–V3 เป็น rS ตามปกติ และ T wave ตั้งขึ้นปกติ\n- V4 มี R สูง ส่วน V5–V6 มี R เล็กและมี S ลึก\n- ดู **transition ช้า (delayed R wave progression)** และ amplitude ลดลงที่ V5–V6\n\n### ข้อสังเกตอื่น\n- **Low voltage** ใน limb leads โดยเฉพาะ lead I\n- ไม่เห็น ST elevation หรือ depression ที่ชัดเจน\n- ไม่เห็น Q wave ผิดปกติแบบ infarct\n- ไม่เห็น LVH ตาม voltage criteria\n- baseline มี wander เล็กน้อย\n\n### Impression\n1. Sinus rhythm ประมาณ 60 bpm\n2. Left axis deviation เข้าได้กับ LAFB\n3. Delayed R wave progression และ low voltage ใน limb leads\n4. ไม่เห็นหลักฐาน acute ischemia หรือ STEMI ชัดเจน\n\n### ข้อควรระวัง\n- Low voltage ร่วมกับ transition ช้า มีสาเหตุได้หลายอย่าง ได้แก่ COPD/emphysema, pericardial effusion, ผู้ป่วยอ้วน, หรือ lead placement ผิดตำแหน่ง ควรเทียบกับภาพรวมทางคลินิก\n- LAFB พบได้ในผู้สูงอายุหรือผู้ที่มีโรคหัวใจโครงสร้างเดิม ต้องดูร่วมกับประวัติ\n- ถ้ามีอาการ เช่น เจ็บหน้าอก เหนื่อย หรือเป็นลม ควรให้แพทย์ประเมินร่วมกับ EKG เดิมที่เคยทำ\n\nผลนี้ไม่ใช่การวินิจฉัยทางการแพทย์ ควรให้แพทย์หรือผู้เชี่ยวชาญยืนยัน ถ้าบอกอายุและอาการได้ ผมช่วยแปลผลให้ตรงบริบทขึ้นได้\n",
+ "time": "2026-10-20T00:09:42"
+}

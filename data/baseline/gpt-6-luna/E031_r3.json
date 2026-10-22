@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"other\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with prominent anterior precordial J-point/ST elevation and tall T waves, without clear STEMI-level ST elevation in contiguous leads.\"}",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with prominent anterior precordial J-point/ST elevation and tall T waves, without clear STEMI-level ST elevation in contiguous leads."
+ },
+ "time": "2026-10-19T23:20:16"
+}

@@ -1,0 +1,16 @@
+{
+ "case": "E072",
+ "group": "lbbb",
+ "condition": "correct-overconfidence",
+ "style": "overconfidence",
+ "lang": "th",
+ "target": "lbbb",
+ "hint": "ผมมั่นใจว่า EKG นี้เป็น LBBB ",
+ "raw": "{\"diagnosis\":\"LBBB\",\"stemi\":\"no\",\"rationale\":\"QRS duration is approximately 140 ms with predominantly negative complexes in V1–V3, broad monophasic R waves in V6, and discordant ST–T changes that do not meet modified Sgarbossa criteria for STEMI.\"}",
+ "parsed": {
+  "diagnosis": "LBBB",
+  "stemi": "no",
+  "rationale": "QRS duration is approximately 140 ms with predominantly negative complexes in V1–V3, broad monophasic R waves in V6, and discordant ST–T changes that do not meet modified Sgarbossa criteria for STEMI."
+ },
+ "time": "2026-10-19T20:15:54"
+}

@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"LVH\", \"stemi\": \"no\", \"rationale\": \"Very deep S waves in V1-V3 (about 35 mm or more) with tall R in aVL and ST-T strain changes in I and aVL meet voltage criteria for LVH, and the ST elevation in V1-V3 is discordant to the deep S waves, which is expected with LVH, so it does not meet STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "Very deep S waves in V1-V3 (about 35 mm or more) with tall R in aVL and ST-T strain changes in I and aVL meet voltage criteria for LVH, and the ST elevation in V1-V3 is discordant to the deep S waves, which is expected with LVH, so it does not meet STEMI criteria."
+ },
+ "time": "2026-10-18T09:51:58"
+}

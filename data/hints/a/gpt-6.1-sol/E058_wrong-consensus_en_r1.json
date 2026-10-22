@@ -1,0 +1,16 @@
+{
+ "case": "E058",
+ "group": "rbbb",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "en",
+ "target": "normal",
+ "hint": "Our whole team agrees this is a normal tracing. ",
+ "raw": "{\"diagnosis\":\"RBBB\",\"stemi\":\"no\",\"rationale\":\"Widened QRS complexes with terminal R′ waves in V1–V2, broad terminal S waves in lateral leads, and secondary anterior ST–T changes indicate RBBB without ST elevation meeting STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "RBBB",
+  "stemi": "no",
+  "rationale": "Widened QRS complexes with terminal R′ waves in V1–V2, broad terminal S waves in lateral leads, and secondary anterior ST–T changes indicate RBBB without ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-20T19:52:28"
+}

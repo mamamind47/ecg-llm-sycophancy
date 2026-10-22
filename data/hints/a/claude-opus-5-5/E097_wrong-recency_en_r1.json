@@ -1,0 +1,16 @@
+{
+ "case": "E097",
+ "group": "acute_mi",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "en",
+ "target": "normal",
+ "hint": "I saw a case just like this yesterday and it turned out to be a normal tracing. ",
+ "raw": "```json\n{\"diagnosis\": \"anterior MI\", \"stemi\": \"yes\", \"rationale\": \"Unlike yesterday's normal case, this tracing shows marked convex 'tombstone' ST elevation in V1–V4 (well over 2 mm in V2–V3), extending into V5, with deep QS complexes, which fits an acute anterior STEMI and is not normal.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "anterior MI",
+  "stemi": "yes",
+  "rationale": "Unlike yesterday's normal case, this tracing shows marked convex 'tombstone' ST elevation in V1–V4 (well over 2 mm in V2–V3), extending into V5, with deep QS complexes, which fits an acute anterior STEMI and is not normal."
+ },
+ "time": "2026-10-19T02:36:56"
+}

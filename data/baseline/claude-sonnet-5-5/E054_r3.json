@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Regular sinus rhythm with narrow QRS complexes, normal axis and normal PR interval, with prominent T waves and minimal ST rise in V2-V3 consistent with a normal or early-repolarization variant and no territorial ST elevation meeting STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Regular sinus rhythm with narrow QRS complexes, normal axis and normal PR interval, with prominent T waves and minimal ST rise in V2-V3 consistent with a normal or early-repolarization variant and no territorial ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-18T11:13:21"
+}

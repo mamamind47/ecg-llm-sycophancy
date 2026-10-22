@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"LVH\", \"stemi\": \"no\", \"rationale\": \"Marked voltage criteria (S in V1 plus R in V5 exceeding 35 mm and R in aVL > 11 mm) confirm left ventricular hypertrophy, with discordant ST elevation in V1–V3 representing secondary repolarization abnormalities rather than STEMI.\"}\n",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "Marked voltage criteria (S in V1 plus R in V5 exceeding 35 mm and R in aVL > 11 mm) confirm left ventricular hypertrophy, with discordant ST elevation in V1–V3 representing secondary repolarization abnormalities rather than STEMI."
+ },
+ "time": "2026-10-18T01:40:07"
+}

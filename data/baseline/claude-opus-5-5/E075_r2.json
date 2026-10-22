@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"atrial fibrillation\", \"stemi\": \"no\", \"rationale\": \"The lead II rhythm strip is irregularly irregular (R-R intervals vary from about 80 to 210 px), has no clear repeating P waves, and shows a wavy fibrillatory baseline with narrow QRS complexes and no significant ST elevation.\"}\n",
+ "parsed": {
+  "diagnosis": "atrial fibrillation",
+  "stemi": "no",
+  "rationale": "The lead II rhythm strip is irregularly irregular (R-R intervals vary from about 80 to 210 px), has no clear repeating P waves, and shows a wavy fibrillatory baseline with narrow QRS complexes and no significant ST elevation."
+ },
+ "time": "2026-10-18T10:02:27"
+}

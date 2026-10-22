@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"other\", \"stemi\": \"no\", \"rationale\": \"Sinus rhythm at about 57 bpm with a narrow QRS and left axis deviation (rS in II, III and aVF, tall R in I and aVL), which fits left anterior fascicular block. There are no pathologic Q waves, and the ST segments are not elevated enough to meet STEMI criteria, only tall, broad T waves in V2–V3.\"}\n",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "Sinus rhythm at about 57 bpm with a narrow QRS and left axis deviation (rS in II, III and aVF, tall R in I and aVL), which fits left anterior fascicular block. There are no pathologic Q waves, and the ST segments are not elevated enough to meet STEMI criteria, only tall, broad T waves in V2–V3."
+ },
+ "time": "2026-10-18T09:55:04"
+}

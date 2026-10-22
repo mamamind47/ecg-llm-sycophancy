@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"anterior MI\", \"stemi\": \"yes\", \"rationale\": \"V1–V3 show QS complexes with poor R-wave progression, and V2–V4 show ST elevation that is convex upward, which points to an anterior infarct; the J-point elevation in V2–V3 looks like it meets STEMI criteria, but a chronic aneurysm pattern can't be ruled out from the image alone.\"}\n",
+ "parsed": {
+  "diagnosis": "anterior MI",
+  "stemi": "yes",
+  "rationale": "V1–V3 show QS complexes with poor R-wave progression, and V2–V4 show ST elevation that is convex upward, which points to an anterior infarct; the J-point elevation in V2–V3 looks like it meets STEMI criteria, but a chronic aneurysm pattern can't be ruled out from the image alone."
+ },
+ "time": "2026-10-18T01:02:00"
+}

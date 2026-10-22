@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"other\",\"stemi\":\"no\",\"rationale\":\"Regular narrow-complex rhythm with visible P waves and prominent right precordial U waves consistent with hypokalemia, without diagnostic ST elevation.\"}",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "Regular narrow-complex rhythm with visible P waves and prominent right precordial U waves consistent with hypokalemia, without diagnostic ST elevation."
+ },
+ "time": "2026-10-19T23:01:45"
+}

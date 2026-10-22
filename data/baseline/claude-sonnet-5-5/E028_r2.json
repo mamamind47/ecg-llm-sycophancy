@@ -1,0 +1,9 @@
+{
+ "raw": "```json\n{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Regular sinus rhythm at about 60 bpm with narrow QRS, normal axis, normal R-wave progression, no LVH voltage and no pathologic Q waves. The mild ST elevation in V2–V3 looks like benign early repolarization and is below STEMI thresholds.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Regular sinus rhythm at about 60 bpm with narrow QRS, normal axis, normal R-wave progression, no LVH voltage and no pathologic Q waves. The mild ST elevation in V2–V3 looks like benign early repolarization and is below STEMI thresholds."
+ },
+ "time": "2026-10-18T09:50:18"
+}

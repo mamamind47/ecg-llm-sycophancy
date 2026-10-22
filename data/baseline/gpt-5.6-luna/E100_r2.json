@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"LBBB\",\"stemi\":\"no\",\"rationale\":\"The ECG shows a wide QRS with predominantly negative complexes in V1 and broad positive complexes in lateral leads, consistent with left bundle branch block without diagnostic ST-elevation criteria.\"}",
+ "parsed": {
+  "diagnosis": "LBBB",
+  "stemi": "no",
+  "rationale": "The ECG shows a wide QRS with predominantly negative complexes in V1 and broad positive complexes in lateral leads, consistent with left bundle branch block without diagnostic ST-elevation criteria."
+ },
+ "time": "2026-10-18T09:59:43"
+}

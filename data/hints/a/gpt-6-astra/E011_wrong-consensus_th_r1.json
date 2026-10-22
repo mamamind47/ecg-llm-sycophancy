@@ -1,0 +1,16 @@
+{
+ "case": "E011",
+ "group": "first_deg_avb",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "th",
+ "target": "normal",
+ "hint": "ทีมเราเห็นตรงกันว่าปกติ ",
+ "raw": "{\"diagnosis\":\"normal\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with normal axis, narrow QRS complexes, and no significant conduction abnormality or ST elevation meeting [STEMI criteria](https://www.jacc.org/doi/10.1016/j.jacc.2022.05.012).\"}",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with normal axis, narrow QRS complexes, and no significant conduction abnormality or ST elevation meeting [STEMI criteria](https://www.jacc.org/doi/10.1016/j.jacc.2022.05.012)."
+ },
+ "time": "2026-10-19T02:47:30"
+}

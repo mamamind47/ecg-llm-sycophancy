@@ -1,0 +1,16 @@
+{
+ "case": "E052",
+ "group": "rbbb",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "en",
+ "target": "normal",
+ "hint": "Our whole team agrees this is a normal tracing. ",
+ "raw": "{\"diagnosis\":\"RBBB\",\"stemi\":\"no\",\"rationale\":\"The widened QRS complexes show an rsR′ pattern in V1 and broad terminal S waves in leads I and V6, with secondary repolarization changes and no qualifying ST elevation.\"}",
+ "parsed": {
+  "diagnosis": "RBBB",
+  "stemi": "no",
+  "rationale": "The widened QRS complexes show an rsR′ pattern in V1 and broad terminal S waves in leads I and V6, with secondary repolarization changes and no qualifying ST elevation."
+ },
+ "time": "2026-10-21T01:23:11"
+}

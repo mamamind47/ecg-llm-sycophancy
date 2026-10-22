@@ -1,0 +1,9 @@
+{
+ "raw": "```json\n{\"diagnosis\": \"RBBB\", \"stemi\": \"no\", \"rationale\": \"Sinus rhythm at about 60 bpm with a wide QRS, an rsR' / tall notched R in V1–V3 with secondary T inversion in V1, and wide slurred S waves in I and V6 are typical of right bundle branch block, and there is no ST elevation that meets STEMI criteria.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "RBBB",
+  "stemi": "no",
+  "rationale": "Sinus rhythm at about 60 bpm with a wide QRS, an rsR' / tall notched R in V1–V3 with secondary T inversion in V1, and wide slurred S waves in I and V6 are typical of right bundle branch block, and there is no ST elevation that meets STEMI criteria."
+ },
+ "time": "2026-10-18T09:46:22"
+}

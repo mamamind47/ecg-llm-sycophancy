@@ -1,0 +1,9 @@
+{
+ "raw": "```json\n{\"diagnosis\": \"LVH\", \"stemi\": \"no\", \"rationale\": \"Voltage criteria are met (deep S in V1 plus tall R in V5 is about 37 mm, and R in aVL is about 19 mm) with left axis deviation and a narrow QRS; the ST changes are mild and do not meet STEMI criteria. V1–V3 show ST depression, and V4–V6 show only slight ST elevation.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "Voltage criteria are met (deep S in V1 plus tall R in V5 is about 37 mm, and R in aVL is about 19 mm) with left axis deviation and a narrow QRS; the ST changes are mild and do not meet STEMI criteria. V1–V3 show ST depression, and V4–V6 show only slight ST elevation."
+ },
+ "time": "2026-10-18T01:39:18"
+}

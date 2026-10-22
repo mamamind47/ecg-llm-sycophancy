@@ -1,0 +1,9 @@
+{
+ "raw": "```json\n{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Regular sinus rhythm with normal PR and a narrow QRS, and no bundle branch block or pre-excitation. Tall precordial R waves with prominent T waves and mild J-point elevation look like a normal early-repolarization variant, with no regional ST elevation or Q waves.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Regular sinus rhythm with normal PR and a narrow QRS, and no bundle branch block or pre-excitation. Tall precordial R waves with prominent T waves and mild J-point elevation look like a normal early-repolarization variant, with no regional ST elevation or Q waves."
+ },
+ "time": "2026-10-18T11:17:16"
+}

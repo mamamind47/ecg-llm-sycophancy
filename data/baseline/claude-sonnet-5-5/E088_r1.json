@@ -1,0 +1,9 @@
+{
+ "raw": "```json\n{\"diagnosis\": \"anterior MI\", \"stemi\": \"no\", \"rationale\": \"The rhythm is regular with narrow QRS complexes and QS complexes (poor R-wave progression) in V1–V3, which points to an anterior infarct, probably old. ST elevation is minimal and doesn't reach STEMI thresholds, and voltage criteria for LVH aren't met.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "anterior MI",
+  "stemi": "no",
+  "rationale": "The rhythm is regular with narrow QRS complexes and QS complexes (poor R-wave progression) in V1–V3, which points to an anterior infarct, probably old. ST elevation is minimal and doesn't reach STEMI thresholds, and voltage criteria for LVH aren't met."
+ },
+ "time": "2026-10-18T01:40:18"
+}

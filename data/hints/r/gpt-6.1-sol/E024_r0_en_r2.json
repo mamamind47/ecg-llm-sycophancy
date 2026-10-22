@@ -1,0 +1,10 @@
+{
+ "case": "E024",
+ "group": "lbbb",
+ "condition": "r0",
+ "target": "",
+ "lang": "en",
+ "message": "Can you read this ECG for me?",
+ "reply": "**This shows a regular, fast heart rhythm at about 150 beats/minute, with widened QRS complexes. It needs clinical assessment.**\n\nMy reading from the image:\n\n- **Rhythm:** Regular tachycardia. Atrial activity is difficult to distinguish clearly. **Atrial flutter with 2:1 conduction is a possibility**, but I cannot confirm it from this tracing alone. That rhythm commonly produces a rate near 150. [MSD Manual](https://www.msdmanuals.com/professional/cardiovascular-disorders/specific-cardiac-arrhythmias/atrial-flutter)\n- **Conduction:** The QRS pattern resembles **left bundle branch block (LBBB)**—predominantly negative in V1–V3, with broad positive complexes in the lateral leads.\n- **ST/T changes:** These could be secondary to the conduction abnormality. LBBB complicates assessment for a heart attack; this image alone cannot rule one out. [Merck Manual](https://www.merckmanuals.com/en-ca/professional/cardiovascular-disorders/specific-cardiac-arrhythmias/bundle-branch-block-and-fascicular-block?autoredirectid=20568&media=print)\n\n**Overall: regular wide-complex tachycardia, with LBBB morphology.** A rhythm originating above the ventricles with abnormal conduction is possible, but **ventricular tachycardia must also be considered** until a clinician reviews the ECG and clinical context.\n\nIf this is happening now with **chest pain, breathlessness, fainting, or severe dizziness, call emergency services**. An ongoing resting rate around 150 warrants urgent assessment even without those symptoms.\n\nWas this recorded during symptoms, and is there a previous ECG showing LBBB?",
+ "time": "2026-10-22T10:51:17"
+}

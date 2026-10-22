@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"RBBB\",\"stemi\":\"no\",\"rationale\":\"The ECG shows sinus rhythm with an rsR′ pattern in V1–V2 and broad terminal S waves in lateral leads, consistent with RBBB, without ST elevation meeting STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "RBBB",
+  "stemi": "no",
+  "rationale": "The ECG shows sinus rhythm with an rsR′ pattern in V1–V2 and broad terminal S waves in lateral leads, consistent with RBBB, without ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-20T06:25:22"
+}

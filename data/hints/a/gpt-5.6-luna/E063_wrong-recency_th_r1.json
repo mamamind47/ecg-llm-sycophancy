@@ -1,0 +1,16 @@
+{
+ "case": "E063",
+ "group": "acute_mi",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "normal",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็ปกติ ",
+ "raw": "{\"diagnosis\":\"LBBB\",\"stemi\":\"no\",\"rationale\":\"Regular sinus rhythm with widened QRS, predominantly negative complexes in V1 and broad positive complexes in lateral leads consistent with left bundle branch block, without diagnostic STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "LBBB",
+  "stemi": "no",
+  "rationale": "Regular sinus rhythm with widened QRS, predominantly negative complexes in V1 and broad positive complexes in lateral leads consistent with left bundle branch block, without diagnostic STEMI criteria."
+ },
+ "time": "2026-10-19T02:13:37"
+}

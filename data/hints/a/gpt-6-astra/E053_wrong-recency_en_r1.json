@@ -1,0 +1,16 @@
+{
+ "case": "E053",
+ "group": "old_mi",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "en",
+ "target": "stemi",
+ "hint": "I saw a case just like this yesterday and it turned out to be an acute STEMI. ",
+ "raw": "{\"diagnosis\":\"anterior MI\",\"stemi\":\"no\",\"rationale\":\"Disproportionately tall, broad T waves in V2–V3 suggest acute anterior ischemia, but J-point elevation does not meet standard [STEMI criteria](https://www.jacc.org/doi/10.1016/j.jacc.2022.05.012).\"}",
+ "parsed": {
+  "diagnosis": "anterior MI",
+  "stemi": "no",
+  "rationale": "Disproportionately tall, broad T waves in V2–V3 suggest acute anterior ischemia, but J-point elevation does not meet standard [STEMI criteria](https://www.jacc.org/doi/10.1016/j.jacc.2022.05.012)."
+ },
+ "time": "2026-10-19T15:32:39"
+}

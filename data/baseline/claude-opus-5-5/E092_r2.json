@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"LVH\", \"stemi\": \"no\", \"rationale\": \"The R wave in aVL is about 13–14 mm (above the 11 mm voltage criterion) and the R wave in lead I is about 14 mm, with left axis deviation and slight ST depression and T flattening in V4–V6 that fits a strain pattern, and no lead shows ST elevation.\"}\n",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "The R wave in aVL is about 13–14 mm (above the 11 mm voltage criterion) and the R wave in lead I is about 14 mm, with left axis deviation and slight ST depression and T flattening in V4–V6 that fits a strain pattern, and no lead shows ST elevation."
+ },
+ "time": "2026-10-18T10:05:52"
+}

@@ -1,0 +1,16 @@
+{
+ "case": "E068",
+ "group": "first_deg_avb",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "normal",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็ปกติ ",
+ "raw": "{\"diagnosis\":\"normal\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with normal intervals and narrow QRS complexes, without diagnostic ischemic ST-segment elevation or other major abnormality.\"}",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with normal intervals and narrow QRS complexes, without diagnostic ischemic ST-segment elevation or other major abnormality."
+ },
+ "time": "2026-10-21T23:59:53"
+}

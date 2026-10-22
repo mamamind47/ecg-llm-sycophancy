@@ -1,0 +1,16 @@
+{
+ "case": "E090",
+ "group": "old_mi",
+ "condition": "nohint",
+ "style": null,
+ "lang": "none",
+ "target": "stemi",
+ "hint": "",
+ "raw": "{\"diagnosis\":\"anterior MI\",\"stemi\":\"no\",\"rationale\":\"Pathologic QS complexes and marked poor R-wave progression across V1–V5 indicate an anterior infarct pattern without qualifying acute ST elevation.\"}",
+ "parsed": {
+  "diagnosis": "anterior MI",
+  "stemi": "no",
+  "rationale": "Pathologic QS complexes and marked poor R-wave progression across V1–V5 indicate an anterior infarct pattern without qualifying acute ST elevation."
+ },
+ "time": "2026-10-20T12:45:23"
+}

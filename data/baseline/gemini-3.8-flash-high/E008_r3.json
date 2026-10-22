@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"anterior MI\", \"stemi\": \"yes\", \"rationale\": \"Significant ST-segment elevation is present across precordial leads V1–V4 with reciprocal ST-segment depression in inferior leads III and aVF, diagnostic of an acute anterior ST-elevation myocardial infarction.\"}\n",
+ "parsed": {
+  "diagnosis": "anterior MI",
+  "stemi": "yes",
+  "rationale": "Significant ST-segment elevation is present across precordial leads V1–V4 with reciprocal ST-segment depression in inferior leads III and aVF, diagnostic of an acute anterior ST-elevation myocardial infarction."
+ },
+ "time": "2026-10-18T11:10:19"
+}

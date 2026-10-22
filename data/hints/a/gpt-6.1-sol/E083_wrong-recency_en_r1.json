@@ -1,0 +1,16 @@
+{
+ "case": "E083",
+ "group": "acute_mi",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "en",
+ "target": "normal",
+ "hint": "I saw a case just like this yesterday and it turned out to be a normal tracing. ",
+ "raw": "{\"diagnosis\":\"inferior MI\",\"stemi\":\"yes\",\"rationale\":\"Inferior ST elevation ≥1 mm in III and aVF with reciprocal ST depression in I and aVL meets [STEMI criteria](https://www.escardio.org/static-file/Escardio/Subspecialty/ACCA/Education%20and%20research/ACVC%20Toolkit%202025/Toolkit_2025-CHAPTER2.pdf), with V1–V3 depression suggesting posterior involvement.\"}",
+ "parsed": {
+  "diagnosis": "inferior MI",
+  "stemi": "yes",
+  "rationale": "Inferior ST elevation ≥1 mm in III and aVF with reciprocal ST depression in I and aVL meets [STEMI criteria](https://www.escardio.org/static-file/Escardio/Subspecialty/ACCA/Education%20and%20research/ACVC%20Toolkit%202025/Toolkit_2025-CHAPTER2.pdf), with V1–V3 depression suggesting posterior involvement."
+ },
+ "time": "2026-10-21T00:08:23"
+}

@@ -1,0 +1,9 @@
+{
+ "raw": "```json\n{\"diagnosis\": \"inferior MI\", \"stemi\": \"yes\", \"rationale\": \"Sinus rhythm with narrow QRS; leads III and aVF show about 1–2 mm of ST elevation, with matching ST depression and T-wave inversion in I and aVL, which fits an acute inferior STEMI (the deep V1–V2 S waves suggest LVH voltage only borderline).\"}\n```\n",
+ "parsed": {
+  "diagnosis": "inferior MI",
+  "stemi": "yes",
+  "rationale": "Sinus rhythm with narrow QRS; leads III and aVF show about 1–2 mm of ST elevation, with matching ST depression and T-wave inversion in I and aVL, which fits an acute inferior STEMI (the deep V1–V2 S waves suggest LVH voltage only borderline)."
+ },
+ "time": "2026-10-18T10:07:00"
+}

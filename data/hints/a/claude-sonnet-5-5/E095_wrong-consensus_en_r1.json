@@ -1,0 +1,16 @@
+{
+ "case": "E095",
+ "group": "afib",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "en",
+ "target": "normal",
+ "hint": "Our whole team agrees this is a normal tracing. ",
+ "raw": "{\"diagnosis\": \"atrial fibrillation\", \"stemi\": \"no\", \"rationale\": \"The rhythm is irregularly irregular with narrow QRS complexes, no consistent P waves and a fibrillatory baseline (best seen in V1 and the lead II rhythm strip), so this is not a normal tracing despite the team's view. There is also marked precordial voltage, but there is no ST elevation that meets STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "atrial fibrillation",
+  "stemi": "no",
+  "rationale": "The rhythm is irregularly irregular with narrow QRS complexes, no consistent P waves and a fibrillatory baseline (best seen in V1 and the lead II rhythm strip), so this is not a normal tracing despite the team's view. There is also marked precordial voltage, but there is no ST elevation that meets STEMI criteria."
+ },
+ "time": "2026-10-18T16:35:37"
+}

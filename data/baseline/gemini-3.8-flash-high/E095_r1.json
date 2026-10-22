@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"LVH\", \"stemi\": \"no\", \"rationale\": \"The tracing demonstrates markedly increased precordial voltages meeting both Sokolow-Lyon and Cornell criteria for left ventricular hypertrophy with lateral repolarization abnormalities and no ST elevation meeting STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "The tracing demonstrates markedly increased precordial voltages meeting both Sokolow-Lyon and Cornell criteria for left ventricular hypertrophy with lateral repolarization abnormalities and no ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-18T02:05:20"
+}

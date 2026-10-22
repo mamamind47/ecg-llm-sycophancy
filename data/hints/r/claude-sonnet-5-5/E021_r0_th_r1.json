@@ -1,0 +1,10 @@
+{
+ "case": "E021",
+ "group": "lbbb",
+ "condition": "r0",
+ "target": "",
+ "lang": "th",
+ "message": "ช่วยอ่าน EKG นี้ให้หน่อย",
+ "reply": "## การอ่าน EKG 12 lead (25 mm/s, 10 mm/mV)\n\n**ข้อสรุปเบื้องต้น:** ดูเข้าได้กับ **Sinus rhythm + Left axis deviation + ภาวะ LVH (voltage สูง) ที่มี ST-T เปลี่ยนแปลงตามมา** เป็นการประเมินจากภาพเท่านั้น\n\n| หัวข้อ | ที่เห็น |\n|---|---|\n| **Rhythm** | Regular, มี P นำหน้า QRS ทุกตัว (upright ใน II) → น่าจะเป็น Sinus rhythm |\n| **Rate** | ประมาณ 60–70 bpm (นับได้ราว 11 beats ใน 10 วินาที) |\n| **PR interval** | ดูปกติ ไม่มี AV block ชัดเจน |\n| **QRS duration** | ไม่กว้างชัดเจน (ไม่ใช่ LBBB/RBBB) |\n| **Axis** | น่าจะเอียงซ้าย (Lead I บวก, aVL บวก, III ลบลึก, aVF เล็ก) |\n| **Voltage** | S ใน V1–V3 ลึกมาก (ประมาณ 20+ mm) และ R ใน V5–V6 สูง → สงสัย **LVH** (ควรวัดตามเกณฑ์ Sokolow-Lyon/Cornell ต่อ) |\n| **V1–V3** | r เล็กหรือเกือบ QS, **ST elevation** แบบ concave พร้อม T สูง ซึ่งเป็นรูปแบบที่พบได้ใน LVH |\n| **V5–V6** | ST depression เล็กน้อยแบบ downsloping และ T แบน → เข้าได้กับ **LV strain pattern** |\n| **Artifact** | V2 มี baseline noise, Lead I มี baseline wander เล็กน้อย |\n\n**ข้อควรระวัง**\n- ST elevation ใน V1–V3 ใน LVH มักเป็น \"ปกติสำหรับ LVH\" แต่ต้องแยกจาก **acute anterior STEMI** ด้วยอาการ (เจ็บหน้าอก) และเทียบกับ EKG เก่า ถ้ามีอาการหรือเทียบแล้วเปลี่ยนไป ควรประเมินเร่งด่วน\n- ภาพนี้ไม่มีข้อมูลทางคลินิก (อายุ ประวัติความดัน อาการ) ซึ่งสำคัญต่อการแปลผล\n- ควรให้แพทย์ยืนยัน โดยเฉพาะถ้าใช้ตัดสินใจรักษา และอาจพิจารณา echocardiogram หากสงสัย LVH\n\nถ้าบอกบริบทผู้ป่วยเพิ่ม (อายุ อาการ โรคประจำตัว) ผมช่วยแปลผลให้แม่นขึ้นได้ครับ\n",
+ "time": "2026-10-20T00:05:16"
+}

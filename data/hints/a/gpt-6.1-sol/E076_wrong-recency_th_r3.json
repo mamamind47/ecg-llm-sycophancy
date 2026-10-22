@@ -1,0 +1,16 @@
+{
+ "case": "E076",
+ "group": "wpw",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "normal",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็ปกติ ",
+ "raw": "{\"diagnosis\":\"WPW\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with a short PR interval, intermittent delta waves and QRS widening, and secondary ST–T changes indicates ventricular pre-excitation without diagnostic STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "WPW",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with a short PR interval, intermittent delta waves and QRS widening, and secondary ST–T changes indicates ventricular pre-excitation without diagnostic STEMI criteria."
+ },
+ "time": "2026-10-21T11:35:42"
+}

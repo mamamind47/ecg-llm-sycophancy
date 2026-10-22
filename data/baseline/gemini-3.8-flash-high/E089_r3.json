@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"The ECG shows normal sinus rhythm with normal intervals and axis, and physiological concave J-point elevation in leads V2–V3 that does not meet STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "The ECG shows normal sinus rhythm with normal intervals and axis, and physiological concave J-point elevation in leads V2–V3 that does not meet STEMI criteria."
+ },
+ "time": "2026-10-18T12:23:40"
+}

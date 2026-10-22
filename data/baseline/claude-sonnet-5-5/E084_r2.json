@@ -1,0 +1,9 @@
+{
+ "raw": "```json\n{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Regular sinus rhythm at about 80 bpm with normal PR and a narrow QRS; the concave ST elevation with tall T waves in V2-V3 is a normal early-repolarization pattern, with no reciprocal changes and no infarct pattern.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Regular sinus rhythm at about 80 bpm with normal PR and a narrow QRS; the concave ST elevation with tall T waves in V2-V3 is a normal early-repolarization pattern, with no reciprocal changes and no infarct pattern."
+ },
+ "time": "2026-10-18T10:00:28"
+}

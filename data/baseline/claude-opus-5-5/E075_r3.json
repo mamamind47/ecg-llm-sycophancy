@@ -1,0 +1,9 @@
+{
+ "raw": "```json\n{\"diagnosis\": \"atrial fibrillation\", \"stemi\": \"no\", \"rationale\": \"The rhythm strip shows an irregularly irregular narrow-QRS rhythm with no consistent P waves before each QRS and an uneven baseline, and there is no significant ST elevation in any lead.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "atrial fibrillation",
+  "stemi": "no",
+  "rationale": "The rhythm strip shows an irregularly irregular narrow-QRS rhythm with no consistent P waves before each QRS and an uneven baseline, and there is no significant ST elevation in any lead."
+ },
+ "time": "2026-10-18T11:21:03"
+}

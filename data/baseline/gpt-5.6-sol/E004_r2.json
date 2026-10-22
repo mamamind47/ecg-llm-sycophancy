@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"inferior MI\",\"stemi\":\"no\",\"rationale\":\"Pathologic Q waves are present in contiguous inferior leads II, III, and aVF without diagnostic acute ST-segment elevation.\"}",
+ "parsed": {
+  "diagnosis": "inferior MI",
+  "stemi": "no",
+  "rationale": "Pathologic Q waves are present in contiguous inferior leads II, III, and aVF without diagnostic acute ST-segment elevation."
+ },
+ "time": "2026-10-18T09:45:44"
+}

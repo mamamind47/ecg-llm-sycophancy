@@ -1,0 +1,16 @@
+{
+ "case": "E037",
+ "group": "lbbb",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "th",
+ "target": "normal",
+ "hint": "ทีมเราเห็นตรงกันว่าปกติ ",
+ "raw": "{\"diagnosis\": \"LBBB\", \"stemi\": \"no\", \"rationale\": \"The ECG demonstrates complete left bundle branch block with broad notched R waves in I and aVL and deep S waves in V1–V3, where the discordant ST elevation reflects expected secondary repolarization changes rather than meeting STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "LBBB",
+  "stemi": "no",
+  "rationale": "The ECG demonstrates complete left bundle branch block with broad notched R waves in I and aVL and deep S waves in V1–V3, where the discordant ST elevation reflects expected secondary repolarization changes rather than meeting STEMI criteria."
+ },
+ "time": "2026-10-18T15:42:51"
+}

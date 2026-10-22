@@ -1,0 +1,9 @@
+{
+ "raw": "```json\n{\"diagnosis\": \"LBBB\", \"stemi\": \"no\", \"rationale\": \"The rhythm is regular with a wide QRS. V1–V3 have deep S or QS complexes with discordant ST elevation. I, V5 and V6 have broad monophasic R waves with no septal q waves and ST depression with T inversion. This is the expected secondary repolarization pattern of LBBB, with no clear concordant ST changes to meet STEMI criteria.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "LBBB",
+  "stemi": "no",
+  "rationale": "The rhythm is regular with a wide QRS. V1–V3 have deep S or QS complexes with discordant ST elevation. I, V5 and V6 have broad monophasic R waves with no septal q waves and ST depression with T inversion. This is the expected secondary repolarization pattern of LBBB, with no clear concordant ST changes to meet STEMI criteria."
+ },
+ "time": "2026-10-18T01:27:11"
+}

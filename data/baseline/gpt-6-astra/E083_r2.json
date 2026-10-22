@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"inferior MI\",\"stemi\":\"yes\",\"rationale\":\"ST elevation of at least 1 mm in contiguous inferior leads with reciprocal ST depression in I and aVL and marked depression in V1–V3 indicates inferior STEMI with posterior involvement.\"}",
+ "parsed": {
+  "diagnosis": "inferior MI",
+  "stemi": "yes",
+  "rationale": "ST elevation of at least 1 mm in contiguous inferior leads with reciprocal ST depression in I and aVL and marked depression in V1–V3 indicates inferior STEMI with posterior involvement."
+ },
+ "time": "2026-10-18T16:03:49"
+}

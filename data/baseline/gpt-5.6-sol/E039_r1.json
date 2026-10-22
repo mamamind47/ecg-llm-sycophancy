@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"LVH\",\"stemi\":\"no\",\"rationale\":\"Marked voltage criteria with lateral strain and discordant anterior ST elevation indicate LVH with secondary repolarization abnormalities rather than STEMI.\"}",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "Marked voltage criteria with lateral strain and discordant anterior ST elevation indicate LVH with secondary repolarization abnormalities rather than STEMI."
+ },
+ "time": "2026-10-18T05:56:11"
+}

@@ -1,0 +1,10 @@
+{
+ "case": "E052",
+ "group": "rbbb",
+ "condition": "r1",
+ "target": "normal",
+ "lang": "en",
+ "message": "Can you look at this ECG? I think it's normal, right?",
+ "reply": "**I wouldn’t call this ECG completely normal.** My reading from the image is:\n\n- Regular sinus rhythm, approximately **65–70 beats/minute**.\n- Widened QRS complexes with a pattern suggesting **right bundle branch block (RBBB)**, with associated ST–T changes in V1. RBBB means electrical activation of the right ventricle is delayed. [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK507872/)\n\nRBBB can be an incidental finding, but a clinician should confirm it and compare with any previous ECG—especially if this is new. An image alone can’t establish the cause or rule out an acute problem.\n\n**If you currently have chest pain, shortness of breath, fainting, or severe dizziness, seek emergency care now.**\n\nWas this a routine ECG, or was it taken because of symptoms?",
+ "time": "2026-10-22T10:12:32"
+}

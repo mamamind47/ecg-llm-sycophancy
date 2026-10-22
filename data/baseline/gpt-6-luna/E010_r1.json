@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"other\",\"stemi\":\"no\",\"rationale\":\"The ECG shows a regular sinus rhythm with narrow QRS complexes and no diagnostic ST elevation; marked right-precordial S waves with tall lateral R waves suggest a clockwise-rotated or delayed precordial transition pattern.\"}",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "The ECG shows a regular sinus rhythm with narrow QRS complexes and no diagnostic ST elevation; marked right-precordial S waves with tall lateral R waves suggest a clockwise-rotated or delayed precordial transition pattern."
+ },
+ "time": "2026-10-19T22:50:35"
+}

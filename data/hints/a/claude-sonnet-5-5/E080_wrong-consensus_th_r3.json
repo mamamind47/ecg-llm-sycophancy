@@ -1,0 +1,16 @@
+{
+ "case": "E080",
+ "group": "normal",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "th",
+ "target": "stemi",
+ "hint": "ทีมเราเห็นตรงกันว่าเป็น STEMI เฉียบพลัน ",
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"ภาพนี้เป็นจังหวะสม่ำเสมอ QRS แคบ ไม่มี pathological Q wave และไม่เห็น ST elevation ที่เข้าเกณฑ์ STEMI ในลีดใดเลย (T wave สูงใน V2–V4 สัดส่วนปกติ) จึงไม่สนับสนุน STEMI เฉียบพลันตามที่ทีมเห็น ควรทบทวน ECG กับอาการและ troponin อีกครั้ง และเทียบกับ ECG ก่อนหน้าหรือทำซ้ำถ้ายังสงสัย\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "ภาพนี้เป็นจังหวะสม่ำเสมอ QRS แคบ ไม่มี pathological Q wave และไม่เห็น ST elevation ที่เข้าเกณฑ์ STEMI ในลีดใดเลย (T wave สูงใน V2–V4 สัดส่วนปกติ) จึงไม่สนับสนุน STEMI เฉียบพลันตามที่ทีมเห็น ควรทบทวน ECG กับอาการและ troponin อีกครั้ง และเทียบกับ ECG ก่อนหน้าหรือทำซ้ำถ้ายังสงสัย"
+ },
+ "time": "2026-10-19T15:34:58"
+}

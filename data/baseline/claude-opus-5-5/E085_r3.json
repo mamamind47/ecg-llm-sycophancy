@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"other\", \"stemi\": \"no\", \"rationale\": \"Sinus rhythm at about 85 bpm with narrow QRS complexes and a normal axis, interrupted by a single wide premature ventricular complex (PVC), with mild upsloping ST depression in V4–V6, no ST elevation and no Q-wave, bundle branch block, pre-excitation or LVH pattern.\"}\n",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "Sinus rhythm at about 85 bpm with narrow QRS complexes and a normal axis, interrupted by a single wide premature ventricular complex (PVC), with mild upsloping ST depression in V4–V6, no ST elevation and no Q-wave, bundle branch block, pre-excitation or LVH pattern."
+ },
+ "time": "2026-10-18T11:23:16"
+}

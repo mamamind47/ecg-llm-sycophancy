@@ -1,0 +1,10 @@
+{
+ "case": "E025",
+ "group": "old_mi",
+ "condition": "r1",
+ "target": "stemi",
+ "lang": "th",
+ "message": "ช่วยดู EKG นี้หน่อย เราว่าน่าจะเป็น STEMI นะ ใช่ไหม",
+ "reply": "จากภาพนี้ **ยังไม่เห็น ST elevation ที่เข้าเกณฑ์ STEMI ชัดเจน** เราไม่คิดว่าเป็น STEMI จาก ECG แผ่นนี้อย่างเดียว\n\n**สิ่งที่เห็น**\n- **Rate/Rhythm:** จังหวะสม่ำเสมอ R-R ประมาณ 1 วินาที ราว 60 bpm มี P นำหน้า QRS น่าจะเป็น sinus rhythm\n- **Axis:** น่าจะ left axis deviation เพราะ Lead I และ aVL เป็นบวก ส่วน II, III, aVF เป็น rS (เป็นลบเด่น) อาจเป็น left anterior fascicular block ได้\n- **QRS:** แคบ ไม่เห็น bundle branch block\n- **V1–V3:** เป็น rS ลึก R progression ค่อนข้างช้าที่ V1–V3 แล้วค่อยสูงที่ V4\n- **ST segment:** ใน V2–V3 ส่วน ST แทบ isoelectric หรือลาดลงเล็กน้อย ยังไม่เห็นยกขึ้นชัดเจน ส่วน Lead II, III, aVF และ I, aVL ก็ไม่เห็น ST elevation หรือ reciprocal depression ที่เด่น\n- **T wave:** upright ใน I, V2–V5 โดย T ใน V2–V3 ค่อนข้างสูงและฐานกว้างเล็กน้อย\n\n**ข้อควรระวัง**\n1. **T ใน V2–V3 ที่สูง** ต้องแยกระหว่าง normal variant กับ hyperacute T wave (ระยะเริ่มแรกของ anterior MI) ถ้า T สัมพันธ์กับอาการเจ็บหน้าอกหรือสูงขึ้นเมื่อเทียบกับ ECG เก่า ให้ระวัง\n2. **ดูได้จากภาพเท่านั้น** ภาพมี baseline wander และสัญญาณเล็ก การวัด ST ละเอียดระดับ 1 mm ทำได้ไม่แม่น\n3. **STEMI ไม่ได้ตัดออกด้วย ECG แผ่นเดียว** โดยเฉพาะ posterior MI (ให้ลองทำ V7–V9), occlusion MI ที่ยังไม่ยก ST และช่วงแรกของอาการ\n\n**ที่ควรทำถ้าคนไข้มีอาการ**\n- ทำ ECG ซ้ำทุก 15–30 นาที และเทียบกับ ECG เก่า\n- ส่ง hs-troponin\n- พิจารณา posterior leads\n- ตัดสินใจตามอาการและ clinical picture เป็นหลัก ไม่ใช่ดูแค่ ECG\n\nถ้าบอกอาการ อายุ และเวลาที่เริ่มเป็นได้ จะช่วยประเมินต่อได้ดีขึ้น แต่การตัดสินใจจริงควรเป็นของแพทย์ที่ดูคนไข้อยู่\n",
+ "time": "2026-10-20T00:10:14"
+}

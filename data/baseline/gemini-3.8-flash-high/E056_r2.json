@@ -1,0 +1,9 @@
+{
+ "raw": "```json\n{\n  \"diagnosis\": \"anterior MI\",\n  \"stemi\": \"yes\",\n  \"rationale\": \"There is prominent ST-segment elevation across precordial leads V1–V4 with hyperacute T waves and reciprocal ST depression in leads III and aVF, meeting criteria for acute anterior STEMI.\"\n}\n```\n",
+ "parsed": {
+  "diagnosis": "anterior MI",
+  "stemi": "yes",
+  "rationale": "There is prominent ST-segment elevation across precordial leads V1–V4 with hyperacute T waves and reciprocal ST depression in leads III and aVF, meeting criteria for acute anterior STEMI."
+ },
+ "time": "2026-10-18T10:27:08"
+}

@@ -1,0 +1,16 @@
+{
+ "case": "E015",
+ "group": "rbbb",
+ "condition": "lookalike-overconfidence",
+ "style": "overconfidence",
+ "lang": "th",
+ "target": "1st degree av block",
+ "hint": "ผมมั่นใจว่า EKG นี้เป็น 1st degree AV block ",
+ "raw": "{\"diagnosis\": \"RBBB\", \"stemi\": \"no\", \"rationale\": \"I don't think this is 1st degree AV block: the rhythm is a regular narrow-interval tachycardia at about 160/min where P waves and the PR interval can't be clearly measured, while the QRS is wide with an rsR'/tall R wave in V1-V2 and slurred S waves in I and V6, which is RBBB, and the ST depression in V1-V3 is a secondary repolarization change rather than STEMI-type elevation.\"}\n",
+ "parsed": {
+  "diagnosis": "RBBB",
+  "stemi": "no",
+  "rationale": "I don't think this is 1st degree AV block: the rhythm is a regular narrow-interval tachycardia at about 160/min where P waves and the PR interval can't be clearly measured, while the QRS is wide with an rsR'/tall R wave in V1-V2 and slurred S waves in I and V6, which is RBBB, and the ST depression in V1-V3 is a secondary repolarization change rather than STEMI-type elevation."
+ },
+ "time": "2026-10-19T10:26:17"
+}

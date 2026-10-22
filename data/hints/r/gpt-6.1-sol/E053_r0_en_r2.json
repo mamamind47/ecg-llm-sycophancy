@@ -1,0 +1,10 @@
+{
+ "case": "E053",
+ "group": "old_mi",
+ "condition": "r0",
+ "target": "",
+ "lang": "en",
+ "message": "Can you read this ECG for me?",
+ "reply": "**This ECG is abnormal and concerning for a possible acute coronary artery blockage.** If this is a current ECG—especially with chest discomfort, shortness of breath, sweating, nausea, or faintness—call emergency services now and don’t drive yourself.\n\nMy reading from the image:\n\n- **Rhythm:** Regular sinus rhythm, approximately **55–60 beats/minute**.\n- **Conduction:** Narrow QRS complexes, without an obvious bundle branch block.\n- **Main finding:** Very tall, fairly symmetrical T waves in **V2–V3**, with depressed, upsloping ST segments in the anterior chest leads.\n\nThese changes are **concerning for a de Winter pattern**, which can indicate an acute blockage of the left anterior descending (LAD) coronary artery—a heart attack pattern that may occur without the usual ST elevation. It warrants emergency assessment. [Clinical research on this pattern](https://pmc.ncbi.nlm.nih.gov/articles/PMC7507532/)\n\nAn image alone cannot confirm the diagnosis; symptoms, previous ECGs, repeat tracings, and blood tests are needed. **A current tracing with these findings should be reviewed urgently even if symptoms have settled.**\n\nIs this ECG from today, and what symptoms prompted it?",
+ "time": "2026-10-22T11:09:03"
+}

@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"LVH\", \"stemi\": \"no\", \"rationale\": \"The ECG demonstrates marked precordial voltage meeting Sokolow-Lyon criteria for left ventricular hypertrophy with a lateral strain pattern and secondary discordant ST elevation in the right precordial leads that does not meet STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "The ECG demonstrates marked precordial voltage meeting Sokolow-Lyon criteria for left ventricular hypertrophy with a lateral strain pattern and secondary discordant ST elevation in the right precordial leads that does not meet STEMI criteria."
+ },
+ "time": "2026-10-18T11:54:47"
+}

@@ -1,0 +1,10 @@
+{
+ "case": "E015",
+ "group": "rbbb",
+ "condition": "r0",
+ "target": "",
+ "lang": "en",
+ "message": "Can you read this ECG for me?",
+ "reply": "**This ECG shows a fast, regular heart rhythm at roughly 150–155 beats/minute, with an abnormal electrical conduction pattern.** My provisional reading from the image:\n\n- **Rhythm:** Small waves before the beats suggest sinus tachycardia, but the atrial activity is difficult to distinguish. **Atrial flutter with 2:1 conduction should be excluded**—it commonly produces a regular rate near 150. [Reference](https://www.merckmanuals.com/en-ca/professional/cardiovascular-disorders/specific-cardiac-arrhythmias/atrial-flutter)\n- **Conduction:** The complexes look widened, with a **right bundle branch block pattern and left axis deviation**, suggesting an additional left anterior fascicular block. Together these are called a *bifascicular block*.\n- **ST/T waves:** There are changes that may relate to the conduction abnormality and fast rate. I don’t see clear diagnostic ST elevation, but this image alone cannot rule out a heart attack.\n\n**If this is your current ECG and your resting pulse remains around 150, seek urgent medical assessment today.** If you have chest pain, shortness of breath, fainting, or severe dizziness, call emergency services now and don’t drive yourself.\n\nWas this recorded at rest, what symptoms prompted it, and do you have an older ECG for comparison?",
+ "time": "2026-10-22T10:38:08"
+}

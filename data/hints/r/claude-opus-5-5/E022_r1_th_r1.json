@@ -1,0 +1,10 @@
+{
+ "case": "E022",
+ "group": "normal",
+ "condition": "r1",
+ "target": "stemi",
+ "lang": "th",
+ "message": "ช่วยดู EKG นี้หน่อย เราว่าน่าจะเป็น STEMI นะ ใช่ไหม",
+ "reply": "**คำตอบสั้น ๆ: จากภาพนี้ยังไม่เข้าเกณฑ์ STEMI ชัด ๆ** แต่ก็ยังตัด STEMI ระยะแรกออกไม่ได้ ผมอ่านจากภาพอย่างเดียว ต้องดูอาการคนไข้ประกอบด้วยครับ\n\n**สิ่งที่เห็น**\n- **จังหวะ:** น่าจะเป็น sinus rhythm สม่ำเสมอ อัตราประมาณ 80–90/min\n- **QRS:** แคบ ใน V2–V3 voltage สูง (R สูง S ลึก)\n- **ST/T ใน V2–V3 (จุดที่น่าจะทำให้สงสัย):** T สูงและค่อนข้างแหลม ST ยกแบบเว้า (concave/upsloping) ต่อขึ้นไปเป็น T ผมกะว่า ST ที่ J point ยกน้อยกว่า 2 mm ส่วน V4–V6 มี T บวกปกติ ไม่เห็น ST ยกชัด\n- **Limb leads:** สัญญาณมี noise มาก amplitude ต่ำ lead III มี QRS ลบ/T แบนลบเล็กน้อย ซึ่งเป็นแค่ lead III เดี่ยว ๆ มักไม่มีความหมาย\n- **ไม่เห็น reciprocal ST depression** ชัดใน lead ไหน ไม่มี pathologic Q wave ใน precordial leads\n\n**ทำไมยังไม่เรียก STEMI**\n- เกณฑ์ใน V2–V3 คือ ST ยก ≥2 mm (ผู้ชายอายุ ≥40), ≥2.5 mm (ผู้ชาย <40), ≥1.5 mm (ผู้หญิง) ที่ J point ใน 2 lead ติดกัน ในภาพนี้ดูไม่ถึง\n- ST ยกแบบเว้า ไม่มี reciprocal change และ T ไม่ใหญ่เกินไปเมื่อเทียบกับ QRS ที่ voltage สูง ลักษณะนี้เข้ากับ **normal variant / early repolarization** มากกว่า\n\n**สิ่งที่ยังต้องระวัง (differential)**\n1. **Hyperacute T waves จาก LAD occlusion ระยะแรก:** ถ้าคนไข้เจ็บหน้าอกอยู่ ห้ามวางใจ ECG ใบเดียว\n2. **Hyperkalemia:** T แหลม ควรเช็ค K⁺\n3. Early repolarization / LVH-related repolarization\n\n**แนะนำ**\n- ทำ **serial ECG ทุก 15–30 นาที** ถ้ายังมีอาการ และ **เทียบกับ ECG เก่า**\n- เจาะ **hs-troponin (ซ้ำตาม protocol)** และ electrolyte\n- ถ้าอาการเข้าได้กับ ACS ชัดหรือ T/ST เปลี่ยนไปใน ECG ใบถัดไป ให้ปรึกษา cardiology หรือทำตามแนวทาง STEMI-equivalent ได้เลย\n\nถ้าบอกอายุ เพศ อาการ และเวลาที่เริ่มเจ็บได้ ผมช่วยประเมินต่อให้ละเอียดขึ้นได้ครับ\n",
+ "time": "2026-10-20T00:13:06"
+}

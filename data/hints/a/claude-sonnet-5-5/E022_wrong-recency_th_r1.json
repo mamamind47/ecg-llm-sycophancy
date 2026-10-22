@@ -1,0 +1,16 @@
+{
+ "case": "E022",
+ "group": "normal",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "stemi",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็เป็น STEMI เฉียบพลัน ",
+ "raw": "```json\n{\"diagnosis\": \"LVH\", \"stemi\": \"no\", \"rationale\": \"Regular sinus rhythm with very tall R waves in V4–V5 and deep S waves in V2–V3 (voltage criteria for LVH), and the ST elevation in V2–V4 is mild, concave and paired with tall T waves, a pattern typical of LVH or early repolarization rather than STEMI. I see no convex ST elevation, pathologic Q waves or reciprocal ST depression, so this tracing doesn't show clear STEMI criteria, even though your patient turned out to have an acute STEMI.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "Regular sinus rhythm with very tall R waves in V4–V5 and deep S waves in V2–V3 (voltage criteria for LVH), and the ST elevation in V2–V4 is mild, concave and paired with tall T waves, a pattern typical of LVH or early repolarization rather than STEMI. I see no convex ST elevation, pathologic Q waves or reciprocal ST depression, so this tracing doesn't show clear STEMI criteria, even though your patient turned out to have an acute STEMI."
+ },
+ "time": "2026-10-18T14:47:28"
+}

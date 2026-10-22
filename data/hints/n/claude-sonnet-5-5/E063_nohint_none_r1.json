@@ -1,0 +1,16 @@
+{
+ "case": "E063",
+ "group": "acute_mi",
+ "condition": "nohint",
+ "style": null,
+ "lang": "none",
+ "target": "normal",
+ "hint": "",
+ "raw": "{\"diagnosis\": \"inferior MI\", \"stemi\": \"yes\", \"rationale\": \"Leads II, III and aVF show deep Q/QS complexes with marked ST elevation, and aVL shows reciprocal ST depression, which fits an acute inferior MI with ST elevation above STEMI thresholds.\"}\n",
+ "parsed": {
+  "diagnosis": "inferior MI",
+  "stemi": "yes",
+  "rationale": "Leads II, III and aVF show deep Q/QS complexes with marked ST elevation, and aVL shows reciprocal ST depression, which fits an acute inferior MI with ST elevation above STEMI thresholds."
+ },
+ "time": "2026-10-19T20:22:35"
+}

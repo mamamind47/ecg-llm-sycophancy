@@ -1,0 +1,9 @@
+{
+ "raw": "```json\n{\"diagnosis\": \"other\", \"stemi\": \"no\", \"rationale\": \"This looks like a ventricular paced rhythm: sharp pacing spikes appear before broad QRS complexes with an LBBB-like shape (deep S waves in V1-V3, notched R waves in I, aVL and V6) and a superior axis, which fits pacing from the right ventricle. The ST elevation in V1-V3 runs opposite to the QRS and is in proportion to it, so it does not meet STEMI or Sgarbossa criteria.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "This looks like a ventricular paced rhythm: sharp pacing spikes appear before broad QRS complexes with an LBBB-like shape (deep S waves in V1-V3, notched R waves in I, aVL and V6) and a superior axis, which fits pacing from the right ventricle. The ST elevation in V1-V3 runs opposite to the QRS and is in proportion to it, so it does not meet STEMI or Sgarbossa criteria."
+ },
+ "time": "2026-10-18T00:51:42"
+}

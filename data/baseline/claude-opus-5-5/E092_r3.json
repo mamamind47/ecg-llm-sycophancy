@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"LVH\", \"stemi\": \"no\", \"rationale\": \"The rhythm is regular, the axis is shifted left, the R wave in aVL is tall (about 13 mm, above the 11 mm voltage cutoff) and V5–V6 show downsloping ST depression with T-wave changes in a strain pattern, with no ST elevation that meets STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "The rhythm is regular, the axis is shifted left, the R wave in aVL is tall (about 13 mm, above the 11 mm voltage cutoff) and V5–V6 show downsloping ST depression with T-wave changes in a strain pattern, with no ST elevation that meets STEMI criteria."
+ },
+ "time": "2026-10-18T11:24:35"
+}

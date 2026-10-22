@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"other\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with a narrow QRS and diffuse horizontal ST depression with slight ST elevation in aVR, suggesting subendocardial ischemia without diagnostic ST elevation.\"}",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with a narrow QRS and diffuse horizontal ST depression with slight ST elevation in aVR, suggesting subendocardial ischemia without diagnostic ST elevation."
+ },
+ "time": "2026-10-19T23:17:49"
+}

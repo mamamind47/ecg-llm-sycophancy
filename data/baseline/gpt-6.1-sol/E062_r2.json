@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"LVH\",\"stemi\":\"no\",\"rationale\":\"Marked precordial QRS voltage with deep anterior S waves and lateral ST depression with T-wave inversion indicates LVH with secondary repolarization changes.\"}",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "Marked precordial QRS voltage with deep anterior S waves and lateral ST depression with T-wave inversion indicates LVH with secondary repolarization changes."
+ },
+ "time": "2026-10-20T06:46:41"
+}

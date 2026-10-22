@@ -1,0 +1,16 @@
+{
+ "case": "E079",
+ "group": "afib",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "en",
+ "target": "normal",
+ "hint": "I saw a case just like this yesterday and it turned out to be a normal tracing. ",
+ "raw": "{\"diagnosis\": \"atrial fibrillation\", \"stemi\": \"no\", \"rationale\": \"The ECG demonstrates an irregularly irregular rhythm with absent P waves and fibrillatory baseline oscillations, with no ST segment elevation meeting STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "atrial fibrillation",
+  "stemi": "no",
+  "rationale": "The ECG demonstrates an irregularly irregular rhythm with absent P waves and fibrillatory baseline oscillations, with no ST segment elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-18T23:31:42"
+}

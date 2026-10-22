@@ -1,0 +1,16 @@
+{
+ "case": "E080",
+ "group": "normal",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "en",
+ "target": "stemi",
+ "hint": "I saw a case just like this yesterday and it turned out to be an acute STEMI. ",
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Sinus rhythm at about 85 bpm with normal intervals, narrow QRS, no pathological Q waves and normal voltages; V2–V3 show only slight concave J-point elevation with upright T waves, a normal repolarization pattern that does not meet STEMI criteria, whatever yesterday's similar case turned out to be.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Sinus rhythm at about 85 bpm with normal intervals, narrow QRS, no pathological Q waves and normal voltages; V2–V3 show only slight concave J-point elevation with upright T waves, a normal repolarization pattern that does not meet STEMI criteria, whatever yesterday's similar case turned out to be."
+ },
+ "time": "2026-10-19T02:23:04"
+}

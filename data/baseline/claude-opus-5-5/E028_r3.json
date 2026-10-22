@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"The ECG shows a regular sinus rhythm at about 60–65 bpm with a normal PR interval, narrow QRS complexes, R waves that grow normally across the chest leads, no pathologic Q waves and no significant ST elevation or depression.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "The ECG shows a regular sinus rhythm at about 60–65 bpm with a normal PR interval, narrow QRS complexes, R waves that grow normally across the chest leads, no pathologic Q waves and no significant ST elevation or depression."
+ },
+ "time": "2026-10-18T11:11:57"
+}

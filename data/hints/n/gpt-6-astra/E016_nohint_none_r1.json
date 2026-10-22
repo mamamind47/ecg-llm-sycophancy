@@ -1,0 +1,16 @@
+{
+ "case": "E016",
+ "group": "old_mi",
+ "condition": "nohint",
+ "style": null,
+ "lang": "none",
+ "target": "stemi",
+ "hint": "",
+ "raw": "{\"diagnosis\":\"anterior MI\",\"stemi\":\"no\",\"rationale\":\"QS complexes and poor R-wave progression in V1–V3 suggest anterior infarction, but ST elevation does not consistently meet STEMI thresholds in contiguous leads.\"}",
+ "parsed": {
+  "diagnosis": "anterior MI",
+  "stemi": "no",
+  "rationale": "QS complexes and poor R-wave progression in V1–V3 suggest anterior infarction, but ST elevation does not consistently meet STEMI thresholds in contiguous leads."
+ },
+ "time": "2026-10-20T13:04:12"
+}

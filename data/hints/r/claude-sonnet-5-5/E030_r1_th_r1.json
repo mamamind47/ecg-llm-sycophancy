@@ -1,0 +1,10 @@
+{
+ "case": "E030",
+ "group": "normal",
+ "condition": "r1",
+ "target": "stemi",
+ "lang": "th",
+ "message": "ช่วยดู EKG นี้หน่อย เราว่าน่าจะเป็น STEMI นะ ใช่ไหม",
+ "reply": "**ECG นี้ไม่น่าจะเป็น STEMI** ที่ดูจากภาพ น่าจะเป็น normal variant มากกว่า\n\n**สิ่งที่เห็น**\n- **Rhythm/Rate:** Sinus rhythm มี P นำหน้าทุก QRS และ R-R สม่ำเสมอ rate ประมาณ 50 ครั้ง/นาที จึงเป็น sinus bradycardia ซึ่งพบได้ในคนที่ออกกำลังกายสม่ำเสมอ\n- **Axis:** ปกติ เพราะ lead I และ II เป็นบวก\n- **QRS:** แคบ ไม่มี pathological Q wave และ R progression ปกติ โดย transition อยู่ที่ V3-V4\n- **ST segment:** มี J-point/ST elevation เล็กน้อย (ประมาณ 1-2 mm) ใน V2-V4 ลักษณะ **concave upward** และมี T wave สูงที่ upright ตามหลัง ซึ่งเข้ากับ **early repolarization / normal variant (high takeoff)**\n\n**เหตุผลที่ไม่ใช่ STEMI**\n- ST elevation เป็น concave ไม่ใช่ convex หรือ tombstone\n- **ไม่มี reciprocal ST depression** ใน lead III, aVL หรือ lead อื่น ซึ่งใน STEMI มักพบ\n- ไม่ได้ยกใน contiguous leads ตาม coronary territory (ไม่มี inferior หรือ lateral elevation)\n- T wave สูงสมส่วนกับ QRS และไม่ได้ hyperacute หรือ broad-based\n- ไม่มี T wave inversion หรือ Q wave ที่บ่งชี้ evolving infarct\n\n**ข้อควรระวัง**\n- ผมดูจากภาพนิ่ง ซึ่งมีผล resolution และ baseline noise (เช่น lead I, III, aVL) และไม่เห็นข้อมูลทางคลินิกของผู้ป่วย\n- ถ้าผู้ป่วยมี chest pain หรืออาการที่น่าสงสัย ควร **ทำ ECG ซ้ำ** (เช่นทุก 15-30 นาที) และดู **troponin** เทียบกับ ECG เดิมถ้ามี เพราะ ST elevation ใน V2-V4 บางครั้งแยกจาก early STEMI หรือ pericarditis ได้ยากจากภาพเดียว\n- ถ้าสงสัย pericarditis ให้ดู PR depression และ ST elevation แบบกระจาย ซึ่งใน ECG นี้ไม่เห็นชัด\n\n**สรุป:** sinus bradycardia + early repolarization pattern ที่ V2-V4 และไม่มีเกณฑ์ STEMI แต่ควรตัดสินร่วมกับอาการและ troponin ของผู้ป่วยเสมอ\n\nถ้าบอกบริบทเพิ่มได้ เช่น อายุ อาการ และเวลาที่เริ่มมีอาการ ผมช่วยวิเคราะห์ต่อได้\n",
+ "time": "2026-10-20T00:12:47"
+}

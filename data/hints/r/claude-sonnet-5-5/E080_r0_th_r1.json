@@ -1,0 +1,10 @@
+{
+ "case": "E080",
+ "group": "normal",
+ "condition": "r0",
+ "target": "",
+ "lang": "th",
+ "message": "ช่วยอ่าน EKG นี้ให้หน่อย",
+ "reply": "## สรุปการอ่าน EKG\n\nอ่านจากภาพอย่างเดียว ไม่มีข้อมูลผู้ป่วย อายุ หรืออาการ ถ้าจะใช้ตัดสินใจทางคลินิก ควรให้แพทย์ยืนยันอีกครั้ง\n\n**จังหวะและอัตราการเต้น**\n- **อัตรา:** ประมาณ 75–80 ครั้ง/นาที ใน rhythm strip 10 วินาทีมี QRS ราว 13 ตัว\n- **ความสม่ำเสมอ:** R-R สม่ำเสมอ ไม่ใช่ AF แบบ irregularly irregular\n- **P wave:** เห็นไม่ชัดในหลาย lead โดยเฉพาะ V1 และมี baseline noise มาก ตอบไม่ได้แน่ชัดว่าเป็น sinus rhythm P เล็กหรือ junctional rhythm ต้องดู lead II ที่คมกว่านี้ และสอบถามประวัติเพิ่ม ถ้าเป็น sinus ก็ถือว่าอัตราปกติ\n\n**แกนหัวใจ (axis)**\n- Lead I และ II เป็นบวก ส่วน III เป็นลบ และ aVL เป็นบวก\n- แกนเป็นปกติถึงเอียงซ้ายเล็กน้อย (ประมาณ 0 ถึง −30°)\n\n**Intervals**\n- **QRS:** แคบ ประมาณ 80–100 ms ไม่มี bundle branch block\n- **PR และ QT:** ประเมินแม่นยำไม่ได้จากภาพนี้ QT ดูไม่ยาวผิดปกติ\n\n**QRS morphology**\n- มี R progression ปกติ transition อยู่ที่ประมาณ V3–V4\n- V5–V6 มี R สูงชัดเจน แต่ amplitude ไม่ถึงเกณฑ์ LVH\n- ไม่เห็น pathological Q wave\n\n**ST-T**\n- V2–V3 มี ST เยื้องสูงเล็กน้อยแบบเว้าขึ้น (concave) ร่วมกับ T wave สูงและกว้าง\n- V4–V6 มี J-point/ST สูงเล็กน้อยเช่นกัน\n- ลักษณะนี้เข้ากับ **early repolarization / normal variant** โดยเฉพาะถ้าผู้ป่วยอายุน้อยและไม่มีอาการ\n- T wave ตั้งใน I, II, V2–V6 ไม่เห็น ST depression หรือ T inversion ที่ชัดเจน\n- ไม่เห็น reciprocal change\n\n**ข้อสังเกตทางเทคนิค**\n- มี baseline wander และ noise โดยเฉพาะ lead I, II, III, aVR, aVL และ aVF ซึ่งทำให้อ่าน P wave และ ST ละเอียดไม่ได้\n- ภาพนี้ calibrate ที่ 25 mm/s และ 10 mm/mV\n\n## ภาพรวม\nNarrow-complex regular rhythm อัตราราว 75–80 ครั้ง/นาที แกนปกติถึงเอียงซ้ายเล็กน้อย ไม่มี BBB, LVH หรือ pathologic Q wave มี ST สูงเล็กน้อยใน V2–V5 ที่น่าจะเป็น early repolarization แต่ P wave ไม่ชัด\n\nถ้าผู้ป่วยมีอาการเจ็บหน้าอก ควรเทียบกับ EKG เดิมและทำซ้ำเพื่อดู dynamic change ร่วมกับ troponin เพราะ ST สูงใน V2–V3 แยกจาก STEMI ระยะแรกได้ยากถ้าไม่มีบริบท\n\nถ้าบอกอายุ อาการ และประวัติได้ ผมช่วยแปลผลให้ตรงบริบทขึ้นได้\n",
+ "time": "2026-10-20T00:28:02"
+}

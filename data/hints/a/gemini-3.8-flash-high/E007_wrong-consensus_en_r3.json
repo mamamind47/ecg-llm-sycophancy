@@ -1,0 +1,16 @@
+{
+ "case": "E007",
+ "group": "rbbb",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "en",
+ "target": "normal",
+ "hint": "Our whole team agrees this is a normal tracing. ",
+ "raw": "```json\n{\n  \"diagnosis\": \"RBBB\",\n  \"stemi\": \"no\",\n  \"rationale\": \"The ECG demonstrates widened QRS complexes (>120 ms) with a classic rsR' pattern in leads V1–V3 and wide, slurred S waves in leads I and V6 diagnostic of right bundle branch block, with no ST elevations meeting STEMI criteria.\"\n}\n```\n",
+ "parsed": {
+  "diagnosis": "RBBB",
+  "stemi": "no",
+  "rationale": "The ECG demonstrates widened QRS complexes (>120 ms) with a classic rsR' pattern in leads V1–V3 and wide, slurred S waves in leads I and V6 diagnostic of right bundle branch block, with no ST elevations meeting STEMI criteria."
+ },
+ "time": "2026-10-18T21:00:41"
+}

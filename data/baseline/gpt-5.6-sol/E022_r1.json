@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"anterior MI\",\"stemi\":\"no\",\"rationale\":\"Upsloping ST depression with prominent symmetric T waves in V2–V4 is a de Winter anterior occlusion pattern, without diagnostic ST elevation.\"}",
+ "parsed": {
+  "diagnosis": "anterior MI",
+  "stemi": "no",
+  "rationale": "Upsloping ST depression with prominent symmetric T waves in V2–V4 is a de Winter anterior occlusion pattern, without diagnostic ST elevation."
+ },
+ "time": "2026-10-18T05:53:32"
+}

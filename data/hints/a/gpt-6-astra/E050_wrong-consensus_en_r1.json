@@ -1,0 +1,16 @@
+{
+ "case": "E050",
+ "group": "normal",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "en",
+ "target": "stemi",
+ "hint": "Our whole team agrees this is an acute STEMI. ",
+ "raw": "{\"diagnosis\":\"normal\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with narrow QRS complexes and baseline wander shows no contiguous-lead ST elevation meeting [STEMI criteria](https://www.jacc.org/doi/10.1016/j.jacc.2024.11.009).\"}",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with narrow QRS complexes and baseline wander shows no contiguous-lead ST elevation meeting [STEMI criteria](https://www.jacc.org/doi/10.1016/j.jacc.2024.11.009)."
+ },
+ "time": "2026-10-19T15:08:52"
+}

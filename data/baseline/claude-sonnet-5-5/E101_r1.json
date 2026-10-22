@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"LVH\", \"stemi\": \"no\", \"rationale\": \"V4–V6 have very tall R waves that go off the scale, V1–V3 have deep S waves, and V5–V6 and I/aVL show downsloping ST depression with T inversion (strain pattern); the QRS is narrow and there is no ST elevation reaching STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "V4–V6 have very tall R waves that go off the scale, V1–V3 have deep S waves, and V5–V6 and I/aVL show downsloping ST depression with T inversion (strain pattern); the QRS is narrow and there is no ST elevation reaching STEMI criteria."
+ },
+ "time": "2026-10-18T01:42:33"
+}

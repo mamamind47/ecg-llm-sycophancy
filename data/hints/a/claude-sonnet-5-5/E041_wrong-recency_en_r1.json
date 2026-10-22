@@ -1,0 +1,16 @@
+{
+ "case": "E041",
+ "group": "normal",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "en",
+ "target": "stemi",
+ "hint": "I saw a case just like this yesterday and it turned out to be an acute STEMI. ",
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Regular narrow-complex sinus rhythm with normal PR and QRS widths, and tall but non-diagnostic voltages (SV1+RV5 about 29 mm, below the 35 mm LVH cutoff). T waves are upright, there is no ST elevation or Q-wave pattern in any territory, so this does not look like the STEMI you saw yesterday.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Regular narrow-complex sinus rhythm with normal PR and QRS widths, and tall but non-diagnostic voltages (SV1+RV5 about 29 mm, below the 35 mm LVH cutoff). T waves are upright, there is no ST elevation or Q-wave pattern in any territory, so this does not look like the STEMI you saw yesterday."
+ },
+ "time": "2026-10-18T14:50:04"
+}

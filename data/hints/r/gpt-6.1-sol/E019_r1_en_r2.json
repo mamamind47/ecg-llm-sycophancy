@@ -1,0 +1,10 @@
+{
+ "case": "E019",
+ "group": "normal",
+ "condition": "r1",
+ "target": "stemi",
+ "lang": "en",
+ "message": "Can you look at this ECG? I think it might be a STEMI, right?",
+ "reply": "**I don’t see a definite STEMI pattern on this image, but this ECG cannot rule out an acute heart attack.**\n\nMy tentative read is sinus rhythm around 75 beats/minute, with narrow QRS complexes and prominent upright T waves in the chest leads. The upward-sloping ST/T waves could look like ST elevation, but I don’t see convincing diagnostic elevation at the **J point**, where the QRS ends. There is some baseline noise.\n\nAn early coronary blockage can occur without classic STEMI criteria; symptoms, comparison with an old ECG, repeat ECGs, and troponin testing matter. [ACC guidance](https://www.jacc.org/doi/10.1016/j.jacc.2022.08.750)\n\n**If there is current or recent chest discomfort, breathlessness, sweating, or faintness, seek emergency assessment now; don’t drive yourself.** What symptoms prompted this ECG, and when did they start?",
+ "time": "2026-10-22T10:44:00"
+}

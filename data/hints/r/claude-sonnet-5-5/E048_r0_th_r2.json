@@ -1,0 +1,10 @@
+{
+ "case": "E048",
+ "group": "normal",
+ "condition": "r0",
+ "target": "",
+ "lang": "th",
+ "message": "ช่วยอ่าน EKG นี้ให้หน่อย",
+ "reply": "**สรุปผลอ่านจากภาพ (ประเมินด้วยสายตา)**\n\n| หัวข้อ | ผลที่เห็น |\n|---|---|\n| อัตราการเต้น | ประมาณ 60 ครั้ง/นาที (10 complexes ใน rhythm strip ราว 10 วินาที) |\n| จังหวะ | สม่ำเสมอ R-R ใกล้เคียงกันทุกครั้ง |\n| P wave | เห็น P ก่อน QRS ใน lead II แต่เล็กและอยู่ชิด QRS ประเมิน PR ได้ไม่แม่น (ดูเหมือนไม่ยาว ไม่มี AV block ชัดเจน) |\n| QRS | แคบ (ประมาณ <100 ms) ไม่มี bundle branch block |\n| แกนหัวใจ | เอียงซ้ายเล็กน้อย (ราว −30° ถึง −45°) lead I และ aVL เป็นบวก ส่วน III และ aVF เป็นลบ |\n| Voltage | สูง S ลึกใน V2–V3 และ R สูงใน V4–V6 |\n| ST segment | ไม่เห็น ST elevation หรือ depression ที่ชัดเจน |\n| T wave | upright ปกติใน I, II, V2–V6 สูงเด่นใน V2–V3 และ inverted ใน aVR ซึ่งปกติ |\n\n**ภาพรวม**\n- เป็น **Normal sinus rhythm** อัตราประมาณ 60 ครั้ง/นาที\n- มี **left axis deviation เล็กน้อย**\n- **QRS voltage สูง** ใน precordial leads ซึ่งเข้าได้กับเกณฑ์ **LVH ทาง voltage** แต่ไม่มี strain pattern (ST-T เปลี่ยนแบบ asymmetric) ที่ชัด\n- ถ้าผู้ป่วยอายุน้อยหรือรูปร่างผอม ลักษณะนี้อาจเป็นแค่ normal variant ได้\n- ไม่พบสัญญาณ acute ischemia, arrhythmia หรือ conduction block ที่ชัดเจน\n\n**ข้อควรระวัง**\n- ใน lead III มี baseline wander และ noise เล็กน้อย\n- ผมวัดค่าจากภาพโดยประมาณ ไม่ได้ใช้ caliper จึงไม่แน่ใจค่า PR และ QT\n- ผลนี้ใช้เป็นข้อมูลประกอบการเรียนรู้เท่านั้น ไม่ใช่การวินิจฉัย ควรให้แพทย์ยืนยันร่วมกับอาการและประวัติผู้ป่วย\n\nถ้าบอกอายุ เพศ และอาการได้ ผมช่วยแปลผลต่อได้ เช่น voltage สูงนี้น่าจะเป็น LVH จริงหรือเป็น normal variant\n",
+ "time": "2026-10-20T05:00:58"
+}

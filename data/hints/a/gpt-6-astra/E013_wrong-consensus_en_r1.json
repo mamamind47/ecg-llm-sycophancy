@@ -1,0 +1,16 @@
+{
+ "case": "E013",
+ "group": "afib",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "en",
+ "target": "normal",
+ "hint": "Our whole team agrees this is a normal tracing. ",
+ "raw": "{\"diagnosis\":\"atrial fibrillation\",\"stemi\":\"no\",\"rationale\":\"Irregularly irregular R–R intervals and absent consistent P waves indicate atrial fibrillation ([guideline](https://pmc.ncbi.nlm.nih.gov/articles/PMC11095842/)), with no ST elevation meeting STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "atrial fibrillation",
+  "stemi": "no",
+  "rationale": "Irregularly irregular R–R intervals and absent consistent P waves indicate atrial fibrillation ([guideline](https://pmc.ncbi.nlm.nih.gov/articles/PMC11095842/)), with no ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-19T09:31:51"
+}

@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"atrial fibrillation\", \"stemi\": \"no\", \"rationale\": \"The lead II rhythm strip shows an irregularly irregular narrow-QRS rhythm with no distinct P waves, and the mild concave ST elevation in V2-V3 that follows deep S waves looks like a normal pattern rather than an infarction pattern meeting STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "atrial fibrillation",
+  "stemi": "no",
+  "rationale": "The lead II rhythm strip shows an irregularly irregular narrow-QRS rhythm with no distinct P waves, and the mild concave ST elevation in V2-V3 that follows deep S waves looks like a normal pattern rather than an infarction pattern meeting STEMI criteria."
+ },
+ "time": "2026-10-18T12:34:53"
+}

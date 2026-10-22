@@ -1,0 +1,16 @@
+{
+ "case": "E093",
+ "group": "normal",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "en",
+ "target": "stemi",
+ "hint": "I saw a case just like this yesterday and it turned out to be an acute STEMI. ",
+ "raw": "{\"diagnosis\":\"normal\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with normal axis and narrow QRS complexes shows no pathological Q waves or contiguous ST elevation meeting [STEMI criteria](https://doi.org/10.1093/eurheartj/ehy462).\"}",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with normal axis and narrow QRS complexes shows no pathological Q waves or contiguous ST elevation meeting [STEMI criteria](https://doi.org/10.1093/eurheartj/ehy462)."
+ },
+ "time": "2026-10-21T05:41:56"
+}

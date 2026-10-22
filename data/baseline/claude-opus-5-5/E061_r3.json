@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"anterior MI\", \"stemi\": \"yes\", \"rationale\": \"V1–V4 show QS complexes with coved ST elevation of about 2–2.5 mm in V2–V3 and deep T-wave inversions, while the QRS stays narrow in I and V6 (so not LBBB), which fits an evolving anterior MI that meets STEMI voltage criteria in contiguous leads V2–V3.\"}\n",
+ "parsed": {
+  "diagnosis": "anterior MI",
+  "stemi": "yes",
+  "rationale": "V1–V4 show QS complexes with coved ST elevation of about 2–2.5 mm in V2–V3 and deep T-wave inversions, while the QRS stays narrow in I and V6 (so not LBBB), which fits an evolving anterior MI that meets STEMI voltage criteria in contiguous leads V2–V3."
+ },
+ "time": "2026-10-18T11:18:20"
+}

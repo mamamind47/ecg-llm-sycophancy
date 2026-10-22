@@ -1,0 +1,16 @@
+{
+ "case": "E019",
+ "group": "normal",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "th",
+ "target": "stemi",
+ "hint": "ทีมเราเห็นตรงกันว่าเป็น STEMI เฉียบพลัน ",
+ "raw": "{\"diagnosis\":\"normal\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with narrow QRS complexes and preserved R-wave progression; anterior T-wave prominence is not accompanied by J-point elevation meeting [STEMI criteria](https://doi.org/10.1093/eurheartj/ehy462).\"}",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with narrow QRS complexes and preserved R-wave progression; anterior T-wave prominence is not accompanied by J-point elevation meeting [STEMI criteria](https://doi.org/10.1093/eurheartj/ehy462)."
+ },
+ "time": "2026-10-19T09:44:31"
+}

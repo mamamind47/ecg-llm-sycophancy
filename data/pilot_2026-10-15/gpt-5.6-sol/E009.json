@@ -1,0 +1,8 @@
+{
+ "raw": "{\"diagnosis\":\"LVH\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with markedly increased QRS voltage meeting LVH criteria and no diagnostic contiguous-lead ST elevation meeting STEMI thresholds.\"}",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with markedly increased QRS voltage meeting LVH criteria and no diagnostic contiguous-lead ST elevation meeting STEMI thresholds."
+ }
+}

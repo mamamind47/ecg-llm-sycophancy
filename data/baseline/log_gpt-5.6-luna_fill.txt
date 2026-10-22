@@ -1,0 +1,16 @@
+gpt-5.6-luna E006 r3 LVH no
+gpt-5.6-luna E007 r3 WPW no
+gpt-5.6-luna E008 r3 LVH no
+gpt-5.6-luna E009 r3 LVH no
+gpt-5.6-luna E010 r3 LVH no
+gpt-5.6-luna E011 r3 LVH no
+gpt-5.6-luna E012 r3 WPW no
+gpt-5.6-luna E013 r3 LVH no
+gpt-5.6-luna E014 r3 LVH no
+gpt-5.6-luna E015 r3 other no
+gpt-5.6-luna E016 r3 LBBB no
+gpt-5.6-luna E017 r3 LVH no
+gpt-5.6-luna E018 r3 LVH no
+gpt-5.6-luna E019 r3 LVH no
+gpt-5.6-luna E020 r3 LVH no
+gpt-5.6-luna E021 r3 LVH no

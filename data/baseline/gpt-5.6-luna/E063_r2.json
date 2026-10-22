@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"inferior MI\",\"stemi\":\"yes\",\"rationale\":\"Regular sinus rhythm with pathological inferior Q waves and persistent ST elevation in leads II, III, and aVF with reciprocal lateral changes.\"}",
+ "parsed": {
+  "diagnosis": "inferior MI",
+  "stemi": "yes",
+  "rationale": "Regular sinus rhythm with pathological inferior Q waves and persistent ST elevation in leads II, III, and aVF with reciprocal lateral changes."
+ },
+ "time": "2026-10-18T09:54:17"
+}

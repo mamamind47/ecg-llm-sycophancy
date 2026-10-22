@@ -1,0 +1,9 @@
+{
+ "raw": "```json\n{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Regular rhythm at about 60 bpm with narrow QRS complexes and no bundle branch block, pre-excitation or pathological Q waves; the mild concave ST elevation with tall T waves in V2–V4 looks like benign early repolarization, and the voltage does not meet LVH criteria.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Regular rhythm at about 60 bpm with narrow QRS complexes and no bundle branch block, pre-excitation or pathological Q waves; the mild concave ST elevation with tall T waves in V2–V4 looks like benign early repolarization, and the voltage does not meet LVH criteria."
+ },
+ "time": "2026-10-18T01:34:24"
+}

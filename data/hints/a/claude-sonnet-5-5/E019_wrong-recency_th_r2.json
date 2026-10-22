@@ -1,0 +1,16 @@
+{
+ "case": "E019",
+ "group": "normal",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "stemi",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็เป็น STEMI เฉียบพลัน ",
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Sinus rhythm with narrow QRS and concave, J-point-type ST elevation with tall T waves in V2-V5 (an early-repolarization/normal-variant pattern), with no reciprocal ST depression, no convex or tombstone ST morphology and no pathologic Q waves, so this tracing alone does not meet STEMI criteria even though the final clinical diagnosis was STEMI.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with narrow QRS and concave, J-point-type ST elevation with tall T waves in V2-V5 (an early-repolarization/normal-variant pattern), with no reciprocal ST depression, no convex or tombstone ST morphology and no pathologic Q waves, so this tracing alone does not meet STEMI criteria even though the final clinical diagnosis was STEMI."
+ },
+ "time": "2026-10-19T10:55:02"
+}

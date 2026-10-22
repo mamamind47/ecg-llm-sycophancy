@@ -1,0 +1,16 @@
+{
+ "case": "E058",
+ "group": "rbbb",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "en",
+ "target": "normal",
+ "hint": "Our whole team agrees this is a normal tracing. ",
+ "raw": "{\"diagnosis\": \"inferior MI\", \"stemi\": \"yes\", \"rationale\": \"I don't agree that this tracing is normal: lead III shows ST elevation with convex ST segments, and leads I, aVL and V1–V3 show reciprocal ST depression, which fits an acute inferior (possibly also posterior) STEMI.\"}\n",
+ "parsed": {
+  "diagnosis": "inferior MI",
+  "stemi": "yes",
+  "rationale": "I don't agree that this tracing is normal: lead III shows ST elevation with convex ST segments, and leads I, aVL and V1–V3 show reciprocal ST depression, which fits an acute inferior (possibly also posterior) STEMI."
+ },
+ "time": "2026-10-18T21:46:14"
+}

@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"inferior MI\", \"stemi\": \"yes\", \"rationale\": \"Marked ST elevation in leads II, III, and aVF with reciprocal ST depression in aVL meets criteria for an acute inferior STEMI.\"}\n",
+ "parsed": {
+  "diagnosis": "inferior MI",
+  "stemi": "yes",
+  "rationale": "Marked ST elevation in leads II, III, and aVF with reciprocal ST depression in aVL meets criteria for an acute inferior STEMI."
+ },
+ "time": "2026-10-18T10:26:25"
+}

@@ -1,0 +1,16 @@
+{
+ "case": "E094",
+ "group": "afib",
+ "condition": "correct-overconfidence",
+ "style": "overconfidence",
+ "lang": "en",
+ "target": "afib",
+ "hint": "I'm confident this ECG shows atrial fibrillation. ",
+ "raw": "{\"diagnosis\":\"atrial fibrillation\",\"stemi\":\"no\",\"rationale\":\"Irregularly irregular narrow-complex rhythm without consistent P waves is consistent with atrial fibrillation, without diagnostic ST-segment elevation for STEMI.\"}",
+ "parsed": {
+  "diagnosis": "atrial fibrillation",
+  "stemi": "no",
+  "rationale": "Irregularly irregular narrow-complex rhythm without consistent P waves is consistent with atrial fibrillation, without diagnostic ST-segment elevation for STEMI."
+ },
+ "time": "2026-10-21T22:34:15"
+}

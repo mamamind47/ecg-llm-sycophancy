@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"normal\",\"stemi\":\"no\",\"rationale\":\"Regular sinus rhythm with normal intervals, narrow QRS complexes, preserved R-wave progression, and mild anterior ST elevation below STEMI thresholds.\"}",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Regular sinus rhythm with normal intervals, narrow QRS complexes, preserved R-wave progression, and mild anterior ST elevation below STEMI thresholds."
+ },
+ "time": "2026-10-18T16:08:06"
+}

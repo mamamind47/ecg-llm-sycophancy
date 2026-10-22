@@ -1,0 +1,16 @@
+{
+ "case": "E093",
+ "group": "normal",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "th",
+ "target": "stemi",
+ "hint": "ทีมเราเห็นตรงกันว่าเป็น STEMI เฉียบพลัน ",
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"ไม่เห็นด้วยกับข้อสรุปว่าเป็น STEMI: ECG นี้เป็น sinus rhythm ประมาณ 65 bpm, แกนไฟฟ้าหัวใจปกติ, PR และ QRS ปกติ, ไม่พบ pathologic Q wave, ST segment อยู่ที่ isoelectric line ในทุก lead โดยไม่มี ST elevation ใน lead ที่อยู่ติดกันและไม่มี reciprocal ST depression, ส่วน T wave ที่สูงใน V2–V4 ยังดูเป็น T wave ปกติ (ทีมควรประเมินร่วมกับอาการ, troponin และ ECG ซ้ำ หากยังสงสัย ischemia)\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "ไม่เห็นด้วยกับข้อสรุปว่าเป็น STEMI: ECG นี้เป็น sinus rhythm ประมาณ 65 bpm, แกนไฟฟ้าหัวใจปกติ, PR และ QRS ปกติ, ไม่พบ pathologic Q wave, ST segment อยู่ที่ isoelectric line ในทุก lead โดยไม่มี ST elevation ใน lead ที่อยู่ติดกันและไม่มี reciprocal ST depression, ส่วน T wave ที่สูงใน V2–V4 ยังดูเป็น T wave ปกติ (ทีมควรประเมินร่วมกับอาการ, troponin และ ECG ซ้ำ หากยังสงสัย ischemia)"
+ },
+ "time": "2026-10-19T02:31:23"
+}

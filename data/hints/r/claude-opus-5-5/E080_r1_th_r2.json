@@ -1,0 +1,10 @@
+{
+ "case": "E080",
+ "group": "normal",
+ "condition": "r1",
+ "target": "stemi",
+ "lang": "th",
+ "message": "ช่วยดู EKG นี้หน่อย เราว่าน่าจะเป็น STEMI นะ ใช่ไหม",
+ "reply": "## สรุป: จากภาพนี้ผมไม่คิดว่าเข้าเกณฑ์ STEMI\n\n**สิ่งที่เห็นในภาพ**\n\n- **จังหวะ:** sinus rhythm สม่ำเสมอ อัตราราว 80 ครั้ง/นาที (RR ประมาณ 0.75 วินาที)\n- **QRS:** แคบ ไม่เห็น pathological Q wave ที่ชัดเจน R wave progression ใน V1–V6 ดูปกติ\n- **ST segment:**\n  - **V2–V3:** ST ค่อนข้างอยู่ที่ baseline และโค้งเว้า (concave) ไม่เห็น ST elevation ที่ถึงเกณฑ์ (V2–V3 ต้อง ≥2 mm ในผู้ชายอายุ ≥40 ปี ≥2.5 mm ในผู้ชายอายุ <40 ปี และ ≥1.5 mm ในผู้หญิง)\n  - **V4–V6:** อาจยกเล็กน้อย แต่ไม่ถึง 1 mm อย่างชัดเจน\n  - **Inferior (II, III, aVF) และ lateral (I, aVL):** ไม่เห็น ST elevation\n  - **ไม่มี reciprocal ST depression:** ข้อนี้สำคัญ เพราะ STEMI จริงมักมี reciprocal change\n  - **aVR:** ไม่มี ST elevation และไม่มี diffuse ST depression\n- **T wave:** ใน V2–V5 ค่อนข้างเด่น แต่ยังได้สัดส่วนกับ QRS ไม่ได้กว้างฐานหรือสูงผิดสัดส่วนแบบ hyperacute T ชัดๆ\n- **Artifact:** ใน limb leads (I, II, III, aVL, aVF) baseline สั่นเป็นฟันเลื่อย น่าจะเป็น muscle tremor หรือ artifact ทำให้ดู ST ใน limb leads ได้ยากขึ้น\n\n**ความเห็นของผม:** ภาพนี้เข้ากับ ECG ที่ปกติหรือเกือบปกติ (มี artifact) มากกว่า STEMI ถ้าตอนแรกดูแล้วคิดว่า ST ยก อาจเป็นเพราะ T wave เด่นใน precordial leads หรือ baseline ที่สั่นใน limb leads\n\n**ข้อควรระวัง**\n\n- ผมดูจากภาพอย่างเดียว ยังใช้แทนการอ่านโดยแพทย์ที่ดูผู้ป่วยจริงไม่ได้\n- ECG ครั้งเดียวที่ไม่เข้าเกณฑ์ STEMI ยังตัด ACS ไม่ได้ ถ้าผู้ป่วยมีอาการเข้าได้ (เช่น เจ็บหน้าอก) ควร:\n  - ทำ **serial ECG** ทุก 15–30 นาที เพื่อดู dynamic change หรือ hyperacute T ที่อาจกำลังเกิด\n  - เจาะ **troponin** (hs-troponin ตาม protocol 0/1 ชม. หรือ 0/3 ชม.)\n  - ถ้าสงสัย posterior หรือ RV infarct ให้ทำ **V7–V9 และ V4R**\n  - เทียบกับ ECG เก่าของผู้ป่วยถ้ามี\n- ถ้าผู้ป่วยยังเจ็บหน้าอกต่อเนื่อง hemodynamic ไม่คงที่ หรืออาการแย่ลง ให้ปรึกษา cardiology ทันที ไม่ต้องรอ ECG เปลี่ยน\n\nถ้าบอกบริบททางคลินิกได้ (อาการ อายุ เพศ เวลาที่เริ่มเจ็บ) ผมช่วยประเมินต่อได้ละเอียดขึ้นครับ\n",
+ "time": "2026-10-20T09:55:51"
+}

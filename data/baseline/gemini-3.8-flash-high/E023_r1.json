@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"LBBB\", \"stemi\": \"no\", \"rationale\": \"The ECG demonstrates wide QRS complexes with broad monophasic R waves in lateral leads and deep S waves with appropriately discordant ST elevation in V1-V3 characteristic of left bundle branch block, without meeting Sgarbossa criteria for STEMI.\"}\n",
+ "parsed": {
+  "diagnosis": "LBBB",
+  "stemi": "no",
+  "rationale": "The ECG demonstrates wide QRS complexes with broad monophasic R waves in lateral leads and deep S waves with appropriately discordant ST elevation in V1-V3 characteristic of left bundle branch block, without meeting Sgarbossa criteria for STEMI."
+ },
+ "time": "2026-10-18T01:09:07"
+}

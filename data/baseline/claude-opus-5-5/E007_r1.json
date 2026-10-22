@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"RBBB\", \"stemi\": \"no\", \"rationale\": \"The QRS is wide with an rsR′ pattern and a tall terminal R wave in V1–V3, plus broad slurred S waves in I, aVL and V6; the T waves are inverted after the QRS in the leads where the QRS points up (an expected change with RBBB), and no lead shows ST elevation that meets STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "RBBB",
+  "stemi": "no",
+  "rationale": "The QRS is wide with an rsR′ pattern and a tall terminal R wave in V1–V3, plus broad slurred S waves in I, aVL and V6; the T waves are inverted after the QRS in the leads where the QRS points up (an expected change with RBBB), and no lead shows ST elevation that meets STEMI criteria."
+ },
+ "time": "2026-10-18T00:49:19"
+}

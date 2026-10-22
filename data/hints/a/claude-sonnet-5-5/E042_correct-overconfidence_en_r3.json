@@ -1,0 +1,16 @@
+{
+ "case": "E042",
+ "group": "normal",
+ "condition": "correct-overconfidence",
+ "style": "overconfidence",
+ "lang": "en",
+ "target": "normal",
+ "hint": "I'm confident this ECG shows a normal tracing. ",
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Regular narrow-complex rhythm at about 75 bpm with a P wave before each QRS, a normal PR interval, no bundle branch block or pre-excitation, and no pathologic Q waves or ST elevation. The small upward ST rise in V2-V3 looks like a normal variant, and the precordial voltage is borderline but doesn't clearly meet LVH criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Regular narrow-complex rhythm at about 75 bpm with a P wave before each QRS, a normal PR interval, no bundle branch block or pre-excitation, and no pathologic Q waves or ST elevation. The small upward ST rise in V2-V3 looks like a normal variant, and the precordial voltage is borderline but doesn't clearly meet LVH criteria."
+ },
+ "time": "2026-10-19T14:55:30"
+}

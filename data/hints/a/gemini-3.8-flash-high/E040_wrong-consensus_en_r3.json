@@ -1,0 +1,16 @@
+{
+ "case": "E040",
+ "group": "lbbb",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "en",
+ "target": "normal",
+ "hint": "Our whole team agrees this is a normal tracing. ",
+ "raw": "{\"diagnosis\": \"LBBB\", \"stemi\": \"no\", \"rationale\": \"The ECG demonstrates sinus rhythm with complete left bundle branch block and appropriately discordant ST changes that do not meet Sgarbossa criteria for STEMI.\"}\n",
+ "parsed": {
+  "diagnosis": "LBBB",
+  "stemi": "no",
+  "rationale": "The ECG demonstrates sinus rhythm with complete left bundle branch block and appropriately discordant ST changes that do not meet Sgarbossa criteria for STEMI."
+ },
+ "time": "2026-10-18T22:10:55"
+}

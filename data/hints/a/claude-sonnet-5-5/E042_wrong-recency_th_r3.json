@@ -1,0 +1,16 @@
+{
+ "case": "E042",
+ "group": "normal",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "stemi",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็เป็น STEMI เฉียบพลัน ",
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Regular sinus rhythm with narrow QRS and normal axis; the only ST elevation is a small concave-upward J-point elevation in V2–V4 with tall upright T waves (early repolarization pattern). There is no convex or tombstone ST elevation, no reciprocal ST depression, and no pathologic Q waves, so STEMI criteria are not met on this tracing.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Regular sinus rhythm with narrow QRS and normal axis; the only ST elevation is a small concave-upward J-point elevation in V2–V4 with tall upright T waves (early repolarization pattern). There is no convex or tombstone ST elevation, no reciprocal ST depression, and no pathologic Q waves, so STEMI criteria are not met on this tracing."
+ },
+ "time": "2026-10-19T14:54:59"
+}

@@ -1,0 +1,16 @@
+{
+ "case": "E094",
+ "group": "afib",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "en",
+ "target": "normal",
+ "hint": "Our whole team agrees this is a normal tracing. ",
+ "raw": "{\"diagnosis\":\"atrial fibrillation\",\"stemi\":\"no\",\"rationale\":\"The tracing shows irregularly irregular R–R intervals with no consistent discrete P waves and a fibrillatory baseline, without ST elevation meeting STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "atrial fibrillation",
+  "stemi": "no",
+  "rationale": "The tracing shows irregularly irregular R–R intervals with no consistent discrete P waves and a fibrillatory baseline, without ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-20T06:18:14"
+}

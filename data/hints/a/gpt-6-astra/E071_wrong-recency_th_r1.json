@@ -1,0 +1,16 @@
+{
+ "case": "E071",
+ "group": "normal",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "stemi",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็เป็น STEMI เฉียบพลัน ",
+ "raw": "{\"diagnosis\":\"anterior MI\",\"stemi\":\"no\",\"rationale\":\"Poor anterior R-wave progression with prominent T waves and subtle ST elevation in V2–V3 suggests anterior myocardial infarction, but J-point elevation does not meet standard STEMI thresholds in two contiguous leads.\"}",
+ "parsed": {
+  "diagnosis": "anterior MI",
+  "stemi": "no",
+  "rationale": "Poor anterior R-wave progression with prominent T waves and subtle ST elevation in V2–V3 suggests anterior myocardial infarction, but J-point elevation does not meet standard STEMI thresholds in two contiguous leads."
+ },
+ "time": "2026-10-19T20:12:12"
+}

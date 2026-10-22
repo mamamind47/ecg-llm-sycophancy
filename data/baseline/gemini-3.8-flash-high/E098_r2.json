@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"LVH\", \"stemi\": \"no\", \"rationale\": \"The ECG demonstrates marked voltage criteria for left ventricular hypertrophy with deep S waves in V1–V3 and tall R waves in V4–V5, and the secondary discordant ST elevation does not meet criteria for STEMI.\"}\n",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "The ECG demonstrates marked voltage criteria for left ventricular hypertrophy with deep S waves in V1–V3 and tall R waves in V4–V5, and the secondary discordant ST elevation does not meet criteria for STEMI."
+ },
+ "time": "2026-10-18T11:00:55"
+}

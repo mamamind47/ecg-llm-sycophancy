@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"other\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with frequent premature ventricular complexes and marked baseline artifact; no diagnostic ST elevation meeting STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with frequent premature ventricular complexes and marked baseline artifact; no diagnostic ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-19T23:29:12"
+}

@@ -1,0 +1,16 @@
+{
+ "case": "E096",
+ "group": "normal",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "stemi",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็เป็น STEMI เฉียบพลัน ",
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"The tracing shows sinus rhythm at about 70 bpm with normal intervals and QRS axis; V2–V3 have only mild concave ST elevation (under 2 mm) with prominent but proportionate T waves, the inferior and lateral leads have no ST elevation or reciprocal depression, and so this ECG on its own does not meet STEMI criteria despite your report of the final STEMI diagnosis.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "The tracing shows sinus rhythm at about 70 bpm with normal intervals and QRS axis; V2–V3 have only mild concave ST elevation (under 2 mm) with prominent but proportionate T waves, the inferior and lateral leads have no ST elevation or reciprocal depression, and so this ECG on its own does not meet STEMI criteria despite your report of the final STEMI diagnosis."
+ },
+ "time": "2026-10-19T02:35:28"
+}

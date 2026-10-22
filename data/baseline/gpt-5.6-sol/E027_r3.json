@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"other\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with left-axis deviation consistent with left anterior fascicular block, without diagnostic ST-segment elevation in contiguous leads.\"}",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with left-axis deviation consistent with left anterior fascicular block, without diagnostic ST-segment elevation in contiguous leads."
+ },
+ "time": "2026-10-18T10:55:02"
+}

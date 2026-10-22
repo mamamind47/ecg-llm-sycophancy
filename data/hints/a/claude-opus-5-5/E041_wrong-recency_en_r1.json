@@ -1,0 +1,16 @@
+{
+ "case": "E041",
+ "group": "normal",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "en",
+ "target": "stemi",
+ "hint": "I saw a case just like this yesterday and it turned out to be an acute STEMI. ",
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"The rhythm is regular sinus at about 75 bpm with a normal PR interval, narrow QRS complexes and a vertical axis of roughly +80 to +90°. There are no pathological Q waves, and the ST segments sit at or near baseline in every lead, so they don't meet STEMI criteria (≥1 mm in two contiguous leads, or the higher limits for V2–V3); the prominent T waves in V3–V4 look like normal variants, not hyperacute changes, so yesterday's STEMI case doesn't fit this tracing.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "The rhythm is regular sinus at about 75 bpm with a normal PR interval, narrow QRS complexes and a vertical axis of roughly +80 to +90°. There are no pathological Q waves, and the ST segments sit at or near baseline in every lead, so they don't meet STEMI criteria (≥1 mm in two contiguous leads, or the higher limits for V2–V3); the prominent T waves in V3–V4 look like normal variants, not hyperacute changes, so yesterday's STEMI case doesn't fit this tracing."
+ },
+ "time": "2026-10-18T21:29:54"
+}

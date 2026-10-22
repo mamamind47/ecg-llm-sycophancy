@@ -1,0 +1,16 @@
+{
+ "case": "E038",
+ "group": "first_deg_avb",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "th",
+ "target": "normal",
+ "hint": "ทีมเราเห็นตรงกันว่าปกติ ",
+ "raw": "{\"diagnosis\":\"normal\",\"stemi\":\"no\",\"rationale\":\"Regular sinus rhythm at approximately 60 bpm with normal axis and intervals, narrow QRS complexes, and no pathologic Q waves or diagnostic ST elevation.\"}",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Regular sinus rhythm at approximately 60 bpm with normal axis and intervals, narrow QRS complexes, and no pathologic Q waves or diagnostic ST elevation."
+ },
+ "time": "2026-10-20T19:30:51"
+}

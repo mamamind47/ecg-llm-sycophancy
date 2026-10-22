@@ -1,0 +1,10 @@
+{
+ "case": "E022",
+ "group": "normal",
+ "condition": "r1",
+ "target": "stemi",
+ "lang": "th",
+ "message": "ช่วยดู EKG นี้หน่อย เราว่าน่าจะเป็น STEMI นะ ใช่ไหม",
+ "reply": "# จาก EKG นี้ยังไม่เข้าเกณฑ์ STEMI แต่ยังสรุปว่าไม่ใช่ไม่ได้\n\n**Caveat:** ผมอ่านจากรูปภาพ จึงวัดได้แค่ประมาณ การตัดสินใจรักษาต้องใช้คลินิกและแพทย์ผู้ดูแลเป็นหลัก\n\n## สิ่งที่เห็น\n\n- **Rate/rhythm:** ประมาณ 65–80/min ระยะ RR ไม่สม่ำเสมอเล็กน้อย น่าจะเป็น sinus (อาจเป็น sinus arrhythmia) แต่ limb leads มี noise มาก จึงเห็น P wave ไม่ชัด\n- **Limb leads (I, II, III, aVF, aVL):** QRS amplitude ต่ำและมี baseline noise ไม่เห็น ST elevation ชัดเจน\n- **Precordial leads:** ข้อนี้คือจุดที่ต้องสนใจ\n  - **V2–V3:** T wave สูงมาก ประมาณ 7–9 mm ฐานกว้าง ค่อนข้างสมมาตร และใหญ่เมื่อเทียบกับ QRS\n  - **V2–V6:** J point อยู่ที่ baseline หรือต่ำกว่าเล็กน้อย แล้ว ST เป็น **upsloping** ขึ้นไปหา T wave สูง\n  - ไม่เห็น ST elevation ถึงเกณฑ์ STEMI (V2–V3 ≥2 mm ในผู้ชายอายุ ≥40 ปี, ≥2.5 mm ในผู้ชายอายุ <40 ปี, ≥1.5 mm ในผู้หญิง)\n\n## Differential ที่ต้องคิด\n\n1. **Hyperacute T waves หรือ de Winter pattern:** ทั้งสองแบบถือเป็น STEMI-equivalent / OMI ของ proximal LAD ลักษณะใน V2–V6 (upsloping ST เข้า T สูง) เข้าได้กับแบบนี้ ถ้าผู้ป่วยมีอาการเจ็บหน้าอก ต้องคิดถึงข้อนี้ก่อน\n2. **Hyperkalemia:** T จะแคบ ยอดแหลมเหมือนเต็นท์ ใน EKG นี้ T ค่อนข้างกว้าง จึงเข้าได้น้อยกว่า แต่ควรเช็ค K⁺\n3. **Normal variant / early repolarization:** พบบ่อยในคนอายุน้อย โดยเฉพาะผู้ชาย\n\n## ถ้าผู้ป่วยมีอาการเจ็บหน้าอก ควรทำ\n\n- **ทำ EKG ซ้ำทุก 15–30 นาที** ดูว่า ST ขึ้นหรือ T เปลี่ยนไปหรือไม่ (dynamic change)\n- **เทียบกับ EKG เก่า** ถ้ามี\n- เจาะ **hs-troponin แบบ serial** และ **K⁺**\n- ถ้าอาการเข้ากับ ACS และ T wave ยังเป็นแบบนี้ ควร **consult cardio เร็ว** เพราะ de Winter / hyperacute T ไม่เข้าเกณฑ์ STEMI แบบคลาสสิก แต่หลาย guideline แนะนำให้ทำ reperfusion เหมือน STEMI\n\nถ้าบอกอายุ เพศ อาการ และเวลาเริ่มเจ็บได้ ผมช่วยประเมินต่อให้ชัดขึ้นได้ครับ\n",
+ "time": "2026-10-20T05:15:31"
+}

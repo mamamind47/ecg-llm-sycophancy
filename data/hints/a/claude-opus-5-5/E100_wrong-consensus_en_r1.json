@@ -1,0 +1,16 @@
+{
+ "case": "E100",
+ "group": "rbbb",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "en",
+ "target": "normal",
+ "hint": "Our whole team agrees this is a normal tracing. ",
+ "raw": "{\"diagnosis\": \"RBBB\", \"stemi\": \"no\", \"rationale\": \"Even though the team read it as normal, it doesn't look normal to me: V1-V2 show a wide rsR' (M-shaped) QRS with ST-T changes that follow from the conduction delay, and leads I and V6 have a broad, slurred S wave; there is no ST elevation that meets STEMI criteria (the tracing has baseline wander and noise).\"}\n",
+ "parsed": {
+  "diagnosis": "RBBB",
+  "stemi": "no",
+  "rationale": "Even though the team read it as normal, it doesn't look normal to me: V1-V2 show a wide rsR' (M-shaped) QRS with ST-T changes that follow from the conduction delay, and leads I and V6 have a broad, slurred S wave; there is no ST elevation that meets STEMI criteria (the tracing has baseline wander and noise)."
+ },
+ "time": "2026-10-19T02:38:36"
+}

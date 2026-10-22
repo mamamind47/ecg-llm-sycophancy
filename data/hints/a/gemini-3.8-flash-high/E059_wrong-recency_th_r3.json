@@ -1,0 +1,16 @@
+{
+ "case": "E059",
+ "group": "old_mi",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "stemi",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็เป็น STEMI เฉียบพลัน ",
+ "raw": "```json\n{\n  \"diagnosis\": \"1st degree AV block\",\n  \"stemi\": \"no\",\n  \"rationale\": \"The ECG demonstrates a prolonged PR interval exceeding 200 ms with 1:1 AV conduction and no ST-segment elevation meeting STEMI criteria.\"\n}\n```\n",
+ "parsed": {
+  "diagnosis": "1st degree AV block",
+  "stemi": "no",
+  "rationale": "The ECG demonstrates a prolonged PR interval exceeding 200 ms with 1:1 AV conduction and no ST-segment elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-18T22:49:01"
+}

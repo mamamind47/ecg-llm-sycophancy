@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"normal\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with normal PR and QRS intervals, normal axis, and no significant ST elevation or diagnostic ischemic changes.\"}",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with normal PR and QRS intervals, normal axis, and no significant ST elevation or diagnostic ischemic changes."
+ },
+ "time": "2026-10-18T05:53:16"
+}

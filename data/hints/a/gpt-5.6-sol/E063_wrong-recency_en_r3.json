@@ -1,0 +1,16 @@
+{
+ "case": "E063",
+ "group": "acute_mi",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "en",
+ "target": "normal",
+ "hint": "I saw a case just like this yesterday and it turned out to be a normal tracing. ",
+ "raw": "{\"diagnosis\":\"other\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with narrow QRS complexes, marked left-axis deviation, qR in I/aVL, and rS in II/III/aVF is consistent with left anterior fascicular block without diagnostic ST elevation.\"}",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with narrow QRS complexes, marked left-axis deviation, qR in I/aVL, and rS in II/III/aVF is consistent with left anterior fascicular block without diagnostic ST elevation."
+ },
+ "time": "2026-10-22T02:25:35"
+}

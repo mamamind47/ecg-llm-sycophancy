@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"other\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with marked poor R-wave progression and QS complexes in V1–V3, without diagnostic ST elevation; this pattern is concerning for prior anterior infarction but does not meet STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with marked poor R-wave progression and QS complexes in V1–V3, without diagnostic ST elevation; this pattern is concerning for prior anterior infarction but does not meet STEMI criteria."
+ },
+ "time": "2026-10-19T23:03:58"
+}

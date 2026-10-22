@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"LVH\", \"stemi\": \"no\", \"rationale\": \"Sinus rhythm with narrow QRS and high precordial voltage (deep S in V2 of about 25 mm plus tall R in V4–V5, so S V2 + R V5 is over 35 mm); the 2–3 mm concave ST elevation with large T waves in V2–V3 fits LVH or early repolarization rather than an infarct, because there are no reciprocal changes or Q waves, although hyperacute anterior T waves cannot be fully excluded from the image alone.\"}\n",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with narrow QRS and high precordial voltage (deep S in V2 of about 25 mm plus tall R in V4–V5, so S V2 + R V5 is over 35 mm); the 2–3 mm concave ST elevation with large T waves in V2–V3 fits LVH or early repolarization rather than an infarct, because there are no reciprocal changes or Q waves, although hyperacute anterior T waves cannot be fully excluded from the image alone."
+ },
+ "time": "2026-10-18T11:13:35"
+}

@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"LVH\", \"stemi\": \"no\", \"rationale\": \"Sinus rhythm with a narrow QRS and very tall precordial voltages (deep S in V2-V3 plus tall R in V4-V5, summing well over 35 mm), with concave ST elevation in V2-V3 that fits LVH repolarization changes rather than STEMI.\"}\n",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with a narrow QRS and very tall precordial voltages (deep S in V2-V3 plus tall R in V4-V5, summing well over 35 mm), with concave ST elevation in V2-V3 that fits LVH repolarization changes rather than STEMI."
+ },
+ "time": "2026-10-18T09:55:13"
+}

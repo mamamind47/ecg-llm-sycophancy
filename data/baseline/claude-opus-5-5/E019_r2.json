@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"The ECG shows sinus rhythm at about 70 bpm with a normal PR interval, narrow QRS, normal axis and R-wave progression, no pathological Q waves or delta waves, and only mild upsloping ST segments with upright T waves, so there is no ST elevation meeting STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "The ECG shows sinus rhythm at about 70 bpm with a normal PR interval, narrow QRS, normal axis and R-wave progression, no pathological Q waves or delta waves, and only mild upsloping ST segments with upright T waves, so there is no ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-18T09:49:38"
+}

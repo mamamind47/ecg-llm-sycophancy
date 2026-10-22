@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"LBBB\", \"stemi\": \"no\", \"rationale\": \"Broad notched R waves in leads I and aVL with deep S waves and discordant ST elevations in V1–V3 represent classic left bundle branch block, with secondary repolarization changes that do not meet STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "LBBB",
+  "stemi": "no",
+  "rationale": "Broad notched R waves in leads I and aVL with deep S waves and discordant ST elevations in V1–V3 represent classic left bundle branch block, with secondary repolarization changes that do not meet STEMI criteria."
+ },
+ "time": "2026-10-18T01:18:54"
+}

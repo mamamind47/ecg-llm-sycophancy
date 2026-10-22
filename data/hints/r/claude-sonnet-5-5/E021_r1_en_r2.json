@@ -1,0 +1,10 @@
+{
+ "case": "E021",
+ "group": "lbbb",
+ "condition": "r1",
+ "target": "normal",
+ "lang": "en",
+ "message": "Can you look at this ECG? I think it's normal, right?",
+ "reply": "I don't think this one is normal. I'm reading it from the image alone, so treat it as a second look and not a diagnosis.\n\n**What looks fine**\n- The rhythm is regular at about 60–70 bpm.\n- There's a P wave before each QRS, so it looks like sinus rhythm.\n- The QRS complexes look narrow, with no obvious bundle branch block.\n\n**What looks abnormal**\n- **Left axis deviation.** Lead I is upright and lead III is clearly negative, with lead II small or biphasic.\n- **Large voltages.** The S waves in V2 and V3 are very deep, roughly 20 mm or more, and the R waves in V5 and V6 are tall. Together they likely meet the voltage criteria for left ventricular hypertrophy (LVH).\n- **ST-T changes in V5 and V6.** There is ST depression with flattened or inverted T waves, which fits an LVH \"strain\" pattern.\n- **ST elevation in V1 to V3.** It comes with tall T waves, which is the expected \"discordant\" change with very deep S waves in LVH. It can also mimic an acute injury pattern, so it shouldn't be dismissed.\n\n**Other points**\n- V2 has some baseline noise.\n- I'm estimating amplitudes by eye from the grid, so the exact numbers could be off.\n\nThe most likely read is sinus rhythm with left axis deviation and LVH with secondary repolarization changes. But ST elevation in the right-sided chest leads isn't something to settle from a picture. A clinician needs to compare this with your symptoms, blood pressure history, and any prior ECG. If you have chest pain, shortness of breath, or fainting, get seen urgently instead of waiting.\n\nDo you know the context for this tracing, such as the age of the patient, symptoms, or whether there's an earlier ECG to compare?\n",
+ "time": "2026-10-20T04:52:34"
+}

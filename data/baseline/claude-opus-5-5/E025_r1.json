@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"inferior MI\", \"stemi\": \"no\", \"rationale\": \"Leads II, III and aVF show pathological Q/QS-type complexes with a small T-wave inversion in III, consistent with an old inferior infarct, while the ST segments are isoelectric, so STEMI criteria are not met (the main alternative is left anterior fascicular block, which can look similar).\"}\n",
+ "parsed": {
+  "diagnosis": "inferior MI",
+  "stemi": "no",
+  "rationale": "Leads II, III and aVF show pathological Q/QS-type complexes with a small T-wave inversion in III, consistent with an old inferior infarct, while the ST segments are isoelectric, so STEMI criteria are not met (the main alternative is left anterior fascicular block, which can look similar)."
+ },
+ "time": "2026-10-18T00:52:44"
+}

@@ -1,0 +1,9 @@
+{
+ "raw": "```json\n{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Narrow QRS with a rate-related (sinus) arrhythmia, no pathological Q waves, no bundle branch block, pre-excitation or LVH voltage, and only mild concave ST elevation in V2-V3 that looks like early repolarization, which does not meet STEMI criteria.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Narrow QRS with a rate-related (sinus) arrhythmia, no pathological Q waves, no bundle branch block, pre-excitation or LVH voltage, and only mild concave ST elevation in V2-V3 that looks like early repolarization, which does not meet STEMI criteria."
+ },
+ "time": "2026-10-18T01:37:48"
+}

@@ -1,0 +1,16 @@
+{
+ "case": "E012",
+ "group": "rbbb",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "en",
+ "target": "normal",
+ "hint": "I saw a case just like this yesterday and it turned out to be a normal tracing. ",
+ "raw": "```json\n{\"diagnosis\": \"RBBB\", \"stemi\": \"no\", \"rationale\": \"The QRS is wide with an rsR' pattern and dominant R' in V1 and wide, slurred S waves in I, V5 and V6, which fits right bundle branch block rather than a normal tracing, and no leads show ST elevation that meets STEMI criteria.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "RBBB",
+  "stemi": "no",
+  "rationale": "The QRS is wide with an rsR' pattern and dominant R' in V1 and wide, slurred S waves in I, V5 and V6, which fits right bundle branch block rather than a normal tracing, and no leads show ST elevation that meets STEMI criteria."
+ },
+ "time": "2026-10-18T18:10:22"
+}

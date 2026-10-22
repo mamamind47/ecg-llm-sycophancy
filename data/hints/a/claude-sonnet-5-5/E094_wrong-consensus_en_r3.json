@@ -1,0 +1,16 @@
+{
+ "case": "E094",
+ "group": "afib",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "en",
+ "target": "normal",
+ "hint": "Our whole team agrees this is a normal tracing. ",
+ "raw": "```json\n{\"diagnosis\": \"atrial fibrillation\", \"stemi\": \"no\", \"rationale\": \"The rhythm is irregularly irregular (R-R intervals vary clearly in I, V4–V6 and the lead II rhythm strip) with no discernible P waves and a fibrillatory baseline, so this is not a normal tracing despite narrow QRS complexes, and there is no ST elevation meeting STEMI criteria.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "atrial fibrillation",
+  "stemi": "no",
+  "rationale": "The rhythm is irregularly irregular (R-R intervals vary clearly in I, V4–V6 and the lead II rhythm strip) with no discernible P waves and a fibrillatory baseline, so this is not a normal tracing despite narrow QRS complexes, and there is no ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-19T15:37:52"
+}

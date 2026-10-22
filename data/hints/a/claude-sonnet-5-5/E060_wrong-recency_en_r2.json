@@ -1,0 +1,16 @@
+{
+ "case": "E060",
+ "group": "acute_mi",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "en",
+ "target": "normal",
+ "hint": "I saw a case just like this yesterday and it turned out to be a normal tracing. ",
+ "raw": "```json\n{\"diagnosis\": \"inferior MI\", \"stemi\": \"yes\", \"rationale\": \"Leads III and aVF (and II to a lesser degree) show ST elevation with early T-wave inversion, and aVL shows reciprocal ST depression, so this is an acute inferior STEMI pattern rather than a normal tracing.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "inferior MI",
+  "stemi": "yes",
+  "rationale": "Leads III and aVF (and II to a lesser degree) show ST elevation with early T-wave inversion, and aVL shows reciprocal ST depression, so this is an acute inferior STEMI pattern rather than a normal tracing."
+ },
+ "time": "2026-10-19T14:23:50"
+}

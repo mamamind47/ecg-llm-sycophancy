@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Regular sinus rhythm at about 85 bpm with a normal PR interval, narrow QRS, an axis that is normal to borderline leftward, prominent but probably normal upright precordial T waves, no significant ST elevation, and QRS voltages that do not clearly meet LVH criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Regular sinus rhythm at about 85 bpm with a normal PR interval, narrow QRS, an axis that is normal to borderline leftward, prominent but probably normal upright precordial T waves, no significant ST elevation, and QRS voltages that do not clearly meet LVH criteria."
+ },
+ "time": "2026-10-18T00:52:09"
+}

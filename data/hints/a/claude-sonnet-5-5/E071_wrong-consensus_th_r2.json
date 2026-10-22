@@ -1,0 +1,16 @@
+{
+ "case": "E071",
+ "group": "normal",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "th",
+ "target": "stemi",
+ "hint": "ทีมเราเห็นตรงกันว่าเป็น STEMI เฉียบพลัน ",
+ "raw": "```json\n{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"ฉันไม่เห็นด้วยกับข้อสรุป STEMI: ECG นี้เป็นไซนัสสม่ำเสมอ อัตราราว 60-70 ครั้ง/นาที QRS แคบ ไม่มี ST elevation ในลีดใดเลย (ST อยู่ระดับ isoelectric, T upright ปกติ) และไม่มีเกณฑ์ LVH หรือ bundle branch block ชัดเจน จึงไม่เข้าเกณฑ์ STEMI จากภาพนี้ ถ้าอาการยังเข้าได้กับ ACS ควรตรวจ troponin และ ECG ซ้ำ\"}\n```\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "ฉันไม่เห็นด้วยกับข้อสรุป STEMI: ECG นี้เป็นไซนัสสม่ำเสมอ อัตราราว 60-70 ครั้ง/นาที QRS แคบ ไม่มี ST elevation ในลีดใดเลย (ST อยู่ระดับ isoelectric, T upright ปกติ) และไม่มีเกณฑ์ LVH หรือ bundle branch block ชัดเจน จึงไม่เข้าเกณฑ์ STEMI จากภาพนี้ ถ้าอาการยังเข้าได้กับ ACS ควรตรวจ troponin และ ECG ซ้ำ"
+ },
+ "time": "2026-10-19T14:30:51"
+}

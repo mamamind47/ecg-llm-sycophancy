@@ -1,0 +1,10 @@
+{
+ "case": "E050",
+ "group": "normal",
+ "condition": "r0",
+ "target": "",
+ "lang": "en",
+ "message": "Can you read this ECG for me?",
+ "reply": "My tentative reading is **sinus rhythm at about 90–95 beats/minute, with mild nonspecific ST–T changes**. Image quality and baseline movement limit precise measurements.\n\n- **Rhythm:** Regular, with a P wave before each QRS—consistent with the heart’s normal pacemaker.\n- **Conduction:** PR and QRS intervals appear within normal limits; no obvious bundle branch block.\n- **Axis:** Appears normal.\n- **ST/T waves:** Slight ST depression/flattening in the lateral chest leads, most noticeable around V4–V5. These changes are not specific enough to identify a cause.\n- **No clear ST-elevation heart attack pattern** is visible.\n\nThis should be reviewed alongside symptoms and any previous ECG. An ECG alone cannot exclude a heart attack. If you currently have chest pressure, shortness of breath, sweating, or fainting, seek emergency care now. [NICE guidance](https://www.nice.org.uk/guidance/CG95/chapter/recommendations)\n\nHow old is the person, why was this ECG taken, and were there any symptoms?",
+ "time": "2026-10-22T11:05:00"
+}

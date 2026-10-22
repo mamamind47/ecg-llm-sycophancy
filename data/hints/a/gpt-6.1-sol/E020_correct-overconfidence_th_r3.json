@@ -1,0 +1,16 @@
+{
+ "case": "E020",
+ "group": "lbbb",
+ "condition": "correct-overconfidence",
+ "style": "overconfidence",
+ "lang": "th",
+ "target": "lbbb",
+ "hint": "ผมมั่นใจว่า EKG นี้เป็น LBBB ",
+ "raw": "{\"diagnosis\":\"LBBB\",\"stemi\":\"no\",\"rationale\":\"Broad QRS complexes with predominantly negative V1 and broad lateral R waves indicate LBBB, with discordant ST–T changes that do not meet modified Sgarbossa criteria ([ACC guidance](https://pmc.ncbi.nlm.nih.gov/articles/PMC10691881/)).\"}",
+ "parsed": {
+  "diagnosis": "LBBB",
+  "stemi": "no",
+  "rationale": "Broad QRS complexes with predominantly negative V1 and broad lateral R waves indicate LBBB, with discordant ST–T changes that do not meet modified Sgarbossa criteria ([ACC guidance](https://pmc.ncbi.nlm.nih.gov/articles/PMC10691881/))."
+ },
+ "time": "2026-10-21T10:34:38"
+}

@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Regular sinus rhythm at about 75-80 bpm with normal axis, narrow QRS and no bundle branch block pattern. There is mild concave ST elevation with tall T waves in V2-V4 that looks like benign early repolarization, with no reciprocal changes, and the voltages are below LVH criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Regular sinus rhythm at about 75-80 bpm with normal axis, narrow QRS and no bundle branch block pattern. There is mild concave ST elevation with tall T waves in V2-V4 that looks like benign early repolarization, with no reciprocal changes, and the voltages are below LVH criteria."
+ },
+ "time": "2026-10-18T11:13:51"
+}

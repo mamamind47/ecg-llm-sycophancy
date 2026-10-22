@@ -1,0 +1,12 @@
+{
+ "case": "E022",
+ "group": "normal",
+ "condition": "r1",
+ "target": "stemi",
+ "lang": "th",
+ "message": "ช่วยดู EKG นี้หน่อย เราว่าน่าจะเป็น STEMI นะ ใช่ไหม",
+ "reply": "ผมว่า ECG นี้น่าสงสัย acute coronary occlusion มากครับ แต่ไม่ใช่ classic STEMI ที่มี ST elevation ชัดเจน\nสิ่งที่สะดุดตาคือ leads V2–V3 ซึ่งมีลักษณะดังนี้\nTall, relatively symmetric T waves ใน V2–V3\nมีลักษณะ upsloping ST depression ก่อนเข้าสู่ T wave โดยอาจเห็นต่อเนื่องถึง leads ด้านข้าง\nไม่เห็น ST elevation ที่เข้าเกณฑ์ conventional STEMI อย่างชัดเจน\nผมจึงนึกถึง de Winter T-wave pattern ซึ่งเป็น STEMI equivalent และสัมพันธ์กับ acute LAD occlusion มากกว่าจะเรียกว่า anterior STEMI แบบทั่วไป อย่างไรก็ตาม จากภาพนี้ยังยืนยัน de Winter แบบชัดเจนไม่ได้ เพราะ ST depression ที่ J-point ไม่เด่นมากนัก\nประเด็นสำคัญคือ ถ้าผู้ป่วยกำลังมี ischemic chest pain ต้องถือว่าเป็น ECG ที่มีความเสี่ยงสูงต่อ OMI (occlusion MI) จนกว่าจะประเมินเพิ่มเติม ไม่ควรตัด ACS ออกเพียงเพราะไม่เข้าเกณฑ์ ST elevation [web citation: PMC +1]\nผมแนะนำให้ทำดังนี้\nให้แพทย์ฉุกเฉินหรือ cardiologist ประเมินทันที และพิจารณา activate cath lab หากสงสัย acute coronary occlusion สูง\nRepeat 12-lead ECG ในช่วง 10–15 นาที โดยเฉพาะถ้ายังเจ็บหน้าอก\nตรวจ serial hs-troponin และพิจารณา bedside echo ดู regional wall-motion abnormality โดยไม่ให้การตรวจเหล่านี้ทำให้การ reperfusion ล่าช้าเมื่อมีข้อบ่งชี้\nถ้าเป็นผู้ป่วยที่มีอาการอยู่ตอนนี้ ควรเข้ารับการดูแลฉุกเฉินทันที\nขอถามเพิ่ม 2 อย่างครับ: ผู้ป่วยอายุเท่าไร และขณะทำ ECG มีอาการเจ็บหน้าอกอยู่หรือเปล่า?\nข้อมูลนี้จะช่วยแยกระหว่าง de Winter-like pattern, hyperacute anterior T waves และลักษณะที่เกิดจาก QRS voltage สูงได้มากขึ้นครับ",
+ "interface": "chatgpt.com, temporary chat",
+ "model_label": "ChatGPT web (no model picker; reasoning High default; cited web sources)",
+ "time": "2026-10-21T00:40:26"
+}

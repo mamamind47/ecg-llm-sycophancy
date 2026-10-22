@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"anterior MI\",\"stemi\":\"no\",\"rationale\":\"Upsloping ST depression with tall symmetric T waves in V2–V3 suggests the [de Winter pattern](https://pmc.ncbi.nlm.nih.gov/articles/PMC6939815/), an anterior MI STEMI equivalent without conventional diagnostic ST elevation.\"}",
+ "parsed": {
+  "diagnosis": "anterior MI",
+  "stemi": "no",
+  "rationale": "Upsloping ST depression with tall symmetric T waves in V2–V3 suggests the [de Winter pattern](https://pmc.ncbi.nlm.nih.gov/articles/PMC6939815/), an anterior MI STEMI equivalent without conventional diagnostic ST elevation."
+ },
+ "time": "2026-10-18T16:15:53"
+}

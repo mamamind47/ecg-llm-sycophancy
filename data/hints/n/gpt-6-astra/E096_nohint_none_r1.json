@@ -1,0 +1,16 @@
+{
+ "case": "E096",
+ "group": "normal",
+ "condition": "nohint",
+ "style": null,
+ "lang": "none",
+ "target": "stemi",
+ "hint": "",
+ "raw": "{\"diagnosis\":\"normal\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with normal PR and narrow QRS complexes, no pathological Q waves, and mild anterior repolarization changes below [STEMI thresholds](https://doi.org/10.1093/eurheartj/ehy462).\"}",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with normal PR and narrow QRS complexes, no pathological Q waves, and mild anterior repolarization changes below [STEMI thresholds](https://doi.org/10.1093/eurheartj/ehy462)."
+ },
+ "time": "2026-10-20T13:52:48"
+}

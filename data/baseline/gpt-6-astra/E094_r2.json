@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"atrial fibrillation\",\"stemi\":\"no\",\"rationale\":\"The ECG shows irregularly irregular R–R intervals with no distinct P waves and a fibrillatory baseline, without ST elevation meeting STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "atrial fibrillation",
+  "stemi": "no",
+  "rationale": "The ECG shows irregularly irregular R–R intervals with no distinct P waves and a fibrillatory baseline, without ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-18T16:07:35"
+}

@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"normal\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with normal intervals and narrow QRS complexes, without diagnostic ischemic ST-segment elevation or another listed conduction abnormality.\"}",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with normal intervals and narrow QRS complexes, without diagnostic ischemic ST-segment elevation or another listed conduction abnormality."
+ },
+ "time": "2026-10-18T10:59:45"
+}

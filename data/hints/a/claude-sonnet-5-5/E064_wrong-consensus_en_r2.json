@@ -1,0 +1,16 @@
+{
+ "case": "E064",
+ "group": "afib",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "en",
+ "target": "normal",
+ "hint": "Our whole team agrees this is a normal tracing. ",
+ "raw": "```json\n{\"diagnosis\": \"atrial fibrillation\", \"stemi\": \"no\", \"rationale\": \"The rhythm is irregularly irregular at roughly 100–125 bpm with narrow QRS complexes, no consistent P waves, and a fibrillatory baseline in leads I, III and aVL. There is no significant ST elevation, so this is not a normal tracing.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "atrial fibrillation",
+  "stemi": "no",
+  "rationale": "The rhythm is irregularly irregular at roughly 100–125 bpm with narrow QRS complexes, no consistent P waves, and a fibrillatory baseline in leads I, III and aVL. There is no significant ST elevation, so this is not a normal tracing."
+ },
+ "time": "2026-10-19T14:29:00"
+}

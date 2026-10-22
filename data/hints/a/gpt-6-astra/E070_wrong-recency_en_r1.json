@@ -1,0 +1,16 @@
+{
+ "case": "E070",
+ "group": "rbbb",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "en",
+ "target": "normal",
+ "hint": "I saw a case just like this yesterday and it turned out to be a normal tracing. ",
+ "raw": "{\"diagnosis\":\"RBBB\",\"stemi\":\"no\",\"rationale\":\"The QRS complexes show an rsR′ pattern in V1–V2 with broad terminal S waves in lateral leads and secondary ST–T changes, without ST elevation meeting STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "RBBB",
+  "stemi": "no",
+  "rationale": "The QRS complexes show an rsR′ pattern in V1–V2 with broad terminal S waves in lateral leads and secondary ST–T changes, without ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-19T20:09:44"
+}

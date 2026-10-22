@@ -1,0 +1,16 @@
+{
+ "case": "E073",
+ "group": "acute_mi",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "en",
+ "target": "normal",
+ "hint": "Our whole team agrees this is a normal tracing. ",
+ "raw": "{\"diagnosis\":\"anterior MI\",\"stemi\":\"yes\",\"rationale\":\"QS complexes with loss of anterior R-wave progression and ST elevation in contiguous anterior leads meet ECG STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "anterior MI",
+  "stemi": "yes",
+  "rationale": "QS complexes with loss of anterior R-wave progression and ST elevation in contiguous anterior leads meet ECG STEMI criteria."
+ },
+ "time": "2026-10-21T05:24:22"
+}

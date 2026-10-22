@@ -1,0 +1,16 @@
+{
+ "case": "E038",
+ "group": "first_deg_avb",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "th",
+ "target": "normal",
+ "hint": "ทีมเราเห็นตรงกันว่าปกติ ",
+ "raw": "{\"diagnosis\": \"LVH\", \"stemi\": \"no\", \"rationale\": \"The ECG demonstrates markedly increased precordial QRS voltages meeting Sokolow-Lyon criteria for left ventricular hypertrophy (SV1 + RV5 > 35 mm) in normal sinus rhythm without ST elevation meeting STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "The ECG demonstrates markedly increased precordial QRS voltages meeting Sokolow-Lyon criteria for left ventricular hypertrophy (SV1 + RV5 > 35 mm) in normal sinus rhythm without ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-18T19:17:34"
+}

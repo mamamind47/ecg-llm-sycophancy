@@ -1,0 +1,9 @@
+{
+ "raw": "```json\n{\"diagnosis\": \"LVH\", \"stemi\": \"no\", \"rationale\": \"The rhythm is regular and the QRS is narrow, with very deep S waves in V1-V3 (about 50 mm in V2) and tall R waves in V6 (about 18 mm). V6 also shows ST depression with T inversion (strain pattern), and the ST elevation in V1-V3 is the expected discordant change after deep S waves, not an acute STEMI.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "The rhythm is regular and the QRS is narrow, with very deep S waves in V1-V3 (about 50 mm in V2) and tall R waves in V6 (about 18 mm). V6 also shows ST depression with T inversion (strain pattern), and the ST elevation in V1-V3 is the expected discordant change after deep S waves, not an acute STEMI."
+ },
+ "time": "2026-10-18T11:16:32"
+}

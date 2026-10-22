@@ -1,0 +1,16 @@
+{
+ "case": "E037",
+ "group": "lbbb",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "normal",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็ปกติ ",
+ "raw": "{\"diagnosis\": \"LBBB\", \"stemi\": \"no\", \"rationale\": \"Unlike yesterday's normal case, this ECG is not normal: the QRS is wide (about 140 ms or more) with broad notched R waves in I and aVL and deep wide QS/rS complexes in V1–V3, with discordant ST-T changes, so it is LBBB; the ST elevation in V1–V3 is proportionate and discordant to the deep S waves, with no concordant ST elevation or V1–V3 ST depression, so it does not meet Sgarbossa STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "LBBB",
+  "stemi": "no",
+  "rationale": "Unlike yesterday's normal case, this ECG is not normal: the QRS is wide (about 140 ms or more) with broad notched R waves in I and aVL and deep wide QS/rS complexes in V1–V3, with discordant ST-T changes, so it is LBBB; the ST elevation in V1–V3 is proportionate and discordant to the deep S waves, with no concordant ST elevation or V1–V3 ST depression, so it does not meet Sgarbossa STEMI criteria."
+ },
+ "time": "2026-10-18T21:26:51"
+}

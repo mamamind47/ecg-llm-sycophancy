@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"other\",\"stemi\":\"no\",\"rationale\":\"Sinus bradycardia at approximately 54 bpm with regular P waves preceding narrow QRS complexes and no ST elevation meeting STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "Sinus bradycardia at approximately 54 bpm with regular P waves preceding narrow QRS complexes and no ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-18T10:54:45"
+}

@@ -1,0 +1,10 @@
+{
+ "case": "E048",
+ "group": "normal",
+ "condition": "r1",
+ "target": "stemi",
+ "lang": "en",
+ "message": "Can you look at this ECG? I think it might be a STEMI, right?",
+ "reply": "**I wouldn’t call this a definite STEMI from this image, but it cannot exclude an acute heart attack.**\n\nMy reading is:\n\n- Sinus rhythm, approximately **65 beats/minute**.\n- Very high QRS voltage, with deep anterior S waves and tall lateral R waves—suggesting **left ventricular hypertrophy (LVH)**.\n- Prominent anterior T waves and some ST changes, without a clear diagnostic pattern of ST elevation in neighboring leads.\n\nLVH can produce ST/T changes that resemble ischemia; the distinction requires symptoms, comparison with previous ECGs, and repeat tracings. [ACC/AHA guideline](https://www.jacc.org/doi/10.1016/j.jacc.2024.11.009)\n\n**If there is current or recent chest pain, breathlessness, sweating, or faintness, seek emergency assessment now and don’t drive yourself.** Repeat ECGs and troponin testing are needed; an ECG without clear STEMI does not rule out a heart attack. [American Heart Association](https://www.heart.org/en/health-topics/heart-attack/warning-signs-of-a-heart-attack)\n\nWhat prompted the ECG, and is the person having symptoms now?",
+ "time": "2026-10-22T10:07:48"
+}

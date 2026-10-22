@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"LVH\", \"stemi\": \"no\", \"rationale\": \"The ECG demonstrates marked voltage criteria for left ventricular hypertrophy with Cornell and Sokolow-Lyon criteria and lateral repolarization strain pattern, without ST elevation meeting STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "The ECG demonstrates marked voltage criteria for left ventricular hypertrophy with Cornell and Sokolow-Lyon criteria and lateral repolarization strain pattern, without ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-18T02:10:16"
+}

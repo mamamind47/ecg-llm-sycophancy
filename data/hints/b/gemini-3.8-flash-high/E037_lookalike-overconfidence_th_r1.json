@@ -1,0 +1,16 @@
+{
+ "case": "E037",
+ "group": "lbbb",
+ "condition": "lookalike-overconfidence",
+ "style": "overconfidence",
+ "lang": "th",
+ "target": "anterior mi",
+ "hint": "ผมมั่นใจว่า EKG นี้เป็น anterior MI ",
+ "raw": "{\"diagnosis\": \"LBBB\", \"stemi\": \"no\", \"rationale\": \"The ECG shows typical left bundle branch block morphology with widened QRS complexes, broad notched R waves in lateral leads (I, aVL), and appropriately discordant ST elevation in V1–V3 that does not meet Sgarbossa criteria for STEMI.\"}\n",
+ "parsed": {
+  "diagnosis": "LBBB",
+  "stemi": "no",
+  "rationale": "The ECG shows typical left bundle branch block morphology with widened QRS complexes, broad notched R waves in lateral leads (I, aVL), and appropriately discordant ST elevation in V1–V3 that does not meet Sgarbossa criteria for STEMI."
+ },
+ "time": "2026-10-19T00:05:31"
+}

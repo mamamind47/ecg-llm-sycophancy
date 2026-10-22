@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Regular narrow-complex rhythm at about 65 bpm with upright P waves before each QRS, a normal PR interval, no pathologic Q waves, no significant ST elevation, no LVH voltage criteria, and normal R-wave progression with transition at V3–V4.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Regular narrow-complex rhythm at about 65 bpm with upright P waves before each QRS, a normal PR interval, no pathologic Q waves, no significant ST elevation, no LVH voltage criteria, and normal R-wave progression with transition at V3–V4."
+ },
+ "time": "2026-10-18T11:16:19"
+}

@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Regular sinus rhythm at about 75 bpm with narrow QRS complexes, a normal axis, no clear delta wave, and no significant ST elevation or pathological Q waves; the PR interval looks borderline short and the V2–V3 T waves are prominent but not diagnostic.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Regular sinus rhythm at about 75 bpm with narrow QRS complexes, a normal axis, no clear delta wave, and no significant ST elevation or pathological Q waves; the PR interval looks borderline short and the V2–V3 T waves are prominent but not diagnostic."
+ },
+ "time": "2026-10-18T11:19:54"
+}

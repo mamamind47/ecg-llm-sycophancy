@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"lateral MI\", \"stemi\": \"yes\", \"rationale\": \"Judged by eye from the image, the strongest finding is ST elevation of about 1 mm or more in I and aVL with reciprocal ST depression in III and aVF, which fits a high-lateral STEMI, but the deep QS complexes with some ST elevation in V1–V3 mean anterior involvement cannot be ruled out, and this reading needs clinical review.\"}\n",
+ "parsed": {
+  "diagnosis": "lateral MI",
+  "stemi": "yes",
+  "rationale": "Judged by eye from the image, the strongest finding is ST elevation of about 1 mm or more in I and aVL with reciprocal ST depression in III and aVF, which fits a high-lateral STEMI, but the deep QS complexes with some ST elevation in V1–V3 mean anterior involvement cannot be ruled out, and this reading needs clinical review."
+ },
+ "time": "2026-10-18T00:54:37"
+}

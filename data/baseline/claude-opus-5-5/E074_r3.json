@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"LVH\", \"stemi\": \"no\", \"rationale\": \"Sinus rhythm with very deep S waves in V1-V3 (S V3 about 24 mm plus R aVL about 7 mm gives Cornell about 31 mm), and lateral T-wave inversion in I and aVL fits a strain pattern; the ST elevation in V1-V3 is small compared with the large S waves and points the opposite way to the QRS, as expected with LVH, so it does not meet STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with very deep S waves in V1-V3 (S V3 about 24 mm plus R aVL about 7 mm gives Cornell about 31 mm), and lateral T-wave inversion in I and aVL fits a strain pattern; the ST elevation in V1-V3 is small compared with the large S waves and points the opposite way to the QRS, as expected with LVH, so it does not meet STEMI criteria."
+ },
+ "time": "2026-10-18T11:20:54"
+}

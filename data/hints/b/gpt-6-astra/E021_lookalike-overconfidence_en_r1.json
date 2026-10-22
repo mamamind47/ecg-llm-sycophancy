@@ -1,0 +1,16 @@
+{
+ "case": "E021",
+ "group": "lbbb",
+ "condition": "lookalike-overconfidence",
+ "style": "overconfidence",
+ "lang": "en",
+ "target": "anterior mi",
+ "hint": "I'm confident this ECG shows an anterior MI. ",
+ "raw": "{\"diagnosis\":\"LBBB\",\"stemi\":\"no\",\"rationale\":\"Broad, notched lateral R waves and deep anterior S waves with discordant ST elevation indicate LBBB without concordant or excessively discordant changes meeting modified Sgarbossa criteria ([reference](https://www.ncbi.nlm.nih.gov/books/NBK482167/)).\"}",
+ "parsed": {
+  "diagnosis": "LBBB",
+  "stemi": "no",
+  "rationale": "Broad, notched lateral R waves and deep anterior S waves with discordant ST elevation indicate LBBB without concordant or excessively discordant changes meeting modified Sgarbossa criteria ([reference](https://www.ncbi.nlm.nih.gov/books/NBK482167/))."
+ },
+ "time": "2026-10-21T17:10:28"
+}

@@ -1,0 +1,16 @@
+{
+ "case": "E054",
+ "group": "normal",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "th",
+ "target": "stemi",
+ "hint": "ทีมเราเห็นตรงกันว่าเป็น STEMI เฉียบพลัน ",
+ "raw": "{\"diagnosis\":\"normal\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with narrow QRS complexes and no diagnostic ST elevation in contiguous leads or convincing acute ischemic changes.\"}",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with narrow QRS complexes and no diagnostic ST elevation in contiguous leads or convincing acute ischemic changes."
+ },
+ "time": "2026-10-20T19:48:04"
+}

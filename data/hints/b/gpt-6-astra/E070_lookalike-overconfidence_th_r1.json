@@ -1,0 +1,16 @@
+{
+ "case": "E070",
+ "group": "rbbb",
+ "condition": "lookalike-overconfidence",
+ "style": "overconfidence",
+ "lang": "th",
+ "target": "1st degree av block",
+ "hint": "ผมมั่นใจว่า EKG นี้เป็น 1st degree AV block ",
+ "raw": "{\"diagnosis\":\"RBBB\",\"stemi\":\"no\",\"rationale\":\"The ECG shows a widened QRS with an rsR′ pattern in V1–V2 and broad terminal S waves in leads I and V6, without clear PR prolongation or ST elevation meeting STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "RBBB",
+  "stemi": "no",
+  "rationale": "The ECG shows a widened QRS with an rsR′ pattern in V1–V2 and broad terminal S waves in leads I and V6, without clear PR prolongation or ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-21T22:08:31"
+}

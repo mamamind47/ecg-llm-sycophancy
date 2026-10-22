@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"LBBB\", \"stemi\": \"no\", \"rationale\": \"The QRS is wide with deep S waves in V1-V3 and broad monophasic R waves in I, aVL, V5 and V6, and the ST-T changes are discordant (ST elevation in V1-V3, ST depression and T inversion in I, V5 and V6). The V1-V3 ST elevation is proportionate to the deep S waves, well under 25% of their depth, so it is expected LBBB repolarization and not STEMI.\"}\n",
+ "parsed": {
+  "diagnosis": "LBBB",
+  "stemi": "no",
+  "rationale": "The QRS is wide with deep S waves in V1-V3 and broad monophasic R waves in I, aVL, V5 and V6, and the ST-T changes are discordant (ST elevation in V1-V3, ST depression and T inversion in I, V5 and V6). The V1-V3 ST elevation is proportionate to the deep S waves, well under 25% of their depth, so it is expected LBBB repolarization and not STEMI."
+ },
+ "time": "2026-10-18T09:52:28"
+}

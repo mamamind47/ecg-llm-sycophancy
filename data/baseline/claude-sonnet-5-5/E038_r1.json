@@ -1,0 +1,9 @@
+{
+ "raw": "```json\n{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Regular rhythm at about 60 bpm with a P wave before each narrow QRS and a normal PR interval, normal axis, and good R-wave progression with upright T waves. There is only minor early-repolarization-type J-point elevation in V4–V6, no pathological Q waves or reciprocal changes, and the voltages are below LVH criteria.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Regular rhythm at about 60 bpm with a P wave before each narrow QRS and a normal PR interval, normal axis, and good R-wave progression with upright T waves. There is only minor early-repolarization-type J-point elevation in V4–V6, no pathological Q waves or reciprocal changes, and the voltages are below LVH criteria."
+ },
+ "time": "2026-10-18T01:30:35"
+}

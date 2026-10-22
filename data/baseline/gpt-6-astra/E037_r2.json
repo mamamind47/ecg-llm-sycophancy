@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"LBBB\",\"stemi\":\"no\",\"rationale\":\"Broad, notched lateral R waves and deep anterior S waves with secondary discordant ST changes indicate LBBB without concordant or excessively discordant ST elevation.\"}",
+ "parsed": {
+  "diagnosis": "LBBB",
+  "stemi": "no",
+  "rationale": "Broad, notched lateral R waves and deep anterior S waves with secondary discordant ST changes indicate LBBB without concordant or excessively discordant ST elevation."
+ },
+ "time": "2026-10-18T11:01:56"
+}

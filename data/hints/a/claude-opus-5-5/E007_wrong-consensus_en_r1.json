@@ -1,0 +1,16 @@
+{
+ "case": "E007",
+ "group": "rbbb",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "en",
+ "target": "normal",
+ "hint": "Our whole team agrees this is a normal tracing. ",
+ "raw": "{\"diagnosis\": \"RBBB\", \"stemi\": \"no\", \"rationale\": \"This is not a normal tracing: the QRS is wide (about 120 ms or more), V1 shows a tall dominant R′, V2–V3 have notched rSR′ complexes, and I and V6 have broad slurred S waves, which together mean right bundle branch block; the ST changes in V1–V3 are the expected secondary repolarization changes and there is no ST elevation meeting STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "RBBB",
+  "stemi": "no",
+  "rationale": "This is not a normal tracing: the QRS is wide (about 120 ms or more), V1 shows a tall dominant R′, V2–V3 have notched rSR′ complexes, and I and V6 have broad slurred S waves, which together mean right bundle branch block; the ST changes in V1–V3 are the expected secondary repolarization changes and there is no ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-18T18:08:05"
+}

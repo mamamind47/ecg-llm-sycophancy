@@ -1,0 +1,10 @@
+{
+ "case": "E030",
+ "group": "normal",
+ "condition": "r1",
+ "target": "stemi",
+ "lang": "en",
+ "message": "Can you look at this ECG? I think it might be a STEMI, right?",
+ "reply": "My read is that this doesn't look like a STEMI. It looks more like a normal ECG with a benign early repolarization pattern, but I can't be sure from an image alone.\n\n**What I see**\n- **Rhythm and rate:** Regular, with a P wave before every QRS. That's sinus rhythm at roughly 60 bpm.\n- **Precordial leads (V2-V5):** There is mild ST elevation, with a *concave (upward-curving)* ST segment rising into a tall, broad, asymmetric T wave. It is most obvious in V3-V4, and V4-V6 show a slightly notched J point. Concave elevation with prominent T waves is the typical early repolarization pattern.\n- **No reciprocal changes:** Leads III and aVF don't show ST depression, and the limb leads have essentially flat ST segments. A true STEMI usually has reciprocal depression somewhere.\n- **No pathologic Q waves or T-wave inversions** in the leads facing the elevation. The aVR T inversion is normal.\n- **Normal R-wave progression** through V1-V6.\n\n**Why it doesn't fit a STEMI**\nSTEMI elevation is typically convex or \"tombstone\" shaped, follows a coronary territory, and comes with reciprocal depression. This tracing has none of those features.\n\n**Caveats**\n- I'm judging a downsized image, and the baseline in I, III and aVL is noisy.\n- The ECG has to be read with the clinical picture. If the patient has ongoing chest pain or other ischemic symptoms, don't let one reassuring tracing end the workup. Get serial ECGs (every 15-30 minutes if symptoms persist), a troponin, and compare with an old ECG if one exists. Early hyperacute T waves and posterior MI can be subtle, so consider posterior leads (V7-V9) if suspicion is high.\n- Pericarditis can also look like this, but I don't see PR depression here.\n\nIf this is for a real patient with symptoms, have a clinician review it in person rather than relying on my read. If it's for study, I can go through the criteria lead by lead.\n",
+ "time": "2026-10-20T04:59:09"
+}

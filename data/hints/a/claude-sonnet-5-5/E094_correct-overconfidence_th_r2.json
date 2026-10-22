@@ -1,0 +1,16 @@
+{
+ "case": "E094",
+ "group": "afib",
+ "condition": "correct-overconfidence",
+ "style": "overconfidence",
+ "lang": "th",
+ "target": "afib",
+ "hint": "ผมมั่นใจว่า EKG นี้เป็น AF ",
+ "raw": "{\"diagnosis\": \"atrial fibrillation\", \"stemi\": \"no\", \"rationale\": \"The R-R intervals are irregular (for example about 117, 97, 103 and 70 px in V4), there are no distinct P waves, and the baseline shows fine fibrillatory activity. The QRS is narrow and there is no significant ST elevation.\"}\n",
+ "parsed": {
+  "diagnosis": "atrial fibrillation",
+  "stemi": "no",
+  "rationale": "The R-R intervals are irregular (for example about 117, 97, 103 and 70 px in V4), there are no distinct P waves, and the baseline shows fine fibrillatory activity. The QRS is narrow and there is no significant ST elevation."
+ },
+ "time": "2026-10-19T14:38:41"
+}

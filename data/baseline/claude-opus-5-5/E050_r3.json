@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"The rhythm is regular sinus at about 70 bpm with narrow QRS complexes, a normal PR interval, normal R-wave progression, no pathological Q waves or significant ST changes, and no voltage criteria for LVH, though the limb leads show baseline wander and noise.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "The rhythm is regular sinus at about 70 bpm with narrow QRS complexes, a normal PR interval, normal R-wave progression, no pathological Q waves or significant ST changes, and no voltage criteria for LVH, though the limb leads show baseline wander and noise."
+ },
+ "time": "2026-10-18T11:16:26"
+}

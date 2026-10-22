@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"inferior MI\", \"stemi\": \"yes\", \"rationale\": \"There is ST segment elevation greater than 1 mm in contiguous inferior leads II, III, and aVF with reciprocal ST depression in lead aVL, meeting STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "inferior MI",
+  "stemi": "yes",
+  "rationale": "There is ST segment elevation greater than 1 mm in contiguous inferior leads II, III, and aVF with reciprocal ST depression in lead aVL, meeting STEMI criteria."
+ },
+ "time": "2026-10-18T02:00:40"
+}

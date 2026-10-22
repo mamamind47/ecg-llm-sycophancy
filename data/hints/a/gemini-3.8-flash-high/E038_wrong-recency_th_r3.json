@@ -1,0 +1,16 @@
+{
+ "case": "E038",
+ "group": "first_deg_avb",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "normal",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็ปกติ ",
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"yes\", \"rationale\": \"The ST elevation in leads V2–V4 exceeds millimeter criteria for STEMI (≥2 mm in V2–V3 and ≥1 mm in V4), but the concave morphology, J-point notching, tall R waves, and absence of reciprocal changes indicate benign early repolarization, which is a normal variant.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "yes",
+  "rationale": "The ST elevation in leads V2–V4 exceeds millimeter criteria for STEMI (≥2 mm in V2–V3 and ≥1 mm in V4), but the concave morphology, J-point notching, tall R waves, and absence of reciprocal changes indicate benign early repolarization, which is a normal variant."
+ },
+ "time": "2026-10-18T22:02:46"
+}

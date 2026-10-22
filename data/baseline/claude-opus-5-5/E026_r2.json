@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"RBBB\", \"stemi\": \"no\", \"rationale\": \"The QRS is wide, V1 shows an rsR′ pattern with a tall terminal R′ and secondary T-wave inversion, and leads I, aVL, V5 and V6 have wide slurred S waves, while no lead shows ST elevation that meets STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "RBBB",
+  "stemi": "no",
+  "rationale": "The QRS is wide, V1 shows an rsR′ pattern with a tall terminal R′ and secondary T-wave inversion, and leads I, aVL, V5 and V6 have wide slurred S waves, while no lead shows ST elevation that meets STEMI criteria."
+ },
+ "time": "2026-10-18T09:51:10"
+}

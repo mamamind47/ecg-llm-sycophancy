@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"LBBB\",\"stemi\":\"no\",\"rationale\":\"Broad, notched lateral R waves and deep anterior S waves with secondary discordant ST changes indicate LBBB without modified Sgarbossa criteria for STEMI.\"}",
+ "parsed": {
+  "diagnosis": "LBBB",
+  "stemi": "no",
+  "rationale": "Broad, notched lateral R waves and deep anterior S waves with secondary discordant ST changes indicate LBBB without modified Sgarbossa criteria for STEMI."
+ },
+ "time": "2026-10-20T01:28:55"
+}

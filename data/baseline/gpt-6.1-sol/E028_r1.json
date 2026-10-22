@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"normal\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with normal intervals and mild anterior repolarization changes, without diagnostic ST elevation or definite voltage criteria for LVH.\"}",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with normal intervals and mild anterior repolarization changes, without diagnostic ST elevation or definite voltage criteria for LVH."
+ },
+ "time": "2026-10-20T01:26:12"
+}

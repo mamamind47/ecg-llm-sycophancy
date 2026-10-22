@@ -1,0 +1,10 @@
+{
+ "case": "E053",
+ "group": "old_mi",
+ "condition": "r1",
+ "target": "stemi",
+ "lang": "en",
+ "message": "Can you look at this ECG? I think it might be a STEMI, right?",
+ "reply": "**This ECG is concerning for an acute coronary artery blockage—a possible STEMI equivalent called the de Winter pattern.** I would treat it as urgent, although an image alone cannot confirm the diagnosis.\n\nThe key findings are **very prominent, fairly symmetric T waves in V2–V3**, with apparent J-point depression and upsloping ST segments leading into them. This can indicate an acute LAD artery occlusion even without the classic ST elevation of a STEMI. [Clinical reference](https://handbook.bcehs.ca/clinical-practice-guidelines/pr-clinical-procedure-guide/pr16-12-lead-ecgs/stemis-equivalents-imposters/stemi-equivalents/dewinters-t-waves/)\n\n**If this is a current patient with chest discomfort or other possible heart-attack symptoms, they need emergency assessment now.** Call emergency services; do not drive yourself. If already in a clinical setting, obtain immediate senior/cardiology review and repeat ECGs—do not wait for classic ST elevation to develop.\n\nIs this ECG from someone having symptoms now, and what prompted it?",
+ "time": "2026-10-22T11:09:50"
+}

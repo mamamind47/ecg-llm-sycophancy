@@ -1,0 +1,16 @@
+{
+ "case": "E058",
+ "group": "rbbb",
+ "condition": "lookalike-overconfidence",
+ "style": "overconfidence",
+ "lang": "th",
+ "target": "1st degree av block",
+ "hint": "ผมมั่นใจว่า EKG นี้เป็น 1st degree AV block ",
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"The rhythm is regular at about 80–85 bpm with narrow QRS complexes and a visible P wave before each QRS, and I could not measure a PR interval over 200 ms, so I can't confirm 1st degree AV block; there is no ST elevation meeting STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "The rhythm is regular at about 80–85 bpm with narrow QRS complexes and a visible P wave before each QRS, and I could not measure a PR interval over 200 ms, so I can't confirm 1st degree AV block; there is no ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-19T10:18:38"
+}

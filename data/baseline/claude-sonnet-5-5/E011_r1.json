@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Regular narrow-complex rhythm at about 100 bpm with upright T waves, normal QRS width and axis, and no bundle branch block pattern; the voltage criteria for LVH are not met (SV2 + RV5 is about 30 mm), and the mild concave ST elevation in V2–V3 looks like benign early repolarization, which does not meet STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Regular narrow-complex rhythm at about 100 bpm with upright T waves, normal QRS width and axis, and no bundle branch block pattern; the voltage criteria for LVH are not met (SV2 + RV5 is about 30 mm), and the mild concave ST elevation in V2–V3 looks like benign early repolarization, which does not meet STEMI criteria."
+ },
+ "time": "2026-10-18T01:25:19"
+}

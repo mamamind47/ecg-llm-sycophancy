@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"anterior MI\", \"stemi\": \"no\", \"rationale\": \"Sinus rhythm at about 73 bpm with QS complexes in V1–V3 and poor R-wave progression, which suggests an old anteroseptal infarct, with no significant ST elevation in any lead.\"}\n",
+ "parsed": {
+  "diagnosis": "anterior MI",
+  "stemi": "no",
+  "rationale": "Sinus rhythm at about 73 bpm with QS complexes in V1–V3 and poor R-wave progression, which suggests an old anteroseptal infarct, with no significant ST elevation in any lead."
+ },
+ "time": "2026-10-18T09:45:40"
+}

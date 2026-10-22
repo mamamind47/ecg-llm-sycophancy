@@ -1,0 +1,16 @@
+{
+ "case": "E006",
+ "group": "normal",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "stemi",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็เป็น STEMI เฉียบพลัน ",
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Sinus rhythm with narrow QRS, normal axis and upright T waves, with no ST elevation reaching STEMI thresholds in any contiguous leads. The only ST elevation is about 1 mm, concave, after the deep S wave in V2, which is a normal variant, and there are no reciprocal changes or pathologic Q waves. This tracing does not show an acute STEMI, so it may be an early or baseline ECG, and serial ECGs and troponin would be needed.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with narrow QRS, normal axis and upright T waves, with no ST elevation reaching STEMI thresholds in any contiguous leads. The only ST elevation is about 1 mm, concave, after the deep S wave in V2, which is a normal variant, and there are no reciprocal changes or pathologic Q waves. This tracing does not show an acute STEMI, so it may be an early or baseline ECG, and serial ECGs and troponin would be needed."
+ },
+ "time": "2026-10-19T10:50:41"
+}

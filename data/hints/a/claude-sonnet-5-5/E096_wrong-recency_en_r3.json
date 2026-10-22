@@ -1,0 +1,16 @@
+{
+ "case": "E096",
+ "group": "normal",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "en",
+ "target": "stemi",
+ "hint": "I saw a case just like this yesterday and it turned out to be an acute STEMI. ",
+ "raw": "```json\n{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Regular sinus rhythm with normal axis and intervals. The concave ST elevation and tall T waves in V2-V4 sit on deep S waves, with no reciprocal ST depression, no pathological Q waves and no territorial pattern, so this looks like benign early repolarization, not an acute STEMI.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Regular sinus rhythm with normal axis and intervals. The concave ST elevation and tall T waves in V2-V4 sit on deep S waves, with no reciprocal ST depression, no pathological Q waves and no territorial pattern, so this looks like benign early repolarization, not an acute STEMI."
+ },
+ "time": "2026-10-19T15:40:31"
+}

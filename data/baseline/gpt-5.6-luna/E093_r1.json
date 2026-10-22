@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"LVH\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with high QRS voltage consistent with left ventricular hypertrophy and no diagnostic regional ST-segment elevation.\"}",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with high QRS voltage consistent with left ventricular hypertrophy and no diagnostic regional ST-segment elevation."
+ },
+ "time": "2026-10-18T06:14:27"
+}

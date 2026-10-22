@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"WPW\",\"stemi\":\"no\",\"rationale\":\"Short PR intervals with slurred delta-wave onset and widened QRS complexes, including a dominant initial R wave in V1, indicate ventricular pre-excitation.\"}",
+ "parsed": {
+  "diagnosis": "WPW",
+  "stemi": "no",
+  "rationale": "Short PR intervals with slurred delta-wave onset and widened QRS complexes, including a dominant initial R wave in V1, indicate ventricular pre-excitation."
+ },
+ "time": "2026-10-18T06:03:46"
+}

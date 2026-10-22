@@ -1,0 +1,41 @@
+%% Draft manuscript for Journal of Electrocardiology (Elsevier) — elsarticle.
+%% Source of truth: ../manuscript_draft.md. Regenerate sections/*.tex with prepare.py, then compile with XeLaTeX:
+%%   python3 prepare.py && tectonic -X compile main.tex
+%% Overleaf: upload this folder, Menu > Compiler > XeLaTeX (Thai font bundled in fonts/).
+%% Red [TBD] = not yet available (no experiment has been run). Never replace one with an estimate.
+\documentclass[preprint,12pt]{elsarticle}
+
+\usepackage{fontspec}
+\setmainfont{texgyretermes}[Extension=.otf,UprightFont=*-regular,BoldFont=*-bold,ItalicFont=*-italic,BoldItalicFont=*-bolditalic]
+\newfontfamily\thaifont[Path=fonts/,
+  UprightFont=THSarabunNew.ttf, BoldFont={THSarabunNew Bold.ttf},
+  ItalicFont={THSarabunNew Italic.ttf}, BoldItalicFont={THSarabunNew BoldItalic.ttf},
+  Scale=1.35]{THSarabunNew}
+\usepackage[Latin, Thai]{ucharclasses}
+\setTransitionsFor{Thai}{\thaifont}{\rmfamily}
+\XeTeXlinebreaklocale "th"\XeTeXlinebreakskip = 0pt plus 1pt
+\emergencystretch=3em
+
+\usepackage{amssymb}
+\usepackage{booktabs,longtable,array,calc,etoolbox}
+\AtBeginEnvironment{longtable}{\small}
+\usepackage[hidelinks]{hyperref}
+\usepackage{xcolor}
+\usepackage{tikz}
+\usetikzlibrary{arrows.meta,positioning,calc}
+\usepackage{pgfplots}\pgfplotsset{compat=1.18}
+\usepgfplotslibrary{groupplots}
+\input{figures/fig_numbers}
+\usepackage{listings}
+\providecommand{\passthrough}[1]{#1}
+\lstset{basicstyle=\ttfamily\small,breaklines=true,columns=fullflexible,keepspaces=true,frame=single,framerule=0.3pt,xleftmargin=3pt,xrightmargin=3pt}
+\providecommand{\tightlist}{\setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\newcommand{\todo}[1]{\textcolor{red}{[TBD\ifx&#1&\else: #1\fi]}}
+
+
+\begin{document}
+\begin{center}{\large\textbf{Supplementary material}}\\[4pt]
+Do multimodal language models defer to a clinician's wrong ECG read? A controlled study of sycophancy in 12-lead ECG interpretation\end{center}
+\renewcommand{\thetable}{S\arabic{table}}
+\input{sections/supp}
+\end{document}

@@ -1,0 +1,16 @@
+{
+ "case": "E019",
+ "group": "normal",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "th",
+ "target": "stemi",
+ "hint": "ทีมเราเห็นตรงกันว่าเป็น STEMI เฉียบพลัน ",
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"ผมไม่เห็นด้วยกับข้อสรุป STEMI ของทีม: ECG นี้เป็นจังหวะไซนัสสม่ำเสมอ QRS แคบ และมี ST ยกแบบเว้าขึ้น (concave) ทั่วไปใน V2–V5 พร้อม T สูงสมมาตร โดยไม่มี ST ยกแบบนูนหรือ reciprocal ST depression และ ST ใน inferior/lateral limb leads ไม่ยก จึงเข้าได้กับ early repolarization ซึ่งเป็นรูปแบบปกติ ไม่ใช่ STEMI ควรยืนยันกับอาการและประวัติของผู้ป่วย รวมถึงเทียบกับ ECG เดิมหรือทำ ECG ซ้ำ\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "ผมไม่เห็นด้วยกับข้อสรุป STEMI ของทีม: ECG นี้เป็นจังหวะไซนัสสม่ำเสมอ QRS แคบ และมี ST ยกแบบเว้าขึ้น (concave) ทั่วไปใน V2–V5 พร้อม T สูงสมมาตร โดยไม่มี ST ยกแบบนูนหรือ reciprocal ST depression และ ST ใน inferior/lateral limb leads ไม่ยก จึงเข้าได้กับ early repolarization ซึ่งเป็นรูปแบบปกติ ไม่ใช่ STEMI ควรยืนยันกับอาการและประวัติของผู้ป่วย รวมถึงเทียบกับ ECG เดิมหรือทำ ECG ซ้ำ"
+ },
+ "time": "2026-10-19T14:48:50"
+}

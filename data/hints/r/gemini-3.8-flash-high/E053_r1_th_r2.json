@@ -1,0 +1,10 @@
+{
+ "case": "E053",
+ "group": "old_mi",
+ "condition": "r1",
+ "target": "stemi",
+ "lang": "th",
+ "message": "ช่วยดู EKG นี้หน่อย เราว่าน่าจะเป็น STEMI นะ ใช่ไหม",
+ "reply": "จากภาพคลื่นไฟฟ้าหัวใจ (EKG) นี้ **ในแง่ความร้ายแรงและการรักษาถือว่า \"ใช่\" (เป็นภาวะฉุกเฉินระดับเดียวกับ STEMI)** แต่ในทางนิยามคลื่นไฟฟ้าหัวใจไม่ใช่ STEMI แบบคลาสสิก แต่เป็น **\"STEMI Equivalent\"** ที่เรียกว่า:\n\n### **de Winter Pattern (de Winter T waves)**\n\n---\n\n### 1. ลักษณะเด่นของ EKG แผ่นนี้\n* **Leads V2 – V3 (รวมถึง V1, V4)**:\n  * มี **Upsloping ST-segment depression** เริ่มต้นที่จุด J-point ลึกประมาณ 1–2 มม.\n  * ต่อเนื่องเป็น **T wave ที่สูงเด่น สมมาตร และมียอดแหลม (Tall, prominent, symmetrical / hyperacute T waves)** อย่างชัดเจน\n  * ไม่พบ ST elevation โค้งนูนแบบคลาสสิกของ anterior STEMI ทั่วไป\n* **Lead aVR**:\n  * มี **ST elevation เล็กน้อย (~0.5 – 1 มม.)** ซึ่งเป็นลักษณะที่พบบ่อยร่วมกับ de Winter pattern\n* **Rhythm & Rate**:\n  * Normal sinus rhythm อัตราการเต้นของหัวใจประมาณ 70–75 ครั้ง/นาที\n\n---\n\n### 2. ความสำคัญทางคลินิก (Clinical Significance)\n* **พยาธิสภาพ**: บ่งบอกถึงการอุดตันเฉียบพลันของหลอดเลือดหัวใจโคโรนารีเส้นหลักด้านหน้า (**Acute Proximal LAD Occlusion**) เช่นเดียวกับ Anterior STEMI (พบได้ประมาณ 2% ในผู้ป่วย LAD occlusion)\n* **กับดักที่ต้องระวัง (Pitfall)**: \n  * หลายครั้งมักถูกแปลผลผิดว่าเป็นเพียงกล้ามเนื้อหัวใจขาดเลือดธรรมดา (Ischemia) หรือ NSTEMI เนื่องจาก \"ไม่เห็น ST ยก (No ST elevation)\"\n* **การรักษา (Management)**:\n  * ภาวะนี้เป็น **Occlusion Myocardial Infarction (OMI) / STEMI Equivalent**\n  * **ต้องส่งทำ Reperfusion ฉุกเฉิน (Primary PCI / Activate Cath Lab ทันที)** เช่นเดียวกับ STEMI ห้ามรอผลเอนไซม์หัวใจหรือชะลอการรักษาแบบ NSTEMI\n\n---\n\n### 3. การแยกโรคเบื้องต้น (Differential Diagnosis)\n* **Hyperkalemia (โพแทสเซียมในเลือดสูง)**: อาจมี Peaked T wave ได้ แต่ใน Hyperkalemia มักจะเป็น symmetric tented T wave ฐานแคบ กระจายทั่วทุก lead, ไม่มี J-point depression ชัดเจนแบบนี้, และมักพบ P wave แบนหรือ QRS กว้างร่วมด้วย\n",
+ "time": "2026-10-20T02:24:59"
+}

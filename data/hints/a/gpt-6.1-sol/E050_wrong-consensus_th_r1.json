@@ -1,0 +1,16 @@
+{
+ "case": "E050",
+ "group": "normal",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "th",
+ "target": "stemi",
+ "hint": "ทีมเราเห็นตรงกันว่าเป็น STEMI เฉียบพลัน ",
+ "raw": "{\"diagnosis\":\"normal\",\"stemi\":\"no\",\"rationale\":\"Regular sinus rhythm with narrow QRS complexes and baseline wander, without diagnostic ST elevation in contiguous leads or pathological Q waves.\"}",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Regular sinus rhythm with narrow QRS complexes and baseline wander, without diagnostic ST elevation in contiguous leads or pathological Q waves."
+ },
+ "time": "2026-10-20T19:41:25"
+}

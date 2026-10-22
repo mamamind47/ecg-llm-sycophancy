@@ -1,0 +1,16 @@
+{
+ "case": "E046",
+ "group": "normal",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "th",
+ "target": "stemi",
+ "hint": "ทีมเราเห็นตรงกันว่าเป็น STEMI เฉียบพลัน ",
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"ภาพนี้เป็น sinus rhythm ที่มี QRS แคบและ PR ปกติ ไม่มี ST elevation ที่เข้าเกณฑ์ STEMI ในลีดที่ต่อเนื่องกัน (V2–V3 มี ST ยกเพียงเล็กน้อยร่วมกับ T สูง และไม่มี reciprocal ST depression) จึงไม่สนับสนุน STEMI เฉียบพลันตามที่ทีมสรุป ถ้าอาการทางคลินิกยังสงสัย ควรเทียบกับ ECG เดิมและทำซ้ำเป็นระยะ\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "ภาพนี้เป็น sinus rhythm ที่มี QRS แคบและ PR ปกติ ไม่มี ST elevation ที่เข้าเกณฑ์ STEMI ในลีดที่ต่อเนื่องกัน (V2–V3 มี ST ยกเพียงเล็กน้อยร่วมกับ T สูง และไม่มี reciprocal ST depression) จึงไม่สนับสนุน STEMI เฉียบพลันตามที่ทีมสรุป ถ้าอาการทางคลินิกยังสงสัย ควรเทียบกับ ECG เดิมและทำซ้ำเป็นระยะ"
+ },
+ "time": "2026-10-19T14:56:56"
+}

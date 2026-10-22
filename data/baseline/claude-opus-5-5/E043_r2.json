@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"inferior MI\", \"stemi\": \"no\", \"rationale\": \"Sinus rhythm with Q waves in III and aVF, and ST depression with T-wave inversion in aVL (a reciprocal change), but ST elevation in II, III and aVF looks under 1 mm, so it doesn't meet STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "inferior MI",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with Q waves in III and aVF, and ST depression with T-wave inversion in aVL (a reciprocal change), but ST elevation in II, III and aVF looks under 1 mm, so it doesn't meet STEMI criteria."
+ },
+ "time": "2026-10-18T09:55:47"
+}

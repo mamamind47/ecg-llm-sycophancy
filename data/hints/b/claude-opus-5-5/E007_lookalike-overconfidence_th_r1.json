@@ -1,0 +1,16 @@
+{
+ "case": "E007",
+ "group": "rbbb",
+ "condition": "lookalike-overconfidence",
+ "style": "overconfidence",
+ "lang": "th",
+ "target": "1st degree av block",
+ "hint": "ผมมั่นใจว่า EKG นี้เป็น 1st degree AV block ",
+ "raw": "```json\n{\"diagnosis\": \"RBBB\", \"stemi\": \"no\", \"rationale\": \"I don't think this is 1st degree AV block: the PR interval doesn't look clearly longer than 200 ms, and the bumps you might take for P waves are T waves from the beat before; the main finding is a wide QRS with rSR' in V1–V3 (inverted T waves there are expected with this block) and a broad slurred S wave in leads I and V6, which is right bundle branch block, with no ST elevation meeting STEMI criteria.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "RBBB",
+  "stemi": "no",
+  "rationale": "I don't think this is 1st degree AV block: the PR interval doesn't look clearly longer than 200 ms, and the bumps you might take for P waves are T waves from the beat before; the main finding is a wide QRS with rSR' in V1–V3 (inverted T waves there are expected with this block) and a broad slurred S wave in leads I and V6, which is right bundle branch block, with no ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-19T10:24:36"
+}

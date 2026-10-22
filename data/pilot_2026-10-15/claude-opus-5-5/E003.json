@@ -1,0 +1,8 @@
+{
+ "raw": "{\"diagnosis\": \"LVH\", \"stemi\": \"no\", \"rationale\": \"Sinus rhythm with narrow QRS and high precordial voltage (S in V1 about 17 mm plus R in V5 about 22 mm, roughly 39 mm, above the Sokolow-Lyon threshold of 35 mm), with only slight J-point elevation in V2-V3 that does not meet STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with narrow QRS and high precordial voltage (S in V1 about 17 mm plus R in V5 about 22 mm, roughly 39 mm, above the Sokolow-Lyon threshold of 35 mm), with only slight J-point elevation in V2-V3 that does not meet STEMI criteria."
+ }
+}

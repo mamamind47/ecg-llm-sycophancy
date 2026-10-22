@@ -1,0 +1,9 @@
+{
+ "raw": "```json\n{\"diagnosis\": \"anterior MI\", \"stemi\": \"no\", \"rationale\": \"V1–V3 show deep QS/rS complexes with poor R-wave progression, which suggests an anterior infarct pattern. The ST segments there are only minimally elevated (about 1 mm or less), so STEMI criteria are not clearly met. The tracing is noisy, and the left-axis QRS may indicate an associated left anterior fascicular block.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "anterior MI",
+  "stemi": "no",
+  "rationale": "V1–V3 show deep QS/rS complexes with poor R-wave progression, which suggests an anterior infarct pattern. The ST segments there are only minimally elevated (about 1 mm or less), so STEMI criteria are not clearly met. The tracing is noisy, and the left-axis QRS may indicate an associated left anterior fascicular block."
+ },
+ "time": "2026-10-18T09:46:29"
+}

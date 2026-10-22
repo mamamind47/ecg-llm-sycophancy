@@ -1,0 +1,16 @@
+{
+ "case": "E061",
+ "group": "acute_mi",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "en",
+ "target": "normal",
+ "hint": "I saw a case just like this yesterday and it turned out to be a normal tracing. ",
+ "raw": "{\"diagnosis\": \"anterior MI\", \"stemi\": \"yes\", \"rationale\": \"Leads V1-V4 show deep QS/rS complexes with poor R-wave progression and about 2-3 mm of convex ST elevation followed by T-wave inversion, which is an anterior infarct pattern and not a normal tracing, and the ST elevation in V2-V3 meets the ≥2 mm criterion.\"}\n",
+ "parsed": {
+  "diagnosis": "anterior MI",
+  "stemi": "yes",
+  "rationale": "Leads V1-V4 show deep QS/rS complexes with poor R-wave progression and about 2-3 mm of convex ST elevation followed by T-wave inversion, which is an anterior infarct pattern and not a normal tracing, and the ST elevation in V2-V3 meets the ≥2 mm criterion."
+ },
+ "time": "2026-10-19T15:08:07"
+}

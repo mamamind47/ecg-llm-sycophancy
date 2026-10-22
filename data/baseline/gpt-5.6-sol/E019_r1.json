@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"WPW\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm shows a short PR interval with delta waves and widened QRS complexes causing secondary discordant ST-T changes without diagnostic STEMI elevation.\"}",
+ "parsed": {
+  "diagnosis": "WPW",
+  "stemi": "no",
+  "rationale": "Sinus rhythm shows a short PR interval with delta waves and widened QRS complexes causing secondary discordant ST-T changes without diagnostic STEMI elevation."
+ },
+ "time": "2026-10-18T05:53:07"
+}

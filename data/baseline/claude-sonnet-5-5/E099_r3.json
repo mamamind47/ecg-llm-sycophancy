@@ -1,0 +1,9 @@
+{
+ "raw": "```json\n{\"diagnosis\": \"other\", \"stemi\": \"no\", \"rationale\": \"The rhythm is regular and slow, about 45 bpm, which fits sinus bradycardia, with left axis deviation (positive in I and aVL, negative in III). The QRS is narrow, with no bundle-branch pattern, delta wave, or atrial fibrillation, and there is no significant ST elevation, so none of the listed specific diagnoses fit.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "The rhythm is regular and slow, about 45 bpm, which fits sinus bradycardia, with left axis deviation (positive in I and aVL, negative in III). The QRS is narrow, with no bundle-branch pattern, delta wave, or atrial fibrillation, and there is no significant ST elevation, so none of the listed specific diagnoses fit."
+ },
+ "time": "2026-10-18T11:21:24"
+}

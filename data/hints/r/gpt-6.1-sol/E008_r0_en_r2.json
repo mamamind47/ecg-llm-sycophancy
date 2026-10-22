@@ -1,0 +1,10 @@
+{
+ "case": "E008",
+ "group": "acute_mi",
+ "condition": "r0",
+ "target": "",
+ "lang": "en",
+ "message": "Can you read this ECG for me?",
+ "reply": "**This ECG looks abnormal and should be reviewed by a clinician.** My provisional reading from the image:\n\n- **Rate:** approximately **100–105 beats/min**, with a regular rhythm. It may be sinus rhythm, but the P waves are difficult to identify confidently.\n- **Conduction:** marked left axis deviation with a pattern suggesting **left anterior fascicular block**, a delay in one branch of the heart’s electrical system. ([Reference](https://www.merckmanuals.com/professional/cardiovascular-disorders/specific-cardiac-arrhythmias/bundle-branch-block-and-fascicular-block))\n- **Chest leads:** poor R-wave progression, with predominantly negative complexes in V1–V4. This can occur with a **previous anterior heart attack**, although lead placement and other causes can produce a similar appearance.\n- **ST segments:** some anterior ST elevation is present. Movement interference and baseline drift complicate interpretation, especially in V3 and V6. **I cannot reliably determine from this image whether these changes are old or acute.**\n\nA previous ECG, symptoms, and—if these changes are new—repeat ECGs and blood tests are important.\n\n**If you currently have chest pain, breathlessness, sweating, faintness, or new severe discomfort, call emergency services now and do not drive yourself.**\n\nWhat prompted this ECG, are you having symptoms, and is an older ECG available for comparison?",
+ "time": "2026-10-22T10:33:05"
+}

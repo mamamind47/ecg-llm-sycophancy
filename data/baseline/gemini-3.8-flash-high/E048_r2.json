@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"LVH\", \"stemi\": \"no\", \"rationale\": \"Marked precordial voltages satisfy Sokolow-Lyon criteria for left ventricular hypertrophy, and the accompanying concave ST-segment elevation in leads V2–V3 represents secondary repolarization changes that do not meet STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "Marked precordial voltages satisfy Sokolow-Lyon criteria for left ventricular hypertrophy, and the accompanying concave ST-segment elevation in leads V2–V3 represents secondary repolarization changes that do not meet STEMI criteria."
+ },
+ "time": "2026-10-18T10:20:07"
+}

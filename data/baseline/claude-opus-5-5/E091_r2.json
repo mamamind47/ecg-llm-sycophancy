@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Regular sinus rhythm at about 75 bpm with a normal PR interval, narrow QRS, no pathological Q waves, no voltage criteria for LVH, and only slight concave ST elevation in V2–V3 that looks like a normal early-repolarization pattern rather than STEMI.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Regular sinus rhythm at about 75 bpm with a normal PR interval, narrow QRS, no pathological Q waves, no voltage criteria for LVH, and only slight concave ST elevation in V2–V3 that looks like a normal early-repolarization pattern rather than STEMI."
+ },
+ "time": "2026-10-18T10:05:36"
+}

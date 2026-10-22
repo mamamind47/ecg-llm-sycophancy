@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"anterior MI\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with extensive pathological QS complexes and poor R-wave progression across V1–V5 indicates anterior myocardial infarction, without diagnostic ST elevation in contiguous leads.\"}",
+ "parsed": {
+  "diagnosis": "anterior MI",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with extensive pathological QS complexes and poor R-wave progression across V1–V5 indicates anterior myocardial infarction, without diagnostic ST elevation in contiguous leads."
+ },
+ "time": "2026-10-18T10:00:21"
+}

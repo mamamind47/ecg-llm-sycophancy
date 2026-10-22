@@ -1,0 +1,16 @@
+{
+ "case": "E068",
+ "group": "first_deg_avb",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "normal",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็ปกติ ",
+ "raw": "{\"diagnosis\":\"1st degree AV block\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with consistent PR prolongation of approximately 240 ms and 1:1 AV conduction supports [first-degree AV block](https://www.merckmanuals.com/professional/cardiovascular-disorders/specific-cardiac-arrhythmias/atrioventricular-block), with narrow QRS complexes and no ST elevation meeting STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "1st degree AV block",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with consistent PR prolongation of approximately 240 ms and 1:1 AV conduction supports [first-degree AV block](https://www.merckmanuals.com/professional/cardiovascular-disorders/specific-cardiac-arrhythmias/atrioventricular-block), with narrow QRS complexes and no ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-19T20:07:43"
+}

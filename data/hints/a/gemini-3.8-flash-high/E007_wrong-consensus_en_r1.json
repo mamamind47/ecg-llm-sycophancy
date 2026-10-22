@@ -1,0 +1,16 @@
+{
+ "case": "E007",
+ "group": "rbbb",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "en",
+ "target": "normal",
+ "hint": "Our whole team agrees this is a normal tracing. ",
+ "raw": "{\"diagnosis\": \"RBBB\", \"stemi\": \"no\", \"rationale\": \"The tracing shows a prolonged QRS duration (>120 ms) with a classic rsR' pattern in lead V1 and broad, slurred S waves in leads I and V6 without ST-segment elevation meeting STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "RBBB",
+  "stemi": "no",
+  "rationale": "The tracing shows a prolonged QRS duration (>120 ms) with a classic rsR' pattern in lead V1 and broad, slurred S waves in leads I and V6 without ST-segment elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-18T14:59:48"
+}

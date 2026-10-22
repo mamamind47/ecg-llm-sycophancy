@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Sinus rhythm at about 60–65 bpm with a normal PR interval (about 0.18 s), narrow QRS complexes, normal R-wave progression, no pathological Q waves, no delta waves and no significant ST elevation or depression in any lead (limb-lead voltages are low and the baseline is noisy).\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Sinus rhythm at about 60–65 bpm with a normal PR interval (about 0.18 s), narrow QRS complexes, normal R-wave progression, no pathological Q waves, no delta waves and no significant ST elevation or depression in any lead (limb-lead voltages are low and the baseline is noisy)."
+ },
+ "time": "2026-10-18T00:53:47"
+}

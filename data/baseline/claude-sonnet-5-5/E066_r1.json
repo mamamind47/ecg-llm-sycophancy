@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"LVH\", \"stemi\": \"no\", \"rationale\": \"The rhythm is regular with a narrow QRS, a very tall R wave in aVL and I, deep S waves in V1-V3, and ST depression with T inversion in I, aVL and V5-V6 (strain pattern). The ST elevation in V1-V3 is discordant to the deep S waves, so it fits LVH and not STEMI.\"}\n",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "The rhythm is regular with a narrow QRS, a very tall R wave in aVL and I, deep S waves in V1-V3, and ST depression with T inversion in I, aVL and V5-V6 (strain pattern). The ST elevation in V1-V3 is discordant to the deep S waves, so it fits LVH and not STEMI."
+ },
+ "time": "2026-10-18T01:36:02"
+}

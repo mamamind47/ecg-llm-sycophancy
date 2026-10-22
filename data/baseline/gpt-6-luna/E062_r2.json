@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"other\",\"stemi\":\"no\",\"rationale\":\"Regular sinus rhythm with intermittent runs of very wide, bizarre QRS complexes and discordant ST-T changes, consistent with ventricular ectopy rather than diagnostic ST elevation.\"}",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "Regular sinus rhythm with intermittent runs of very wide, bizarre QRS complexes and discordant ST-T changes, consistent with ventricular ectopy rather than diagnostic ST elevation."
+ },
+ "time": "2026-10-19T23:11:01"
+}

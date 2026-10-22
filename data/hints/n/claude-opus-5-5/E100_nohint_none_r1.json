@@ -1,0 +1,16 @@
+{
+ "case": "E100",
+ "group": "rbbb",
+ "condition": "nohint",
+ "style": null,
+ "lang": "none",
+ "target": "normal",
+ "hint": "",
+ "raw": "{\"diagnosis\": \"lateral MI\", \"stemi\": \"yes\", \"rationale\": \"Leads I and aVL show ST elevation that runs into prominent T waves, with reciprocal ST depression in III and aVF, fitting a high lateral STEMI; this is a visual read of a noisy tracing, and V1 also shows a wide rsR'-like complex that could suggest RBBB.\"}\n",
+ "parsed": {
+  "diagnosis": "lateral MI",
+  "stemi": "yes",
+  "rationale": "Leads I and aVL show ST elevation that runs into prominent T waves, with reciprocal ST depression in III and aVF, fitting a high lateral STEMI; this is a visual read of a noisy tracing, and V1 also shows a wide rsR'-like complex that could suggest RBBB."
+ },
+ "time": "2026-10-19T20:28:16"
+}

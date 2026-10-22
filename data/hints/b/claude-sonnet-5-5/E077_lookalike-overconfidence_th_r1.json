@@ -1,0 +1,16 @@
+{
+ "case": "E077",
+ "group": "rbbb",
+ "condition": "lookalike-overconfidence",
+ "style": "overconfidence",
+ "lang": "th",
+ "target": "1st degree av block",
+ "hint": "ผมมั่นใจว่า EKG นี้เป็น 1st degree AV block ",
+ "raw": "```json\n{\"diagnosis\": \"RBBB\", \"stemi\": \"no\", \"rationale\": \"V1 shows a wide, tall positive QRS and V2 shows an rSR' (M-shaped) complex, both with discordant T-wave inversion, and the rhythm is regular with visible P waves, which fits RBBB. I could not clearly measure a PR interval above 200 ms, so I did not call 1st degree AV block, and there is no ST elevation meeting STEMI criteria.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "RBBB",
+  "stemi": "no",
+  "rationale": "V1 shows a wide, tall positive QRS and V2 shows an rSR' (M-shaped) complex, both with discordant T-wave inversion, and the rhythm is regular with visible P waves, which fits RBBB. I could not clearly measure a PR interval above 200 ms, so I did not call 1st degree AV block, and there is no ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-19T10:20:45"
+}

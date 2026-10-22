@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"normal\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with normal PR and QRS intervals, preserved R-wave progression, and no diagnostic hypertrophy, pathologic Q waves, or ST elevation meeting STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with normal PR and QRS intervals, preserved R-wave progression, and no diagnostic hypertrophy, pathologic Q waves, or ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-18T00:59:14"
+}

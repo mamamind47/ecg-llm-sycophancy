@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"anterior MI\", \"stemi\": \"yes\", \"rationale\": \"There is convex ST elevation in V1–V4, well above 2 mm, with QS complexes across the anterior leads, and T waves are inverted in I and aVL, which fits an acute anterior (LAD territory) STEMI.\"}\n",
+ "parsed": {
+  "diagnosis": "anterior MI",
+  "stemi": "yes",
+  "rationale": "There is convex ST elevation in V1–V4, well above 2 mm, with QS complexes across the anterior leads, and T waves are inverted in I and aVL, which fits an acute anterior (LAD territory) STEMI."
+ },
+ "time": "2026-10-18T01:02:09"
+}

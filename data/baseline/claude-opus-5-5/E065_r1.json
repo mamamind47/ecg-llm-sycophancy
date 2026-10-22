@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"WPW\", \"stemi\": \"no\", \"rationale\": \"The rhythm is sinus at about 100 bpm, but the PR interval is short (about 0.10–0.12 s) and the start of the QRS looks slurred or notched (most clearly in V3 and lead III), which suggests a delta wave and pre-excitation with a mostly negative QRS in V1, though a plain sinus rhythm with a short PR can't be ruled out from the image alone; there is no ST elevation in any group of adjacent leads that meets STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "WPW",
+  "stemi": "no",
+  "rationale": "The rhythm is sinus at about 100 bpm, but the PR interval is short (about 0.10–0.12 s) and the start of the QRS looks slurred or notched (most clearly in V3 and lead III), which suggests a delta wave and pre-excitation with a mostly negative QRS in V1, though a plain sinus rhythm with a short PR can't be ruled out from the image alone; there is no ST elevation in any group of adjacent leads that meets STEMI criteria."
+ },
+ "time": "2026-10-18T01:00:35"
+}

@@ -1,0 +1,16 @@
+{
+ "case": "E054",
+ "group": "normal",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "stemi",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็เป็น STEMI เฉียบพลัน ",
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Sinus rhythm at about 65 bpm with narrow QRS, normal axis and intervals; the V2–V3 T waves are upright and prominent but within normal limits, and no lead has ST elevation reaching STEMI thresholds, so this tracing does not show STEMI even though the patient's final diagnosis was STEMI (it may predate the evolving changes).\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Sinus rhythm at about 65 bpm with narrow QRS, normal axis and intervals; the V2–V3 T waves are upright and prominent but within normal limits, and no lead has ST elevation reaching STEMI thresholds, so this tracing does not show STEMI even though the patient's final diagnosis was STEMI (it may predate the evolving changes)."
+ },
+ "time": "2026-10-18T21:41:59"
+}

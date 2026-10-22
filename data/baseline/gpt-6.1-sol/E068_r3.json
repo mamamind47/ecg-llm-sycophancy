@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"1st degree AV block\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with a prolonged PR interval greater than 200 ms, narrow QRS complexes, and no ST elevation meeting STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "1st degree AV block",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with a prolonged PR interval greater than 200 ms, narrow QRS complexes, and no ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-20T11:32:51"
+}

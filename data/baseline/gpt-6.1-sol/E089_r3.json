@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"other\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with left axis deviation, qR in aVL and rS complexes inferiorly supports [left anterior fascicular block](https://www.jacc.org/doi/10.1016/j.jacc.2008.12.013), with no ST elevation meeting STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with left axis deviation, qR in aVL and rS complexes inferiorly supports [left anterior fascicular block](https://www.jacc.org/doi/10.1016/j.jacc.2008.12.013), with no ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-20T11:38:54"
+}

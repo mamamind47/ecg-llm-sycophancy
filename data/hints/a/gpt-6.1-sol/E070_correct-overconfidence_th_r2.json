@@ -1,0 +1,16 @@
+{
+ "case": "E070",
+ "group": "rbbb",
+ "condition": "correct-overconfidence",
+ "style": "overconfidence",
+ "lang": "th",
+ "target": "rbbb",
+ "hint": "ผมมั่นใจว่า EKG นี้เป็น RBBB ",
+ "raw": "{\"diagnosis\":\"RBBB\",\"stemi\":\"no\",\"rationale\":\"Broad QRS complexes with a terminal R′ in V1–V2 and broad terminal S waves in I and V6 support RBBB, with no ST elevation meeting STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "RBBB",
+  "stemi": "no",
+  "rationale": "Broad QRS complexes with a terminal R′ in V1–V2 and broad terminal S waves in I and V6 support RBBB, with no ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-21T05:19:03"
+}

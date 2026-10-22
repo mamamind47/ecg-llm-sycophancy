@@ -1,0 +1,10 @@
+{
+ "case": "E074",
+ "group": "acute_mi",
+ "condition": "r0",
+ "target": "",
+ "lang": "en",
+ "message": "Can you read this ECG for me?",
+ "reply": "**This ECG is abnormal. My provisional reading is sinus rhythm at about 60 beats/minute, with voltage and ST–T changes suggesting left ventricular hypertrophy (thickening of the heart’s main pumping chamber).**\n\nFrom the image:\n\n- **Rhythm:** Regular, with a P wave before each beat.\n- **Intervals:** PR and QRS duration appear within normal limits.\n- **Axis:** Slightly leftward.\n- **Main abnormalities:** Very deep negative complexes and poor R-wave progression in V1–V4, with ST elevation in those leads; ST depression and inverted T waves in I and aVL.\n\nThe overall pattern could represent **left ventricular hypertrophy with “strain” changes**. However, the anterior complexes also raise the possibility of a previous anterior heart attack. **An acute heart attack cannot be excluded from this image alone**, especially without symptoms or an earlier ECG for comparison. LVH can itself cause ST elevation that resembles a heart attack. [Supporting study](https://pubmed.ncbi.nlm.nih.gov/22738872/)\n\n**If you currently have chest pain, breathlessness, sweating, faintness, or new upper-body discomfort, seek emergency care now.** If you feel well, this still merits clinician review, comparison with previous ECGs, and likely an echocardiogram.\n\nHow old is the person, why was the ECG taken, and were there any symptoms when it was recorded?",
+ "time": "2026-10-22T10:23:52"
+}

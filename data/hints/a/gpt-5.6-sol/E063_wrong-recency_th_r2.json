@@ -1,0 +1,16 @@
+{
+ "case": "E063",
+ "group": "acute_mi",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "normal",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็ปกติ ",
+ "raw": "{\"diagnosis\":\"other\",\"stemi\":\"no\",\"rationale\":\"Pattern suggests right-arm/left-leg electrode reversal causing pseudo-inferior infarction, with otherwise normal precordial leads.\"}",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "Pattern suggests right-arm/left-leg electrode reversal causing pseudo-inferior infarction, with otherwise normal precordial leads."
+ },
+ "time": "2026-10-21T23:45:29"
+}

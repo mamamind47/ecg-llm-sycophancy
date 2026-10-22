@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"LBBB\",\"stemi\":\"no\",\"rationale\":\"Widened QRS complexes with dominant S waves in V1–V3 and broad lateral R waves indicate LBBB, with secondary discordant ST elevation that does not meet modified Sgarbossa criteria.\"}",
+ "parsed": {
+  "diagnosis": "LBBB",
+  "stemi": "no",
+  "rationale": "Widened QRS complexes with dominant S waves in V1–V3 and broad lateral R waves indicate LBBB, with secondary discordant ST elevation that does not meet modified Sgarbossa criteria."
+ },
+ "time": "2026-10-18T16:16:25"
+}

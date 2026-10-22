@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"LVH\", \"stemi\": \"no\", \"rationale\": \"The rhythm is regular and narrow-complex at about 100 bpm, with high voltage (R wave about 13 mm in aVL, tall R waves in V5–V6), left axis deviation, and strain-type ST depression and T-wave changes in V4–V6 and lateral leads, with no ST elevation.\"}\n",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "The rhythm is regular and narrow-complex at about 100 bpm, with high voltage (R wave about 13 mm in aVL, tall R waves in V5–V6), left axis deviation, and strain-type ST depression and T-wave changes in V4–V6 and lateral leads, with no ST elevation."
+ },
+ "time": "2026-10-18T01:05:29"
+}

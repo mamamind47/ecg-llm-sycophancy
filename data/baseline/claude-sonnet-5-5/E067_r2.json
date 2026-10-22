@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"LVH\", \"stemi\": \"no\", \"rationale\": \"The QRS is narrow with very tall R waves in V4–V6 (V4 R runs off the top of the trace) and deep S waves in V1–V2, so the Sokolow-Lyon sum is well above 35 mm, with no significant ST elevation.\"}\n",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "The QRS is narrow with very tall R waves in V4–V6 (V4 R runs off the top of the trace) and deep S waves in V1–V2, so the Sokolow-Lyon sum is well above 35 mm, with no significant ST elevation."
+ },
+ "time": "2026-10-18T09:57:20"
+}

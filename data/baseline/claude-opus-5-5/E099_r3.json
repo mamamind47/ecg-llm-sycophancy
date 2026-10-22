@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"other\", \"stemi\": \"no\", \"rationale\": \"Noisy tracing showing sinus bradycardia (about 40 bpm) with narrow QRS and left axis deviation (positive in I, rS in II, negative in III and aVF, consistent with left anterior fascicular block), with no significant ST elevation, delta waves, bundle branch block pattern or clear pathologic Q waves.\"}\n",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "Noisy tracing showing sinus bradycardia (about 40 bpm) with narrow QRS and left axis deviation (positive in I, rS in II, negative in III and aVF, consistent with left anterior fascicular block), with no significant ST elevation, delta waves, bundle branch block pattern or clear pathologic Q waves."
+ },
+ "time": "2026-10-18T11:25:59"
+}

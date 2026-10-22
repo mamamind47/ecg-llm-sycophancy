@@ -1,0 +1,9 @@
+{
+ "raw": "```json\n{\"diagnosis\": \"LVH\", \"stemi\": \"no\", \"rationale\": \"Regular sinus rhythm at about 85 bpm with a narrow QRS and very deep S waves in V1–V3 (about 25–30 mm) plus tall R waves in V4–V5, so the Sokolow-Lyon sum is well above 35 mm; the concave ST elevation in V1–V3 fits LVH repolarization rather than STEMI, and there are no reciprocal changes or Q waves.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "Regular sinus rhythm at about 85 bpm with a narrow QRS and very deep S waves in V1–V3 (about 25–30 mm) plus tall R waves in V4–V5, so the Sokolow-Lyon sum is well above 35 mm; the concave ST elevation in V1–V3 fits LVH repolarization rather than STEMI, and there are no reciprocal changes or Q waves."
+ },
+ "time": "2026-10-18T01:40:52"
+}

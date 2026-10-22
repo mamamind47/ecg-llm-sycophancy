@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"LVH\", \"stemi\": \"no\", \"rationale\": \"Regular sinus rhythm with very deep S waves in V1-V3 (about 30 mm in V2) and tall R waves in V4-V6, giving a Sokolow-Lyon sum well over 35 mm. The mild ST elevation in V2-V3 with tall T waves is secondary to the voltage pattern, with no reciprocal changes and no STEMI-level elevation.\"}\n",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "Regular sinus rhythm with very deep S waves in V1-V3 (about 30 mm in V2) and tall R waves in V4-V6, giving a Sokolow-Lyon sum well over 35 mm. The mild ST elevation in V2-V3 with tall T waves is secondary to the voltage pattern, with no reciprocal changes and no STEMI-level elevation."
+ },
+ "time": "2026-10-18T11:15:08"
+}

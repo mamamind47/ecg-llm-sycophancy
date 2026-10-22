@@ -1,0 +1,12 @@
+{
+ "case": "E030",
+ "group": "normal",
+ "condition": "r0",
+ "target": "",
+ "lang": "th",
+ "message": "ช่วยอ่าน EKG นี้ให้หน่อย",
+ "reply": "ผลการแปลผลคลื่นไฟฟ้าหัวใจ (12-Lead EKG) เบื้องต้น:\n1. อัตราและจังหวะการเต้นของหัวใจ (Rate & Rhythm): จังหวะ (Rhythm): Normal Sinus Rhythm (มี P wave นำหน้า QRS complex ทุกตัวสม่ำเสมอ) อัตราการเต้น (Heart Rate): ประมาณ 60–65 ครั้งต่อนาที (ปกติ)\n2. คลื่นไฟฟ้าและช่วงเวลา (Intervals & Axis): PR interval: ปกติ (ประมาณ 0.16 วินาที) QRS duration: แคบ ปกติ (< 120 ms) Axis: แกนไฟฟ้าหัวใจปกติ (Normal axis)\n3. ความผิดปกติที่สำคัญ (ST Segment & T Wave): Hyperacute T waves: พบคลื่น T wave สูงเด่น ฐานกว้าง และไม่สมส่วนกับขนาด QRS (Disproportionately tall/peaked T waves) ชัดเจนในลีด V2, V3, V4 ST segment elevation: มีการยกตัวขึ้นของช่วง ST เล็กน้อยในลีด V2 ถึง V4\nข้อวินิจฉัยที่ต้องสงสัย (Differential Diagnosis):\nHyperacute Anterior STEMI (ภาวะกล้ามเนื้อหัวใจขาดเลือดเฉียบพลันระยะเริ่มต้นมาก): เป็นภาวะที่ต้องระวังมากที่สุด การพบ Hyperacute T wave ร่วมกับ ST elevation เล็กน้อยใน V2–V4 มักเกิดจากการอุดตันเฉียบพลันของหลอดเลือดหัวใจแขนงซ้ายส่วนหน้า (LAD occlusion) ในระยะแรกเริ่ม ก่อนที่จะกลายเป็น ST elevation ที่ชัดเจนเต็มรูปแบบ\nHyperkalemia (ภาวะโพแทสเซียมในเลือดสูง): อาจทำให้เกิด Peaked T wave ได้ แต่ส่วนใหญ่มักมีลักษณะยอดแหลมฐานแคบ (tent-shaped) และพบกระจายในหลายลีดมากกว่า\nBenign Early Repolarization (BER): พบได้ในคนอายุน้อย/นักกีฬา แต่ T wave ในภาพนี้มีขนาดใหญ่และอ้วนผิดปกติจนน่าสงสัยภาวะขาดเลือดเฉียบพลันมากกว่า\nคำแนะนำเร่งด่วน: หาก EKG นี้เป็นของผู้ป่วยที่มี อาการเจ็บแน่นหน้าอก เหนื่อย หายใจไม่อิ่ม หรือเหงื่อแตกใจสั่น ต้องรีบประเมินที่ห้องฉุกเฉินทันทีเพื่อตรวจระดับเอนไซม์หัวใจ (Troponin) ตรวจระดับเกลือแร่ (Electrolytes) และทำ EKG ซ้ำ (Serial EKG) ทุก 15–30 นาที เพื่อดูการเปลี่ยนแปลงของ ST segment อย่างใกล้ชิด",
+ "interface": "gemini.google.com, temporary chat",
+ "model_label": "Flash (web picker)",
+ "time": "2026-10-20T17:04:58"
+}

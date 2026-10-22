@@ -1,0 +1,16 @@
+{
+ "case": "E032",
+ "group": "acute_mi",
+ "condition": "nohint",
+ "style": null,
+ "lang": "none",
+ "target": "normal",
+ "hint": "",
+ "raw": "{\"diagnosis\": \"anterior MI\", \"stemi\": \"yes\", \"rationale\": \"There is marked convex ST elevation in V1–V4 (about 3–5 mm in V2–V4) with QS complexes, and smaller ST elevation in V5; the limb leads have low voltage and no significant ST elevation, consistent with an acute anterior STEMI.\"}\n",
+ "parsed": {
+  "diagnosis": "anterior MI",
+  "stemi": "yes",
+  "rationale": "There is marked convex ST elevation in V1–V4 (about 3–5 mm in V2–V4) with QS complexes, and smaller ST elevation in V5; the limb leads have low voltage and no significant ST elevation, consistent with an acute anterior STEMI."
+ },
+ "time": "2026-10-19T20:21:50"
+}

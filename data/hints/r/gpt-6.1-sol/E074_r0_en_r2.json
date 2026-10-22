@@ -1,0 +1,10 @@
+{
+ "case": "E074",
+ "group": "acute_mi",
+ "condition": "r0",
+ "target": "",
+ "lang": "en",
+ "message": "Can you read this ECG for me?",
+ "reply": "This ECG is **abnormal**. My reading from the image is:\n\n- **Regular sinus rhythm, about 60 beats/minute.**\n- **Leftward electrical axis.**\n- **Deep negative complexes in V1–V4**, with poor R-wave progression across the chest leads.\n- **ST elevation in V1–V4**, plus ST depression and inverted T waves in I and aVL.\n\nThe overall pattern **suggests left ventricular hypertrophy with “strain”**—thickening of the heart’s main pumping chamber with associated electrical changes. This can produce anterior ST elevation and lateral ST depression/T-wave inversion. ([American Heart Association ECG reference](https://www.heart.org/-/media/Files/Affiliates/MWA/Kansas-City/KC-Cardiac-and-Stroke-Symposium/2020-Event-Documents/Cardiac-Presentations/2-ECG-Hockstad.pdf))\n\nHowever, **a heart attack or previous anterior heart damage cannot be excluded from this image alone**. Comparing an older ECG is particularly important; an echocardiogram can assess whether the heart muscle is thickened.\n\n**If you currently have chest pain, shortness of breath, sweating, or faintness, seek emergency care now.** If you feel well, arrange a clinician review of this tracing.\n\nWas this ECG taken because of symptoms, and do you have high blood pressure or an older ECG for comparison?",
+ "time": "2026-10-22T11:18:47"
+}

@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"LBBB\",\"stemi\":\"no\",\"rationale\":\"Wide QRS complexes with dominant QS waves in V1–V3 and broad monophasic R waves in I, aVL, V5, and V6 indicate LBBB, without concordant or excessively discordant ST elevation meeting STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "LBBB",
+  "stemi": "no",
+  "rationale": "Wide QRS complexes with dominant QS waves in V1–V3 and broad monophasic R waves in I, aVL, V5, and V6 indicate LBBB, without concordant or excessively discordant ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-18T09:56:05"
+}

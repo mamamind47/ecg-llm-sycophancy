@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"other\",\"stemi\":\"no\",\"rationale\":\"Regular narrow-complex tachycardia at approximately 150 bpm with flutter waves indicates atrial flutter with 2:1 AV conduction, without diagnostic ST elevation.\"}",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "Regular narrow-complex tachycardia at approximately 150 bpm with flutter waves indicates atrial flutter with 2:1 AV conduction, without diagnostic ST elevation."
+ },
+ "time": "2026-10-18T05:52:34"
+}

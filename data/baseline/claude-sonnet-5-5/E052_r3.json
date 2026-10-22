@@ -1,0 +1,9 @@
+{
+ "raw": "```json\n{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Sinus rhythm with narrow QRS complexes, a normal PR interval and no pathological Q waves or bundle branch block; the mild ST-T changes in V3–V4 look like a normal variant, and the voltages (about 17 mm in V5, S wave in V1 about 4 mm) are below LVH criteria.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with narrow QRS complexes, a normal PR interval and no pathological Q waves or bundle branch block; the mild ST-T changes in V3–V4 look like a normal variant, and the voltages (about 17 mm in V5, S wave in V1 about 4 mm) are below LVH criteria."
+ },
+ "time": "2026-10-18T11:13:01"
+}

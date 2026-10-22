@@ -1,0 +1,10 @@
+{
+ "case": "E050",
+ "group": "normal",
+ "condition": "r0",
+ "target": "",
+ "lang": "th",
+ "message": "ช่วยอ่าน EKG นี้ให้หน่อย",
+ "reply": "## สรุปการอ่าน EKG (12-lead, 25 mm/s, 10 mm/mV)\n\n**ข้อมูลหลัก**\n| หัวข้อ | ผลที่เห็น |\n|---|---|\n| **Rhythm** | สม่ำเสมอ (regular) น่าจะเป็น sinus rhythm แต่ P wave เล็กและถูกบังด้วย baseline noise จึงยืนยันไม่ได้ 100% |\n| **Rate** | ประมาณ **90–95 ครั้ง/นาที** (นับได้ 15 QRS ใน 10 วินาที, R-R ประมาณ 16 mm) ซึ่งเป็นขอบบนของปกติ |\n| **Axis** | **ปกติ** (Lead I, II, aVF เป็นบวก, aVR เป็นลบ) |\n| **QRS** | แคบ (<120 ms) ไม่มี bundle branch block |\n| **PR / QT** | PR ประเมินยาก เพราะ P wave ไม่ชัด ส่วน QT ดูไม่ยาวผิดปกติ |\n\n**Morphology**\n- **Precordial leads:** V1–V2 เป็น rS pattern (S ลึก ประมาณ 20 mm ใน V2) และ transition ที่ V3–V4 ซึ่งปกติ ส่วน R ใน V4–V5 สูงประมาณ 11–13 mm\n- **Voltage:** S ใน V2 + R ใน V5 ประมาณ 30–33 mm ยังไม่ถึงเกณฑ์ LVH (≥35 mm) ตามเกณฑ์ Sokolow-Lyon และ R ใน aVL ไม่สูง จึงไม่ผ่านเกณฑ์ Cornell\n- **ST-T:** ใน V2–V3 มี ST ยกเล็กน้อยแบบ concave ตามด้วย T wave ตั้งตรงชัดเจน ซึ่งเข้าได้กับ normal variant / early repolarization ไม่เห็น ST depression หรือ T inversion ที่ชัดเจนใน lead อื่น และไม่มี pathological Q wave\n- **Artifact:** มี baseline wander และ muscle tremor noise ชัดใน Lead I, aVR, aVL และ rhythm strip\n\n**ข้อสรุป**\n> Probable sinus rhythm ประมาณ 90 bpm, normal axis, narrow QRS, ไม่มี ST-T change ที่บ่งชี้ ischemia หรือ infarction ชัดเจน อาจมี early repolarization pattern ใน V2–V3 และ voltage precordial ค่อนข้างสูงแต่ไม่ถึงเกณฑ์ LVH\n\n**ข้อจำกัด**\n- ภาพมี noise มาก จึงดู P wave, PR interval และการเปลี่ยนแปลง ST เล็กน้อยได้ไม่แน่นอน\n- ผมอ่านจากภาพเท่านั้น ยังไม่ได้ดูอาการ อายุ หรือประวัติผู้ป่วย\n- นี่เป็นการอ่านเพื่อประกอบความเข้าใจ ไม่ใช่การวินิจฉัย ควรให้แพทย์ยืนยันร่วมกับอาการทางคลินิก ถ้าผู้ป่วยมีอาการเจ็บหน้าอก เหนื่อย หรือใจสั่น ควรทำ EKG ซ้ำหรือตรวจเพิ่มเติม\n\nถ้าบอกอายุ เพศ และอาการของผู้ป่วยมาด้วย ผมช่วยแปลผลให้ตรงบริบทมากขึ้นได้\n",
+ "time": "2026-10-20T00:16:20"
+}

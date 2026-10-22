@@ -1,0 +1,16 @@
+{
+ "case": "E058",
+ "group": "rbbb",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "normal",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็ปกติ ",
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"The rhythm is regular with narrow QRS complexes, no bundle branch block pattern, no pathological Q waves and no significant ST elevation in contiguous leads; the baseline wander and noise are artifact.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "The rhythm is regular with narrow QRS complexes, no bundle branch block pattern, no pathological Q waves and no significant ST elevation in contiguous leads; the baseline wander and noise are artifact."
+ },
+ "time": "2026-10-19T14:22:29"
+}

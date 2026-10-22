@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"LVH\",\"stemi\":\"no\",\"rationale\":\"Marked precordial voltage with deep right-precordial S waves, very tall left-precordial R waves, and secondary ST-T strain changes indicates left ventricular hypertrophy without diagnostic STEMI-pattern ST elevation.\"}",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "Marked precordial voltage with deep right-precordial S waves, very tall left-precordial R waves, and secondary ST-T strain changes indicates left ventricular hypertrophy without diagnostic STEMI-pattern ST elevation."
+ },
+ "time": "2026-10-18T06:07:16"
+}

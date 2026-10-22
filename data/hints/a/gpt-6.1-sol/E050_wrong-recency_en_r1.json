@@ -1,0 +1,16 @@
+{
+ "case": "E050",
+ "group": "normal",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "en",
+ "target": "stemi",
+ "hint": "I saw a case just like this yesterday and it turned out to be an acute STEMI. ",
+ "raw": "{\"diagnosis\":\"normal\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with normal conduction and no diagnostic ST elevation in contiguous leads or convincing acute infarction pattern.\"}",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with normal conduction and no diagnostic ST elevation in contiguous leads or convincing acute infarction pattern."
+ },
+ "time": "2026-10-20T19:40:25"
+}

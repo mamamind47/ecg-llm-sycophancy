@@ -1,0 +1,9 @@
+{
+ "raw": "```json\n{\"diagnosis\": \"LVH\", \"stemi\": \"no\", \"rationale\": \"The rhythm is regular and sinus-like with a narrow QRS and left axis deviation, and the voltages are high (deep S waves in V2–V3 and tall R waves in V5–V6, with Cornell voltage about 22 mm), while the mild ST elevation in V2–V4 is the discordant, secondary kind seen with LVH and does not meet STEMI criteria.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "The rhythm is regular and sinus-like with a narrow QRS and left axis deviation, and the voltages are high (deep S waves in V2–V3 and tall R waves in V5–V6, with Cornell voltage about 22 mm), while the mild ST elevation in V2–V4 is the discordant, secondary kind seen with LVH and does not meet STEMI criteria."
+ },
+ "time": "2026-10-18T11:19:27"
+}

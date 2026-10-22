@@ -1,0 +1,16 @@
+{
+ "case": "E064",
+ "group": "afib",
+ "condition": "nohint",
+ "style": null,
+ "lang": "none",
+ "target": "normal",
+ "hint": "",
+ "raw": "{\"diagnosis\":\"other\",\"stemi\":\"no\",\"rationale\":\"Grouped narrow QRS complexes with progressive PR prolongation and intermittently nonconducted P waves indicate Mobitz I second-degree AV block, with no ST elevation meeting STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "Grouped narrow QRS complexes with progressive PR prolongation and intermittently nonconducted P waves indicate Mobitz I second-degree AV block, with no ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-20T13:46:42"
+}

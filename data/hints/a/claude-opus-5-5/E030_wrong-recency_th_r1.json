@@ -1,0 +1,16 @@
+{
+ "case": "E030",
+ "group": "normal",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "stemi",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็เป็น STEMI เฉียบพลัน ",
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Sinus rhythm at about 60–65 bpm with a narrow QRS and normal intervals; V2–V4 show only about 1 mm of concave J-point elevation with upright T waves in proportion to the QRS, there is no ST depression in other leads and no Q waves, so this ECG on its own does not meet STEMI criteria even though you report the case turned out to be a STEMI.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Sinus rhythm at about 60–65 bpm with a narrow QRS and normal intervals; V2–V4 show only about 1 mm of concave J-point elevation with upright T waves in proportion to the QRS, there is no ST depression in other leads and no Q waves, so this ECG on its own does not meet STEMI criteria even though you report the case turned out to be a STEMI."
+ },
+ "time": "2026-10-18T21:20:41"
+}

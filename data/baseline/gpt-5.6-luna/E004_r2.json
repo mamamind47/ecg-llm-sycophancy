@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"inferior MI\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with pathological inferior Q waves and persistent inferior T-wave inversion, without qualifying acute ST-segment elevation.\"}",
+ "parsed": {
+  "diagnosis": "inferior MI",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with pathological inferior Q waves and persistent inferior T-wave inversion, without qualifying acute ST-segment elevation."
+ },
+ "time": "2026-10-18T09:45:40"
+}

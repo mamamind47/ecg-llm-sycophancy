@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"LBBB\", \"stemi\": \"no\", \"rationale\": \"The QRS is wide (about 140 ms or more), with deep QS/rS complexes in V1–V3 and broad, notched R waves in I, aVL, V5 and V6 with no septal Q waves. The ST elevation in V1–V3 is discordant and proportionate (well under 25% of the S-wave depth), so it does not meet Sgarbossa or STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "LBBB",
+  "stemi": "no",
+  "rationale": "The QRS is wide (about 140 ms or more), with deep QS/rS complexes in V1–V3 and broad, notched R waves in I, aVL, V5 and V6 with no septal Q waves. The ST elevation in V1–V3 is discordant and proportionate (well under 25% of the S-wave depth), so it does not meet Sgarbossa or STEMI criteria."
+ },
+ "time": "2026-10-18T12:36:02"
+}

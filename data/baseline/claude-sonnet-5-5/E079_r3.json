@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"atrial fibrillation\", \"stemi\": \"no\", \"rationale\": \"The rhythm is irregularly irregular with no discernible P waves and a fibrillatory baseline, and the narrow QRS complexes show no ST elevation meeting STEMI criteria. The tall V4-V5 voltages suggest possible LVH, but the rhythm is the main finding.\"}\n",
+ "parsed": {
+  "diagnosis": "atrial fibrillation",
+  "stemi": "no",
+  "rationale": "The rhythm is irregularly irregular with no discernible P waves and a fibrillatory baseline, and the narrow QRS complexes show no ST elevation meeting STEMI criteria. The tall V4-V5 voltages suggest possible LVH, but the rhythm is the main finding."
+ },
+ "time": "2026-10-18T11:17:44"
+}

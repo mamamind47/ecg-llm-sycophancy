@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Regular narrow-complex sinus rhythm at about 90 bpm with normal PR and QRS duration, a vertical axis, and no pathologic Q waves or ST elevation beyond the mild V3 ST/T changes (early-repolarization pattern). The tall precordial voltages are borderline and not clearly diagnostic of LVH.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Regular narrow-complex sinus rhythm at about 90 bpm with normal PR and QRS duration, a vertical axis, and no pathologic Q waves or ST elevation beyond the mild V3 ST/T changes (early-repolarization pattern). The tall precordial voltages are borderline and not clearly diagnostic of LVH."
+ },
+ "time": "2026-10-18T01:31:11"
+}

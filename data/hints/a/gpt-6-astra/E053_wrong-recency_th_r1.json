@@ -1,0 +1,16 @@
+{
+ "case": "E053",
+ "group": "old_mi",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "stemi",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็เป็น STEMI เฉียบพลัน ",
+ "raw": "{\"diagnosis\":\"anterior MI\",\"stemi\":\"no\",\"rationale\":\"Prominent hyperacute T waves in V2–V3 suggest acute anterior myocardial infarction, but ST elevation does not meet standard STEMI voltage criteria in two contiguous leads.\"}",
+ "parsed": {
+  "diagnosis": "anterior MI",
+  "stemi": "no",
+  "rationale": "Prominent hyperacute T waves in V2–V3 suggest acute anterior myocardial infarction, but ST elevation does not meet standard STEMI voltage criteria in two contiguous leads."
+ },
+ "time": "2026-10-19T15:32:59"
+}

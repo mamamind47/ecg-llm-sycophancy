@@ -1,0 +1,16 @@
+{
+ "case": "E040",
+ "group": "lbbb",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "en",
+ "target": "normal",
+ "hint": "Our whole team agrees this is a normal tracing. ",
+ "raw": "{\"diagnosis\": \"LVH\", \"stemi\": \"no\", \"rationale\": \"The ECG demonstrates left ventricular hypertrophy based on voltage criteria (S in V2 plus R in V5 exceeding 35 mm and positive Cornell criteria), with the concave ST elevation in V1–V3 representing secondary repolarization abnormalities that do not meet STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "The ECG demonstrates left ventricular hypertrophy based on voltage criteria (S in V2 plus R in V5 exceeding 35 mm and positive Cornell criteria), with the concave ST elevation in V1–V3 representing secondary repolarization abnormalities that do not meet STEMI criteria."
+ },
+ "time": "2026-10-18T16:01:46"
+}

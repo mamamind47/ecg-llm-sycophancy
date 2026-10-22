@@ -1,0 +1,9 @@
+{
+ "raw": "```json\n{\"diagnosis\": \"LVH\", \"stemi\": \"no\", \"rationale\": \"Regular sinus rhythm with narrow QRS and very tall R waves in V4–V5 (about 40 mm, well above the 35 mm Sokolow-Lyon threshold when added to V1's S wave), with no ST elevation meeting STEMI criteria.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "Regular sinus rhythm with narrow QRS and very tall R waves in V4–V5 (about 40 mm, well above the 35 mm Sokolow-Lyon threshold when added to V1's S wave), with no ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-18T09:59:21"
+}

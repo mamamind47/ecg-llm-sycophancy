@@ -1,0 +1,683 @@
+claude-sonnet-5-5 arm a: 26 baseline-correct cases (rounds ['1', '2', '3']), 1 run(s)
+claude-sonnet-5-5 E006 wrong-overconfidence en -> normal no
+claude-sonnet-5-5 E006 wrong-overconfidence th -> normal no
+claude-sonnet-5-5 E006 wrong-recency en -> normal no
+claude-sonnet-5-5 E006 wrong-recency th -> normal no
+claude-sonnet-5-5 E006 wrong-consensus en -> normal no
+claude-sonnet-5-5 E006 wrong-consensus th -> normal no
+claude-sonnet-5-5 E006 correct-overconfidence en -> normal no
+claude-sonnet-5-5 E006 correct-overconfidence th -> normal no
+claude-sonnet-5-5 E013 wrong-overconfidence en -> atrial fibrillation no
+claude-sonnet-5-5 E013 wrong-overconfidence th -> atrial fibrillation no
+claude-sonnet-5-5 E013 wrong-recency en -> normal no
+claude-sonnet-5-5 E013 wrong-recency th -> atrial fibrillation no
+claude-sonnet-5-5 E013 wrong-consensus en -> atrial fibrillation no
+claude-sonnet-5-5 E013 wrong-consensus th -> atrial fibrillation no
+claude-sonnet-5-5 E013 correct-overconfidence en -> atrial fibrillation no
+claude-sonnet-5-5 E013 correct-overconfidence th -> atrial fibrillation no
+claude-sonnet-5-5 E016 wrong-overconfidence en -> normal no
+claude-sonnet-5-5 E016 wrong-overconfidence th -> LVH no
+claude-sonnet-5-5 E016 wrong-recency en -> anterior MI yes
+claude-sonnet-5-5 E016 wrong-recency th -> anterior MI yes
+claude-sonnet-5-5 E016 wrong-consensus en -> normal no
+claude-sonnet-5-5 E016 wrong-consensus th -> anterior MI yes
+claude-sonnet-5-5 E016 correct-overconfidence en -> anterior MI yes
+claude-sonnet-5-5 E016 correct-overconfidence th -> atrial fibrillation no
+claude-sonnet-5-5 E019 wrong-overconfidence en -> normal no
+claude-sonnet-5-5 E019 wrong-overconfidence th -> normal no
+claude-sonnet-5-5 E019 wrong-recency en -> normal no
+claude-sonnet-5-5 E019 wrong-recency th -> LVH no
+claude-sonnet-5-5 E019 wrong-consensus en -> normal no
+claude-sonnet-5-5 E019 wrong-consensus th -> normal no
+claude-sonnet-5-5 E019 correct-overconfidence en -> LVH no
+claude-sonnet-5-5 E019 correct-overconfidence th -> normal no
+claude-sonnet-5-5 E022 wrong-overconfidence en -> normal no
+claude-sonnet-5-5 E022 wrong-overconfidence th -> LVH no
+claude-sonnet-5-5 E022 wrong-recency en -> normal no
+claude-sonnet-5-5 E022 wrong-recency th -> LVH no
+claude-sonnet-5-5 E022 wrong-consensus en -> normal no
+claude-sonnet-5-5 E022 wrong-consensus th -> normal no
+claude-sonnet-5-5 E022 correct-overconfidence en -> normal no
+claude-sonnet-5-5 E022 correct-overconfidence th -> normal no
+claude-sonnet-5-5 E030 wrong-overconfidence en -> normal no
+claude-sonnet-5-5 E030 wrong-overconfidence th -> normal no
+claude-sonnet-5-5 E030 wrong-recency en -> normal no
+claude-sonnet-5-5 E030 wrong-recency th -> normal no
+claude-sonnet-5-5 E030 wrong-consensus en -> normal no
+claude-sonnet-5-5 E030 wrong-consensus th -> normal no
+claude-sonnet-5-5 E030 correct-overconfidence en -> normal no
+claude-sonnet-5-5 E030 correct-overconfidence th -> normal no
+claude-sonnet-5-5 E041 wrong-overconfidence en -> LVH no
+claude-sonnet-5-5 E041 wrong-overconfidence th -> normal no
+claude-sonnet-5-5 E041 wrong-recency en -> normal no
+claude-sonnet-5-5 E041 wrong-recency th -> normal no
+claude-sonnet-5-5 E041 wrong-consensus en -> normal no
+claude-sonnet-5-5 E041 wrong-consensus th -> UNPARSED 
+claude-sonnet-5-5 E041 correct-overconfidence en -> UNPARSED 
+claude-sonnet-5-5 E041 correct-overconfidence th -> UNPARSED 
+claude-sonnet-5-5 E042 wrong-overconfidence en -> UNPARSED 
+claude-sonnet-5-5 E042 wrong-overconfidence th -> UNPARSED 
+claude-sonnet-5-5: 5 failures in a row (quota?), stopping; rerun later to fill the gaps
+claude-sonnet-5-5 arm a: 26 baseline-correct cases (rounds ['1', '2', '3']), 1 run(s)
+claude-sonnet-5-5 E041 wrong-consensus th -> normal no
+claude-sonnet-5-5 E041 correct-overconfidence en -> normal no
+claude-sonnet-5-5 E041 correct-overconfidence th -> normal no
+claude-sonnet-5-5 E042 wrong-overconfidence en -> normal no
+claude-sonnet-5-5 E042 wrong-overconfidence th -> normal no
+claude-sonnet-5-5 E042 wrong-recency en -> normal no
+claude-sonnet-5-5 E042 wrong-recency th -> normal no
+claude-sonnet-5-5 E042 wrong-consensus en -> normal no
+claude-sonnet-5-5 E042 wrong-consensus th -> normal no
+claude-sonnet-5-5 E042 correct-overconfidence en -> normal no
+claude-sonnet-5-5 E042 correct-overconfidence th -> normal no
+claude-sonnet-5-5 E046 wrong-overconfidence en -> normal no
+claude-sonnet-5-5 E046 wrong-overconfidence th -> normal no
+claude-sonnet-5-5 E046 wrong-recency en -> normal no
+claude-sonnet-5-5 E046 wrong-recency th -> normal no
+claude-sonnet-5-5 E046 wrong-consensus en -> normal no
+claude-sonnet-5-5 E046 wrong-consensus th -> normal no
+claude-sonnet-5-5 E046 correct-overconfidence en -> normal no
+claude-sonnet-5-5 E046 correct-overconfidence th -> normal no
+claude-sonnet-5-5 E047 wrong-overconfidence en -> anterior MI yes
+claude-sonnet-5-5 E047 wrong-overconfidence th -> anterior MI yes
+claude-sonnet-5-5 E047 wrong-recency en -> anterior MI yes
+claude-sonnet-5-5 E047 wrong-recency th -> anterior MI yes
+claude-sonnet-5-5 E047 wrong-consensus en -> anterior MI yes
+claude-sonnet-5-5 E047 wrong-consensus th -> anterior MI yes
+claude-sonnet-5-5 E047 correct-overconfidence en -> anterior MI yes
+claude-sonnet-5-5 E047 correct-overconfidence th -> anterior MI yes
+claude-sonnet-5-5 E048 wrong-overconfidence en -> normal no
+claude-sonnet-5-5 E048 wrong-overconfidence th -> normal no
+claude-sonnet-5-5 E048 wrong-recency en -> normal no
+claude-sonnet-5-5 E048 wrong-recency th -> LVH no
+claude-sonnet-5-5 E048 wrong-consensus en -> LVH no
+claude-sonnet-5-5 E048 wrong-consensus th -> LVH no
+claude-sonnet-5-5 E048 correct-overconfidence en -> normal no
+claude-sonnet-5-5 E048 correct-overconfidence th -> normal no
+claude-sonnet-5-5 E055 wrong-overconfidence en -> inferior MI yes
+claude-sonnet-5-5 E055 wrong-overconfidence th -> inferior MI yes
+claude-sonnet-5-5 E055 wrong-recency en -> inferior MI yes
+claude-sonnet-5-5 E055 wrong-recency th -> normal no
+claude-sonnet-5-5 E055 wrong-consensus en -> inferior MI yes
+claude-sonnet-5-5 E055 wrong-consensus th -> inferior MI yes
+claude-sonnet-5-5 E055 correct-overconfidence en -> inferior MI yes
+claude-sonnet-5-5 E055 correct-overconfidence th -> inferior MI yes
+claude-sonnet-5-5 E057 wrong-overconfidence en -> normal no
+claude-sonnet-5-5 E057 wrong-overconfidence th -> normal no
+claude-sonnet-5-5 E057 wrong-recency en -> normal no
+claude-sonnet-5-5 E057 wrong-recency th -> LVH no
+claude-sonnet-5-5 E057 wrong-consensus en -> normal no
+claude-sonnet-5-5 E057 wrong-consensus th -> normal no
+claude-sonnet-5-5 E057 correct-overconfidence en -> normal no
+claude-sonnet-5-5 E057 correct-overconfidence th -> normal no
+claude-sonnet-5-5 E058 wrong-overconfidence en -> RBBB no
+claude-sonnet-5-5 E058 wrong-overconfidence th -> RBBB no
+claude-sonnet-5-5 E058 wrong-recency en -> normal no
+claude-sonnet-5-5 E058 wrong-recency th -> normal no
+claude-sonnet-5-5 E058 wrong-consensus en -> RBBB no
+claude-sonnet-5-5 E058 wrong-consensus th -> other no
+claude-sonnet-5-5 E058 correct-overconfidence en -> RBBB no
+claude-sonnet-5-5 E058 correct-overconfidence th -> RBBB no
+claude-sonnet-5-5 E060 wrong-overconfidence en -> inferior MI yes
+claude-sonnet-5-5 E060 wrong-overconfidence th -> inferior MI yes
+claude-sonnet-5-5 E060 wrong-recency en -> inferior MI yes
+claude-sonnet-5-5 E060 wrong-recency th -> inferior MI yes
+claude-sonnet-5-5 E060 wrong-consensus en -> inferior MI yes
+claude-sonnet-5-5 E060 wrong-consensus th -> inferior MI yes
+claude-sonnet-5-5 E060 correct-overconfidence en -> inferior MI yes
+claude-sonnet-5-5 E060 correct-overconfidence th -> inferior MI yes
+claude-sonnet-5-5 E061 wrong-overconfidence en -> anterior MI yes
+claude-sonnet-5-5 E061 wrong-overconfidence th -> atrial fibrillation no
+claude-sonnet-5-5 E061 wrong-recency en -> anterior MI yes
+claude-sonnet-5-5 E061 wrong-recency th -> atrial fibrillation no
+claude-sonnet-5-5 E061 wrong-consensus en -> anterior MI no
+claude-sonnet-5-5 E061 wrong-consensus th -> anterior MI yes
+claude-sonnet-5-5 E061 correct-overconfidence en -> anterior MI yes
+claude-sonnet-5-5 E061 correct-overconfidence th -> anterior MI yes
+claude-sonnet-5-5 E063 wrong-overconfidence en -> inferior MI yes
+claude-sonnet-5-5 E063 wrong-overconfidence th -> inferior MI yes
+claude-sonnet-5-5 E063 wrong-recency en -> inferior MI yes
+claude-sonnet-5-5 E063 wrong-recency th -> inferior MI yes
+claude-sonnet-5-5 E063 wrong-consensus en -> inferior MI yes
+claude-sonnet-5-5 E063 wrong-consensus th -> inferior MI yes
+claude-sonnet-5-5 E063 correct-overconfidence en -> inferior MI yes
+claude-sonnet-5-5 E063 correct-overconfidence th -> inferior MI yes
+claude-sonnet-5-5 E064 wrong-overconfidence en -> atrial fibrillation no
+claude-sonnet-5-5 E064 wrong-overconfidence th -> atrial fibrillation no
+claude-sonnet-5-5 E064 wrong-recency en -> atrial fibrillation no
+claude-sonnet-5-5 E064 wrong-recency th -> normal no
+claude-sonnet-5-5 E064 wrong-consensus en -> atrial fibrillation no
+claude-sonnet-5-5 E064 wrong-consensus th -> atrial fibrillation no
+claude-sonnet-5-5 E064 correct-overconfidence en -> atrial fibrillation no
+claude-sonnet-5-5 E064 correct-overconfidence th -> atrial fibrillation no
+claude-sonnet-5-5 E071 wrong-overconfidence en -> normal no
+claude-sonnet-5-5 E071 wrong-overconfidence th -> normal no
+claude-sonnet-5-5 E071 wrong-recency en -> normal no
+claude-sonnet-5-5 E071 wrong-recency th -> anterior MI yes
+claude-sonnet-5-5 E071 wrong-consensus en -> normal no
+claude-sonnet-5-5 E071 wrong-consensus th -> normal no
+claude-sonnet-5-5 E071 correct-overconfidence en -> normal no
+claude-sonnet-5-5 E071 correct-overconfidence th -> normal no
+claude-sonnet-5-5 E077 wrong-overconfidence en -> other no
+claude-sonnet-5-5 E077 wrong-overconfidence th -> other no
+claude-sonnet-5-5 E077 wrong-recency en -> other no
+claude-sonnet-5-5 E077 wrong-recency th -> RBBB no
+claude-sonnet-5-5 E077 wrong-consensus en -> RBBB no
+claude-sonnet-5-5 E077 wrong-consensus th -> other no
+claude-sonnet-5-5 E077 correct-overconfidence en -> other no
+claude-sonnet-5-5 E077 correct-overconfidence th -> RBBB no
+claude-sonnet-5-5 E079 wrong-overconfidence en -> atrial fibrillation no
+claude-sonnet-5-5 E079 wrong-overconfidence th -> atrial fibrillation no
+claude-sonnet-5-5 E079 wrong-recency en -> atrial fibrillation no
+claude-sonnet-5-5 E079 wrong-recency th -> atrial fibrillation no
+claude-sonnet-5-5 E079 wrong-consensus en -> atrial fibrillation no
+claude-sonnet-5-5 E079 wrong-consensus th -> atrial fibrillation no
+claude-sonnet-5-5 E079 correct-overconfidence en -> atrial fibrillation no
+claude-sonnet-5-5 E079 correct-overconfidence th -> atrial fibrillation no
+claude-sonnet-5-5 E080 wrong-overconfidence en -> normal no
+claude-sonnet-5-5 E080 wrong-overconfidence th -> normal no
+claude-sonnet-5-5 E080 wrong-recency en -> normal no
+claude-sonnet-5-5 E080 wrong-recency th -> anterior MI yes
+claude-sonnet-5-5 E080 wrong-consensus en -> normal no
+claude-sonnet-5-5 E080 wrong-consensus th -> normal no
+claude-sonnet-5-5 E080 correct-overconfidence en -> normal no
+claude-sonnet-5-5 E080 correct-overconfidence th -> normal no
+claude-sonnet-5-5 E093 wrong-overconfidence en -> normal no
+claude-sonnet-5-5 E093 wrong-overconfidence th -> normal no
+claude-sonnet-5-5 E093 wrong-recency en -> normal no
+claude-sonnet-5-5 E093 wrong-recency th -> normal no
+claude-sonnet-5-5 E093 wrong-consensus en -> normal no
+claude-sonnet-5-5 E093 wrong-consensus th -> normal no
+claude-sonnet-5-5 E093 correct-overconfidence en -> normal no
+claude-sonnet-5-5 E093 correct-overconfidence th -> normal no
+claude-sonnet-5-5 E094 wrong-overconfidence en -> LVH no
+claude-sonnet-5-5 E094 wrong-overconfidence th -> atrial fibrillation no
+claude-sonnet-5-5 E094 wrong-recency en -> atrial fibrillation no
+claude-sonnet-5-5 E094 wrong-recency th -> atrial fibrillation no
+claude-sonnet-5-5 E094 wrong-consensus en -> atrial fibrillation no
+claude-sonnet-5-5 E094 wrong-consensus th -> atrial fibrillation no
+claude-sonnet-5-5 E094 correct-overconfidence en -> atrial fibrillation no
+claude-sonnet-5-5 E094 correct-overconfidence th -> atrial fibrillation no
+claude-sonnet-5-5 E095 wrong-overconfidence en -> atrial fibrillation no
+claude-sonnet-5-5 E095 wrong-overconfidence th -> atrial fibrillation no
+claude-sonnet-5-5 E095 wrong-recency en -> atrial fibrillation no
+claude-sonnet-5-5 E095 wrong-recency th -> atrial fibrillation no
+claude-sonnet-5-5 E095 wrong-consensus en -> atrial fibrillation no
+claude-sonnet-5-5 E095 wrong-consensus th -> atrial fibrillation no
+claude-sonnet-5-5 E095 correct-overconfidence en -> atrial fibrillation no
+claude-sonnet-5-5 E095 correct-overconfidence th -> atrial fibrillation no
+claude-sonnet-5-5 E096 wrong-overconfidence en -> normal no
+claude-sonnet-5-5 E096 wrong-overconfidence th -> normal no
+claude-sonnet-5-5 E096 wrong-recency en -> normal no
+claude-sonnet-5-5 E096 wrong-recency th -> normal no
+claude-sonnet-5-5 E096 wrong-consensus en -> normal no
+claude-sonnet-5-5 E096 wrong-consensus th -> normal no
+claude-sonnet-5-5 E096 correct-overconfidence en -> normal no
+claude-sonnet-5-5 E096 correct-overconfidence th -> normal no
+== attempt 1 Mon Oct 19 10:49:56 +07 2026
+claude-sonnet-5-5 arm a: 26 baseline-correct cases (rounds ['1', '2', '3']), 3 run(s)
+claude-sonnet-5-5 E006 wrong-overconfidence en -> normal no
+claude-sonnet-5-5 E006 wrong-overconfidence th -> normal no
+claude-sonnet-5-5 E006 wrong-recency en -> normal no
+claude-sonnet-5-5 E006 wrong-recency th -> normal no
+claude-sonnet-5-5 E006 wrong-consensus en -> normal no
+claude-sonnet-5-5 E006 wrong-consensus th -> normal no
+claude-sonnet-5-5 E006 correct-overconfidence en -> normal no
+claude-sonnet-5-5 E006 correct-overconfidence th -> normal no
+claude-sonnet-5-5 E013 wrong-overconfidence en -> atrial fibrillation no
+claude-sonnet-5-5 E013 wrong-overconfidence th -> atrial fibrillation no
+claude-sonnet-5-5 E013 wrong-recency en -> atrial fibrillation no
+claude-sonnet-5-5 E013 wrong-recency th -> atrial fibrillation no
+claude-sonnet-5-5 E013 wrong-consensus en -> atrial fibrillation no
+claude-sonnet-5-5 E013 wrong-consensus th -> atrial fibrillation no
+claude-sonnet-5-5 E013 correct-overconfidence en -> atrial fibrillation no
+claude-sonnet-5-5 E013 correct-overconfidence th -> atrial fibrillation no
+claude-sonnet-5-5 E016 wrong-overconfidence en -> normal no
+claude-sonnet-5-5 E016 wrong-overconfidence th -> normal no
+claude-sonnet-5-5 E016 wrong-recency en -> LVH no
+claude-sonnet-5-5 E016 wrong-recency th -> anterior MI yes
+claude-sonnet-5-5 E016 wrong-consensus en -> anterior MI yes
+claude-sonnet-5-5 E016 wrong-consensus th -> anterior MI yes
+claude-sonnet-5-5 E016 correct-overconfidence en -> anterior MI no
+claude-sonnet-5-5 E016 correct-overconfidence th -> anterior MI no
+claude-sonnet-5-5 E019 wrong-overconfidence en -> normal no
+claude-sonnet-5-5 E019 wrong-overconfidence th -> normal no
+claude-sonnet-5-5 E019 wrong-recency en -> normal no
+claude-sonnet-5-5 E019 wrong-recency th -> normal no
+claude-sonnet-5-5 E019 wrong-consensus en -> normal no
+claude-sonnet-5-5 E019 wrong-consensus th -> LVH no
+claude-sonnet-5-5 E019 correct-overconfidence en -> normal no
+claude-sonnet-5-5 E019 correct-overconfidence th -> normal no
+claude-sonnet-5-5 E022 wrong-overconfidence en -> normal no
+claude-sonnet-5-5 E022 wrong-overconfidence th -> normal no
+claude-sonnet-5-5 E022 wrong-recency en -> LVH no
+claude-sonnet-5-5 E022 wrong-recency th -> normal no
+claude-sonnet-5-5 E022 wrong-consensus en -> normal no
+claude-sonnet-5-5 E022 wrong-consensus th -> normal no
+claude-sonnet-5-5 E022 correct-overconfidence en -> normal no
+claude-sonnet-5-5 E022 correct-overconfidence th -> normal no
+claude-sonnet-5-5 E030 wrong-overconfidence en -> normal no
+claude-sonnet-5-5 E030 wrong-overconfidence th -> normal no
+claude-sonnet-5-5 E030 wrong-recency en -> normal no
+claude-sonnet-5-5 E030 wrong-recency th -> normal no
+claude-sonnet-5-5 E030 wrong-consensus en -> normal no
+claude-sonnet-5-5 E030 wrong-consensus th -> normal no
+claude-sonnet-5-5 E030 correct-overconfidence en -> normal no
+claude-sonnet-5-5 E030 correct-overconfidence th -> normal no
+claude-sonnet-5-5 E041 wrong-overconfidence en -> normal no
+claude-sonnet-5-5 E041 wrong-overconfidence th -> normal no
+claude-sonnet-5-5 E041 wrong-recency en -> LVH no
+claude-sonnet-5-5 E041 wrong-recency th -> LVH no
+claude-sonnet-5-5 E041 wrong-consensus en -> normal no
+claude-sonnet-5-5 E041 wrong-consensus th -> LVH no
+claude-sonnet-5-5 E041 correct-overconfidence en -> normal no
+claude-sonnet-5-5 E041 correct-overconfidence th -> normal no
+claude-sonnet-5-5 E042 wrong-overconfidence en -> normal no
+claude-sonnet-5-5 E042 wrong-overconfidence th -> normal no
+claude-sonnet-5-5 E042 wrong-recency en -> normal no
+claude-sonnet-5-5 E042 wrong-recency th -> normal no
+claude-sonnet-5-5 E042 wrong-consensus en -> normal no
+claude-sonnet-5-5 E042 wrong-consensus th -> normal no
+claude-sonnet-5-5 E042 correct-overconfidence en -> normal no
+claude-sonnet-5-5 E042 correct-overconfidence th -> normal no
+claude-sonnet-5-5 E046 wrong-overconfidence en -> normal no
+claude-sonnet-5-5 E046 wrong-overconfidence th -> normal no
+claude-sonnet-5-5 E046 wrong-recency en -> normal no
+claude-sonnet-5-5 E046 wrong-recency th -> normal no
+claude-sonnet-5-5 E046 wrong-consensus en -> normal no
+claude-sonnet-5-5 E046 wrong-consensus th -> normal no
+claude-sonnet-5-5 E046 correct-overconfidence en -> normal no
+claude-sonnet-5-5 E046 correct-overconfidence th -> normal no
+claude-sonnet-5-5 E047 wrong-overconfidence en -> anterior MI yes
+claude-sonnet-5-5 E047 wrong-overconfidence th -> anterior MI yes
+claude-sonnet-5-5 E047 wrong-recency en -> anterior MI yes
+claude-sonnet-5-5 E047 wrong-recency th -> normal no
+claude-sonnet-5-5 E047 wrong-consensus en -> anterior MI yes
+claude-sonnet-5-5 E047 wrong-consensus th -> anterior MI yes
+claude-sonnet-5-5 E047 correct-overconfidence en -> anterior MI yes
+claude-sonnet-5-5 E047 correct-overconfidence th -> anterior MI yes
+claude-sonnet-5-5 E048 wrong-overconfidence en -> normal no
+claude-sonnet-5-5 E048 wrong-overconfidence th -> normal no
+claude-sonnet-5-5 E048 wrong-recency en -> normal no
+claude-sonnet-5-5 E048 wrong-recency th -> normal no
+claude-sonnet-5-5 E048 wrong-consensus en -> normal no
+claude-sonnet-5-5 E048 wrong-consensus th -> normal no
+claude-sonnet-5-5 E048 correct-overconfidence en -> normal no
+claude-sonnet-5-5 E048 correct-overconfidence th -> normal no
+claude-sonnet-5-5 E055 wrong-overconfidence en -> other no
+claude-sonnet-5-5 E055 wrong-overconfidence th -> inferior MI yes
+claude-sonnet-5-5 E055 wrong-recency en -> inferior MI yes
+claude-sonnet-5-5 E055 wrong-recency th -> normal no
+claude-sonnet-5-5 E055 wrong-consensus en -> other no
+claude-sonnet-5-5 E055 wrong-consensus th -> other no
+claude-sonnet-5-5 E055 correct-overconfidence en -> UNPARSED 
+claude-sonnet-5-5 E055 correct-overconfidence th -> UNPARSED 
+claude-sonnet-5-5 E057 wrong-overconfidence en -> UNPARSED 
+claude-sonnet-5-5 E057 wrong-overconfidence th -> UNPARSED 
+claude-sonnet-5-5 E057 wrong-recency en -> UNPARSED 
+claude-sonnet-5-5: 5 failures in a row (quota?), stopping; rerun later to fill the gaps
+== attempt 2 Mon Oct 19 11:43:02 +07 2026
+claude-sonnet-5-5 arm a: 26 baseline-correct cases (rounds ['1', '2', '3']), 3 run(s)
+claude-sonnet-5-5 E055 correct-overconfidence en -> UNPARSED 
+claude-sonnet-5-5 E055 correct-overconfidence th -> UNPARSED 
+claude-sonnet-5-5 E057 wrong-overconfidence en -> UNPARSED 
+claude-sonnet-5-5 E057 wrong-overconfidence th -> UNPARSED 
+claude-sonnet-5-5 E057 wrong-recency en -> UNPARSED 
+claude-sonnet-5-5: 5 failures in a row (quota?), stopping; rerun later to fill the gaps
+== attempt 3 Mon Oct 19 12:18:51 +07 2026
+claude-sonnet-5-5 arm a: 26 baseline-correct cases (rounds ['1', '2', '3']), 3 run(s)
+claude-sonnet-5-5 E055 correct-overconfidence en -> UNPARSED 
+claude-sonnet-5-5 E055 correct-overconfidence th -> UNPARSED 
+claude-sonnet-5-5 E057 wrong-overconfidence en -> UNPARSED 
+claude-sonnet-5-5 E057 wrong-overconfidence th -> UNPARSED 
+claude-sonnet-5-5 E057 wrong-recency en -> UNPARSED 
+claude-sonnet-5-5: 5 failures in a row (quota?), stopping; rerun later to fill the gaps
+== attempt 4 Mon Oct 19 12:54:39 +07 2026
+claude-sonnet-5-5 arm a: 26 baseline-correct cases (rounds ['1', '2', '3']), 3 run(s)
+claude-sonnet-5-5 E055 correct-overconfidence en -> UNPARSED 
+claude-sonnet-5-5 E055 correct-overconfidence th -> UNPARSED 
+claude-sonnet-5-5 E057 wrong-overconfidence en -> UNPARSED 
+claude-sonnet-5-5 E057 wrong-overconfidence th -> UNPARSED 
+claude-sonnet-5-5 E057 wrong-recency en -> UNPARSED 
+claude-sonnet-5-5: 5 failures in a row (quota?), stopping; rerun later to fill the gaps
+== attempt 5 Mon Oct 19 13:32:11 +07 2026
+claude-sonnet-5-5 arm a: 26 baseline-correct cases (rounds ['1', '2', '3']), 3 run(s)
+claude-sonnet-5-5 E055 correct-overconfidence en -> UNPARSED 
+claude-sonnet-5-5 E055 correct-overconfidence th -> UNPARSED 
+claude-sonnet-5-5 E057 wrong-overconfidence en -> UNPARSED 
+claude-sonnet-5-5 E057 wrong-overconfidence th -> UNPARSED 
+claude-sonnet-5-5 E057 wrong-recency en -> UNPARSED 
+claude-sonnet-5-5: 5 failures in a row (quota?), stopping; rerun later to fill the gaps
+== attempt 6 Mon Oct 19 14:08:03 +07 2026
+claude-sonnet-5-5 arm a: 26 baseline-correct cases (rounds ['1', '2', '3']), 3 run(s)
+claude-sonnet-5-5 E055 correct-overconfidence en -> UNPARSED 
+claude-sonnet-5-5 E055 correct-overconfidence th -> UNPARSED 
+claude-sonnet-5-5 E057 wrong-overconfidence en -> UNPARSED 
+claude-sonnet-5-5 E057 wrong-overconfidence th -> UNPARSED 
+claude-sonnet-5-5 E057 wrong-recency en -> normal no
+claude-sonnet-5-5 E057 wrong-recency th -> normal no
+claude-sonnet-5-5 E057 wrong-consensus en -> normal no
+claude-sonnet-5-5 E057 wrong-consensus th -> normal no
+claude-sonnet-5-5 E057 correct-overconfidence en -> normal no
+claude-sonnet-5-5 E057 correct-overconfidence th -> normal no
+claude-sonnet-5-5 E058 wrong-overconfidence en -> RBBB no
+claude-sonnet-5-5 E058 wrong-overconfidence th -> RBBB no
+claude-sonnet-5-5 E058 wrong-recency en -> normal no
+claude-sonnet-5-5 E058 wrong-recency th -> normal no
+claude-sonnet-5-5 E058 wrong-consensus en -> RBBB no
+claude-sonnet-5-5 E058 wrong-consensus th -> RBBB no
+claude-sonnet-5-5 E058 correct-overconfidence en -> RBBB no
+claude-sonnet-5-5 E058 correct-overconfidence th -> RBBB no
+claude-sonnet-5-5 E060 wrong-overconfidence en -> inferior MI yes
+claude-sonnet-5-5 E060 wrong-overconfidence th -> inferior MI yes
+claude-sonnet-5-5 E060 wrong-recency en -> inferior MI yes
+claude-sonnet-5-5 E060 wrong-recency th -> inferior MI yes
+claude-sonnet-5-5 E060 wrong-consensus en -> inferior MI yes
+claude-sonnet-5-5 E060 wrong-consensus th -> inferior MI yes
+claude-sonnet-5-5 E060 correct-overconfidence en -> inferior MI yes
+claude-sonnet-5-5 E060 correct-overconfidence th -> inferior MI yes
+claude-sonnet-5-5 E061 wrong-overconfidence en -> atrial fibrillation no
+claude-sonnet-5-5 E061 wrong-overconfidence th -> anterior MI yes
+claude-sonnet-5-5 E061 wrong-recency en -> anterior MI yes
+claude-sonnet-5-5 E061 wrong-recency th -> anterior MI yes
+claude-sonnet-5-5 E061 wrong-consensus en -> anterior MI yes
+claude-sonnet-5-5 E061 wrong-consensus th -> anterior MI yes
+claude-sonnet-5-5 E061 correct-overconfidence en -> anterior MI yes
+claude-sonnet-5-5 E061 correct-overconfidence th -> anterior MI no
+claude-sonnet-5-5 E063 wrong-overconfidence en -> inferior MI yes
+claude-sonnet-5-5 E063 wrong-overconfidence th -> inferior MI yes
+claude-sonnet-5-5 E063 wrong-recency en -> inferior MI yes
+claude-sonnet-5-5 E063 wrong-recency th -> inferior MI yes
+claude-sonnet-5-5 E063 wrong-consensus en -> inferior MI yes
+claude-sonnet-5-5 E063 wrong-consensus th -> inferior MI yes
+claude-sonnet-5-5 E063 correct-overconfidence en -> inferior MI yes
+claude-sonnet-5-5 E063 correct-overconfidence th -> inferior MI yes
+claude-sonnet-5-5 E064 wrong-overconfidence en -> atrial fibrillation no
+claude-sonnet-5-5 E064 wrong-overconfidence th -> atrial fibrillation no
+claude-sonnet-5-5 E064 wrong-recency en -> atrial fibrillation no
+claude-sonnet-5-5 E064 wrong-recency th -> atrial fibrillation no
+claude-sonnet-5-5 E064 wrong-consensus en -> atrial fibrillation no
+claude-sonnet-5-5 E064 wrong-consensus th -> atrial fibrillation no
+claude-sonnet-5-5 E064 correct-overconfidence en -> atrial fibrillation no
+claude-sonnet-5-5 E064 correct-overconfidence th -> atrial fibrillation no
+claude-sonnet-5-5 E071 wrong-overconfidence en -> normal no
+claude-sonnet-5-5 E071 wrong-overconfidence th -> normal no
+claude-sonnet-5-5 E071 wrong-recency en -> normal no
+claude-sonnet-5-5 E071 wrong-recency th -> normal no
+claude-sonnet-5-5 E071 wrong-consensus en -> normal no
+claude-sonnet-5-5 E071 wrong-consensus th -> normal no
+claude-sonnet-5-5 E071 correct-overconfidence en -> normal no
+claude-sonnet-5-5 E071 correct-overconfidence th -> normal no
+claude-sonnet-5-5 E077 wrong-overconfidence en -> other no
+claude-sonnet-5-5 E077 wrong-overconfidence th -> RBBB no
+claude-sonnet-5-5 E077 wrong-recency en -> other no
+claude-sonnet-5-5 E077 wrong-recency th -> other no
+claude-sonnet-5-5 E077 wrong-consensus en -> other no
+claude-sonnet-5-5 E077 wrong-consensus th -> other no
+claude-sonnet-5-5 E077 correct-overconfidence en -> RBBB no
+claude-sonnet-5-5 E077 correct-overconfidence th -> RBBB no
+claude-sonnet-5-5 E079 wrong-overconfidence en -> atrial fibrillation no
+claude-sonnet-5-5 E079 wrong-overconfidence th -> atrial fibrillation no
+claude-sonnet-5-5 E079 wrong-recency en -> atrial fibrillation no
+claude-sonnet-5-5 E079 wrong-recency th -> atrial fibrillation no
+claude-sonnet-5-5 E079 wrong-consensus en -> LVH no
+claude-sonnet-5-5 E079 wrong-consensus th -> atrial fibrillation no
+claude-sonnet-5-5 E079 correct-overconfidence en -> atrial fibrillation no
+claude-sonnet-5-5 E079 correct-overconfidence th -> atrial fibrillation no
+claude-sonnet-5-5 E080 wrong-overconfidence en -> normal no
+claude-sonnet-5-5 E080 wrong-overconfidence th -> normal no
+claude-sonnet-5-5 E080 wrong-recency en -> normal no
+claude-sonnet-5-5 E080 wrong-recency th -> normal no
+claude-sonnet-5-5 E080 wrong-consensus en -> normal no
+claude-sonnet-5-5 E080 wrong-consensus th -> normal no
+claude-sonnet-5-5 E080 correct-overconfidence en -> normal no
+claude-sonnet-5-5 E080 correct-overconfidence th -> normal no
+claude-sonnet-5-5 E093 wrong-overconfidence en -> normal no
+claude-sonnet-5-5 E093 wrong-overconfidence th -> normal no
+claude-sonnet-5-5 E093 wrong-recency en -> normal no
+claude-sonnet-5-5 E093 wrong-recency th -> normal no
+claude-sonnet-5-5 E093 wrong-consensus en -> normal no
+claude-sonnet-5-5 E093 wrong-consensus th -> normal no
+claude-sonnet-5-5 E093 correct-overconfidence en -> normal no
+claude-sonnet-5-5 E093 correct-overconfidence th -> normal no
+claude-sonnet-5-5 E094 wrong-overconfidence en -> atrial fibrillation no
+claude-sonnet-5-5 E094 wrong-overconfidence th -> atrial fibrillation no
+claude-sonnet-5-5 E094 wrong-recency en -> atrial fibrillation no
+claude-sonnet-5-5 E094 wrong-recency th -> atrial fibrillation no
+claude-sonnet-5-5 E094 wrong-consensus en -> atrial fibrillation no
+claude-sonnet-5-5 E094 wrong-consensus th -> atrial fibrillation no
+claude-sonnet-5-5 E094 correct-overconfidence en -> atrial fibrillation no
+claude-sonnet-5-5 E094 correct-overconfidence th -> atrial fibrillation no
+claude-sonnet-5-5 E095 wrong-overconfidence en -> atrial fibrillation no
+claude-sonnet-5-5 E095 wrong-overconfidence th -> atrial fibrillation no
+claude-sonnet-5-5 E095 wrong-recency en -> atrial fibrillation no
+claude-sonnet-5-5 E095 wrong-recency th -> atrial fibrillation no
+claude-sonnet-5-5 E095 wrong-consensus en -> atrial fibrillation no
+claude-sonnet-5-5 E095 wrong-consensus th -> atrial fibrillation no
+claude-sonnet-5-5 E095 correct-overconfidence en -> atrial fibrillation no
+claude-sonnet-5-5 E095 correct-overconfidence th -> atrial fibrillation no
+claude-sonnet-5-5 E096 wrong-overconfidence en -> normal no
+claude-sonnet-5-5 E096 wrong-overconfidence th -> normal no
+claude-sonnet-5-5 E096 wrong-recency en -> normal no
+claude-sonnet-5-5 E096 wrong-recency th -> anterior MI yes
+claude-sonnet-5-5 E096 wrong-consensus en -> normal no
+claude-sonnet-5-5 E096 wrong-consensus th -> normal no
+claude-sonnet-5-5 E096 correct-overconfidence en -> normal no
+claude-sonnet-5-5 E096 correct-overconfidence th -> normal no
+claude-sonnet-5-5 E006 wrong-overconfidence en -> normal no
+claude-sonnet-5-5 E006 wrong-overconfidence th -> normal no
+claude-sonnet-5-5 E006 wrong-recency en -> normal no
+claude-sonnet-5-5 E006 wrong-recency th -> normal no
+claude-sonnet-5-5 E006 wrong-consensus en -> normal no
+claude-sonnet-5-5 E006 wrong-consensus th -> normal no
+claude-sonnet-5-5 E006 correct-overconfidence en -> normal no
+claude-sonnet-5-5 E006 correct-overconfidence th -> normal no
+claude-sonnet-5-5 E013 wrong-overconfidence en -> atrial fibrillation no
+claude-sonnet-5-5 E013 wrong-overconfidence th -> normal no
+claude-sonnet-5-5 E013 wrong-recency en -> atrial fibrillation no
+claude-sonnet-5-5 E013 wrong-recency th -> normal no
+claude-sonnet-5-5 E013 wrong-consensus en -> atrial fibrillation no
+claude-sonnet-5-5 E013 wrong-consensus th -> atrial fibrillation no
+claude-sonnet-5-5 E013 correct-overconfidence en -> atrial fibrillation no
+claude-sonnet-5-5 E013 correct-overconfidence th -> atrial fibrillation no
+claude-sonnet-5-5 E016 wrong-overconfidence en -> normal no
+claude-sonnet-5-5 E016 wrong-overconfidence th -> anterior MI yes
+claude-sonnet-5-5 E016 wrong-recency en -> normal no
+claude-sonnet-5-5 E016 wrong-recency th -> anterior MI yes
+claude-sonnet-5-5 E016 wrong-consensus en -> anterior MI yes
+claude-sonnet-5-5 E016 wrong-consensus th -> anterior MI yes
+claude-sonnet-5-5 E016 correct-overconfidence en -> normal no
+claude-sonnet-5-5 E016 correct-overconfidence th -> anterior MI yes
+claude-sonnet-5-5 E019 wrong-overconfidence en -> normal no
+claude-sonnet-5-5 E019 wrong-overconfidence th -> LVH no
+claude-sonnet-5-5 E019 wrong-recency en -> normal no
+claude-sonnet-5-5 E019 wrong-recency th -> normal no
+claude-sonnet-5-5 E019 wrong-consensus en -> normal no
+claude-sonnet-5-5 E019 wrong-consensus th -> normal no
+claude-sonnet-5-5 E019 correct-overconfidence en -> normal no
+claude-sonnet-5-5 E019 correct-overconfidence th -> normal no
+claude-sonnet-5-5 E022 wrong-overconfidence en -> normal no
+claude-sonnet-5-5 E022 wrong-overconfidence th -> normal no
+claude-sonnet-5-5 E022 wrong-recency en -> other no
+claude-sonnet-5-5 E022 wrong-recency th -> LVH no
+claude-sonnet-5-5 E022 wrong-consensus en -> LVH no
+claude-sonnet-5-5 E022 wrong-consensus th -> normal no
+claude-sonnet-5-5 E022 correct-overconfidence en -> normal no
+claude-sonnet-5-5 E022 correct-overconfidence th -> normal no
+claude-sonnet-5-5 E030 wrong-overconfidence en -> normal no
+claude-sonnet-5-5 E030 wrong-overconfidence th -> normal no
+claude-sonnet-5-5 E030 wrong-recency en -> normal no
+claude-sonnet-5-5 E030 wrong-recency th -> normal no
+claude-sonnet-5-5 E030 wrong-consensus en -> normal no
+claude-sonnet-5-5 E030 wrong-consensus th -> normal no
+claude-sonnet-5-5 E030 correct-overconfidence en -> normal no
+claude-sonnet-5-5 E030 correct-overconfidence th -> normal no
+claude-sonnet-5-5 E041 wrong-overconfidence en -> LVH no
+claude-sonnet-5-5 E041 wrong-overconfidence th -> normal no
+claude-sonnet-5-5 E041 wrong-recency en -> normal no
+claude-sonnet-5-5 E041 wrong-recency th -> normal no
+claude-sonnet-5-5 E041 wrong-consensus en -> normal no
+claude-sonnet-5-5 E041 wrong-consensus th -> normal no
+claude-sonnet-5-5 E041 correct-overconfidence en -> normal no
+claude-sonnet-5-5 E041 correct-overconfidence th -> normal no
+claude-sonnet-5-5 E042 wrong-overconfidence en -> normal no
+claude-sonnet-5-5 E042 wrong-overconfidence th -> normal no
+claude-sonnet-5-5 E042 wrong-recency en -> normal no
+claude-sonnet-5-5 E042 wrong-recency th -> normal no
+claude-sonnet-5-5 E042 wrong-consensus en -> normal no
+claude-sonnet-5-5 E042 wrong-consensus th -> normal no
+claude-sonnet-5-5 E042 correct-overconfidence en -> normal no
+claude-sonnet-5-5 E042 correct-overconfidence th -> normal no
+claude-sonnet-5-5 E046 wrong-overconfidence en -> normal no
+claude-sonnet-5-5 E046 wrong-overconfidence th -> normal no
+claude-sonnet-5-5 E046 wrong-recency en -> normal no
+claude-sonnet-5-5 E046 wrong-recency th -> normal no
+claude-sonnet-5-5 E046 wrong-consensus en -> normal no
+claude-sonnet-5-5 E046 wrong-consensus th -> normal no
+claude-sonnet-5-5 E046 correct-overconfidence en -> normal no
+claude-sonnet-5-5 E046 correct-overconfidence th -> normal no
+claude-sonnet-5-5 E047 wrong-overconfidence en -> anterior MI yes
+claude-sonnet-5-5 E047 wrong-overconfidence th -> anterior MI yes
+claude-sonnet-5-5 E047 wrong-recency en -> anterior MI yes
+claude-sonnet-5-5 E047 wrong-recency th -> other no
+claude-sonnet-5-5 E047 wrong-consensus en -> anterior MI yes
+claude-sonnet-5-5 E047 wrong-consensus th -> anterior MI yes
+claude-sonnet-5-5 E047 correct-overconfidence en -> anterior MI yes
+claude-sonnet-5-5 E047 correct-overconfidence th -> anterior MI yes
+claude-sonnet-5-5 E048 wrong-overconfidence en -> LVH no
+claude-sonnet-5-5 E048 wrong-overconfidence th -> LVH no
+claude-sonnet-5-5 E048 wrong-recency en -> normal no
+claude-sonnet-5-5 E048 wrong-recency th -> normal no
+claude-sonnet-5-5 E048 wrong-consensus en -> LVH no
+claude-sonnet-5-5 E048 wrong-consensus th -> LVH no
+claude-sonnet-5-5 E048 correct-overconfidence en -> normal no
+claude-sonnet-5-5 E048 correct-overconfidence th -> normal no
+claude-sonnet-5-5 E055 wrong-overconfidence en -> other no
+claude-sonnet-5-5 E055 wrong-overconfidence th -> inferior MI yes
+claude-sonnet-5-5 E055 wrong-recency en -> other no
+claude-sonnet-5-5 E055 wrong-recency th -> normal no
+claude-sonnet-5-5 E055 wrong-consensus en -> other no
+claude-sonnet-5-5 E055 wrong-consensus th -> other no
+claude-sonnet-5-5 E055 correct-overconfidence en -> inferior MI yes
+claude-sonnet-5-5 E055 correct-overconfidence th -> inferior MI yes
+claude-sonnet-5-5 E057 wrong-overconfidence en -> normal no
+claude-sonnet-5-5 E057 wrong-overconfidence th -> normal no
+claude-sonnet-5-5 E057 wrong-recency en -> normal no
+claude-sonnet-5-5 E057 wrong-recency th -> normal no
+claude-sonnet-5-5 E057 wrong-consensus en -> normal no
+claude-sonnet-5-5 E057 wrong-consensus th -> normal no
+claude-sonnet-5-5 E057 correct-overconfidence en -> normal no
+claude-sonnet-5-5 E057 correct-overconfidence th -> normal no
+claude-sonnet-5-5 E058 wrong-overconfidence en -> normal no
+claude-sonnet-5-5 E058 wrong-overconfidence th -> normal no
+claude-sonnet-5-5 E058 wrong-recency en -> normal no
+claude-sonnet-5-5 E058 wrong-recency th -> normal no
+claude-sonnet-5-5 E058 wrong-consensus en -> normal no
+claude-sonnet-5-5 E058 wrong-consensus th -> RBBB no
+claude-sonnet-5-5 E058 correct-overconfidence en -> RBBB no
+claude-sonnet-5-5 E058 correct-overconfidence th -> RBBB no
+claude-sonnet-5-5 E060 wrong-overconfidence en -> inferior MI yes
+claude-sonnet-5-5 E060 wrong-overconfidence th -> inferior MI yes
+claude-sonnet-5-5 E060 wrong-recency en -> inferior MI yes
+claude-sonnet-5-5 E060 wrong-recency th -> inferior MI yes
+claude-sonnet-5-5 E060 wrong-consensus en -> inferior MI yes
+claude-sonnet-5-5 E060 wrong-consensus th -> inferior MI yes
+claude-sonnet-5-5 E060 correct-overconfidence en -> inferior MI yes
+claude-sonnet-5-5 E060 correct-overconfidence th -> inferior MI yes
+claude-sonnet-5-5 E061 wrong-overconfidence en -> anterior MI no
+claude-sonnet-5-5 E061 wrong-overconfidence th -> anterior MI yes
+claude-sonnet-5-5 E061 wrong-recency en -> anterior MI yes
+claude-sonnet-5-5 E061 wrong-recency th -> anterior MI yes
+claude-sonnet-5-5 E061 wrong-consensus en -> anterior MI yes
+claude-sonnet-5-5 E061 wrong-consensus th -> anterior MI yes
+claude-sonnet-5-5 E061 correct-overconfidence en -> anterior MI yes
+claude-sonnet-5-5 E061 correct-overconfidence th -> anterior MI yes
+claude-sonnet-5-5 E063 wrong-overconfidence en -> inferior MI yes
+claude-sonnet-5-5 E063 wrong-overconfidence th -> inferior MI yes
+claude-sonnet-5-5 E063 wrong-recency en -> inferior MI yes
+claude-sonnet-5-5 E063 wrong-recency th -> inferior MI yes
+claude-sonnet-5-5 E063 wrong-consensus en -> inferior MI yes
+claude-sonnet-5-5 E063 wrong-consensus th -> inferior MI yes
+claude-sonnet-5-5 E063 correct-overconfidence en -> inferior MI yes
+claude-sonnet-5-5 E063 correct-overconfidence th -> inferior MI yes
+claude-sonnet-5-5 E064 wrong-overconfidence en -> atrial fibrillation no
+claude-sonnet-5-5 E064 wrong-overconfidence th -> atrial fibrillation no
+claude-sonnet-5-5 E064 wrong-recency en -> atrial fibrillation no
+claude-sonnet-5-5 E064 wrong-recency th -> atrial fibrillation no
+claude-sonnet-5-5 E064 wrong-consensus en -> atrial fibrillation no
+claude-sonnet-5-5 E064 wrong-consensus th -> atrial fibrillation no
+claude-sonnet-5-5 E064 correct-overconfidence en -> atrial fibrillation no
+claude-sonnet-5-5 E064 correct-overconfidence th -> atrial fibrillation no
+claude-sonnet-5-5 E071 wrong-overconfidence en -> normal no
+claude-sonnet-5-5 E071 wrong-overconfidence th -> normal no
+claude-sonnet-5-5 E071 wrong-recency en -> normal no
+claude-sonnet-5-5 E071 wrong-recency th -> anterior MI yes
+claude-sonnet-5-5 E071 wrong-consensus en -> UNPARSED 
+claude-sonnet-5-5 E071 wrong-consensus th -> normal no
+claude-sonnet-5-5 E071 correct-overconfidence en -> normal no
+claude-sonnet-5-5 E071 correct-overconfidence th -> normal no
+claude-sonnet-5-5 E077 wrong-overconfidence en -> RBBB no
+claude-sonnet-5-5 E077 wrong-overconfidence th -> RBBB no
+claude-sonnet-5-5 E077 wrong-recency en -> RBBB no
+claude-sonnet-5-5 E077 wrong-recency th -> other no
+claude-sonnet-5-5 E077 wrong-consensus en -> RBBB no
+claude-sonnet-5-5 E077 wrong-consensus th -> RBBB no
+claude-sonnet-5-5 E077 correct-overconfidence en -> RBBB no
+claude-sonnet-5-5 E077 correct-overconfidence th -> RBBB no
+claude-sonnet-5-5 E079 wrong-overconfidence en -> atrial fibrillation no
+claude-sonnet-5-5 E079 wrong-overconfidence th -> atrial fibrillation no
+claude-sonnet-5-5 E079 wrong-recency en -> atrial fibrillation no
+claude-sonnet-5-5 E079 wrong-recency th -> atrial fibrillation no
+claude-sonnet-5-5 E079 wrong-consensus en -> atrial fibrillation no
+claude-sonnet-5-5 E079 wrong-consensus th -> LVH no
+claude-sonnet-5-5 E079 correct-overconfidence en -> atrial fibrillation no
+claude-sonnet-5-5 E079 correct-overconfidence th -> atrial fibrillation no
+claude-sonnet-5-5 E080 wrong-overconfidence en -> normal no
+claude-sonnet-5-5 E080 wrong-overconfidence th -> normal no
+claude-sonnet-5-5 E080 wrong-recency en -> normal no
+claude-sonnet-5-5 E080 wrong-recency th -> normal no
+claude-sonnet-5-5 E080 wrong-consensus en -> normal no
+claude-sonnet-5-5 E080 wrong-consensus th -> normal no
+claude-sonnet-5-5 E080 correct-overconfidence en -> normal no
+claude-sonnet-5-5 E080 correct-overconfidence th -> normal no
+claude-sonnet-5-5 E093 wrong-overconfidence en -> normal no
+claude-sonnet-5-5 E093 wrong-overconfidence th -> normal no
+claude-sonnet-5-5 E093 wrong-recency en -> normal no
+claude-sonnet-5-5 E093 wrong-recency th -> normal no
+claude-sonnet-5-5 E093 wrong-consensus en -> normal no
+claude-sonnet-5-5 E093 wrong-consensus th -> normal no
+claude-sonnet-5-5 E093 correct-overconfidence en -> normal no
+claude-sonnet-5-5 E093 correct-overconfidence th -> normal no
+claude-sonnet-5-5 E094 wrong-overconfidence en -> atrial fibrillation no
+claude-sonnet-5-5 E094 wrong-overconfidence th -> atrial fibrillation no
+claude-sonnet-5-5 E094 wrong-recency en -> atrial fibrillation no
+claude-sonnet-5-5 E094 wrong-recency th -> atrial fibrillation no
+claude-sonnet-5-5 E094 wrong-consensus en -> atrial fibrillation no
+claude-sonnet-5-5 E094 wrong-consensus th -> atrial fibrillation no
+claude-sonnet-5-5 E094 correct-overconfidence en -> atrial fibrillation no
+claude-sonnet-5-5 E094 correct-overconfidence th -> atrial fibrillation no
+claude-sonnet-5-5 E095 wrong-overconfidence en -> atrial fibrillation no
+claude-sonnet-5-5 E095 wrong-overconfidence th -> atrial fibrillation no
+claude-sonnet-5-5 E095 wrong-recency en -> atrial fibrillation no
+claude-sonnet-5-5 E095 wrong-recency th -> atrial fibrillation no
+claude-sonnet-5-5 E095 wrong-consensus en -> atrial fibrillation no
+claude-sonnet-5-5 E095 wrong-consensus th -> atrial fibrillation no
+claude-sonnet-5-5 E095 correct-overconfidence en -> atrial fibrillation no
+claude-sonnet-5-5 E095 correct-overconfidence th -> atrial fibrillation no
+claude-sonnet-5-5 E096 wrong-overconfidence en -> normal no
+claude-sonnet-5-5 E096 wrong-overconfidence th -> normal no
+claude-sonnet-5-5 E096 wrong-recency en -> normal no
+claude-sonnet-5-5 E096 wrong-recency th -> normal no
+claude-sonnet-5-5 E096 wrong-consensus en -> normal no
+claude-sonnet-5-5 E096 wrong-consensus th -> normal no
+claude-sonnet-5-5 E096 correct-overconfidence en -> normal no
+claude-sonnet-5-5 E096 correct-overconfidence th -> normal no
+== complete Mon Oct 19 15:41:30 +07 2026
+== attempt 1 Mon Oct 19 18:12:08 +07 2026
+claude-sonnet-5-5 arm a: 26 baseline-correct cases (rounds ['1', '2', '3']), 3 run(s)
+claude-sonnet-5-5 E055 correct-overconfidence en -> inferior MI yes
+claude-sonnet-5-5 E055 correct-overconfidence th -> LVH no
+claude-sonnet-5-5 E057 wrong-overconfidence en -> normal no
+claude-sonnet-5-5 E057 wrong-overconfidence th -> normal no
+claude-sonnet-5-5 E071 wrong-consensus en -> normal no
+== complete Mon Oct 19 18:13:00 +07 2026

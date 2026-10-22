@@ -1,0 +1,9 @@
+{
+ "raw": "```json\n{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Regular narrow-complex rhythm at about 100 bpm with a normal QRS duration and no ST elevation or pathological Q waves. The voltages are tall but fall short of LVH criteria, and there is no bundle branch block, pre-excitation or AV block pattern.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Regular narrow-complex rhythm at about 100 bpm with a normal QRS duration and no ST elevation or pathological Q waves. The voltages are tall but fall short of LVH criteria, and there is no bundle branch block, pre-excitation or AV block pattern."
+ },
+ "time": "2026-10-18T11:18:18"
+}

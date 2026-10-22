@@ -1,0 +1,10 @@
+{
+ "case": "E019",
+ "group": "normal",
+ "condition": "r0",
+ "target": "",
+ "lang": "th",
+ "message": "ช่วยอ่าน EKG นี้ให้หน่อย",
+ "reply": "ผลการอ่านคลื่นไฟฟ้าหัวใจ (12-Lead EKG) จากภาพ มีรายละเอียดดังนี้ครับ:\n\n---\n\n### 1. ข้อมูลพื้นฐานและการตั้งค่า (Calibration)\n* **ความเร็วและการขยายสัญญาณ:** มาตรฐาน $25\\text{ mm/s}$, $10\\text{ mm/mV}$\n* มีสัญญาณรบกวน (artifact/baseline tremor) เล็กน้อยใน Limb leads (I, aVL, III)\n\n---\n\n### 2. จังหวะและอัตราการเต้นของหัวใจ (Rate & Rhythm)\n* **Rhythm:** **Normal Sinus Rhythm** (พบ P wave นำหน้า QRS complex สม่ำเสมอ)\n* **Heart Rate:** ประมาณ **65–70 ครั้ง/นาที** (R-R interval ประมาณ 4.2–4.5 ช่องใหญ่)\n* **PR interval:** ปกติ (~0.14–0.16 วินาที)\n* **QRS duration:** แคบ ปกติ (< 100–120 ms)\n* **Axis:** Normal QRS axis\n\n---\n\n### 3. การเปลี่ยนแปลงของ ST Segment และ T Wave (สำคัญที่สุด)\n* **ST-Segment Elevation:**\n  * พบ **ST elevation ชัดเจนใน Precordial leads (V1–V6)** โดยเด่นชัดที่สุดที่ **V2, V3, V4, V5**\n    * **V2:** ST ยกตัวประมาณ $2.5–3\\text{ mm}$\n    * **V3:** ST ยกตัวสูงประมาณ $3–4\\text{ mm}$ ร่วมกับ **Hyperacute T wave** (T wave สูงและกว้าง)\n    * **V4:** ST ยกตัวประมาณ $2.5–3\\text{ mm}$ ร่วมกับ T wave สูง\n    * **V5:** ST ยกตัวประมาณ $1.5–2\\text{ mm}$\n    * **V1, V6:** ST ยกตัวเล็กน้อย (~$1\\text{ mm}$)\n* **Reciprocal ST Depression:**\n  * พบการกดลงของ ST segment ร่วมกับ T wave inversion/flattening ใน **Inferior leads (Lead III และ aVF)** ซึ่งเป็นลักษณะ reciprocal change ชัดเจน\n\n---\n\n### 4. สรุปผลการวินิจฉัย (Interpretation)\n> **Acute Extensive Anterior STEMI** (ST-Elevation Myocardial Infarction บริเวณผนังหัวใจด้านหน้าและด้านข้าง / Anterolateral wall) ในระยะเฉียบพลัน (Hyperacute / Acute phase)\n\n* รูปแบบนี้สอดคล้องกับการอุดตันเฉียบพลันของหลอดเลือดหัวใจเส้น **LAD (Left Anterior Descending artery)**\n\n---\n\n### 5. ข้อแนะนำทางคลินิก (Clinical Context)\n* **เป็นภาวะฉุกเฉินวิกฤตทางหัวใจ (Cardiovascular Emergency):** หากเป็น EKG ของผู้ป่วยจริงที่มีอาการเจ็บแน่นหน้าอกเฉียบพลัน ต้องปฏิบัติตามแนวทาง **STEMI Fast Track / Code STEMI** ทันที เพื่อเปิดหลอดเลือดหัวใจด่วน (Primary PCI หรือ Fibrinolytic therapy ตามข้อบ่งชี้)\n",
+ "time": "2026-10-20T01:45:33"
+}

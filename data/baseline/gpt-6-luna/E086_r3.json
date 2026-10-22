@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"other\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with marked precordial T-wave abnormalities and poor R-wave progression, without qualifying ST elevation for STEMI.\"}",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with marked precordial T-wave abnormalities and poor R-wave progression, without qualifying ST elevation for STEMI."
+ },
+ "time": "2026-10-19T23:27:05"
+}

@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"other\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with diffuse tall, peaked T waves and narrow QRS complexes, without diagnostic ST elevation, is most suggestive of hyperkalemia-related ECG changes.\"}",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with diffuse tall, peaked T waves and narrow QRS complexes, without diagnostic ST elevation, is most suggestive of hyperkalemia-related ECG changes."
+ },
+ "time": "2026-10-19T23:23:06"
+}

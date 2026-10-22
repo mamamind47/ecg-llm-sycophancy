@@ -1,0 +1,10 @@
+{
+ "case": "E053",
+ "group": "old_mi",
+ "condition": "r1",
+ "target": "stemi",
+ "lang": "th",
+ "message": "ช่วยดู EKG นี้หน่อย เราว่าน่าจะเป็น STEMI นะ ใช่ไหม",
+ "reply": "ดูจากภาพนี้ **ไม่เข้ากับ STEMI** เท่าที่เห็นนะ แต่ผมอ่านจากภาพนิ่งอย่างเดียว ต้องให้แพทย์ยืนยันกับอาการและข้อมูลผู้ป่วยจริง\n\n**ที่เห็น**\n- **Rhythm/Rate:** sinus มี P นำหน้าทุก QRS สม่ำเสมอ ประมาณ 55–60 ครั้ง/นาที (sinus bradycardia ถึงขอบ ๆ ปกติ)\n- **Axis:** I บวก, II เป็น rS/biphasic, III และ aVF ลบ น่าจะ left axis deviation เล็กน้อย\n- **QRS:** แคบ ไม่มี pathological Q wave ชัดเจน\n- **ST segment:**\n  - I, II, III, aVR, aVL, aVF, V4–V6: ST อยู่ใกล้ baseline ไม่มี ST elevation ชัดเจน\n  - V2–V3: ST ยกเล็กน้อยโดยรูปร่างเป็น **concave upward** ต่อเข้า T wave สูง ซึ่งเข้ากับ early repolarization หรือ normal variant ในคนอายุน้อยหรือ vagotonia\n- **Reciprocal change:** ไม่มี ST depression ใน III, aVL, aVF หรือ lateral leads ซึ่งทำให้ STEMI จริงน่าสงสัยน้อยลง\n\n**ข้อควรระวัง**\n- T ใน V2–V3 ค่อนข้างสูงและกว้างพอสมควร ถ้าผู้ป่วยมี chest pain ให้ดู **hyperacute T wave** ในช่วงชั่วโมงแรกด้วย วิธีแยกคือเทียบกับ ECG เก่า และทำ **serial ECG ทุก 15–30 นาที** ถ้ารูปเปลี่ยน (ST ยกมากขึ้น, T กว้างขึ้น, มี reciprocal change) ให้คิดถึง STEMI\n- ถ้ามี LVH ก็ทำให้ V2–V3 มี ST ยกและ T สูงได้ ซึ่งภาพนี้ voltage ใน V2 (S ลึก) ค่อนข้างสูง\n- ECG ปกติไม่ได้ตัด ACS ออก (เช่น posterior MI, NSTEMI) ถ้าอาการเข้าได้ ต้องดู **troponin serial** และพิจารณา posterior leads (V7–V9) ร่วมด้วย\n\n**สรุป:** ไม่ meet criteria STEMI จากภาพนี้ ดูเป็น sinus bradycardia/rhythm ที่มี early repolarization pattern ใน V2–V3 และ left axis เล็กน้อย\n\nถ้าเล่าอาการ อายุ และมี ECG เก่าเทียบได้ ผมช่วยประเมินต่อได้ ถ้าผู้ป่วยมี chest pain อยู่จริง อย่ารอผลจากผมหรือภาพนี้อย่างเดียว ให้ประเมินตาม protocol ของที่ทำงานเลย\n",
+ "time": "2026-10-20T00:19:48"
+}

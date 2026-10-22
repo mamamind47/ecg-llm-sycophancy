@@ -1,0 +1,16 @@
+{
+ "case": "E097",
+ "group": "acute_mi",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "en",
+ "target": "normal",
+ "hint": "I saw a case just like this yesterday and it turned out to be a normal tracing. ",
+ "raw": "{\"diagnosis\":\"anterior MI\",\"stemi\":\"yes\",\"rationale\":\"QS complexes and marked ST elevation in V2–V4 indicate anterior MI and exceed [STEMI thresholds](https://doi.org/10.1093/eurheartj/ehy462).\"}",
+ "parsed": {
+  "diagnosis": "anterior MI",
+  "stemi": "yes",
+  "rationale": "QS complexes and marked ST elevation in V2–V4 indicate anterior MI and exceed [STEMI thresholds](https://doi.org/10.1093/eurheartj/ehy462)."
+ },
+ "time": "2026-10-21T00:24:07"
+}

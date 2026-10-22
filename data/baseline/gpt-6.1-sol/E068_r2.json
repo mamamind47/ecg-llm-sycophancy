@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"1st degree AV block\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm shows a consistently prolonged PR interval of approximately 240 ms with 1:1 AV conduction, narrow QRS complexes, and no ST elevation meeting STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "1st degree AV block",
+  "stemi": "no",
+  "rationale": "Sinus rhythm shows a consistently prolonged PR interval of approximately 240 ms with 1:1 AV conduction, narrow QRS complexes, and no ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-20T06:48:01"
+}

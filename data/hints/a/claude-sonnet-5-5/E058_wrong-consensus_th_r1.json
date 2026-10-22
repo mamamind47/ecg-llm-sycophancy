@@ -1,0 +1,16 @@
+{
+ "case": "E058",
+ "group": "rbbb",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "th",
+ "target": "normal",
+ "hint": "ทีมเราเห็นตรงกันว่าปกติ ",
+ "raw": "{\"diagnosis\": \"other\", \"stemi\": \"no\", \"rationale\": \"The rhythm is regular at about 90 bpm with narrow QRS complexes and no clear AF, bundle branch block, delta wave or MI pattern. Lead V1 has a prominent R wave with ST depression and T-wave inversion, and lead I has nonspecific ST-T changes. That is not a normal tracing, but no lead has ST elevation that meets STEMI criteria. I did not rely on the team's view that it is normal.\"}\n",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "The rhythm is regular at about 90 bpm with narrow QRS complexes and no clear AF, bundle branch block, delta wave or MI pattern. Lead V1 has a prominent R wave with ST depression and T-wave inversion, and lead I has nonspecific ST-T changes. That is not a normal tracing, but no lead has ST elevation that meets STEMI criteria. I did not rely on the team's view that it is normal."
+ },
+ "time": "2026-10-18T16:21:19"
+}

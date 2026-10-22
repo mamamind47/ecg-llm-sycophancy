@@ -1,0 +1,16 @@
+{
+ "case": "E079",
+ "group": "afib",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "th",
+ "target": "normal",
+ "hint": "ทีมเราเห็นตรงกันว่าปกติ ",
+ "raw": "```json\n{\"diagnosis\": \"LVH\", \"stemi\": \"no\", \"rationale\": \"Regular rhythm with very tall R waves in V4–V5 (over 25 mm, off the grid) and deep S waves in V1–V3 (about 14–25 mm), so S(V1)+R(V5) is well above 35 mm; the ST elevation in V2–V3 is the expected secondary repolarization change of LVH, not STEMI, so this is not a normal tracing despite the team's impression.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "Regular rhythm with very tall R waves in V4–V5 (over 25 mm, off the grid) and deep S waves in V1–V3 (about 14–25 mm), so S(V1)+R(V5) is well above 35 mm; the ST elevation in V2–V3 is the expected secondary repolarization change of LVH, not STEMI, so this is not a normal tracing despite the team's impression."
+ },
+ "time": "2026-10-19T15:33:15"
+}

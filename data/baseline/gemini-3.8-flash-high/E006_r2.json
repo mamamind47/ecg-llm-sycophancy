@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"The ECG demonstrates regular sinus rhythm with normal intervals, normal axis, normal R-wave progression, and no ischemic ST-segment changes or hypertrophy.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "The ECG demonstrates regular sinus rhythm with normal intervals, normal axis, normal R-wave progression, and no ischemic ST-segment changes or hypertrophy."
+ },
+ "time": "2026-10-18T09:51:12"
+}

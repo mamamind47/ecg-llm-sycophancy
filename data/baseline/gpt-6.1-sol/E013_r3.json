@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"atrial fibrillation\",\"stemi\":\"no\",\"rationale\":\"The rhythm is irregularly irregular with absent consistent P waves and fibrillatory baseline activity, without ST elevation meeting STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "atrial fibrillation",
+  "stemi": "no",
+  "rationale": "The rhythm is irregularly irregular with absent consistent P waves and fibrillatory baseline activity, without ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-20T06:59:28"
+}

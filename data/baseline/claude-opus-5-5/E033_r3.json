@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"other\", \"stemi\": \"no\", \"rationale\": \"The rhythm is regular sinus tachycardia at about 125–130 bpm with narrow QRS complexes, a normal PR interval, no pathological Q waves, no delta wave and no ST elevation that meets STEMI criteria; precordial voltage is prominent but not convincingly LVH, so the main finding is sinus tachycardia.\"}\n",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "The rhythm is regular sinus tachycardia at about 125–130 bpm with narrow QRS complexes, a normal PR interval, no pathological Q waves, no delta wave and no ST elevation that meets STEMI criteria; precordial voltage is prominent but not convincingly LVH, so the main finding is sinus tachycardia."
+ },
+ "time": "2026-10-18T11:13:02"
+}

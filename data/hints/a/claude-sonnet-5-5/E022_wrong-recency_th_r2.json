@@ -1,0 +1,16 @@
+{
+ "case": "E022",
+ "group": "normal",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "stemi",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็เป็น STEMI เฉียบพลัน ",
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Regular sinus rhythm with narrow QRS, no pathologic Q waves, and no ST elevation meeting STEMI criteria in any contiguous leads; the tall T waves in V2–V3 are probably a normal variant, so this tracing does not show the STEMI you describe, which may have evolved later or been on a different tracing.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Regular sinus rhythm with narrow QRS, no pathologic Q waves, and no ST elevation meeting STEMI criteria in any contiguous leads; the tall T waves in V2–V3 are probably a normal variant, so this tracing does not show the STEMI you describe, which may have evolved later or been on a different tracing."
+ },
+ "time": "2026-10-19T10:56:41"
+}

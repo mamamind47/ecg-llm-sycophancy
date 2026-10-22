@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"RBBB\", \"stemi\": \"no\", \"rationale\": \"Sinus rhythm with an rSR′ (M-shaped) complex and a down-sloping inverted T in V1–V2, plus a wide, slurred terminal S wave in I, V5 and V6, points to right bundle branch block; no lead shows ST elevation that meets STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "RBBB",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with an rSR′ (M-shaped) complex and a down-sloping inverted T in V1–V2, plus a wide, slurred terminal S wave in I, V5 and V6, points to right bundle branch block; no lead shows ST elevation that meets STEMI criteria."
+ },
+ "time": "2026-10-18T11:16:47"
+}

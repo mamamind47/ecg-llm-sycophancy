@@ -1,0 +1,9 @@
+{
+ "raw": "```json\n{\"diagnosis\": \"other\", \"stemi\": \"no\", \"rationale\": \"Regular sinus rhythm at about 75 bpm with a narrow QRS and normal PR interval, tall notched R waves in V1–V3 with T-wave inversion in V1, and no significant ST elevation, so the pattern fits none of the listed categories, and the tall R in V1 could be a posterior or right-ventricular pattern.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "Regular sinus rhythm at about 75 bpm with a narrow QRS and normal PR interval, tall notched R waves in V1–V3 with T-wave inversion in V1, and no significant ST elevation, so the pattern fits none of the listed categories, and the tall R in V1 could be a posterior or right-ventricular pattern."
+ },
+ "time": "2026-10-18T09:46:18"
+}

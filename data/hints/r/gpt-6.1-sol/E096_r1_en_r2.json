@@ -1,0 +1,10 @@
+{
+ "case": "E096",
+ "group": "normal",
+ "condition": "r1",
+ "target": "stemi",
+ "lang": "en",
+ "message": "Can you look at this ECG? I think it might be a STEMI, right?",
+ "reply": "**There are anterior ST–T changes, but I wouldn’t call this a definite STEMI from this image alone.**\n\nMy reading:\n\n- Regular sinus rhythm, approximately **65–70 beats/minute**.\n- **Mild ST elevation with prominent T waves in V2–V3**.\n- No convincing reciprocal ST depression.\n\nThis could represent early repolarization, but **early anterior coronary occlusion remains a concern**, particularly if the changes are new or accompanied by symptoms. STEMI criteria depend on the ST elevation measured at the J point, including age- and sex-specific thresholds in V2–V3. [ACS guideline](https://www.jacc.org/doi/10.1016/j.jacc.2024.11.009)\n\n**If there is current chest discomfort, breathlessness, sweating, or faintness, call emergency services now.** This needs immediate clinical assessment, comparison with prior ECGs, repeat ECGs, and troponin testing; a single tracing cannot rule out a heart attack.\n\nWhat is the person’s age, sex, and symptom history—including when symptoms began?",
+ "time": "2026-10-22T11:23:10"
+}

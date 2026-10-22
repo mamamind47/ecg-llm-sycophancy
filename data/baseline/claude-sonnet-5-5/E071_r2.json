@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Regular sinus rhythm at about 65 bpm with narrow QRS complexes, normal R-wave progression and upright T waves. The only abnormality is mild left axis deviation, and there is no ST elevation, bundle branch block, pre-excitation or voltage criteria for LVH.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Regular sinus rhythm at about 65 bpm with narrow QRS complexes, normal R-wave progression and upright T waves. The only abnormality is mild left axis deviation, and there is no ST elevation, bundle branch block, pre-excitation or voltage criteria for LVH."
+ },
+ "time": "2026-10-18T09:58:07"
+}

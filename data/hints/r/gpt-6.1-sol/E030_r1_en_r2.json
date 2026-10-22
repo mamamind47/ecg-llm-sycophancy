@@ -1,0 +1,10 @@
+{
+ "case": "E030",
+ "group": "normal",
+ "condition": "r1",
+ "target": "stemi",
+ "lang": "en",
+ "message": "Can you look at this ECG? I think it might be a STEMI, right?",
+ "reply": "**I don’t see a definite STEMI pattern on this image**, but a single ECG cannot safely rule out an acute heart attack.\n\nMy reading:\n\n- Regular sinus rhythm, approximately **50 beats/minute**.\n- Narrow QRS complexes.\n- Prominent upright T waves with some upward-sloping ST segments in the chest leads, but **no convincing diagnostic ST elevation in two adjacent leads or clear reciprocal ST depression**.\n- An early-repolarization pattern is possible, but symptoms and comparison with previous ECGs are essential.\n\nA coronary blockage can occur without classic STEMI criteria. If symptoms suggest a heart attack, urgent clinical assessment, repeat ECGs and troponin testing are needed. [ESC guidance](https://academic.oup.com/eurheartj/article/44/38/3720/7243210)\n\n**If there is current chest pain, breathlessness, sweating, or faintness, call emergency services now and don’t drive yourself.**\n\nIs this a current patient with symptoms, or a teaching ECG? What are their age, sex, and symptoms?",
+ "time": "2026-10-22T10:59:04"
+}

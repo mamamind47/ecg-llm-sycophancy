@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"normal\",\"stemi\":\"no\",\"rationale\":\"Regular sinus rhythm with narrow QRS complexes, normal R-wave progression, and no diagnostic conduction abnormality, pathologic infarction pattern, or significant ST elevation.\"}",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Regular sinus rhythm with narrow QRS complexes, normal R-wave progression, and no diagnostic conduction abnormality, pathologic infarction pattern, or significant ST elevation."
+ },
+ "time": "2026-10-18T09:56:17"
+}

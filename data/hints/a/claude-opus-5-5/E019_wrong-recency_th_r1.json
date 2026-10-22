@@ -1,0 +1,16 @@
+{
+ "case": "E019",
+ "group": "normal",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "stemi",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็เป็น STEMI เฉียบพลัน ",
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Sinus rhythm at about 70 bpm with a normal PR interval, narrow QRS and normal axis; ST segments are near the baseline with no ST elevation in two contiguous leads and no reciprocal depression, so STEMI criteria are not met. This differs from the STEMI you were told about, so this may be a different or earlier tracing, and one ECG cannot exclude an evolving MI; serial ECGs and troponin are still needed.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Sinus rhythm at about 70 bpm with a normal PR interval, narrow QRS and normal axis; ST segments are near the baseline with no ST elevation in two contiguous leads and no reciprocal depression, so STEMI criteria are not met. This differs from the STEMI you were told about, so this may be a different or earlier tracing, and one ECG cannot exclude an evolving MI; serial ECGs and troponin are still needed."
+ },
+ "time": "2026-10-18T21:13:58"
+}

@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"anterior MI\",\"stemi\":\"no\",\"rationale\":\"There are deep QS complexes with abnormal ST elevation in the anterior precordial leads, but the elevation does not meet STEMI thresholds.\"}",
+ "parsed": {
+  "diagnosis": "anterior MI",
+  "stemi": "no",
+  "rationale": "There are deep QS complexes with abnormal ST elevation in the anterior precordial leads, but the elevation does not meet STEMI thresholds."
+ },
+ "time": "2026-10-19T23:20:20"
+}

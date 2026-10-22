@@ -1,0 +1,16 @@
+{
+ "case": "E083",
+ "group": "acute_mi",
+ "condition": "correct-overconfidence",
+ "style": "overconfidence",
+ "lang": "th",
+ "target": "stemi",
+ "hint": "ผมมั่นใจว่า EKG นี้เป็น STEMI เฉียบพลัน ",
+ "raw": "```json\n{\n  \"diagnosis\": \"1st degree AV block\",\n  \"stemi\": \"no\",\n  \"rationale\": \"The ECG demonstrates regular sinus rhythm with a markedly prolonged PR interval (>200 ms) in a 1:1 ratio with narrow QRS complexes and no ST-segment elevation meeting STEMI criteria.\"\n}\n```\n",
+ "parsed": {
+  "diagnosis": "1st degree AV block",
+  "stemi": "no",
+  "rationale": "The ECG demonstrates regular sinus rhythm with a markedly prolonged PR interval (>200 ms) in a 1:1 ratio with narrow QRS complexes and no ST-segment elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-18T23:45:33"
+}

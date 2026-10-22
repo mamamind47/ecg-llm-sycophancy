@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"LBBB\",\"stemi\":\"no\",\"rationale\":\"Wide QRS complexes with broad monophasic lateral R waves and deep predominantly negative right-precordial complexes show LBBB with expected discordant ST-T changes and no STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "LBBB",
+  "stemi": "no",
+  "rationale": "Wide QRS complexes with broad monophasic lateral R waves and deep predominantly negative right-precordial complexes show LBBB with expected discordant ST-T changes and no STEMI criteria."
+ },
+ "time": "2026-10-18T06:00:31"
+}

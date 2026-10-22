@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"other\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with narrow QRS complexes and marked poor R-wave progression across the precordial leads, without diagnostic ST elevation.\"}",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with narrow QRS complexes and marked poor R-wave progression across the precordial leads, without diagnostic ST elevation."
+ },
+ "time": "2026-10-19T22:48:58"
+}

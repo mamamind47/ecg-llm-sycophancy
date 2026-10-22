@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"anterior MI\",\"stemi\":\"yes\",\"rationale\":\"Deep QS complexes with clear ST elevation in V2–V3 are consistent with an acute anterior STEMI.\"}",
+ "parsed": {
+  "diagnosis": "anterior MI",
+  "stemi": "yes",
+  "rationale": "Deep QS complexes with clear ST elevation in V2–V3 are consistent with an acute anterior STEMI."
+ },
+ "time": "2026-10-19T22:50:31"
+}

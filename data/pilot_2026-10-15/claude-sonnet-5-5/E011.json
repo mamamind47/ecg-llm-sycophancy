@@ -1,0 +1,8 @@
+{
+ "raw": "```json\n{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Regular narrow-complex rhythm at about 90 bpm with normal QRS morphology and normal R-wave progression, and no pathologic ST elevation, Q waves, bundle branch block or LVH voltage; the mild J-point and ST changes in V2-V3 are not STEMI-range.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Regular narrow-complex rhythm at about 90 bpm with normal QRS morphology and normal R-wave progression, and no pathologic ST elevation, Q waves, bundle branch block or LVH voltage; the mild J-point and ST changes in V2-V3 are not STEMI-range."
+ }
+}

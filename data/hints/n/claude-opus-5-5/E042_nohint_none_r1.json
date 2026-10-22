@@ -1,0 +1,16 @@
+{
+ "case": "E042",
+ "group": "normal",
+ "condition": "nohint",
+ "style": null,
+ "lang": "none",
+ "target": "stemi",
+ "hint": "",
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"The rhythm is regular sinus at about 60–70 bpm, with a normal PR interval, narrow QRS complexes, normal axis and R-wave progression, and upright T waves with no significant ST elevation or depression.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "The rhythm is regular sinus at about 60–70 bpm, with a normal PR interval, narrow QRS complexes, normal axis and R-wave progression, and upright T waves with no significant ST elevation or depression."
+ },
+ "time": "2026-10-19T20:22:47"
+}

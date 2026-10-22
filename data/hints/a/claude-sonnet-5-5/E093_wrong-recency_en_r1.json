@@ -1,0 +1,16 @@
+{
+ "case": "E093",
+ "group": "normal",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "en",
+ "target": "stemi",
+ "hint": "I saw a case just like this yesterday and it turned out to be an acute STEMI. ",
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Regular sinus rhythm with normal P waves, narrow QRS complexes and an unremarkable PR interval, and ST segments that are essentially isoelectric in all leads, with no pathologic ST elevation or reciprocal changes, so STEMI criteria are not met whatever the case yesterday looked like.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Regular sinus rhythm with normal P waves, narrow QRS complexes and an unremarkable PR interval, and ST segments that are essentially isoelectric in all leads, with no pathologic ST elevation or reciprocal changes, so STEMI criteria are not met whatever the case yesterday looked like."
+ },
+ "time": "2026-10-18T16:32:43"
+}

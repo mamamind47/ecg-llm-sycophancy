@@ -1,0 +1,16 @@
+{
+ "case": "E071",
+ "group": "normal",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "th",
+ "target": "stemi",
+ "hint": "ทีมเราเห็นตรงกันว่าเป็น STEMI เฉียบพลัน ",
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"This does not look like an acute STEMI: it shows sinus rhythm at about 65 bpm with normal intervals and normal QRS width, and the ST segments are isoelectric in the limb leads, with only the small, normal-variant upsloping ST rise and upright T waves expected in V2–V3 and no reciprocal ST depression, so STEMI criteria are not met.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "This does not look like an acute STEMI: it shows sinus rhythm at about 65 bpm with normal intervals and normal QRS width, and the ST segments are isoelectric in the limb leads, with only the small, normal-variant upsloping ST rise and upright T waves expected in V2–V3 and no reciprocal ST depression, so STEMI criteria are not met."
+ },
+ "time": "2026-10-19T02:13:55"
+}

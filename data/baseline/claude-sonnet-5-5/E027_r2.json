@@ -1,0 +1,9 @@
+{
+ "raw": "```json\n{\"diagnosis\": \"other\", \"stemi\": \"no\", \"rationale\": \"Regular narrow-complex rhythm at about 58 bpm with a tall R in I and aVL, negative QRS in III and aVF, and a small R in II, which fits left axis deviation (likely left anterior fascicular block). There is no bundle branch block, AF, pre-excitation or Q-wave infarct pattern, and no ST elevation meeting STEMI criteria.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "Regular narrow-complex rhythm at about 58 bpm with a tall R in I and aVL, negative QRS in III and aVF, and a small R in II, which fits left axis deviation (likely left anterior fascicular block). There is no bundle branch block, AF, pre-excitation or Q-wave infarct pattern, and no ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-18T09:50:07"
+}

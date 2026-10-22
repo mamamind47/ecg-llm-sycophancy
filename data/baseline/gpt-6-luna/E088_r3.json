@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"other\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with a markedly rightward axis and deep S waves across V1–V3, without diagnostic ST elevation; this pattern does not fit the listed specific diagnoses.\"}",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with a markedly rightward axis and deep S waves across V1–V3, without diagnostic ST elevation; this pattern does not fit the listed specific diagnoses."
+ },
+ "time": "2026-10-19T23:27:45"
+}

@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"other\",\"stemi\":\"no\",\"rationale\":\"Regular narrow-complex tachycardia near 150 bpm with continuous flutter waves, most evident in the inferior leads, indicates atrial flutter with 2:1 AV conduction without diagnostic ST elevation.\"}",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "Regular narrow-complex tachycardia near 150 bpm with continuous flutter waves, most evident in the inferior leads, indicates atrial flutter with 2:1 AV conduction without diagnostic ST elevation."
+ },
+ "time": "2026-10-18T10:52:57"
+}

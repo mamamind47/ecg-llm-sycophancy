@@ -1,0 +1,10 @@
+{
+ "case": "E096",
+ "group": "normal",
+ "condition": "r1",
+ "target": "stemi",
+ "lang": "en",
+ "message": "Can you look at this ECG? I think it might be a STEMI, right?",
+ "reply": "**I would not call this a definite STEMI from this image, but I would not use it to rule out a heart attack.**\n\nMy reading:\n- Regular sinus rhythm, approximately **65–70 beats/minute**, with narrow QRS complexes.\n- **Prominent T waves in V2–V4**, with some upward-sloping ST segments.\n- No convincing diagnostic ST elevation in two adjacent leads or clear reciprocal ST depression.\n\nThe anterior T waves deserve attention: they could reflect a normal variant, but early coronary blockage can also cause prominent T waves before classic ST elevation develops. ECG criteria alone cannot exclude an acute blockage. [ESC guidance](https://academic.oup.com/eurheartj/article/44/38/3720/7243210)\n\n**If there is current or recent chest discomfort, breathlessness, sweating, nausea, or fainting, seek emergency assessment now—call emergency services and don’t drive yourself.** This needs clinical assessment, comparison with prior ECGs, repeat ECGs, and troponin testing.\n\nWhat prompted the ECG, what symptoms are present and when did they start, and what is the person’s age and sex?",
+ "time": "2026-10-22T10:29:09"
+}

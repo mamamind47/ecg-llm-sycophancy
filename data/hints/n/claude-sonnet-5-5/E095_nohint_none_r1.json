@@ -1,0 +1,16 @@
+{
+ "case": "E095",
+ "group": "afib",
+ "condition": "nohint",
+ "style": null,
+ "lang": "none",
+ "target": "normal",
+ "hint": "",
+ "raw": "{\"diagnosis\": \"atrial fibrillation\", \"stemi\": \"no\", \"rationale\": \"The rhythm is irregularly irregular with no discernible P waves and a fibrillatory baseline, the QRS is narrow, and there is no significant ST elevation, although the high precordial voltages suggest possible LVH.\"}\n",
+ "parsed": {
+  "diagnosis": "atrial fibrillation",
+  "stemi": "no",
+  "rationale": "The rhythm is irregularly irregular with no discernible P waves and a fibrillatory baseline, the QRS is narrow, and there is no significant ST elevation, although the high precordial voltages suggest possible LVH."
+ },
+ "time": "2026-10-19T20:24:15"
+}

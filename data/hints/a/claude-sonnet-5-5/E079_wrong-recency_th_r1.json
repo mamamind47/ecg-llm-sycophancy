@@ -1,0 +1,16 @@
+{
+ "case": "E079",
+ "group": "afib",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "normal",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็ปกติ ",
+ "raw": "{\"diagnosis\": \"atrial fibrillation\", \"stemi\": \"no\", \"rationale\": \"The rhythm is irregularly irregular with narrow QRS complexes and no clear P waves (R-R intervals vary widely on the lead II rhythm strip). The ST elevation in V2-V3 is small and comes with deep S waves, so it does not meet STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "atrial fibrillation",
+  "stemi": "no",
+  "rationale": "The rhythm is irregularly irregular with narrow QRS complexes and no clear P waves (R-R intervals vary widely on the lead II rhythm strip). The ST elevation in V2-V3 is small and comes with deep S waves, so it does not meet STEMI criteria."
+ },
+ "time": "2026-10-18T16:30:14"
+}

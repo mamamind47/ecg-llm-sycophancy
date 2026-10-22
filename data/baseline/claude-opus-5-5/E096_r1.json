@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Regular sinus rhythm at about 70 bpm with a normal PR interval, narrow QRS and normal axis; the mild concave ST elevation in V2–V3 looks like normal early repolarization and does not meet STEMI criteria, with no Q waves, reciprocal changes or LVH voltage.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Regular sinus rhythm at about 70 bpm with a normal PR interval, narrow QRS and normal axis; the mild concave ST elevation in V2–V3 looks like normal early repolarization and does not meet STEMI criteria, with no Q waves, reciprocal changes or LVH voltage."
+ },
+ "time": "2026-10-18T01:06:12"
+}

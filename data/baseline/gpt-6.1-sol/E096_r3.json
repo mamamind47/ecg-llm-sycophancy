@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"normal\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with normal conduction and no diagnostic ischemic ST changes; anterior ST elevation does not meet STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with normal conduction and no diagnostic ischemic ST changes; anterior ST elevation does not meet STEMI criteria."
+ },
+ "time": "2026-10-20T11:40:43"
+}

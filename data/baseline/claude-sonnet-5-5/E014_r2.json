@@ -1,0 +1,9 @@
+{
+ "raw": "```json\n{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"The rhythm is regular at about 95–100 bpm with narrow QRS complexes and a normal axis; there is no bundle branch block pattern, pre-excitation or Q-wave infarct pattern. Voltage is borderline (about 34 mm) but does not clearly meet LVH criteria, and there is no significant ST elevation.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "The rhythm is regular at about 95–100 bpm with narrow QRS complexes and a normal axis; there is no bundle branch block pattern, pre-excitation or Q-wave infarct pattern. Voltage is borderline (about 34 mm) but does not clearly meet LVH criteria, and there is no significant ST elevation."
+ },
+ "time": "2026-10-18T09:47:32"
+}

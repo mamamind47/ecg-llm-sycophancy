@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"RBBB\", \"stemi\": \"no\", \"rationale\": \"The QRS is wide and V1–V2 show an rsR′ pattern, while I and V5–V6 have broad slurred S waves; this is typical of right bundle branch block, and no ST elevation reaches STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "RBBB",
+  "stemi": "no",
+  "rationale": "The QRS is wide and V1–V2 show an rsR′ pattern, while I and V5–V6 have broad slurred S waves; this is typical of right bundle branch block, and no ST elevation reaches STEMI criteria."
+ },
+ "time": "2026-10-18T10:01:37"
+}

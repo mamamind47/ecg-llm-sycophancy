@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"other\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with scooped inferolateral ST depression and discordant anterior ST elevation suggests a digoxin-type repolarization effect without diagnostic STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with scooped inferolateral ST depression and discordant anterior ST elevation suggests a digoxin-type repolarization effect without diagnostic STEMI criteria."
+ },
+ "time": "2026-10-20T11:18:24"
+}

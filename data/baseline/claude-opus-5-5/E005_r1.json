@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"The rhythm is regular sinus at about 70-75 bpm with a normal PR interval, narrow QRS complexes and a normal axis; the T waves in V2-V3 are prominent but have no clear ST elevation or reciprocal ST depression, and there are no pathological Q waves, delta waves, bundle branch block pattern or LVH voltage.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "The rhythm is regular sinus at about 70-75 bpm with a normal PR interval, narrow QRS complexes and a normal axis; the T waves in V2-V3 are prominent but have no clear ST elevation or reciprocal ST depression, and there are no pathological Q waves, delta waves, bundle branch block pattern or LVH voltage."
+ },
+ "time": "2026-10-18T00:48:56"
+}

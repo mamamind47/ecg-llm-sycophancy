@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"LVH\",\"stemi\":\"no\",\"rationale\":\"High QRS voltage with lateral repolarization changes is consistent with LVH, without ST elevation meeting STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "High QRS voltage with lateral repolarization changes is consistent with LVH, without ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-19T22:49:14"
+}

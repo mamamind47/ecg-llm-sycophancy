@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"LVH\", \"stemi\": \"no\", \"rationale\": \"The QRS is narrow with very deep S waves in V1-V3 (well over 35 mm) and tall R waves in aVL, and the lateral leads I and aVL show T-wave inversion. The ST elevation in V1-V3 is discordant to the deep S waves, which is the usual LVH repolarization pattern, so it does not count as a STEMI.\"}\n",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "The QRS is narrow with very deep S waves in V1-V3 (well over 35 mm) and tall R waves in aVL, and the lateral leads I and aVL show T-wave inversion. The ST elevation in V1-V3 is discordant to the deep S waves, which is the usual LVH repolarization pattern, so it does not count as a STEMI."
+ },
+ "time": "2026-10-18T11:16:51"
+}

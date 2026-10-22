@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"other\",\"stemi\":\"no\",\"rationale\":\"Sinus bradycardia at approximately 51 bpm with narrow QRS complexes and nonspecific lateral ST–T changes, without ST elevation meeting STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "Sinus bradycardia at approximately 51 bpm with narrow QRS complexes and nonspecific lateral ST–T changes, without ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-18T21:04:35"
+}

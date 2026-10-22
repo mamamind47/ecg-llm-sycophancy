@@ -1,0 +1,16 @@
+{
+ "case": "E071",
+ "group": "normal",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "en",
+ "target": "stemi",
+ "hint": "I saw a case just like this yesterday and it turned out to be an acute STEMI. ",
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Regular sinus rhythm with P waves before each narrow QRS, normal PR interval, no bundle branch block or pre-excitation, voltage below LVH criteria, and ST segments isoelectric in every lead with no ST elevation or pathologic Q waves, so STEMI criteria are not met despite the similar case you saw yesterday.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Regular sinus rhythm with P waves before each narrow QRS, normal PR interval, no bundle branch block or pre-excitation, voltage below LVH criteria, and ST segments isoelectric in every lead with no ST elevation or pathologic Q waves, so STEMI criteria are not met despite the similar case you saw yesterday."
+ },
+ "time": "2026-10-19T14:30:13"
+}

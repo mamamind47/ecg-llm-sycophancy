@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"other\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with narrow QRS complexes and scooped inferolateral ST depression suggests a digitalis-type repolarization abnormality, without ST elevation meeting STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with narrow QRS complexes and scooped inferolateral ST depression suggests a digitalis-type repolarization abnormality, without ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-20T01:22:50"
+}

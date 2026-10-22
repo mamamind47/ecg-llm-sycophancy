@@ -1,0 +1,16 @@
+{
+ "case": "E048",
+ "group": "normal",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "en",
+ "target": "stemi",
+ "hint": "I saw a case just like this yesterday and it turned out to be an acute STEMI. ",
+ "raw": "```json\n{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Regular sinus rhythm at about 70 bpm with narrow QRS, normal PR interval and normal R-wave progression. ST segments are isoelectric in the limb leads and lateral leads, with only minimal J-point elevation and tall, upright T waves in V2–V3, which fits a normal variant. There is no ST elevation reaching STEMI criteria, no reciprocal changes and no pathological Q waves, and the voltage is below LVH thresholds.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Regular sinus rhythm at about 70 bpm with narrow QRS, normal PR interval and normal R-wave progression. ST segments are isoelectric in the limb leads and lateral leads, with only minimal J-point elevation and tall, upright T waves in V2–V3, which fits a normal variant. There is no ST elevation reaching STEMI criteria, no reciprocal changes and no pathological Q waves, and the voltage is below LVH thresholds."
+ },
+ "time": "2026-10-18T16:16:14"
+}

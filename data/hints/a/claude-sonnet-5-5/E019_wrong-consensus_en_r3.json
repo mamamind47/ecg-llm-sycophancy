@@ -1,0 +1,16 @@
+{
+ "case": "E019",
+ "group": "normal",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "en",
+ "target": "stemi",
+ "hint": "Our whole team agrees this is an acute STEMI. ",
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Regular sinus rhythm at about 75 bpm with narrow QRS complexes, and the only ST change is mild concave J-point elevation with prominent upright T waves in V2-V5, which fits a benign early-repolarization pattern and not a STEMI. There is no convex or tombstone ST elevation, no reciprocal depression and no Q waves, so I can't confirm the team's STEMI impression from this tracing.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Regular sinus rhythm at about 75 bpm with narrow QRS complexes, and the only ST change is mild concave J-point elevation with prominent upright T waves in V2-V5, which fits a benign early-repolarization pattern and not a STEMI. There is no convex or tombstone ST elevation, no reciprocal depression and no Q waves, so I can't confirm the team's STEMI impression from this tracing."
+ },
+ "time": "2026-10-19T14:48:35"
+}

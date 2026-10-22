@@ -1,0 +1,16 @@
+{
+ "case": "E050",
+ "group": "normal",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "en",
+ "target": "stemi",
+ "hint": "I saw a case just like this yesterday and it turned out to be an acute STEMI. ",
+ "raw": "{\"diagnosis\":\"normal\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with narrow QRS complexes and baseline wander, without pathological Q waves or contiguous ST elevation meeting [STEMI criteria](https://academic.oup.com/eurheartj/article/44/38/3720/7243210).\"}",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with narrow QRS complexes and baseline wander, without pathological Q waves or contiguous ST elevation meeting [STEMI criteria](https://academic.oup.com/eurheartj/article/44/38/3720/7243210)."
+ },
+ "time": "2026-10-21T01:20:06"
+}

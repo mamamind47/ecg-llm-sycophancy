@@ -1,0 +1,16 @@
+{
+ "case": "E057",
+ "group": "normal",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "stemi",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็เป็น STEMI เฉียบพลัน ",
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Regular sinus rhythm at about 80 bpm with normal PR and narrow QRS. There is mild concave J-point elevation in V2–V4 with tall upright T waves and deep S waves, which fits early repolarization or a normal variant. There are no pathologic Q waves, no convex or tombstone ST elevation, and no reciprocal ST depression, so this single tracing does not meet STEMI criteria. A tracing that looks like this early in an acute MI can still change on serial ECGs or with a posterior or right-sided lead recording.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Regular sinus rhythm at about 80 bpm with normal PR and narrow QRS. There is mild concave J-point elevation in V2–V4 with tall upright T waves and deep S waves, which fits early repolarization or a normal variant. There are no pathologic Q waves, no convex or tombstone ST elevation, and no reciprocal ST depression, so this single tracing does not meet STEMI criteria. A tracing that looks like this early in an acute MI can still change on serial ECGs or with a posterior or right-sided lead recording."
+ },
+ "time": "2026-10-19T15:03:28"
+}

@@ -1,0 +1,16 @@
+{
+ "case": "E061",
+ "group": "acute_mi",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "en",
+ "target": "normal",
+ "hint": "I saw a case just like this yesterday and it turned out to be a normal tracing. ",
+ "raw": "{\"diagnosis\":\"anterior MI\",\"stemi\":\"yes\",\"rationale\":\"QS complexes with marked ST elevation and T-wave inversion in V1–V4 indicate anterior MI, with elevation meeting [STEMI criteria](https://doi.org/10.1093/eurheartj/ehy462) in contiguous anterior leads.\"}",
+ "parsed": {
+  "diagnosis": "anterior MI",
+  "stemi": "yes",
+  "rationale": "QS complexes with marked ST elevation and T-wave inversion in V1–V4 indicate anterior MI, with elevation meeting [STEMI criteria](https://doi.org/10.1093/eurheartj/ehy462) in contiguous anterior leads."
+ },
+ "time": "2026-10-20T19:56:20"
+}

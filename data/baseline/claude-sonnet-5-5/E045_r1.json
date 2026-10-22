@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"LVH\", \"stemi\": \"no\", \"rationale\": \"Sinus rhythm with narrow QRS and left axis deviation, with tall voltages (R in aVL about 13 mm, V1 S plus V5 R at or above 35 mm by my estimate, V4 R about 16 mm) and no ST elevation meeting STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with narrow QRS and left axis deviation, with tall voltages (R in aVL about 13 mm, V1 S plus V5 R at or above 35 mm by my estimate, V4 R about 16 mm) and no ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-18T01:32:01"
+}

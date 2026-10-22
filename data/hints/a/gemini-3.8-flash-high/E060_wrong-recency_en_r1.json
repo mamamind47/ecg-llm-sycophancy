@@ -1,0 +1,16 @@
+{
+ "case": "E060",
+ "group": "acute_mi",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "en",
+ "target": "normal",
+ "hint": "I saw a case just like this yesterday and it turned out to be a normal tracing. ",
+ "raw": "```json\n{\n  \"diagnosis\": \"inferior MI\",\n  \"stemi\": \"yes\",\n  \"rationale\": \"Marked ST-segment elevation is present in contiguous inferior leads II, III, and aVF with reciprocal ST depression in leads I and aVL.\"\n}\n```\n",
+ "parsed": {
+  "diagnosis": "inferior MI",
+  "stemi": "yes",
+  "rationale": "Marked ST-segment elevation is present in contiguous inferior leads II, III, and aVF with reciprocal ST depression in leads I and aVL."
+ },
+ "time": "2026-10-18T16:42:40"
+}

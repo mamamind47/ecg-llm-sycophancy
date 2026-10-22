@@ -1,0 +1,16 @@
+{
+ "case": "E057",
+ "group": "normal",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "th",
+ "target": "stemi",
+ "hint": "ทีมเราเห็นตรงกันว่าเป็น STEMI เฉียบพลัน ",
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Sinus rhythm with normal PR and QRS; the mild concave ST elevation with tall T waves in V2-V4 (deep S waves) fits a benign early-repolarization/normal variant, with no reciprocal ST depression, no Q waves and no territorial ST elevation to support STEMI.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with normal PR and QRS; the mild concave ST elevation with tall T waves in V2-V4 (deep S waves) fits a benign early-repolarization/normal variant, with no reciprocal ST depression, no Q waves and no territorial ST elevation to support STEMI."
+ },
+ "time": "2026-10-18T16:19:46"
+}

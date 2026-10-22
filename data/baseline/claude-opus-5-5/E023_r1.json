@@ -1,0 +1,9 @@
+{
+ "raw": "```json\n{\"diagnosis\": \"LBBB\", \"stemi\": \"no\", \"rationale\": \"The QRS is wide with deep QS/rS complexes in V1–V3 and broad, notched, monophasic R waves in I, aVL and V5–V6, and the ST changes are discordant and proportionate to the QRS with no concordant ST elevation (Sgarbossa negative).\"}\n```\n",
+ "parsed": {
+  "diagnosis": "LBBB",
+  "stemi": "no",
+  "rationale": "The QRS is wide with deep QS/rS complexes in V1–V3 and broad, notched, monophasic R waves in I, aVL and V5–V6, and the ST changes are discordant and proportionate to the QRS with no concordant ST elevation (Sgarbossa negative)."
+ },
+ "time": "2026-10-18T00:52:16"
+}

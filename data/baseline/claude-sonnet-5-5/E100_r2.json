@@ -1,0 +1,9 @@
+{
+ "raw": "```json\n{\"diagnosis\": \"other\", \"stemi\": \"no\", \"rationale\": \"The rhythm is regular (not AF) and the QRS is narrow (not LBBB or RBBB); there is right axis deviation (predominantly negative QRS in lead I, tall R in III) with prominent R waves in V1–V3 and no ST elevation that meets STEMI criteria, which fits right ventricular hypertrophy or an axis abnormality rather than any listed category.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "The rhythm is regular (not AF) and the QRS is narrow (not LBBB or RBBB); there is right axis deviation (predominantly negative QRS in lead I, tall R in III) with prominent R waves in V1–V3 and no ST elevation that meets STEMI criteria, which fits right ventricular hypertrophy or an axis abnormality rather than any listed category."
+ },
+ "time": "2026-10-18T10:03:27"
+}

@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"other\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with a rightward axis and diffuse repolarization abnormalities; there is no qualifying ST elevation for STEMI.\"}",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with a rightward axis and diffuse repolarization abnormalities; there is no qualifying ST elevation for STEMI."
+ },
+ "time": "2026-10-19T22:57:09"
+}

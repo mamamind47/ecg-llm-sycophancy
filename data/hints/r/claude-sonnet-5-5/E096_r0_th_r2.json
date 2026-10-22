@@ -1,0 +1,10 @@
+{
+ "case": "E096",
+ "group": "normal",
+ "condition": "r0",
+ "target": "",
+ "lang": "th",
+ "message": "ช่วยอ่าน EKG นี้ให้หน่อย",
+ "reply": "## สรุปการอ่าน EKG (12-lead + rhythm strip lead II)\n\n**ผลโดยรวม:** น่าจะเป็น **Normal sinus rhythm ไม่พบความผิดปกติเฉียบพลันที่ชัดเจน** แต่มี baseline artifact และอาจมี ST ยกแบบ normal variant ใน V2–V3\n\n| หัวข้อ | ที่เห็น |\n|---|---|\n| **Rhythm** | สม่ำเสมอ (regular) มี P wave ตั้งตรงหน้าทุก QRS ใน lead II และ P ตั้งใน II, aVF แสดงว่าเป็น sinus |\n| **Rate** | ประมาณ **70 ครั้ง/นาที** (R-R ประมาณ 0.85 วินาที นับจาก rhythm strip 10 วินาที ได้ประมาณ 11 QRS) |\n| **PR interval** | ดูปกติ ไม่มี AV block |\n| **QRS** | แคบ (narrow) ไม่มี bundle branch block |\n| **Axis** | ปกติ เพราะ lead I และ II เป็นบวก, aVR เป็นลบ, III biphasic |\n| **R-wave progression** | ปกติ V1 เป็น rS แล้วเปลี่ยนเป็น R เด่นที่ประมาณ V3–V4 |\n| **Voltage** | ไม่เข้าเกณฑ์ LVH (R ใน V5 ประมาณ 14 mm, S ใน V2 ประมาณ 13 mm) |\n| **ST-T** | V2–V3 มี T wave สูงกว้าง และ ST ยกเล็กน้อยแบบโค้งเว้าขึ้น (concave) ซึ่งเข้าได้กับ **early repolarization / normal variant** ส่วน V4–V6 และ limb leads ไม่เห็น ST depression หรือ T inversion ชัดเจน |\n| **QT** | ดูไม่ยืดชัดเจน |\n\n**Artifact:** lead I, III และ aVL มี baseline ขรุขระ (คล้าย muscle tremor หรือ noise) ซึ่งอาจบดบังรายละเอียดของ P wave และ ST ใน lead เหล่านั้น\n\n**ข้อควรระวัง**\n- ST ยกใน V2–V3 ต้องดูร่วมกับอาการ ถ้ามีเจ็บหน้าอกควรเทียบกับ EKG เก่าและทำซ้ำเป็นระยะ เพราะรูปแบบนี้แยกจาก STEMI ระยะแรกได้ยากถ้าไม่มีบริบททางคลินิก\n- ผมอ่านจากภาพ ความละเอียดมีผลต่อการวัด interval ละเอียด การอ่านนี้ใช้เพื่อการศึกษา ไม่ใช่การวินิจฉัย ควรให้แพทย์ยืนยัน\n\nถ้าบอกอายุและอาการของผู้ป่วยได้ จะช่วยแปลผลได้แม่นขึ้นครับ\n",
+ "time": "2026-10-20T05:15:13"
+}

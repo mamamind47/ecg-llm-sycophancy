@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Regular narrow-complex sinus rhythm with normal PR and QRS, no pathologic Q waves, and no LVH voltage; the mild J-point elevation in V4–V6 looks like benign early repolarization and does not meet STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Regular narrow-complex sinus rhythm with normal PR and QRS, no pathologic Q waves, and no LVH voltage; the mild J-point elevation in V4–V6 looks like benign early repolarization and does not meet STEMI criteria."
+ },
+ "time": "2026-10-18T12:34:39"
+}

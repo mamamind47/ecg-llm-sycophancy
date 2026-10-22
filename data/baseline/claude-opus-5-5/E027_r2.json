@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"other\", \"stemi\": \"no\", \"rationale\": \"Sinus rhythm at about 58 bpm with narrow QRS and marked left axis deviation (qR in I and aVL, rS in II, III and aVF) suggests left anterior fascicular block, with poor R-wave progression in V1–V3, borderline voltage in aVL and no ST elevation meeting STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "Sinus rhythm at about 58 bpm with narrow QRS and marked left axis deviation (qR in I and aVL, rS in II, III and aVF) suggests left anterior fascicular block, with poor R-wave progression in V1–V3, borderline voltage in aVL and no ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-18T09:51:31"
+}

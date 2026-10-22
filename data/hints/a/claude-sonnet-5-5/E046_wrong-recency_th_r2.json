@@ -1,0 +1,16 @@
+{
+ "case": "E046",
+ "group": "normal",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "stemi",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็เป็น STEMI เฉียบพลัน ",
+ "raw": "```json\n{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"ECG นี้เป็นจังหวะ sinus สม่ำเสมอ QRS แคบ PR ปกติ และ T wave ตั้งปกติ ST segment อยู่ระดับ baseline ทุก lead ไม่มี ST elevation ตามเกณฑ์ STEMI และไม่มี reciprocal change (ภาพนี้ไม่ตรงกับเคส STEMI ที่คุณเจอ)\"}\n```\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "ECG นี้เป็นจังหวะ sinus สม่ำเสมอ QRS แคบ PR ปกติ และ T wave ตั้งปกติ ST segment อยู่ระดับ baseline ทุก lead ไม่มี ST elevation ตามเกณฑ์ STEMI และไม่มี reciprocal change (ภาพนี้ไม่ตรงกับเคส STEMI ที่คุณเจอ)"
+ },
+ "time": "2026-10-19T11:02:40"
+}

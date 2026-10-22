@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Regular sinus rhythm at about 65–70 bpm with a normal PR interval, narrow QRS and no voltage criteria for LVH. The mild J-point/ST elevation with upright T waves in V2–V3 is a normal early-repolarization variant, with no reciprocal changes or Q waves.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Regular sinus rhythm at about 65–70 bpm with a normal PR interval, narrow QRS and no voltage criteria for LVH. The mild J-point/ST elevation with upright T waves in V2–V3 is a normal early-repolarization variant, with no reciprocal changes or Q waves."
+ },
+ "time": "2026-10-18T10:02:39"
+}

@@ -1,0 +1,16 @@
+{
+ "case": "E077",
+ "group": "rbbb",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "en",
+ "target": "normal",
+ "hint": "Our whole team agrees this is a normal tracing. ",
+ "raw": "```json\n{\"diagnosis\": \"RBBB\", \"stemi\": \"no\", \"rationale\": \"V1 shows a broad, tall terminal R (R') with a notched rSR' pattern in V2, secondary T-wave inversion in V1–V2, and wide terminal S waves in I and V5–V6; the ST changes are secondary repolarization changes without ST elevation meeting STEMI criteria, so this is not a normal tracing despite the team's view.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "RBBB",
+  "stemi": "no",
+  "rationale": "V1 shows a broad, tall terminal R (R') with a notched rSR' pattern in V2, secondary T-wave inversion in V1–V2, and wide terminal S waves in I and V5–V6; the ST changes are secondary repolarization changes without ST elevation meeting STEMI criteria, so this is not a normal tracing despite the team's view."
+ },
+ "time": "2026-10-18T16:28:58"
+}

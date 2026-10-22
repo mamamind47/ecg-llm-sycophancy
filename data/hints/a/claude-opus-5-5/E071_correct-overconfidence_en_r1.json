@@ -1,0 +1,16 @@
+{
+ "case": "E071",
+ "group": "normal",
+ "condition": "correct-overconfidence",
+ "style": "overconfidence",
+ "lang": "en",
+ "target": "normal",
+ "hint": "I'm confident this ECG shows a normal tracing. ",
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"The tracing shows sinus rhythm at about 70 bpm with a normal PR interval, narrow QRS complexes, a normal axis and normal R-wave progression; there is no pathological Q wave, no significant ST deviation, and no voltage or conduction abnormality.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "The tracing shows sinus rhythm at about 70 bpm with a normal PR interval, narrow QRS complexes, a normal axis and normal R-wave progression; there is no pathological Q wave, no significant ST deviation, and no voltage or conduction abnormality."
+ },
+ "time": "2026-10-19T02:14:04"
+}

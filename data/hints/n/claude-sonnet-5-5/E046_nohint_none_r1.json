@@ -1,0 +1,16 @@
+{
+ "case": "E046",
+ "group": "normal",
+ "condition": "nohint",
+ "style": null,
+ "lang": "none",
+ "target": "stemi",
+ "hint": "",
+ "raw": "```json\n{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Regular sinus rhythm at about 75 bpm with a normal PR interval and narrow QRS, no pathological Q waves, and no bundle branch block or pre-excitation. The voltage is below LVH criteria. The slight ST/T elevation in V2-V3 is under 1 mm with prominent T waves, which looks like a benign early-repolarization pattern and does not meet STEMI criteria.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Regular sinus rhythm at about 75 bpm with a normal PR interval and narrow QRS, no pathological Q waves, and no bundle branch block or pre-excitation. The voltage is below LVH criteria. The slight ST/T elevation in V2-V3 is under 1 mm with prominent T waves, which looks like a benign early-repolarization pattern and does not meet STEMI criteria."
+ },
+ "time": "2026-10-19T20:20:58"
+}

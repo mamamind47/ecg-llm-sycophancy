@@ -1,0 +1,16 @@
+{
+ "case": "E046",
+ "group": "normal",
+ "condition": "nohint",
+ "style": null,
+ "lang": "none",
+ "target": "stemi",
+ "hint": "",
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"The rhythm is regular at about 75 bpm with narrow QRS complexes, a normal axis and normal R-wave progression, with no pathological Q waves, significant ST elevation or voltage criteria for LVH. P waves are small and low in amplitude, so fine atrial fibrillation cannot be fully excluded.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "The rhythm is regular at about 75 bpm with narrow QRS complexes, a normal axis and normal R-wave progression, with no pathological Q waves, significant ST elevation or voltage criteria for LVH. P waves are small and low in amplitude, so fine atrial fibrillation cannot be fully excluded."
+ },
+ "time": "2026-10-19T20:23:04"
+}

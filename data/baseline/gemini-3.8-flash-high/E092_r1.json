@@ -1,0 +1,9 @@
+{
+ "raw": "```json\n{\n  \"diagnosis\": \"LVH\",\n  \"stemi\": \"no\",\n  \"rationale\": \"The ECG demonstrates voltage criteria for left ventricular hypertrophy, including an R wave in aVL exceeding 11 mm and Sokolow-Lyon criteria, without ST elevation meeting STEMI criteria.\"\n}\n```\n",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "The ECG demonstrates voltage criteria for left ventricular hypertrophy, including an R wave in aVL exceeding 11 mm and Sokolow-Lyon criteria, without ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-18T02:03:30"
+}

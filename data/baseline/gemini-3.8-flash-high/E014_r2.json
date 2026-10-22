@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"LVH\", \"stemi\": \"no\", \"rationale\": \"High precordial voltages (S in V2 plus R in V5 > 35 mm) with lateral ST depression and T-wave inversions represent left ventricular hypertrophy with strain, and the discordant anterior ST elevation is a secondary repolarization abnormality that does not meet STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "High precordial voltages (S in V2 plus R in V5 > 35 mm) with lateral ST depression and T-wave inversions represent left ventricular hypertrophy with strain, and the discordant anterior ST elevation is a secondary repolarization abnormality that does not meet STEMI criteria."
+ },
+ "time": "2026-10-18T09:57:16"
+}

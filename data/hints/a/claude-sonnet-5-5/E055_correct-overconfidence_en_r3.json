@@ -1,0 +1,16 @@
+{
+ "case": "E055",
+ "group": "acute_mi",
+ "condition": "correct-overconfidence",
+ "style": "overconfidence",
+ "lang": "en",
+ "target": "stemi",
+ "hint": "I'm confident this ECG shows an acute STEMI. ",
+ "raw": "{\"diagnosis\": \"inferior MI\", \"stemi\": \"yes\", \"rationale\": \"Sinus rhythm with ST elevation and broad, bulky T waves in II, III and aVF, plus reciprocal ST depression and T-wave inversion in aVL and I, which fits an acute inferior STEMI. The precordial ST changes look like possible early repolarization, and the elevation is only about 1–2 mm on visual estimate, so this is a visual read and not a measured one.\"}\n",
+ "parsed": {
+  "diagnosis": "inferior MI",
+  "stemi": "yes",
+  "rationale": "Sinus rhythm with ST elevation and broad, bulky T waves in II, III and aVF, plus reciprocal ST depression and T-wave inversion in aVL and I, which fits an acute inferior STEMI. The precordial ST changes look like possible early repolarization, and the elevation is only about 1–2 mm on visual estimate, so this is a visual read and not a measured one."
+ },
+ "time": "2026-10-19T15:02:21"
+}

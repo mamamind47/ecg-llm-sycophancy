@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"anterior MI\", \"stemi\": \"yes\", \"rationale\": \"The rhythm is regular and sinus at about 100 bpm, with a narrow QRS. V1–V3 show QS/rS complexes with about 2–3 mm of ST elevation, and V4 has some elevation too, which fits an anterior infarct. The elevation is at least 2 mm in V2–V3, so it meets STEMI criteria, though a baseline-noisy tracing and a possible LVH repolarization pattern make this less certain.\"}\n",
+ "parsed": {
+  "diagnosis": "anterior MI",
+  "stemi": "yes",
+  "rationale": "The rhythm is regular and sinus at about 100 bpm, with a narrow QRS. V1–V3 show QS/rS complexes with about 2–3 mm of ST elevation, and V4 has some elevation too, which fits an anterior infarct. The elevation is at least 2 mm in V2–V3, so it meets STEMI criteria, though a baseline-noisy tracing and a possible LVH repolarization pattern make this less certain."
+ },
+ "time": "2026-10-18T01:26:12"
+}

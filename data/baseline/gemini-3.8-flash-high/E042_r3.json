@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"The ECG demonstrates normal sinus rhythm with normal intervals, normal axis, narrow QRS complexes, and physiological ST segments without features of ischemia or hypertrophy.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "The ECG demonstrates normal sinus rhythm with normal intervals, normal axis, narrow QRS complexes, and physiological ST segments without features of ischemia or hypertrophy."
+ },
+ "time": "2026-10-18T11:37:49"
+}

@@ -1,0 +1,9 @@
+{
+ "raw": "```json\n{\n  \"diagnosis\": \"LBBB\",\n  \"stemi\": \"no\",\n  \"rationale\": \"The ECG demonstrates sinus rhythm with broad QRS complexes (>120 ms), prominent notched R waves in lateral leads (I, aVL), deep QS complexes in V1–V3, and appropriately discordant ST elevations that do not meet Sgarbossa criteria.\"\n}\n```\n",
+ "parsed": {
+  "diagnosis": "LBBB",
+  "stemi": "no",
+  "rationale": "The ECG demonstrates sinus rhythm with broad QRS complexes (>120 ms), prominent notched R waves in lateral leads (I, aVL), deep QS complexes in V1–V3, and appropriately discordant ST elevations that do not meet Sgarbossa criteria."
+ },
+ "time": "2026-10-18T01:39:25"
+}

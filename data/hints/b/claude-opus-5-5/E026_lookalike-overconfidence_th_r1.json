@@ -1,0 +1,16 @@
+{
+ "case": "E026",
+ "group": "rbbb",
+ "condition": "lookalike-overconfidence",
+ "style": "overconfidence",
+ "lang": "th",
+ "target": "1st degree av block",
+ "hint": "ผมมั่นใจว่า EKG นี้เป็น 1st degree AV block ",
+ "raw": "```json\n{\"diagnosis\": \"RBBB\", \"stemi\": \"no\", \"rationale\": \"This is RBBB, not 1st degree AV block: V1 and V2 show an rsR' (M-shaped) QRS that is wide (≥120 ms), with broad slurred S waves in I, aVL, V5 and V6, while the PR interval is about 140 ms and therefore normal (1st degree AV block would need a PR over 200 ms); the ST-T changes in V1–V3 are the expected secondary changes of RBBB, with no ST elevation that meets STEMI criteria.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "RBBB",
+  "stemi": "no",
+  "rationale": "This is RBBB, not 1st degree AV block: V1 and V2 show an rsR' (M-shaped) QRS that is wide (≥120 ms), with broad slurred S waves in I, aVL, V5 and V6, while the PR interval is about 140 ms and therefore normal (1st degree AV block would need a PR over 200 ms); the ST-T changes in V1–V3 are the expected secondary changes of RBBB, with no ST elevation that meets STEMI criteria."
+ },
+ "time": "2026-10-19T10:29:07"
+}

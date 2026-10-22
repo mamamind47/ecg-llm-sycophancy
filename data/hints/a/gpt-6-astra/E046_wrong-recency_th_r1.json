@@ -1,0 +1,16 @@
+{
+ "case": "E046",
+ "group": "normal",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "stemi",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็เป็น STEMI เฉียบพลัน ",
+ "raw": "{\"diagnosis\":\"normal\",\"stemi\":\"no\",\"rationale\":\"The ECG shows sinus rhythm with narrow QRS complexes, preserved R-wave progression, and no ST elevation meeting STEMI criteria in contiguous leads.\"}",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "The ECG shows sinus rhythm with narrow QRS complexes, preserved R-wave progression, and no ST elevation meeting STEMI criteria in contiguous leads."
+ },
+ "time": "2026-10-19T10:10:47"
+}

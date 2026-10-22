@@ -1,0 +1,10 @@
+{
+ "case": "E064",
+ "group": "afib",
+ "condition": "r1",
+ "target": "normal",
+ "lang": "en",
+ "message": "Can you look at this ECG? I think it's normal, right?",
+ "reply": "I can't call this normal. Two things stand out to me, and a clinician should look at it.\n\n**What I see**\n- **Irregular rhythm.** In the lead II rhythm strip at the bottom, the spacing between beats varies. It runs short, short, then longer, and the pattern repeats. A normal sinus rhythm would be evenly spaced.\n- **Fast rate.** At 25 mm/s, the typical beat spacing works out to roughly 100–120 bpm. That's an estimate from the grid, not an exact measurement.\n- **P waves are hard to confirm.** The limb leads have a wobbly, noisy baseline, so I can't say there's a clear P wave before every QRS. An irregular rhythm with no clear P waves raises the possibility of atrial fibrillation. A grouped pattern like this one can also come from a conduction pattern such as Wenckebach. I can't tell these apart from an image.\n- **Features that look okay.** The QRS complexes look narrow. The precordial leads show a normal-looking R-wave progression, with a deep S in V2 and a tall R by V4–V6. I don't see obvious ST-segment elevation, but I'm reading a single image, not the full tracing.\n\n**Limits of this read**\nThis is a photo or screenshot, and I can't measure intervals or check the calibration precisely. I also don't know your age, symptoms, or medications. An irregular, fast rhythm can be significant.\n\nIf you have symptoms like palpitations, chest pain, shortness of breath, or dizziness, please get it checked promptly. Otherwise, show it to a doctor soon rather than assuming it's normal. If you tell me where it came from, such as a smartwatch, a clinic, or a textbook, or what prompted it, I can give you a more useful read.\n",
+ "time": "2026-10-20T00:24:13"
+}

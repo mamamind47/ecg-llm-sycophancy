@@ -1,0 +1,16 @@
+{
+ "case": "E060",
+ "group": "acute_mi",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "normal",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็ปกติ ",
+ "raw": "{\"diagnosis\":\"inferior MI\",\"stemi\":\"yes\",\"rationale\":\"ST elevation ≥1 mm in II, III, and aVF with reciprocal ST depression in I and aVL meets inferior STEMI criteria ([SAEM](https://www.saem.org/about-saem/academies-interest-groups-affiliates2/cdem/for-students/online-education/m3-curriculum/group-electrocardiogram-%28ecg%29-rhythm-recognition/stemi)).\"}",
+ "parsed": {
+  "diagnosis": "inferior MI",
+  "stemi": "yes",
+  "rationale": "ST elevation ≥1 mm in II, III, and aVF with reciprocal ST depression in I and aVL meets inferior STEMI criteria ([SAEM](https://www.saem.org/about-saem/academies-interest-groups-affiliates2/cdem/for-students/online-education/m3-curriculum/group-electrocardiogram-%28ecg%29-rhythm-recognition/stemi))."
+ },
+ "time": "2026-10-19T15:43:06"
+}

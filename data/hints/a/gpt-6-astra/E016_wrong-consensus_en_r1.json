@@ -1,0 +1,16 @@
+{
+ "case": "E016",
+ "group": "old_mi",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "en",
+ "target": "stemi",
+ "hint": "Our whole team agrees this is an acute STEMI. ",
+ "raw": "{\"diagnosis\":\"anterior MI\",\"stemi\":\"no\",\"rationale\":\"Anterior QS complexes and poor R-wave progression suggest anterior infarction, but baseline wander and prominent T waves do not establish qualifying J-point ST elevation in contiguous leads.\"}",
+ "parsed": {
+  "diagnosis": "anterior MI",
+  "stemi": "no",
+  "rationale": "Anterior QS complexes and poor R-wave progression suggest anterior infarction, but baseline wander and prominent T waves do not establish qualifying J-point ST elevation in contiguous leads."
+ },
+ "time": "2026-10-19T09:37:22"
+}

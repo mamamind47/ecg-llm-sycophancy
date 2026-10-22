@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Regular sinus rhythm at about 75-80 bpm with P waves before every narrow QRS, normal PR interval, and normal voltages. The only ST finding is mild concave J-point elevation with upright T waves in V2-V4, which fits normal early repolarization and does not meet STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Regular sinus rhythm at about 75-80 bpm with P waves before every narrow QRS, normal PR interval, and normal voltages. The only ST finding is mild concave J-point elevation with upright T waves in V2-V4, which fits normal early repolarization and does not meet STEMI criteria."
+ },
+ "time": "2026-10-18T09:52:52"
+}

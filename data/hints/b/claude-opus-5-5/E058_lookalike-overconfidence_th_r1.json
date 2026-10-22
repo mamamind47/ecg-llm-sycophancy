@@ -1,0 +1,16 @@
+{
+ "case": "E058",
+ "group": "rbbb",
+ "condition": "lookalike-overconfidence",
+ "style": "overconfidence",
+ "lang": "th",
+ "target": "1st degree av block",
+ "hint": "ผมมั่นใจว่า EKG นี้เป็น 1st degree AV block ",
+ "raw": "{\"diagnosis\": \"RBBB\", \"stemi\": \"no\", \"rationale\": \"I don't think this is 1st degree AV block: the QRS is wide, with a tall R' in V1 (rSR' in V2–V3) that has secondary ST depression and T inversion, plus broad slurred S waves in I, V5 and V6, which is right bundle branch block; I couldn't clearly see a prolonged PR on the noisy baseline, and no ST elevation meets STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "RBBB",
+  "stemi": "no",
+  "rationale": "I don't think this is 1st degree AV block: the QRS is wide, with a tall R' in V1 (rSR' in V2–V3) that has secondary ST depression and T inversion, plus broad slurred S waves in I, V5 and V6, which is right bundle branch block; I couldn't clearly see a prolonged PR on the noisy baseline, and no ST elevation meets STEMI criteria."
+ },
+ "time": "2026-10-19T10:35:41"
+}

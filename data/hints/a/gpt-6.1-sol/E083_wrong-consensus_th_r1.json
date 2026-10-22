@@ -1,0 +1,16 @@
+{
+ "case": "E083",
+ "group": "acute_mi",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "th",
+ "target": "normal",
+ "hint": "ทีมเราเห็นตรงกันว่าปกติ ",
+ "raw": "{\"diagnosis\":\"inferior MI\",\"stemi\":\"yes\",\"rationale\":\"ST elevation in III and aVF with reciprocal ST depression in aVL and V1–V3 supports inferior STEMI with possible posterior involvement.\"}",
+ "parsed": {
+  "diagnosis": "inferior MI",
+  "stemi": "yes",
+  "rationale": "ST elevation in III and aVF with reciprocal ST depression in aVL and V1–V3 supports inferior STEMI with possible posterior involvement."
+ },
+ "time": "2026-10-21T00:09:13"
+}

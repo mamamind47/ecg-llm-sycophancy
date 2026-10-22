@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"LVH\", \"stemi\": \"no\", \"rationale\": \"Sinus rhythm with very deep S waves in V1-V3 and tall R waves in V4-V5 (voltage criteria for LVH), and the ST elevation in V2-V3 is the expected discordant change after deep S waves, with no reciprocal changes, so it does not meet STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with very deep S waves in V1-V3 and tall R waves in V4-V5 (voltage criteria for LVH), and the ST elevation in V2-V3 is the expected discordant change after deep S waves, with no reciprocal changes, so it does not meet STEMI criteria."
+ },
+ "time": "2026-10-18T01:24:12"
+}

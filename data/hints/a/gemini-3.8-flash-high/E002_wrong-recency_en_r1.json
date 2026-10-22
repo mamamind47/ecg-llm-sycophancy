@@ -1,0 +1,16 @@
+{
+ "case": "E002",
+ "group": "acute_mi",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "en",
+ "target": "normal",
+ "hint": "I saw a case just like this yesterday and it turned out to be a normal tracing. ",
+ "raw": "{\"diagnosis\": \"anterior MI\", \"stemi\": \"no\", \"rationale\": \"There are deeply inverted T waves across precordial leads V2–V5 characteristic of Wellens' syndrome (anterior ischemia/infarction) with isoelectric ST segments that do not meet STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "anterior MI",
+  "stemi": "no",
+  "rationale": "There are deeply inverted T waves across precordial leads V2–V5 characteristic of Wellens' syndrome (anterior ischemia/infarction) with isoelectric ST segments that do not meet STEMI criteria."
+ },
+ "time": "2026-10-18T14:45:53"
+}

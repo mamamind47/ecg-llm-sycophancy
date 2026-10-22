@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"LBBB\", \"stemi\": \"no\", \"rationale\": \"The ECG demonstrates wide QRS complexes (>120 ms) with broad R waves in leads I, aVL, and V5–V6, and discordant ST elevation in leads V1–V3 proportional to the deep S waves that does not meet modified Sgarbossa criteria for STEMI.\"}\n",
+ "parsed": {
+  "diagnosis": "LBBB",
+  "stemi": "no",
+  "rationale": "The ECG demonstrates wide QRS complexes (>120 ms) with broad R waves in leads I, aVL, and V5–V6, and discordant ST elevation in leads V1–V3 proportional to the deep S waves that does not meet modified Sgarbossa criteria for STEMI."
+ },
+ "time": "2026-10-18T01:36:20"
+}

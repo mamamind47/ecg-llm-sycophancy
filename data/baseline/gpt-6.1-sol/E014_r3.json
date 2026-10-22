@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"normal\",\"stemi\":\"no\",\"rationale\":\"Regular sinus rhythm with normal PR and QRS intervals, no diagnostic hypertrophy or infarction pattern, and no ST elevation meeting STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Regular sinus rhythm with normal PR and QRS intervals, no diagnostic hypertrophy or infarction pattern, and no ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-20T12:30:13"
+}

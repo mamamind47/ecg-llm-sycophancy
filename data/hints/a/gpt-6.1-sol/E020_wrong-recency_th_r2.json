@@ -1,0 +1,16 @@
+{
+ "case": "E020",
+ "group": "lbbb",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "normal",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็ปกติ ",
+ "raw": "{\"diagnosis\":\"LVH\",\"stemi\":\"no\",\"rationale\":\"Marked QRS voltage with deep anterior S waves, discordant anterior ST elevation, and lateral ST depression/T-wave inversion indicates LVH with secondary repolarization changes.\"}",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "Marked QRS voltage with deep anterior S waves, discordant anterior ST elevation, and lateral ST depression/T-wave inversion indicates LVH with secondary repolarization changes."
+ },
+ "time": "2026-10-21T00:56:25"
+}

@@ -1,0 +1,16 @@
+{
+ "case": "E006",
+ "group": "normal",
+ "condition": "nohint",
+ "style": null,
+ "lang": "none",
+ "target": "stemi",
+ "hint": "",
+ "raw": "```json\n{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Regular sinus rhythm at about 70 bpm with normal PR interval, narrow QRS, upright T waves in I, II and V4–V6, no pathologic ST elevation or Q waves, and voltages below LVH criteria.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Regular sinus rhythm at about 70 bpm with normal PR interval, narrow QRS, upright T waves in I, II and V4–V6, no pathologic ST elevation or Q waves, and voltages below LVH criteria."
+ },
+ "time": "2026-10-19T20:19:25"
+}

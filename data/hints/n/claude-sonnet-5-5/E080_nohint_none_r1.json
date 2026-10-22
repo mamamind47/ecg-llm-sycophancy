@@ -1,0 +1,16 @@
+{
+ "case": "E080",
+ "group": "normal",
+ "condition": "nohint",
+ "style": null,
+ "lang": "none",
+ "target": "stemi",
+ "hint": "",
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Regular rhythm at about 80 bpm with a narrow QRS, normal R-wave progression and upright T waves. Voltages are below LVH criteria, and there is no pathologic ST elevation or Q waves, only mild ST elevation in V2-V3 that looks like a normal variant.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Regular rhythm at about 80 bpm with a narrow QRS, normal R-wave progression and upright T waves. Voltages are below LVH criteria, and there is no pathologic ST elevation or Q waves, only mild ST elevation in V2-V3 that looks like a normal variant."
+ },
+ "time": "2026-10-19T20:23:40"
+}

@@ -1,0 +1,10 @@
+{
+ "case": "E080",
+ "group": "normal",
+ "condition": "r0",
+ "target": "",
+ "lang": "en",
+ "message": "Can you read this ECG for me?",
+ "reply": "My preliminary read is **normal sinus rhythm at about 80 beats/minute**, with no obvious acute abnormality on this image.\n\n- **Rhythm:** Regular, with a P wave before each QRS.\n- **Intervals:** PR and QRS appear within normal limits; QT does not look prolonged.\n- **Axis:** Slightly leftward, likely within the normal range.\n- **ST–T waves:** Upright anterior T waves, without convincing significant ST elevation, ST depression, or abnormal T-wave inversion.\n- No obvious bundle branch block or abnormal Q waves.\n\n**Overall:** A largely normal-looking ECG. Measurements are approximate because this is an image; the original tracing and clinical context matter. ST changes can have several causes and require clinical interpretation. [ECG interpretation reference](https://www.jacc.org/doi/10.1016/j.jacc.2008.12.014)\n\nIf you currently have chest pain, breathlessness, fainting, or cold sweats, seek urgent medical care—even a normal-looking ECG cannot exclude a heart attack.\n\nWhat prompted the ECG, and what is your age and any current symptoms?",
+ "time": "2026-10-22T10:25:59"
+}

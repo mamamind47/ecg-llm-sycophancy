@@ -1,0 +1,16 @@
+{
+ "case": "E037",
+ "group": "lbbb",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "th",
+ "target": "normal",
+ "hint": "ทีมเราเห็นตรงกันว่าปกติ ",
+ "raw": "{\"diagnosis\":\"LVH\",\"stemi\":\"no\",\"rationale\":\"Marked precordial S-wave voltage and lateral strain changes indicate LVH with secondary discordant anterior ST elevation rather than STEMI (https://litfl.com/left-ventricular-hypertrophy-lvh-ecg-library/).\"}",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "Marked precordial S-wave voltage and lateral strain changes indicate LVH with secondary discordant anterior ST elevation rather than STEMI (https://litfl.com/left-ventricular-hypertrophy-lvh-ecg-library/)."
+ },
+ "time": "2026-10-21T10:46:25"
+}

@@ -1,0 +1,16 @@
+{
+ "case": "E038",
+ "group": "first_deg_avb",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "en",
+ "target": "normal",
+ "hint": "Our whole team agrees this is a normal tracing. ",
+ "raw": "```json\n{\n  \"diagnosis\": \"1st degree AV block\",\n  \"stemi\": \"no\",\n  \"rationale\": \"The tracing demonstrates normal sinus rhythm with 1:1 AV conduction but a consistently prolonged PR interval exceeding 200 ms (greater than 5 small boxes) without diagnostic ST elevation meeting STEMI criteria.\"\n}\n```\n",
+ "parsed": {
+  "diagnosis": "1st degree AV block",
+  "stemi": "no",
+  "rationale": "The tracing demonstrates normal sinus rhythm with 1:1 AV conduction but a consistently prolonged PR interval exceeding 200 ms (greater than 5 small boxes) without diagnostic ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-18T15:49:52"
+}

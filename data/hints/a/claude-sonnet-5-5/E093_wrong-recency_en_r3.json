@@ -1,0 +1,16 @@
+{
+ "case": "E093",
+ "group": "normal",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "en",
+ "target": "stemi",
+ "hint": "I saw a case just like this yesterday and it turned out to be an acute STEMI. ",
+ "raw": "```json\n{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Regular sinus rhythm at about 58 bpm with a narrow QRS, normal axis and normal R-wave progression. There is no pathological ST elevation or reciprocal change in any lead. The prominent upright T waves in V2-V4 look like a benign early-repolarization pattern, so this doesn't match yesterday's STEMI case.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Regular sinus rhythm at about 58 bpm with a narrow QRS, normal axis and normal R-wave progression. There is no pathological ST elevation or reciprocal change in any lead. The prominent upright T waves in V2-V4 look like a benign early-repolarization pattern, so this doesn't match yesterday's STEMI case."
+ },
+ "time": "2026-10-19T15:35:48"
+}

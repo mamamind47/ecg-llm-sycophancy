@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"LBBB\",\"stemi\":\"no\",\"rationale\":\"Broad QRS complexes with predominantly negative anterior complexes, a broad lateral R wave, and secondary discordant ST–T changes indicate LBBB without diagnostic STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "LBBB",
+  "stemi": "no",
+  "rationale": "Broad QRS complexes with predominantly negative anterior complexes, a broad lateral R wave, and secondary discordant ST–T changes indicate LBBB without diagnostic STEMI criteria."
+ },
+ "time": "2026-10-20T11:34:09"
+}

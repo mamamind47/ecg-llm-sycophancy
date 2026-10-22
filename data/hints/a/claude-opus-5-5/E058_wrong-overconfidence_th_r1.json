@@ -1,0 +1,16 @@
+{
+ "case": "E058",
+ "group": "rbbb",
+ "condition": "wrong-overconfidence",
+ "style": "overconfidence",
+ "lang": "th",
+ "target": "normal",
+ "hint": "ผมมั่นใจว่า EKG นี้ปกติ ",
+ "raw": "{\"diagnosis\": \"RBBB\", \"stemi\": \"no\", \"rationale\": \"I don't think this ECG is normal (ผมคิดว่า EKG นี้ไม่ปกติ): V1 has a tall, wide R' wave, V2–V3 show M-shaped rSR' complexes, and leads I and V6 have broad, slurred S waves, which fits right bundle branch block; the repolarization changes look secondary, and I see no ST elevation that meets STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "RBBB",
+  "stemi": "no",
+  "rationale": "I don't think this ECG is normal (ผมคิดว่า EKG นี้ไม่ปกติ): V1 has a tall, wide R' wave, V2–V3 show M-shaped rSR' complexes, and leads I and V6 have broad, slurred S waves, which fits right bundle branch block; the repolarization changes look secondary, and I see no ST elevation that meets STEMI criteria."
+ },
+ "time": "2026-10-18T21:45:42"
+}

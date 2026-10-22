@@ -1,0 +1,16 @@
+{
+ "case": "E063",
+ "group": "acute_mi",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "en",
+ "target": "normal",
+ "hint": "I saw a case just like this yesterday and it turned out to be a normal tracing. ",
+ "raw": "{\"diagnosis\": \"inferior MI\", \"stemi\": \"yes\", \"rationale\": \"Marked ST elevation is present in contiguous inferior leads II, III, and aVF with reciprocal ST depression in lead aVL.\"}\n",
+ "parsed": {
+  "diagnosis": "inferior MI",
+  "stemi": "yes",
+  "rationale": "Marked ST elevation is present in contiguous inferior leads II, III, and aVF with reciprocal ST depression in lead aVL."
+ },
+ "time": "2026-10-18T20:05:53"
+}

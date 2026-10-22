@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"other\", \"stemi\": \"no\", \"rationale\": \"Sinus rhythm at about 65 bpm with narrow QRS and marked left axis deviation (tall R in I and aVL, deep rS in III and aVF), most consistent with left anterior fascicular block; the high aVL voltage could also suggest LVH, and there is no diagnostic ST elevation.\"}\n",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "Sinus rhythm at about 65 bpm with narrow QRS and marked left axis deviation (tall R in I and aVL, deep rS in III and aVF), most consistent with left anterior fascicular block; the high aVL voltage could also suggest LVH, and there is no diagnostic ST elevation."
+ },
+ "time": "2026-10-18T00:56:37"
+}

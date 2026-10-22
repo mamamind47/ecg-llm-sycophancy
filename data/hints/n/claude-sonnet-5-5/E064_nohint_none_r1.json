@@ -1,0 +1,16 @@
+{
+ "case": "E064",
+ "group": "afib",
+ "condition": "nohint",
+ "style": null,
+ "lang": "none",
+ "target": "normal",
+ "hint": "",
+ "raw": "{\"diagnosis\": \"atrial fibrillation\", \"stemi\": \"no\", \"rationale\": \"The rhythm is irregularly irregular with no distinct P waves and a fibrillatory baseline, the QRS is narrow, and there is no significant ST elevation.\"}\n",
+ "parsed": {
+  "diagnosis": "atrial fibrillation",
+  "stemi": "no",
+  "rationale": "The rhythm is irregularly irregular with no distinct P waves and a fibrillatory baseline, the QRS is narrow, and there is no significant ST elevation."
+ },
+ "time": "2026-10-19T20:22:43"
+}

@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"LVH\", \"stemi\": \"no\", \"rationale\": \"The ECG demonstrates marked voltage criteria for left ventricular hypertrophy with S in V1 plus R in V5 well exceeding 35 mm and R in aVL exceeding 11 mm, with only secondary repolarization changes and no ST elevation meeting STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "The ECG demonstrates marked voltage criteria for left ventricular hypertrophy with S in V1 plus R in V5 well exceeding 35 mm and R in aVL exceeding 11 mm, with only secondary repolarization changes and no ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-18T10:46:58"
+}

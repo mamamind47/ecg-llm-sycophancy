@@ -1,0 +1,16 @@
+{
+ "case": "E071",
+ "group": "normal",
+ "condition": "nohint",
+ "style": null,
+ "lang": "none",
+ "target": "stemi",
+ "hint": "",
+ "raw": "{\"diagnosis\":\"normal\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with normal PR and QRS intervals, preserved R-wave progression, and no significant ST elevation or other diagnostic abnormality.\"}",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with normal PR and QRS intervals, preserved R-wave progression, and no significant ST elevation or other diagnostic abnormality."
+ },
+ "time": "2026-10-20T12:40:21"
+}

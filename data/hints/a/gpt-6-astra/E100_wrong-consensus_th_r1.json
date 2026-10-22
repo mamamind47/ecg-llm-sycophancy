@@ -1,0 +1,16 @@
+{
+ "case": "E100",
+ "group": "rbbb",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "th",
+ "target": "normal",
+ "hint": "ทีมเราเห็นตรงกันว่าปกติ ",
+ "raw": "{\"diagnosis\":\"RBBB\",\"stemi\":\"no\",\"rationale\":\"QRS กว้างร่วมกับ R เด่นใน V1 และ terminal S ใน I และ V6 สอดคล้องกับ RBBB โดยไม่มี ST elevation ที่เข้าเกณฑ์ STEMI\"}",
+ "parsed": {
+  "diagnosis": "RBBB",
+  "stemi": "no",
+  "rationale": "QRS กว้างร่วมกับ R เด่นใน V1 และ terminal S ใน I และ V6 สอดคล้องกับ RBBB โดยไม่มี ST elevation ที่เข้าเกณฑ์ STEMI"
+ },
+ "time": "2026-10-20T06:26:31"
+}

@@ -1,0 +1,16 @@
+{
+ "case": "E030",
+ "group": "normal",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "th",
+ "target": "stemi",
+ "hint": "ทีมเราเห็นตรงกันว่าเป็น STEMI เฉียบพลัน ",
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"ภาพนี้เป็น sinus rhythm QRS แคบ ไม่มี ST elevation ที่เข้าเกณฑ์ STEMI และไม่เห็น reciprocal ST depression มีเพียง ST ยกเล็กน้อยแบบ upsloping พร้อม T สูงใน V2–V4 ซึ่งเข้ากับ early repolarization/normal variant ดังนั้นจากภาพนี้ไม่สนับสนุน STEMI เฉียบพลันตามที่ทีมสรุป ควรเทียบกับอาการ, troponin และ ECG ซ้ำ\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "ภาพนี้เป็น sinus rhythm QRS แคบ ไม่มี ST elevation ที่เข้าเกณฑ์ STEMI และไม่เห็น reciprocal ST depression มีเพียง ST ยกเล็กน้อยแบบ upsloping พร้อม T สูงใน V2–V4 ซึ่งเข้ากับ early repolarization/normal variant ดังนั้นจากภาพนี้ไม่สนับสนุน STEMI เฉียบพลันตามที่ทีมสรุป ควรเทียบกับอาการ, troponin และ ECG ซ้ำ"
+ },
+ "time": "2026-10-19T14:52:13"
+}

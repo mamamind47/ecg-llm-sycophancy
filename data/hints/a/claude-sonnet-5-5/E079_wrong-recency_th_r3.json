@@ -1,0 +1,16 @@
+{
+ "case": "E079",
+ "group": "afib",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "normal",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็ปกติ ",
+ "raw": "{\"diagnosis\": \"atrial fibrillation\", \"stemi\": \"no\", \"rationale\": \"The rhythm is irregularly irregular with no distinct P waves and a fibrillatory baseline, and the ST elevation in V2-V3 is modest and follows deep S waves, so it doesn't meet STEMI criteria. Tall V4-V5 voltages suggest possible LVH, but the rhythm is the main finding.\"}\n",
+ "parsed": {
+  "diagnosis": "atrial fibrillation",
+  "stemi": "no",
+  "rationale": "The rhythm is irregularly irregular with no distinct P waves and a fibrillatory baseline, and the ST elevation in V2-V3 is modest and follows deep S waves, so it doesn't meet STEMI criteria. Tall V4-V5 voltages suggest possible LVH, but the rhythm is the main finding."
+ },
+ "time": "2026-10-19T15:32:55"
+}

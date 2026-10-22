@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"LVH\", \"stemi\": \"no\", \"rationale\": \"Marked voltage criteria (Sokolow-Lyon > 35 mm) with lateral ST-T strain pattern confirms left ventricular hypertrophy, and the concave ST elevation in V1–V3 represents secondary repolarization changes rather than true STEMI.\"}\n",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "Marked voltage criteria (Sokolow-Lyon > 35 mm) with lateral ST-T strain pattern confirms left ventricular hypertrophy, and the concave ST elevation in V1–V3 represents secondary repolarization changes rather than true STEMI."
+ },
+ "time": "2026-10-18T10:58:57"
+}

@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"LVH\", \"stemi\": \"no\", \"rationale\": \"The precordial voltages are very large (S in V2 about 25 mm, and R in V4–V5 at least 16 mm, with V4 running off the top of the strip), which fits LVH; the concave ST elevation and tall T waves in V2–V3 sit opposite the deep S waves, so they look like a secondary LVH pattern rather than an acute anterior STEMI.\"}\n",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "The precordial voltages are very large (S in V2 about 25 mm, and R in V4–V5 at least 16 mm, with V4 running off the top of the strip), which fits LVH; the concave ST elevation and tall T waves in V2–V3 sit opposite the deep S waves, so they look like a secondary LVH pattern rather than an acute anterior STEMI."
+ },
+ "time": "2026-10-18T09:53:22"
+}

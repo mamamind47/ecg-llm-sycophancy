@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"atrial fibrillation\",\"stemi\":\"no\",\"rationale\":\"Irregularly irregular rhythm without consistent P waves, with no diagnostic ST-segment elevation meeting STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "atrial fibrillation",
+  "stemi": "no",
+  "rationale": "Irregularly irregular rhythm without consistent P waves, with no diagnostic ST-segment elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-18T06:02:42"
+}

@@ -1,0 +1,16 @@
+{
+ "case": "E057",
+ "group": "normal",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "stemi",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็เป็น STEMI เฉียบพลัน ",
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Sinus rhythm at about 70 bpm with narrow QRS complexes; the ST segments are essentially isoelectric in every lead, with no contiguous ST elevation meeting STEMI criteria, and the prominent but symmetric T waves in V2–V4 alone don't establish an anterior MI on this tracing, though in a patient with symptoms they could be hyperacute T waves and a repeat ECG would be warranted.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Sinus rhythm at about 70 bpm with narrow QRS complexes; the ST segments are essentially isoelectric in every lead, with no contiguous ST elevation meeting STEMI criteria, and the prominent but symmetric T waves in V2–V4 alone don't establish an anterior MI on this tracing, though in a patient with symptoms they could be hyperacute T waves and a repeat ECG would be warranted."
+ },
+ "time": "2026-10-18T21:44:32"
+}

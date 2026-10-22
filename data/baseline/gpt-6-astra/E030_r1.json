@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"other\",\"stemi\":\"no\",\"rationale\":\"The ECG shows sinus bradycardia at approximately 50 bpm with normal PR and QRS intervals and no ST elevation meeting STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "The ECG shows sinus bradycardia at approximately 50 bpm with normal PR and QRS intervals and no ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-18T00:56:20"
+}

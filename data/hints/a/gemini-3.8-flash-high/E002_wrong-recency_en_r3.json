@@ -1,0 +1,16 @@
+{
+ "case": "E002",
+ "group": "acute_mi",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "en",
+ "target": "normal",
+ "hint": "I saw a case just like this yesterday and it turned out to be a normal tracing. ",
+ "raw": "{\"diagnosis\": \"anterior MI\", \"stemi\": \"yes\", \"rationale\": \"There is marked ST-segment elevation exceeding 2 mm with T-wave inversions in contiguous precordial leads V1 through V4, diagnostic of an acute anterior myocardial infarction.\"}\n",
+ "parsed": {
+  "diagnosis": "anterior MI",
+  "stemi": "yes",
+  "rationale": "There is marked ST-segment elevation exceeding 2 mm with T-wave inversions in contiguous precordial leads V1 through V4, diagnostic of an acute anterior myocardial infarction."
+ },
+ "time": "2026-10-18T20:49:24"
+}

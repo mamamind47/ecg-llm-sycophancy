@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"The rhythm is regular sinus at about 57 bpm, with narrow QRS complexes, normal R-wave progression and no significant ST elevation, Q waves, delta waves or bundle branch pattern, though baseline noise in leads I, III and aVL limits the reading.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "The rhythm is regular sinus at about 57 bpm, with narrow QRS complexes, normal R-wave progression and no significant ST elevation, Q waves, delta waves or bundle branch pattern, though baseline noise in leads I, III and aVL limits the reading."
+ },
+ "time": "2026-10-18T00:49:49"
+}

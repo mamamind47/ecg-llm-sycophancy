@@ -1,0 +1,8 @@
+{
+ "raw": "```json\n{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Sinus rhythm at about 50 bpm with a narrow QRS, normal PR interval, no pathologic Q waves and no significant ST elevation, so this is essentially a normal ECG (sinus bradycardia, mild left axis, borderline voltage that does not meet LVH criteria).\"}\n```\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Sinus rhythm at about 50 bpm with a narrow QRS, normal PR interval, no pathologic Q waves and no significant ST elevation, so this is essentially a normal ECG (sinus bradycardia, mild left axis, borderline voltage that does not meet LVH criteria)."
+ }
+}

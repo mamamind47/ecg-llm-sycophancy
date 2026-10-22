@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"LVH\",\"stemi\":\"no\",\"rationale\":\"High QRS voltage with tall R waves in I and aVL, deep anterior S waves, and discordant ST-T changes indicates LVH with strain rather than acute STEMI.\"}",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "High QRS voltage with tall R waves in I and aVL, deep anterior S waves, and discordant ST-T changes indicates LVH with strain rather than acute STEMI."
+ },
+ "time": "2026-10-20T01:29:28"
+}

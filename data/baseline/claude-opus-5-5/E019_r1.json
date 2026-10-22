@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"The rhythm is regular sinus at about 80 bpm, with a P wave before each QRS, a normal PR interval, narrow QRS complexes, normal R-wave progression across V1–V6, and no pathological Q waves or significant ST elevation; the limb leads are noisy but show nothing specific.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "The rhythm is regular sinus at about 80 bpm, with a P wave before each QRS, a normal PR interval, narrow QRS complexes, normal R-wave progression across V1–V6, and no pathological Q waves or significant ST elevation; the limb leads are noisy but show nothing specific."
+ },
+ "time": "2026-10-18T00:51:25"
+}

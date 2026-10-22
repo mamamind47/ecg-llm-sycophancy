@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"atrial fibrillation\", \"stemi\": \"no\", \"rationale\": \"The lead II rhythm strip is irregularly irregular, with narrow QRS complexes, no clear P waves and a fine fibrillatory baseline, and no leads show significant ST elevation.\"}\n",
+ "parsed": {
+  "diagnosis": "atrial fibrillation",
+  "stemi": "no",
+  "rationale": "The lead II rhythm strip is irregularly irregular, with narrow QRS complexes, no clear P waves and a fine fibrillatory baseline, and no leads show significant ST elevation."
+ },
+ "time": "2026-10-18T01:02:17"
+}

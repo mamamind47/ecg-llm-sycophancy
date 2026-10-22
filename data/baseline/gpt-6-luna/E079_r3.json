@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"other\",\"stemi\":\"no\",\"rationale\":\"The rhythm is irregular with narrow QRS complexes and no consistent preceding P waves, consistent with atrial fibrillation, while there is no diagnostic ST elevation.\"}",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "The rhythm is irregular with narrow QRS complexes and no consistent preceding P waves, consistent with atrial fibrillation, while there is no diagnostic ST elevation."
+ },
+ "time": "2026-10-19T23:26:34"
+}

@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"LVH\",\"stemi\":\"no\",\"rationale\":\"Marked precordial QRS voltages with deep anterior S waves and tall lateral R waves support LVH, with secondary ST changes that do not meet STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "Marked precordial QRS voltages with deep anterior S waves and tall lateral R waves support LVH, with secondary ST changes that do not meet STEMI criteria."
+ },
+ "time": "2026-10-20T06:27:22"
+}

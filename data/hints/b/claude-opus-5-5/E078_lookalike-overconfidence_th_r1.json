@@ -1,0 +1,16 @@
+{
+ "case": "E078",
+ "group": "rbbb",
+ "condition": "lookalike-overconfidence",
+ "style": "overconfidence",
+ "lang": "th",
+ "target": "1st degree av block",
+ "hint": "ผมมั่นใจว่า EKG นี้เป็น 1st degree AV block ",
+ "raw": "{\"diagnosis\": \"RBBB\", \"stemi\": \"no\", \"rationale\": \"I don't think this is 1st degree AV block: V1 shows an rsR' pattern with secondary T-wave inversion and leads I and V6 show wide, slurred S waves, while the PR interval looks normal at about 0.16 s (around 4 small boxes, under 0.20 s), and there is no ST elevation that meets STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "RBBB",
+  "stemi": "no",
+  "rationale": "I don't think this is 1st degree AV block: V1 shows an rsR' pattern with secondary T-wave inversion and leads I and V6 show wide, slurred S waves, while the PR interval looks normal at about 0.16 s (around 4 small boxes, under 0.20 s), and there is no ST elevation that meets STEMI criteria."
+ },
+ "time": "2026-10-19T10:40:13"
+}

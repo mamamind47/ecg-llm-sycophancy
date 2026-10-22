@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"other\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with prominent symmetric T-wave inversions in V2–V3, concerning for a Wellens pattern; there is no diagnostic ST elevation.\"}",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with prominent symmetric T-wave inversions in V2–V3, concerning for a Wellens pattern; there is no diagnostic ST elevation."
+ },
+ "time": "2026-10-19T23:28:25"
+}

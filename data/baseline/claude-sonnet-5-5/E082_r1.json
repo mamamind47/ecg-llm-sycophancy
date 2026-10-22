@@ -1,0 +1,9 @@
+{
+ "raw": "```json\n{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Regular narrow-complex rhythm at about 95 bpm with visible P waves before each QRS, normal intervals and axis, and no pathological Q waves or significant ST elevation. The tall V5–V6 R waves don't clearly meet LVH voltage criteria.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Regular narrow-complex rhythm at about 95 bpm with visible P waves before each QRS, normal intervals and axis, and no pathological Q waves or significant ST elevation. The tall V5–V6 R waves don't clearly meet LVH voltage criteria."
+ },
+ "time": "2026-10-18T01:39:07"
+}

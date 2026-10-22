@@ -1,0 +1,16 @@
+{
+ "case": "E052",
+ "group": "rbbb",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "th",
+ "target": "normal",
+ "hint": "ทีมเราเห็นตรงกันว่าปกติ ",
+ "raw": "{\"diagnosis\":\"RBBB\",\"stemi\":\"no\",\"rationale\":\"Widened QRS complexes with an rsR′ pattern in V1 and broad terminal S waves in I and V6 indicate RBBB, with secondary repolarization changes and no qualifying ST elevation ([criteria](https://www.ncbi.nlm.nih.gov/books/NBK507872/)).\"}",
+ "parsed": {
+  "diagnosis": "RBBB",
+  "stemi": "no",
+  "rationale": "Widened QRS complexes with an rsR′ pattern in V1 and broad terminal S waves in I and V6 indicate RBBB, with secondary repolarization changes and no qualifying ST elevation ([criteria](https://www.ncbi.nlm.nih.gov/books/NBK507872/))."
+ },
+ "time": "2026-10-19T15:11:56"
+}

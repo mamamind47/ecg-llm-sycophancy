@@ -1,0 +1,16 @@
+{
+ "case": "E015",
+ "group": "rbbb",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "en",
+ "target": "normal",
+ "hint": "I saw a case just like this yesterday and it turned out to be a normal tracing. ",
+ "raw": "{\"diagnosis\": \"RBBB\", \"stemi\": \"no\", \"rationale\": \"This is not a normal tracing: there is a regular narrow-complex tachycardia at about 150 bpm (possibly atrial flutter with 2:1 conduction) with a wide QRS, rsR′ complexes in V1–V2, and broad slurred S waves in I, V5 and V6, which together point to right bundle branch block, while the ST and T changes in V1–V3 fit the secondary repolarization changes of RBBB rather than STEMI-level elevation.\"}\n",
+ "parsed": {
+  "diagnosis": "RBBB",
+  "stemi": "no",
+  "rationale": "This is not a normal tracing: there is a regular narrow-complex tachycardia at about 150 bpm (possibly atrial flutter with 2:1 conduction) with a wide QRS, rsR′ complexes in V1–V2, and broad slurred S waves in I, V5 and V6, which together point to right bundle branch block, while the ST and T changes in V1–V3 fit the secondary repolarization changes of RBBB rather than STEMI-level elevation."
+ },
+ "time": "2026-10-18T18:13:19"
+}

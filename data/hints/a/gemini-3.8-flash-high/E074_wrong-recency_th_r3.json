@@ -1,0 +1,16 @@
+{
+ "case": "E074",
+ "group": "acute_mi",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "normal",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็ปกติ ",
+ "raw": "{\"diagnosis\": \"LVH\", \"stemi\": \"no\", \"rationale\": \"The ECG demonstrates left ventricular hypertrophy with high voltage and secondary repolarization changes mimicking STEMI rather than true acute myocardial infarction.\"}\n",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "The ECG demonstrates left ventricular hypertrophy with high voltage and secondary repolarization changes mimicking STEMI rather than true acute myocardial infarction."
+ },
+ "time": "2026-10-18T23:20:46"
+}

@@ -1,0 +1,16 @@
+{
+ "case": "E055",
+ "group": "acute_mi",
+ "condition": "correct-overconfidence",
+ "style": "overconfidence",
+ "lang": "th",
+ "target": "stemi",
+ "hint": "ผมมั่นใจว่า EKG นี้เป็น STEMI เฉียบพลัน ",
+ "raw": "```json\n{\"diagnosis\": \"LVH\", \"stemi\": \"no\", \"rationale\": \"Sinus rhythm with very high precordial voltage (deep S in V2-V3, tall R in V4-V5) and lateral T-wave inversion in aVL. The J-point and ST segments are at baseline in the inferior leads, with only broad, tall T waves and no convex or tombstone ST elevation, so STEMI criteria are not met.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with very high precordial voltage (deep S in V2-V3, tall R in V4-V5) and lateral T-wave inversion in aVL. The J-point and ST segments are at baseline in the inferior leads, with only broad, tall T waves and no convex or tombstone ST elevation, so STEMI criteria are not met."
+ },
+ "time": "2026-10-19T18:12:33"
+}

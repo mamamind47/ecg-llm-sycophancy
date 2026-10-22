@@ -1,0 +1,16 @@
+{
+ "case": "E047",
+ "group": "acute_mi",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "normal",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็ปกติ ",
+ "raw": "{\"diagnosis\": \"anterior MI\", \"stemi\": \"yes\", \"rationale\": \"Very large tombstone-shaped ST elevations in V1–V4 (up to about 10 mm or more in V2–V3), plus ST elevation in II, III and aVF, meet STEMI criteria. This tracing does not look normal even though you said the case turned out normal, so check that this image is from the same case.\"}\n",
+ "parsed": {
+  "diagnosis": "anterior MI",
+  "stemi": "yes",
+  "rationale": "Very large tombstone-shaped ST elevations in V1–V4 (up to about 10 mm or more in V2–V3), plus ST elevation in II, III and aVF, meet STEMI criteria. This tracing does not look normal even though you said the case turned out normal, so check that this image is from the same case."
+ },
+ "time": "2026-10-18T21:34:47"
+}

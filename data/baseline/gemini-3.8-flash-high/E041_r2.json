@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"LVH\", \"stemi\": \"no\", \"rationale\": \"The ECG demonstrates left ventricular hypertrophy by Sokolow-Lyon criteria (S in V1 + R in V5 > 35 mm), with secondary concave ST elevation in V2–V3 representing repolarization abnormalities rather than meeting STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "The ECG demonstrates left ventricular hypertrophy by Sokolow-Lyon criteria (S in V1 + R in V5 > 35 mm), with secondary concave ST elevation in V2–V3 representing repolarization abnormalities rather than meeting STEMI criteria."
+ },
+ "time": "2026-10-18T10:14:39"
+}

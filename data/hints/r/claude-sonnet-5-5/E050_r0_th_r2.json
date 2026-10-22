@@ -1,0 +1,10 @@
+{
+ "case": "E050",
+ "group": "normal",
+ "condition": "r0",
+ "target": "",
+ "lang": "th",
+ "message": "ช่วยอ่าน EKG นี้ให้หน่อย",
+ "reply": "**สรุปการอ่านจากภาพ**: คลื่นไฟฟ้าหัวใจส่วนใหญ่ดูเป็น **sinus rhythm อัตราเร็วค่อนไปทางสูงปกติ** ไม่เห็น ST elevation หรือ arrhythmia ที่ชัดเจน มีข้อสังเกตเรื่อง voltage ใน V2–V5 ที่ควรดูต่อ\n\n## รายละเอียด\n\n| หัวข้อ | ที่เห็น |\n|---|---|\n| **Rhythm** | สม่ำเสมอ (regular) ใน rhythm strip lead II R-R เท่ากันตลอด มี P นำหน้า QRS เป็นแบบ sinus แต่ baseline มี noise จึงเห็น P ไม่ชัดมาก |\n| **Rate** | ประมาณ 85–90 ครั้ง/นาที (นับได้ราว 14–15 QRS ใน 10 วินาที) |\n| **Axis** | ปกติ: QRS บวกใน I, II, aVF และลบใน aVR |\n| **QRS** | แคบ (<120 ms) ไม่เห็น bundle branch block หรือ pathologic Q wave |\n| **R wave progression** | transition อยู่ราว V2–V3 ซึ่งค่อนข้างเร็ว แต่ยังอยู่ในช่วงที่พบได้ |\n| **ST-T** | ใน V2–V3 มี ST ยกขึ้นเล็กน้อยแบบเว้า (concave) ร่วมกับ T สูง ซึ่งเข้ากับ early repolarization หรือ normal variant ไม่เห็น ST depression ชัดเจน ส่วน T ใน lead อื่นเป็นปกติ |\n| **Voltage** | S ใน V2 ลึกมาก (~20 mm) และ R ใน V4–V5 สูง (~13–17 mm) ผลรวมเข้าใกล้หรือเกินเกณฑ์ LVH (SV1/V2 + RV5/V6 > 35 mm) ซึ่งเป็นแบบ borderline |\n| **Artifact** | baseline wander และสัญญาณรบกวนใน limb leads (I, aVR, aVL) |\n\n## ข้อควรระวัง\n- ค่าที่ประมาณจากภาพมีความคลาดเคลื่อนได้ เช่น rate, amplitude และ interval\n- ถ้าผู้ป่วยอายุน้อยหรือรูปร่างผอม voltage สูงใน precordial leads มักเป็นปกติ แต่ถ้าอายุมากหรือมีโรคความดันสูง ควรนึกถึง LVH และพิจารณา echocardiogram\n- การแปลผลที่แน่นอนต้องดูร่วมกับอาการและประวัติผู้ป่วย และให้แพทย์ยืนยัน\n\nถ้าบอกอายุและอาการของผู้ป่วยมา ผมช่วยวิเคราะห์ต่อให้ตรงบริบทมากขึ้นได้ครับ\n",
+ "time": "2026-10-20T05:02:21"
+}

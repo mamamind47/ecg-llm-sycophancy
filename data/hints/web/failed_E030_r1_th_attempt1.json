@@ -1,0 +1,1 @@
+{"case":"E030","condition":"r1","lang":"th","attempt":1,"note":"web returned only the medical-information disclaimer, no answer text, after ~5 min; not retried (second empty reply, both on hinted prompts)","time":"2026-10-20T17:09:41"}

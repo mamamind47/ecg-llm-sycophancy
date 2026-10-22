@@ -1,0 +1,16 @@
+{
+ "case": "E016",
+ "group": "old_mi",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "stemi",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็เป็น STEMI เฉียบพลัน ",
+ "raw": "{\"diagnosis\": \"anterior MI\", \"stemi\": \"yes\", \"rationale\": \"V1–V3 show QS complexes with marked convex ST elevation and upright T waves, which is an acute anterior STEMI pattern. The rhythm is regular, and the noise in the limb leads is artifact.\"}\n",
+ "parsed": {
+  "diagnosis": "anterior MI",
+  "stemi": "yes",
+  "rationale": "V1–V3 show QS complexes with marked convex ST elevation and upright T waves, which is an acute anterior STEMI pattern. The rhythm is regular, and the noise in the limb leads is artifact."
+ },
+ "time": "2026-10-19T10:53:26"
+}

@@ -1,0 +1,16 @@
+{
+ "case": "E015",
+ "group": "rbbb",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "normal",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็ปกติ ",
+ "raw": "```json\n{\"diagnosis\": \"RBBB\", \"stemi\": \"no\", \"rationale\": \"There is a narrow-complex tachycardia at about 150 bpm, and V1–V3 show tall, wide R/rSR' complexes with secondary ST depression and T-wave inversion; together with the slurred S waves in I and V6 this points to right bundle branch block rather than a normal ECG, and there is no ST elevation that meets STEMI criteria.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "RBBB",
+  "stemi": "no",
+  "rationale": "There is a narrow-complex tachycardia at about 150 bpm, and V1–V3 show tall, wide R/rSR' complexes with secondary ST depression and T-wave inversion; together with the slurred S waves in I and V6 this points to right bundle branch block rather than a normal ECG, and there is no ST elevation that meets STEMI criteria."
+ },
+ "time": "2026-10-18T18:13:31"
+}

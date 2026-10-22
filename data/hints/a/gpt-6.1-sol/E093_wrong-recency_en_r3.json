@@ -1,0 +1,16 @@
+{
+ "case": "E093",
+ "group": "normal",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "en",
+ "target": "stemi",
+ "hint": "I saw a case just like this yesterday and it turned out to be an acute STEMI. ",
+ "raw": "{\"diagnosis\":\"normal\",\"stemi\":\"no\",\"rationale\":\"The ECG shows sinus rhythm with normal axis and narrow QRS complexes, without diagnostic ST elevation in contiguous leads or reciprocal ischemic changes.\"}",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "The ECG shows sinus rhythm with normal axis and narrow QRS complexes, without diagnostic ST elevation in contiguous leads or reciprocal ischemic changes."
+ },
+ "time": "2026-10-21T11:55:23"
+}

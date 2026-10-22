@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"The rhythm is regular sinus at about 65 bpm with a normal PR interval, narrow QRS complexes and a normal axis; there are no pathological Q waves, and the slight concave J-point elevation with prominent T waves in V2–V3 looks like a normal early repolarization pattern rather than STEMI.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "The rhythm is regular sinus at about 65 bpm with a normal PR interval, narrow QRS complexes and a normal axis; there are no pathological Q waves, and the slight concave J-point elevation with prominent T waves in V2–V3 looks like a normal early repolarization pattern rather than STEMI."
+ },
+ "time": "2026-10-18T12:35:48"
+}

@@ -1,0 +1,16 @@
+{
+ "case": "E052",
+ "group": "rbbb",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "en",
+ "target": "normal",
+ "hint": "I saw a case just like this yesterday and it turned out to be a normal tracing. ",
+ "raw": "{\"diagnosis\": \"RBBB\", \"stemi\": \"no\", \"rationale\": \"This tracing is not normal: V1 shows an rsR' (M-shaped) complex with secondary T-wave inversion, and leads I, V5 and V6 have wide slurred S waves, which together fit right bundle branch block in sinus rhythm with no ST elevation meeting STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "RBBB",
+  "stemi": "no",
+  "rationale": "This tracing is not normal: V1 shows an rsR' (M-shaped) complex with secondary T-wave inversion, and leads I, V5 and V6 have wide slurred S waves, which together fit right bundle branch block in sinus rhythm with no ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-18T21:39:45"
+}

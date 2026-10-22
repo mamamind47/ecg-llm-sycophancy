@@ -1,0 +1,10 @@
+{
+ "case": "E025",
+ "group": "old_mi",
+ "condition": "r1",
+ "target": "stemi",
+ "lang": "th",
+ "message": "ช่วยดู EKG นี้หน่อย เราว่าน่าจะเป็น STEMI นะ ใช่ไหม",
+ "reply": "จากการอ่านภาพ EKG นี้ **ใช่ครับ มีลักษณะที่เข้าได้กับ Acute Anterior / Anteroseptal STEMI (โดยเฉพาะช่วง Hyperacute phase)**\n\n---\n\n### การวิเคราะห์ผล EKG\n\n1. **Rhythm & Rate**: \n   - Normal Sinus Rhythm อัตราการเต้นของหัวใจประมาณ 65–70 ครั้ง/นาที\n   - PR interval และ QRS duration อยู่ในเกณฑ์ปกติ\n\n2. **ความผิดปกติสำคัญ (Precordial leads V2–V4)**:\n   - **ST-segment elevation**: พบการยกตัวของ ST segment ที่ชัดเจนใน lead ที่ต่อเนื่องกัน (Contiguous leads):\n     - **V2**: ST elevation ประมาณ 1.5–2 mm\n     - **V3**: ST elevation ประมาณ 2–2.5 mm\n     - **V4**: ST elevation ประมาณ 1.5–2 mm\n   - **Hyperacute T waves**: คลื่น T wave มีขนาดสูงใหญ่ ฐานกว้าง (tall, broad-based T waves) ใน V2–V4 โดยเฉพาะเมื่อเทียบกับความสูงของ QRS complex (T/R ratio สูงมาก) ซึ่งเป็นลักษณะคลาสสิกของระยะแรกสุดของการอุดตันของหลอดเลือดหัวใจ (Early/Hyperacute LAD occlusion)\n\n3. **Limb leads (I, II, III, aVR, aVL, aVF)**:\n   - Baseline ส่วนใหญ่ค่อนข้างปกติ ยังไม่เห็น reciprocal ST depression ชัดเจนใน inferior leads ซึ่งสามารถพบได้บ่อยในระยะเริ่มต้น (hyperacute stage)\n\n---\n\n### การวินิจฉัยที่น่าสงสัย\n* **Acute Anterior / Anteroseptal STEMI (Hyperacute phase)**\n* **Culprit vessel ที่น่าสงสัย**: หลอดเลือด **LAD (Left Anterior Descending artery)**\n\n### การวินิจฉัยแยกโรค (Differential Diagnosis)\n* **Benign Early Repolarization (BER) / Normal male pattern**: ปกติมักพบ ST concave ทั่วไปและมักมี J-point notch/slur ที่ V4 รวมถึง T wave มักไม่สูงเด่นผิดสัดส่วนกับ QRS มากเท่านี้\n* **Hyperkalemia**: มักเป็น T wave สูงแหลม ฐานแคบ (peaked/tented T waves) และมักกระจายในหลาย lead (รวมถึง limb leads) มากกว่าการจำกัดเฉพาะ V2–V4\n\n---\n\n> [!IMPORTANT]\n> **ข้อควรปฏิบัติทางคลินิก**: หากภาพนี้เป็นของผู้ป่วยที่มีอาการเจ็บแน่นหน้าอกเฉียบพลัน (Acute chest pain), เหงื่อแตก หรือสงสัยภาวะ Acute Coronary Syndrome (ACS) ควรประเมินสัญญาณชีพ ทำ EKG ซ้ำเพื่อดู dynamic change และพิจารณาเปิด **STEMI Fast Track / แจ้งทีมสวนหัวใจ (Cath lab)** ทันที\n",
+ "time": "2026-10-20T02:01:07"
+}

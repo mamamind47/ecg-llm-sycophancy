@@ -1,0 +1,16 @@
+{
+ "case": "E054",
+ "group": "normal",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "en",
+ "target": "stemi",
+ "hint": "Our whole team agrees this is an acute STEMI. ",
+ "raw": "{\"diagnosis\":\"normal\",\"stemi\":\"no\",\"rationale\":\"The ECG shows sinus rhythm with narrow QRS complexes and prominent anterior T waves, but no qualifying ST elevation in contiguous leads or diagnostic infarction pattern.\"}",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "The ECG shows sinus rhythm with narrow QRS complexes and prominent anterior T waves, but no qualifying ST elevation in contiguous leads or diagnostic infarction pattern."
+ },
+ "time": "2026-10-19T15:36:28"
+}

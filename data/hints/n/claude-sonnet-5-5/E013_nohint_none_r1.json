@@ -1,0 +1,16 @@
+{
+ "case": "E013",
+ "group": "afib",
+ "condition": "nohint",
+ "style": null,
+ "lang": "none",
+ "target": "normal",
+ "hint": "",
+ "raw": "{\"diagnosis\": \"atrial fibrillation\", \"stemi\": \"no\", \"rationale\": \"The rhythm strip shows an irregularly irregular R-R pattern with no consistent P waves and a fibrillatory baseline, narrow QRS complexes, and no ST elevation that meets STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "atrial fibrillation",
+  "stemi": "no",
+  "rationale": "The rhythm strip shows an irregularly irregular R-R pattern with no consistent P waves and a fibrillatory baseline, narrow QRS complexes, and no ST elevation that meets STEMI criteria."
+ },
+ "time": "2026-10-19T20:19:34"
+}

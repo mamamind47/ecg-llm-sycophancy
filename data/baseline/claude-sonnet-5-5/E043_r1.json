@@ -1,0 +1,9 @@
+{
+ "raw": "```json\n{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Sinus rhythm at about 50–55 bpm with narrow QRS complexes, a vertical axis, normal R-wave progression, upright T waves in the inferior and lateral leads, and only minor J-point or ST elevation in V2–V3. That elevation falls short of STEMI thresholds, and there are no bundle branch block, pre-excitation, AV block, hypertrophy-voltage or infarct patterns.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Sinus rhythm at about 50–55 bpm with narrow QRS complexes, a vertical axis, normal R-wave progression, upright T waves in the inferior and lateral leads, and only minor J-point or ST elevation in V2–V3. That elevation falls short of STEMI thresholds, and there are no bundle branch block, pre-excitation, AV block, hypertrophy-voltage or infarct patterns."
+ },
+ "time": "2026-10-18T01:31:33"
+}

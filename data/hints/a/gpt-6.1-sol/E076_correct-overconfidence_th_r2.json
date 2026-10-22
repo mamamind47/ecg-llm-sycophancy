@@ -1,0 +1,16 @@
+{
+ "case": "E076",
+ "group": "wpw",
+ "condition": "correct-overconfidence",
+ "style": "overconfidence",
+ "lang": "th",
+ "target": "wpw",
+ "hint": "ผมมั่นใจว่า EKG นี้เป็น WPW ",
+ "raw": "{\"diagnosis\":\"WPW\",\"stemi\":\"no\",\"rationale\":\"Intermittent short PR intervals with delta waves, widened QRS complexes, and secondary ST–T changes indicate [WPW](https://www.acc.org/latest-in-cardiology/articles/2022/02/17/13/25/asymptomatic-ventricular-preexcitation), without diagnostic STEMI-pattern ST elevation.\"}",
+ "parsed": {
+  "diagnosis": "WPW",
+  "stemi": "no",
+  "rationale": "Intermittent short PR intervals with delta waves, widened QRS complexes, and secondary ST–T changes indicate [WPW](https://www.acc.org/latest-in-cardiology/articles/2022/02/17/13/25/asymptomatic-ventricular-preexcitation), without diagnostic STEMI-pattern ST elevation."
+ },
+ "time": "2026-10-21T05:27:25"
+}

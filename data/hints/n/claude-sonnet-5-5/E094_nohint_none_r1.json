@@ -1,0 +1,16 @@
+{
+ "case": "E094",
+ "group": "afib",
+ "condition": "nohint",
+ "style": null,
+ "lang": "none",
+ "target": "normal",
+ "hint": "",
+ "raw": "{\"diagnosis\": \"atrial fibrillation\", \"stemi\": \"no\", \"rationale\": \"The rhythm is irregularly irregular with no discernible P waves and a fibrillatory baseline, and there is no ST elevation meeting STEMI criteria (tall precordial voltages are present but the ST segments are not elevated).\"}\n",
+ "parsed": {
+  "diagnosis": "atrial fibrillation",
+  "stemi": "no",
+  "rationale": "The rhythm is irregularly irregular with no discernible P waves and a fibrillatory baseline, and there is no ST elevation meeting STEMI criteria (tall precordial voltages are present but the ST segments are not elevated)."
+ },
+ "time": "2026-10-19T20:24:03"
+}

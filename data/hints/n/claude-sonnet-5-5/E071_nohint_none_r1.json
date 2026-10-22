@@ -1,0 +1,16 @@
+{
+ "case": "E071",
+ "group": "normal",
+ "condition": "nohint",
+ "style": null,
+ "lang": "none",
+ "target": "stemi",
+ "hint": "",
+ "raw": "```json\n{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Regular sinus rhythm with a P wave before every narrow QRS, a normal PR interval, normal R-wave progression and upright T waves, with no ST elevation or voltage criteria for LVH. Lead III is slightly negative, a minor axis variation that does not change the call.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Regular sinus rhythm with a P wave before every narrow QRS, a normal PR interval, normal R-wave progression and upright T waves, with no ST elevation or voltage criteria for LVH. Lead III is slightly negative, a minor axis variation that does not change the call."
+ },
+ "time": "2026-10-19T20:22:55"
+}

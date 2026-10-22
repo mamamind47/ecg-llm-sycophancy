@@ -1,0 +1,9 @@
+{
+ "raw": "```json\n{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Narrow QRS with normal axis, upright T waves, no pathologic Q waves or significant ST elevation, no bundle branch block, delta wave or LVH voltage (S V2 + R V5 about 25 mm), and visible P waves with mild rate variation consistent with sinus arrhythmia.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Narrow QRS with normal axis, upright T waves, no pathologic Q waves or significant ST elevation, no bundle branch block, delta wave or LVH voltage (S V2 + R V5 about 25 mm), and visible P waves with mild rate variation consistent with sinus arrhythmia."
+ },
+ "time": "2026-10-18T11:17:03"
+}

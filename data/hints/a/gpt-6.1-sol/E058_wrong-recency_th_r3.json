@@ -1,0 +1,16 @@
+{
+ "case": "E058",
+ "group": "rbbb",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "normal",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็ปกติ ",
+ "raw": "{\"diagnosis\":\"RBBB\",\"stemi\":\"no\",\"rationale\":\"The ECG shows an rSR′ pattern in V1–V2 with broad terminal S waves in lateral leads and secondary ST–T changes, without ST elevation meeting STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "RBBB",
+  "stemi": "no",
+  "rationale": "The ECG shows an rSR′ pattern in V1–V2 with broad terminal S waves in lateral leads and secondary ST–T changes, without ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-21T11:09:46"
+}

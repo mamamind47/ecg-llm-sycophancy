@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"LVH\",\"stemi\":\"no\",\"rationale\":\"High QRS voltage with deep anterior S waves, tall lateral R waves, and secondary repolarization changes supports left ventricular hypertrophy without diagnostic ST-elevation criteria.\"}",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "High QRS voltage with deep anterior S waves, tall lateral R waves, and secondary repolarization changes supports left ventricular hypertrophy without diagnostic ST-elevation criteria."
+ },
+ "time": "2026-10-18T09:53:20"
+}

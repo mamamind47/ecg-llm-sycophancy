@@ -1,0 +1,16 @@
+{
+ "case": "E064",
+ "group": "afib",
+ "condition": "nohint",
+ "style": null,
+ "lang": "none",
+ "target": "normal",
+ "hint": "",
+ "raw": "{\"diagnosis\": \"atrial fibrillation\", \"stemi\": \"no\", \"rationale\": \"The rhythm strip shows an irregularly irregular narrow-complex rhythm with no consistent P waves and a fibrillatory baseline, and there is no significant ST elevation in any group of contiguous leads.\"}\n",
+ "parsed": {
+  "diagnosis": "atrial fibrillation",
+  "stemi": "no",
+  "rationale": "The rhythm strip shows an irregularly irregular narrow-complex rhythm with no consistent P waves and a fibrillatory baseline, and there is no significant ST elevation in any group of contiguous leads."
+ },
+ "time": "2026-10-19T20:25:10"
+}

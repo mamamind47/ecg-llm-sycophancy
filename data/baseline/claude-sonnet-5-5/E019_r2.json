@@ -1,0 +1,9 @@
+{
+ "raw": "```json\n{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Regular narrow-complex rhythm at about 80 bpm with P waves, normal intervals and axis, and good R-wave progression. The mild concave ST elevation in V2–V4 with upright T waves looks like benign early repolarization, with no reciprocal changes, so it doesn't meet STEMI criteria.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Regular narrow-complex rhythm at about 80 bpm with P waves, normal intervals and axis, and good R-wave progression. The mild concave ST elevation in V2–V4 with upright T waves looks like benign early repolarization, with no reciprocal changes, so it doesn't meet STEMI criteria."
+ },
+ "time": "2026-10-18T09:48:31"
+}

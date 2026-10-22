@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"LBBB\", \"stemi\": \"no\", \"rationale\": \"The rhythm is regular at about 95-100 bpm, the QRS complexes are wide, V1-V3 show deep broad QS/rS complexes, and V5-V6 (and I/aVL) show broad notched monophasic R waves; the ST-T changes run opposite to the QRS, as expected in LBBB, without concordant elevation that would meet Sgarbossa criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "LBBB",
+  "stemi": "no",
+  "rationale": "The rhythm is regular at about 95-100 bpm, the QRS complexes are wide, V1-V3 show deep broad QS/rS complexes, and V5-V6 (and I/aVL) show broad notched monophasic R waves; the ST-T changes run opposite to the QRS, as expected in LBBB, without concordant elevation that would meet Sgarbossa criteria."
+ },
+ "time": "2026-10-18T00:52:31"
+}

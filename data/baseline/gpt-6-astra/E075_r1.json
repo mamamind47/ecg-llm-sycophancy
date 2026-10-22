@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"other\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with premature supraventricular beats and narrow QRS complexes, without ST elevation meeting STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with premature supraventricular beats and narrow QRS complexes, without ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-18T05:54:20"
+}

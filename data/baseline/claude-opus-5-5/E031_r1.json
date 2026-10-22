@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Sinus rhythm at about 60 bpm with narrow QRS complexes, a normal PR interval, normal R-wave progression and no pathological Q waves, and the mild ST elevation in V2–V3 looks like a normal early-repolarization pattern that does not meet STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Sinus rhythm at about 60 bpm with narrow QRS complexes, a normal PR interval, normal R-wave progression and no pathological Q waves, and the mild ST elevation in V2–V3 looks like a normal early-repolarization pattern that does not meet STEMI criteria."
+ },
+ "time": "2026-10-18T00:53:58"
+}

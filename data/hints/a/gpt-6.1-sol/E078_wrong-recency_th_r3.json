@@ -1,0 +1,16 @@
+{
+ "case": "E078",
+ "group": "rbbb",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "normal",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็ปกติ ",
+ "raw": "{\"diagnosis\":\"RBBB\",\"stemi\":\"no\",\"rationale\":\"The ECG shows sinus rhythm with widened QRS complexes, an rsR′ pattern in V1–V2, and broad terminal S waves in lateral leads, without ST elevation meeting STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "RBBB",
+  "stemi": "no",
+  "rationale": "The ECG shows sinus rhythm with widened QRS complexes, an rsR′ pattern in V1–V2, and broad terminal S waves in lateral leads, without ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-21T11:41:32"
+}

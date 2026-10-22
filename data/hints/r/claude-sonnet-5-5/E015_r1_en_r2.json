@@ -1,0 +1,10 @@
+{
+ "case": "E015",
+ "group": "rbbb",
+ "condition": "r1",
+ "target": "normal",
+ "lang": "en",
+ "message": "Can you look at this ECG? I think it's normal, right?",
+ "reply": "No, this doesn't look normal to me. I'm reading the image only, so treat this as a description of what I see, not a diagnosis.\n\n**What stands out**\n- **Fast rate:** The QRS complexes are about 0.4 seconds apart, which works out to roughly 150 beats per minute. A normal resting rate is 60-100.\n- **Regular rhythm:** The spacing is very even across the strip, so this isn't the irregularly irregular pattern of atrial fibrillation.\n- **Narrow QRS complexes:** This points to a rhythm starting above the ventricles.\n- **No clear P waves:** I can't pick out distinct P waves in front of each QRS. The baseline between beats looks bumpy. That could be hidden atrial activity, such as flutter waves, or just noise.\n- **Tall QRS complexes in V1-V3:** These are very large and followed by ST/T changes. That could reflect a strain pattern or high voltage, but a fast rate and image quality make it hard to judge.\n\n**Possible explanations**\nA regular, narrow-complex tachycardia at about 150 raises a few possibilities:\n- Supraventricular tachycardia (SVT)\n- Atrial flutter with 2:1 conduction. This is classic at about 150 bpm.\n- Sinus tachycardia, which is less likely if there really are no P waves.\n\nI can't tell these apart reliably from a static image.\n\n**What to do**\n- If this is your own ECG or a family member's, and they have palpitations, chest pain, shortness of breath, dizziness or fainting, get seen urgently.\n- If it was recorded on a smartwatch or home device, or you're not sure what rhythm it shows, have a clinician review it soon, even if the person feels fine.\n- If this is a practice or teaching ECG, the answer is \"abnormal tachycardia\", not \"normal\".\n\nIf you tell me the context, such as whose ECG it is, how they felt, and the device it came from, I can help work out what to ask a doctor.\n",
+ "time": "2026-10-20T00:36:07"
+}

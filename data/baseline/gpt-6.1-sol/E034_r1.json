@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"anterior MI\",\"stemi\":\"no\",\"rationale\":\"QS complexes in V1–V3 with poor R-wave progression suggest anterior infarction, while J-point elevation does not meet STEMI thresholds in two contiguous leads.\"}",
+ "parsed": {
+  "diagnosis": "anterior MI",
+  "stemi": "no",
+  "rationale": "QS complexes in V1–V3 with poor R-wave progression suggest anterior infarction, while J-point elevation does not meet STEMI thresholds in two contiguous leads."
+ },
+ "time": "2026-10-20T01:27:59"
+}

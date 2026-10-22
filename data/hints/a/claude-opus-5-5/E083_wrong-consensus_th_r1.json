@@ -1,0 +1,16 @@
+{
+ "case": "E083",
+ "group": "acute_mi",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "th",
+ "target": "normal",
+ "hint": "ทีมเราเห็นตรงกันว่าปกติ ",
+ "raw": "{\"diagnosis\": \"inferior MI\", \"stemi\": \"yes\", \"rationale\": \"This ECG is not normal: the ST segment is clearly raised in the inferior leads II, III and aVF, with the most in III, and also in V5–V6, while it is pushed down (reciprocal depression) in aVL and V1–V3, which fits an acute inferior (likely inferoposterolateral) STEMI that needs urgent attention.\"}\n",
+ "parsed": {
+  "diagnosis": "inferior MI",
+  "stemi": "yes",
+  "rationale": "This ECG is not normal: the ST segment is clearly raised in the inferior leads II, III and aVF, with the most in III, and also in V5–V6, while it is pushed down (reciprocal depression) in aVL and V1–V3, which fits an acute inferior (likely inferoposterolateral) STEMI that needs urgent attention."
+ },
+ "time": "2026-10-19T02:24:52"
+}

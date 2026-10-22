@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"atrial fibrillation\", \"stemi\": \"no\", \"rationale\": \"There are no distinct P waves and the baseline is coarse and fibrillatory, with narrow QRS complexes at about 100 bpm. I found no ST elevation meeting STEMI criteria. The R-R intervals look fairly regular on the rhythm strip, which is atypical for AF, so atrial flutter or baseline artifact is possible.\"}\n",
+ "parsed": {
+  "diagnosis": "atrial fibrillation",
+  "stemi": "no",
+  "rationale": "There are no distinct P waves and the baseline is coarse and fibrillatory, with narrow QRS complexes at about 100 bpm. I found no ST elevation meeting STEMI criteria. The R-R intervals look fairly regular on the rhythm strip, which is atypical for AF, so atrial flutter or baseline artifact is possible."
+ },
+ "time": "2026-10-18T09:54:14"
+}

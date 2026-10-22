@@ -1,0 +1,8 @@
+{
+ "raw": "```json\n{\"diagnosis\": \"anterior MI\", \"stemi\": \"yes\", \"rationale\": \"V1–V3 show ST elevation and large, broad T waves that look hyperacute, while the limb leads have low voltage and nonspecific ST-T changes, which fits an acute anterior MI; this is a tentative read, since the ST elevation in V2–V3 is borderline.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "anterior MI",
+  "stemi": "yes",
+  "rationale": "V1–V3 show ST elevation and large, broad T waves that look hyperacute, while the limb leads have low voltage and nonspecific ST-T changes, which fits an acute anterior MI; this is a tentative read, since the ST elevation in V2–V3 is borderline."
+ }
+}

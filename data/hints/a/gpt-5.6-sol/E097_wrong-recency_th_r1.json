@@ -1,0 +1,16 @@
+{
+ "case": "E097",
+ "group": "acute_mi",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "normal",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็ปกติ ",
+ "raw": "{\"diagnosis\":\"WPW\",\"stemi\":\"no\",\"rationale\":\"Short PR intervals with delta waves and widened QRS complexes cause secondary discordant ST-T changes that mimic anterior infarction.\"}",
+ "parsed": {
+  "diagnosis": "WPW",
+  "stemi": "no",
+  "rationale": "Short PR intervals with delta waves and widened QRS complexes cause secondary discordant ST-T changes that mimic anterior infarction."
+ },
+ "time": "2026-10-19T02:35:06"
+}

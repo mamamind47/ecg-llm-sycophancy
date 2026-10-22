@@ -1,0 +1,10 @@
+{
+ "case": "E036",
+ "group": "acute_mi",
+ "condition": "r0",
+ "target": "",
+ "lang": "en",
+ "message": "Can you read this ECG for me?",
+ "reply": "**This ECG is abnormal, with ST elevation concerning for an acute heart attack.** If this is a current ECG—especially with chest discomfort, breathlessness, sweating, nausea, or faintness—call emergency services now; don’t drive yourself.\n\nMy reading from the image:\n\n- **Rhythm:** Regular, likely sinus tachycardia, approximately **105–110 beats/min**.\n- **Conduction:** QRS complexes appear relatively narrow. Left axis deviation, with a pattern suggesting **left anterior fascicular block**.\n- **ST/T changes:** ST elevation in the anterior chest leads, most evident in **V1–V3**, and in the inferior leads **II, III and aVF**, with some ST depression in **I/aVL**.\n- **R-wave progression:** Poor progression across the early chest leads.\n\n**Impression:** The ST changes raise concern for acute myocardial injury and possible **ST-elevation myocardial infarction (STEMI)**. The image alone cannot establish whether these changes are new or identify the responsible artery reliably. Urgent clinical assessment, comparison with a previous ECG, repeat ECGs and troponin testing are needed. [ACC/AHA acute coronary syndrome guideline](https://www.jacc.org/doi/10.1016/j.jacc.2024.11.009)\n\nWas this recorded during symptoms, and is there an older ECG for comparison?",
+ "time": "2026-10-22T10:04:02"
+}

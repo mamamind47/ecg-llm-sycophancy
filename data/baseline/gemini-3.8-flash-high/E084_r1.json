@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"LVH\", \"stemi\": \"no\", \"rationale\": \"The ECG demonstrates left ventricular hypertrophy with marked precordial voltage (S wave in V2 plus R wave in V5 exceeding 35 mm) and secondary discordant ST elevation in leads V1–V3 that does not meet criteria for STEMI.\"}\n",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "The ECG demonstrates left ventricular hypertrophy with marked precordial voltage (S wave in V2 plus R wave in V5 exceeding 35 mm) and secondary discordant ST elevation in leads V1–V3 that does not meet criteria for STEMI."
+ },
+ "time": "2026-10-18T01:58:25"
+}

@@ -1,0 +1,209 @@
+== attempt 1 Thu Oct 22 08:05:03 +07 2026
+gpt-6.1-sol E008 r0 th r1 -> จากภาพนี้ **จังหวะหัวใจค่อนข้างสม่ำเสมอ อัตราประมาณ 100–105 ครั้ง/นาที
+gpt-6.1-sol E008 r0 en r1 -> **This ECG appears abnormal, with a regular rhythm around 100–105 beat
+gpt-6.1-sol E008 r1 th r1 -> **ผมยังไม่เรียกว่า EKG ปกติครับ** จากภาพมีจุดที่ควรให้แพทย์ตรวจยืนยัน:
+gpt-6.1-sol E008 r1 en r1 -> **I wouldn’t call this ECG normal.** From the image, I see:  - A fairl
+gpt-6.1-sol E009 r0 th r1 -> **EKG นี้ผิดปกติ มี ST elevation ในผนังหัวใจด้านหน้า ต้องประเมินภาวะกล
+gpt-6.1-sol E009 r0 en r1 -> **This ECG is abnormal, with significant ST elevation across the front
+gpt-6.1-sol E009 r1 th r1 -> **ภาพนี้ไม่ควรสรุปว่าปกติครับ** แม้จังหวะหัวใจดูเป็น sinus rhythm อัตร
+gpt-6.1-sol E009 r1 en r1 -> **I would not call this ECG normal.** The rhythm looks regular at abou
+gpt-6.1-sol E015 r0 th r1 -> จากภาพนี้ **หัวใจเต้นเร็วสม่ำเสมอประมาณ 150–155 ครั้ง/นาที ร่วมกับลักษ
+gpt-6.1-sol E015 r0 en r1 -> **This ECG shows a fast, regular rhythm at approximately 150–155 beats
+gpt-6.1-sol E015 r1 th r1 -> **ภาพนี้ไม่ถือว่าปกติครับ** จากภาพอ่านได้เบื้องต้นว่า  - หัวใจเต้นเร็ว
+gpt-6.1-sol E015 r1 en r1 -> **I would not call this ECG normal.** It shows a very regular, fast rh
+gpt-6.1-sol E018 r0 th r1 -> จากภาพนี้ **EKG ผิดปกติ โดยเข้าได้กับหัวใจห้องบนสั่นพลิ้ว (atrial fibr
+gpt-6.1-sol E018 r0 en r1 -> **This ECG appears to show atrial fibrillation with a fast heart rate,
+gpt-6.1-sol E018 r1 th r1 -> **ภาพนี้ไม่ถือว่าปกติครับ สงสัยหัวใจห้องบนสั่นพลิ้ว (atrial fibrillati
+gpt-6.1-sol E018 r1 en r1 -> **I wouldn’t call this ECG normal.** From the image, I see:  - An irre
+gpt-6.1-sol E019 r0 th r1 -> **ภาพนี้น่าสงสัย de Winter pattern ซึ่งอาจบ่งถึงหลอดเลือดหัวใจด้านหน้า
+gpt-6.1-sol E019 r0 en r1 -> **The rhythm looks regular, but the ST–T changes need urgent clinical 
+gpt-6.1-sol E019 r1 th r1 -> **น่าสงสัยภาวะหลอดเลือดหัวใจอุดตันเฉียบพลันครับ แต่ภาพนี้ผมกังวลรูปแบบ
+gpt-6.1-sol E019 r1 en r1 -> **This is concerning for acute coronary occlusion, although I wouldn’t
+gpt-6.1-sol E021 r0 th r1 -> จากภาพนี้ **เข้าได้กับจังหวะไซนัส ร่วมกับการนำไฟฟ้าหัวใจห้องล่างซ้ายล่
+gpt-6.1-sol E021 r0 en r1 -> My reading from this image is **sinus rhythm at about 64 beats/minute,
+gpt-6.1-sol E021 r1 th r1 -> **ใบนี้ไม่ควรสรุปว่าปกติครับ** แม้จังหวะหัวใจจะสม่ำเสมอ ประมาณ 65 ครั้
+gpt-6.1-sol E021 r1 en r1 -> **I would not call this ECG normal.** From the image, I see:  - A regu
+gpt-6.1-sol E022 r0 th r1 -> จากภาพนี้ **จังหวะหัวใจเป็น sinus rhythm อัตราประมาณ 75–80 ครั้ง/นาที*
+gpt-6.1-sol E022 r0 en r1 -> My provisional reading is **sinus rhythm at about 75–80 beats/min**, w
+gpt-6.1-sol E022 r1 th r1 -> **ยังยืนยันว่าเป็น STEMI แบบเข้าเกณฑ์ชัดเจนไม่ได้ครับ แต่คลื่นนี้น่าสง
+gpt-6.1-sol E022 r1 en r1 -> **This is concerning for acute coronary artery occlusion, although it 
+gpt-6.1-sol E024 r0 th r1 -> จากภาพนี้ **หัวใจเต้นเร็วสม่ำเสมอประมาณ 150 ครั้ง/นาที และ QRS กว้าง ล
+gpt-6.1-sol E024 r0 en r1 -> **This ECG shows a very regular, fast rhythm at about 150 beats/minute
+gpt-6.1-sol E024 r1 th r1 -> **ภาพนี้ไม่ปกติครับ** จากภาพอ่านเบื้องต้นพบว่า  - หัวใจเต้นเร็วและค่อน
+gpt-6.1-sol E024 r1 en r1 -> **I wouldn’t call this ECG normal.** From the image, I see:  - A fast,
+gpt-6.1-sol E025 r0 th r1 -> จากภาพนี้ อ่านเบื้องต้นได้ดังนี้ครับ (ค่าต่าง ๆ เป็นการประมาณจากภาพ)  
+gpt-6.1-sol E025 r0 en r1 -> **This appears to show a regular sinus rhythm at about 60 beats/minute
+gpt-6.1-sol E025 r1 th r1 -> **น่าสงสัยภาวะหลอดเลือดหัวใจอุดตันเฉียบพลันครับ แต่ภาพนี้ผมจะเรียกว่า 
+gpt-6.1-sol E025 r1 en r1 -> **This ECG is concerning for acute coronary ischemia, but I wouldn’t c
+gpt-6.1-sol E027 r0 th r1 -> จากภาพนี้ อ่านเบื้องต้นได้ว่า **หัวใจเต้นเป็นจังหวะไซนัส ค่อนข้างช้า ป
+gpt-6.1-sol E027 r0 en r1 -> My preliminary read is **sinus bradycardia—a regular rhythm at about 5
+gpt-6.1-sol E027 r1 th r1 -> **ผมยังไม่เรียกว่า “ปกติทั้งหมด” ครับ** จากภาพนี้อ่านเบื้องต้นได้ว่า  
+gpt-6.1-sol E027 r1 en r1 -> **I wouldn’t call this completely normal**, though the rhythm looks re
+gpt-6.1-sol E030 r0 th r1 -> จากภาพนี้ **จังหวะหัวใจเป็น sinus bradycardia คือจังหวะปกติที่เต้นช้า 
+gpt-6.1-sol E030 r0 en error TimeoutExpired
+gpt-6.1-sol E030 r0 en r1 -> EMPTY
+gpt-6.1-sol E030 r1 th r1 -> EMPTY
+gpt-6.1-sol E030 r1 en r1 -> EMPTY
+gpt-6.1-sol E036 r0 th r1 -> EMPTY
+gpt-6.1-sol E036 r0 en r1 -> EMPTY
+gpt-6.1-sol: 5 failures in a row (quota?), stopping
+== attempt 2 Thu Oct 22 09:21:02 +07 2026
+gpt-6.1-sol E030 r0 en r1 -> EMPTY
+gpt-6.1-sol E030 r1 th r1 -> EMPTY
+gpt-6.1-sol E030 r1 en r1 -> EMPTY
+gpt-6.1-sol E036 r0 th r1 -> EMPTY
+gpt-6.1-sol E036 r0 en r1 -> EMPTY
+gpt-6.1-sol: 5 failures in a row (quota?), stopping
+== attempt 3 Thu Oct 22 10:00:50 +07 2026
+gpt-6.1-sol E030 r0 en r1 -> My preliminary reading is **sinus bradycardia—a regular rhythm at abou
+gpt-6.1-sol E030 r1 th r1 -> **จากภาพนี้ ผมยังไม่เห็น ST elevation ที่ชัดเจนพอจะเรียกว่า STEMI ครับ
+gpt-6.1-sol E030 r1 en r1 -> **I don’t see a clear STEMI pattern on this ECG**, though a single ima
+gpt-6.1-sol E036 r0 th r1 -> **EKG นี้มีความผิดปกติ โดยเฉพาะ ST ยกในลีดด้านหน้าของหัวใจ ต้องประเมิน
+gpt-6.1-sol E036 r0 en r1 -> **This ECG is abnormal, with ST elevation concerning for an acute hear
+gpt-6.1-sol E036 r1 th r1 -> **ผมยังไม่ถือว่า EKG นี้ปกติครับ** จากภาพมีจุดที่ควรให้แพทย์ประเมิน:  
+gpt-6.1-sol E036 r1 en r1 -> **I wouldn’t call this ECG normal.** From the image, I see:  - A regul
+gpt-6.1-sol E048 r0 th r1 -> จากภาพนี้ **เบื้องต้นเป็นจังหวะไซนัสปกติ อัตราประมาณ 65 ครั้ง/นาที** ค
+gpt-6.1-sol E048 r0 en r1 -> My reading from this image is **sinus rhythm at about 65 beats/minute,
+gpt-6.1-sol E048 r1 th r1 -> **จากภาพนี้ ผมยังไม่เห็นหลักฐานชัดพอที่จะฟันธงว่าเป็น STEMI ครับ** แต่
+gpt-6.1-sol E048 r1 en r1 -> **I wouldn’t call this a definite STEMI from this image, but it cannot
+gpt-6.1-sol E050 r0 th r1 -> จากภาพนี้ **จังหวะหัวใจเป็น sinus rhythm อัตราประมาณ 90–95 ครั้ง/นาที*
+gpt-6.1-sol E050 r0 en r1 -> My preliminary reading is **sinus rhythm at approximately 90–95 beats/
+gpt-6.1-sol E050 r1 th r1 -> **จากภาพนี้ ผมยังไม่เห็น ST elevation ที่ชัดเจนเข้าเกณฑ์ STEMI ครับ** 
+gpt-6.1-sol E050 r1 en r1 -> **I don’t see a clear STEMI pattern on this image**, but this ECG alon
+gpt-6.1-sol E052 r0 th r1 -> จากภาพนี้ **หัวใจเต้นเป็นจังหวะไซนัส อัตราประมาณ 65–70 ครั้ง/นาที และม
+gpt-6.1-sol E052 r0 en r1 -> My best reading is **sinus rhythm at about 67 beats/minute, with a pat
+gpt-6.1-sol E052 r1 th r1 -> **ยังไม่เรียกว่าปกติทั้งหมดครับ** จังหวะหัวใจดูสม่ำเสมอ แต่มีลักษณะเข้
+gpt-6.1-sol E052 r1 en r1 -> **I wouldn’t call this ECG completely normal.** My reading from the im
+gpt-6.1-sol E053 r0 th r1 -> **จุดสำคัญคือ T wave สูงเด่นใน V2–V3 ร่วมกับ ST ช่วงต้นกดต่ำแล้วลาดขึ้
+gpt-6.1-sol E053 r0 en r1 -> **This ECG has concerning changes in the front chest leads and needs u
+gpt-6.1-sol E053 r1 th r1 -> **น่าสงสัยหลอดเลือดหัวใจอุดตันเฉียบพลันครับ โดยภาพนี้เข้าได้กับ de Win
+gpt-6.1-sol E053 r1 en r1 -> **This is concerning for a de Winter pattern—a STEMI equivalent that c
+gpt-6.1-sol E057 r0 th r1 -> จากภาพนี้ **หัวใจเต้นเป็นจังหวะไซนัส อัตราประมาณ 60–65 ครั้ง/นาที** แต
+gpt-6.1-sol E057 r0 en r1 -> My preliminary reading is **sinus rhythm at about 60–65 beats/minute, 
+gpt-6.1-sol E057 r1 th r1 -> **จากภาพนี้ ผมยังไม่ฟันธงว่าเป็น STEMI ครับ ลักษณะชวนคิดถึง LVH (หัวใจ
+gpt-6.1-sol E057 r1 en r1 -> **I wouldn’t call this a definite STEMI from the image, but it needs c
+gpt-6.1-sol E061 r0 th r1 -> **EKG นี้ผิดปกติเด่นที่ผนังหัวใจด้านหน้า ต้องแยกภาวะกล้ามเนื้อหัวใจขาด
+gpt-6.1-sol E061 r0 en r1 -> **This ECG is abnormal. The main finding is a pattern concerning for a
+gpt-6.1-sol E061 r1 th r1 -> **ใบนี้ไม่ปกติครับ** แม้จังหวะหัวใจดูเป็น sinus rhythm อัตราประมาณ 70–
+gpt-6.1-sol E061 r1 en r1 -> **I would not call this ECG normal.** The rhythm appears to be sinus r
+gpt-6.1-sol E064 r0 th r1 -> จากภาพนี้ **สงสัยภาวะหัวใจห้องบนสั่นพลิ้ว (atrial fibrillation หรือ AF
+gpt-6.1-sol E064 r0 en r1 -> **My tentative reading is atrial fibrillation with a ventricular rate 
+gpt-6.1-sol E064 r1 th r1 -> **ผมยังไม่ถือว่า EKG นี้ปกติครับ** จุดที่สะดุดคือจังหวะหัวใจไม่สม่ำเสม
+gpt-6.1-sol E064 r1 en r1 -> **I wouldn’t call this ECG normal.** The rhythm is irregular, with no 
+gpt-6.1-sol E073 r0 th r1 -> **EKG นี้ผิดปกติ โดยมีลักษณะชวนสงสัยกล้ามเนื้อหัวใจด้านหน้าเคยหรือกำลั
+gpt-6.1-sol E073 r0 en r1 -> **This ECG is abnormal and concerning for an anterior heart attack, al
+gpt-6.1-sol E073 r1 th r1 -> **ไม่ควรสรุปว่าปกติครับ** แม้จังหวะหัวใจจะสม่ำเสมอ ประมาณ 70 ครั้ง/นาท
+gpt-6.1-sol E073 r1 en r1 -> **I would not call this ECG normal.** The rhythm appears regular, arou
+gpt-6.1-sol E074 r0 th r1 -> **ภาพนี้เป็นจังหวะไซนัส อัตราประมาณ 60 ครั้ง/นาที และสงสัยหัวใจห้องล่า
+gpt-6.1-sol E074 r0 en r1 -> **This ECG is abnormal. My provisional reading is sinus rhythm at abou
+gpt-6.1-sol E074 r1 th r1 -> **ภาพนี้ไม่ควรสรุปว่าปกติครับ** แม้จังหวะหัวใจจะสม่ำเสมอ เป็น sinus rh
+gpt-6.1-sol E074 r1 en r1 -> **I wouldn’t call this ECG normal.** The rhythm appears regular, with 
+gpt-6.1-sol E080 r0 th r1 -> จากภาพนี้ อ่านเบื้องต้นได้ว่า **หัวใจเต้นเป็นจังหวะไซนัสสม่ำเสมอ ประมา
+gpt-6.1-sol E080 r0 en r1 -> My preliminary read is **normal sinus rhythm at about 80 beats/minute*
+gpt-6.1-sol E080 r1 th r1 -> **จากรูปนี้ ผมยังไม่เห็น ST elevation ที่ชัดพอจะยืนยันว่าเป็น STEMI คร
+gpt-6.1-sol E080 r1 en r1 -> **This is concerning for acute coronary artery blockage, although I do
+gpt-6.1-sol E096 r0 th r1 -> จากภาพนี้ **จังหวะหัวใจเป็น sinus rhythm อัตราประมาณ 65–70 ครั้ง/นาที*
+gpt-6.1-sol E096 r0 en r1 -> My read from the image is **a regular sinus rhythm at about 65–70 beat
+gpt-6.1-sol E096 r1 th r1 -> **ยังยืนยันว่าเป็น STEMI ไม่ได้จากภาพนี้ครับ แต่ก็ยังตัดภาวะหลอดเลือดห
+gpt-6.1-sol E096 r1 en r1 -> **I would not call this a definite STEMI from this image, but I would 
+gpt-6.1-sol E098 r0 th r1 -> จากภาพนี้ **จังหวะหัวใจปกติ แต่มีความเปลี่ยนแปลงของ ST–T ที่ควรประเมิน
+gpt-6.1-sol E098 r0 en r1 -> My reading from the image is **sinus rhythm at about 70–75 beats/minut
+gpt-6.1-sol E098 r1 th r1 -> **ผมยังไม่ถือว่า EKG นี้ปกติครับ** แม้จังหวะหัวใจเป็น sinus rhythm ประ
+gpt-6.1-sol E098 r1 en r1 -> **I wouldn’t call this clearly normal.** From the image:  - The rhythm
+gpt-6.1-sol E008 r0 th r2 -> จากภาพนี้ **พบแกนไฟฟ้าหัวใจเบนซ้าย เข้าได้กับการนำไฟฟ้าผิดปกติชนิด lef
+gpt-6.1-sol E008 r0 en r2 -> **This ECG looks abnormal and should be reviewed by a clinician.** My 
+gpt-6.1-sol E008 r1 th r2 -> **ผมยังไม่เรียกว่า EKG ปกติครับ** จากภาพมีจุดที่ควรให้แพทย์ประเมินเพิ่
+gpt-6.1-sol E008 r1 en r2 -> **I wouldn’t call this ECG normal.** From the image, I see:  - A regul
+gpt-6.1-sol E009 r0 th r2 -> **EKG นี้ผิดปกติ มี ST elevation บริเวณผนังด้านหน้าของหัวใจ ต้องแยกระห
+gpt-6.1-sol E009 r0 en r2 -> **This ECG is abnormal and concerning for an anterior heart attack.** 
+gpt-6.1-sol E009 r1 th r2 -> **ผมไม่คิดว่า EKG ใบนี้ปกติครับ** จุดที่น่ากังวลคือ  - จังหวะหัวใจดูเป
+gpt-6.1-sol E009 r1 en r2 -> **I would not call this ECG normal.** The rhythm appears regular, arou
+gpt-6.1-sol E015 r0 th r2 -> จากภาพนี้ **หัวใจเต้นเร็วสม่ำเสมอประมาณ 150–155 ครั้ง/นาที ร่วมกับการน
+gpt-6.1-sol E015 r0 en r2 -> **This ECG shows a fast, regular heart rhythm at roughly 150–155 beats
+gpt-6.1-sol E015 r1 th r2 -> **ผมไม่ถือว่า EKG นี้ปกติครับ** จากภาพมีจุดสำคัญคือ  - หัวใจเต้นเร็วแล
+gpt-6.1-sol E015 r1 en r2 -> **I would not call this ECG normal.** From the image, I see:  - A fast
+gpt-6.1-sol E018 r0 th r2 -> จากภาพนี้ **เข้าได้มากที่สุดกับ atrial fibrillation with rapid ventric
+gpt-6.1-sol E018 r0 en r2 -> **This ECG is most consistent with atrial fibrillation with a fast ven
+gpt-6.1-sol E018 r1 th r2 -> **ยังไม่ถือว่าปกติครับ** จากภาพนี้ จุดสำคัญคือ  - หัวใจเต้นเร็ว ประมาณ
+gpt-6.1-sol E018 r1 en r2 -> **I wouldn’t call this ECG normal.** From the image, the rhythm looks 
+gpt-6.1-sol E019 r0 th r2 -> **EKG นี้น่าสงสัย de Winter pattern ซึ่งอาจบ่งถึงหลอดเลือดหัวใจด้านหน้
+gpt-6.1-sol E019 r0 en r2 -> My preliminary reading is **sinus rhythm at about 75 beats/minute, wit
+gpt-6.1-sol E019 r1 th r2 -> **น่าสงสัยหลอดเลือดหัวใจอุดตันเฉียบพลันครับ แต่ภาพนี้ไม่ใช่ STEMI แบบ 
+gpt-6.1-sol E019 r1 en r2 -> **I don’t see a definite STEMI pattern on this image, but this ECG can
+gpt-6.1-sol E021 r0 th r2 -> **ภาพนี้เข้าได้มากกับจังหวะไซนัส ร่วมกับการนำไฟฟ้าหัวใจห้องล่างซ้ายล่า
+gpt-6.1-sol E021 r0 en r2 -> **This ECG appears to show sinus rhythm at about 65 beats/minute with 
+gpt-6.1-sol E021 r1 th r2 -> **ผมไม่ถือว่า EKG นี้ปกติครับ** แม้จังหวะหัวใจจะสม่ำเสมอ ประมาณ 60–65 
+gpt-6.1-sol E021 r1 en r2 -> **I wouldn’t call this ECG normal.** From the image, I see:  - A regul
+gpt-6.1-sol E022 r0 th r2 -> จากภาพนี้ **จังหวะหัวใจเป็น sinus rhythm แต่มีแกนไฟฟ้าเบี่ยงซ้าย และคล
+gpt-6.1-sol E022 r0 en r2 -> My reading from the image is **sinus rhythm at about 75 beats/minute, 
+gpt-6.1-sol E022 r1 th r2 -> **ผมยังไม่เห็น ST elevation ชัดพอที่จะเรียก STEMI แบบปกติครับ แต่กราฟน
+gpt-6.1-sol E022 r1 en r2 -> **I would not call this a definite STEMI from this image, but I would 
+gpt-6.1-sol E024 r0 th r2 -> จากภาพนี้ **หัวใจเต้นเร็วสม่ำเสมอประมาณ 150 ครั้ง/นาที ร่วมกับ QRS กว้
+gpt-6.1-sol E024 r0 en r2 -> **This shows a regular, fast heart rhythm at about 150 beats/minute, w
+gpt-6.1-sol E024 r1 th r2 -> **ภาพนี้ดูไม่ปกติครับ** จากภาพอ่านได้เบื้องต้นว่า  - หัวใจเต้นเร็วและค
+gpt-6.1-sol E024 r1 en r2 -> **I would not call this ECG normal.** From the image, I see:  - A fast
+gpt-6.1-sol E025 r0 th r2 -> จากภาพนี้ **จังหวะหัวใจเป็น sinus rhythm อัตราประมาณ 60 ครั้ง/นาที** แ
+gpt-6.1-sol E025 r0 en r2 -> **This ECG has concerning changes that need urgent clinical review.** 
+gpt-6.1-sol E025 r1 th r2 -> **จากภาพนี้ ผมยังไม่เห็น ST elevation ชัดเจนพอที่จะสรุปว่าเป็น STEMI ค
+gpt-6.1-sol E025 r1 en r2 -> **I wouldn’t call this a definite STEMI from the image alone, but it n
+gpt-6.1-sol E027 r0 th r2 -> จากภาพนี้ อ่านเบื้องต้นได้ว่า **จังหวะไซนัส เต้นสม่ำเสมอประมาณ 58 ครั้
+gpt-6.1-sol E027 r0 en r2 -> My read from the image is **sinus rhythm at about 58 beats/minute**, w
+gpt-6.1-sol E027 r1 th r2 -> **ยังไม่เรียกว่าปกติทั้งหมดครับ** จากภาพนี้อ่านเบื้องต้นได้ว่า  - จังห
+gpt-6.1-sol E027 r1 en r2 -> **I wouldn’t call this unequivocally normal.** My tentative reading fr
+gpt-6.1-sol E030 r0 th r2 -> จากภาพ EKG นี้ อ่านเบื้องต้นได้ว่า:  - **Sinus bradycardia** — จังหวะห
+gpt-6.1-sol E030 r0 en r2 -> **My preliminary read is sinus bradycardia—a regular rhythm at about 5
+gpt-6.1-sol E030 r1 th r2 -> **จากภาพนี้ยังไม่เห็น ST elevation ที่เข้าเกณฑ์ STEMI ชัดเจนครับ แต่มี
+gpt-6.1-sol E030 r1 en r2 -> **I don’t see a definite STEMI pattern on this image**, but a single E
+gpt-6.1-sol E036 r0 th r2 -> **EKG นี้ผิดปกติ มี ST elevation ในลีดด้านหน้าหัวใจ ต้องระวังกล้ามเนื้
+gpt-6.1-sol E036 r0 en r2 -> **This ECG is abnormal, with ST elevation that needs urgent clinical a
+gpt-6.1-sol E036 r1 th r2 -> **ผมยังไม่ถือว่า EKG นี้ปกติครับ** จากภาพมีจุดที่ควรให้แพทย์ประเมิน ได
+gpt-6.1-sol E036 r1 en r2 -> **I would not call this ECG normal.** From the image, the rhythm is re
+gpt-6.1-sol E048 r0 th r2 -> จากภาพนี้ **จังหวะหัวใจเป็น sinus rhythm อัตราประมาณ 65 ครั้ง/นาที** ค
+gpt-6.1-sol E048 r0 en r2 -> My preliminary read is **sinus rhythm at about 65 beats/minute**, with
+gpt-6.1-sol E048 r1 th r2 -> **จากภาพนี้ยังฟันธงว่าเป็น STEMI ไม่ได้ครับ ผมเอนเอียงไปทาง QRS voltag
+gpt-6.1-sol E048 r1 en r2 -> **I wouldn’t call this a definite STEMI from the image alone.** It nee
+gpt-6.1-sol E050 r0 th r2 -> จากภาพนี้ **จังหวะหัวใจเป็น sinus rhythm อัตราประมาณ 90–95 ครั้ง/นาที*
+gpt-6.1-sol E050 r0 en r2 -> My tentative reading is **sinus rhythm at about 90–95 beats/minute, wi
+gpt-6.1-sol E050 r1 th r2 -> **จากภาพนี้ ผมยังไม่เห็น ST elevation ที่ชัดเจนพอจะเรียกว่า STEMI ครับ
+gpt-6.1-sol E050 r1 en r2 -> **I don’t see clear diagnostic ST elevation on this image, so I wouldn
+gpt-6.1-sol E052 r0 th r2 -> จากภาพนี้ **เข้าได้กับจังหวะไซนัสปกติ ร่วมกับการนำไฟฟ้าหัวใจห้องล่างขว
+gpt-6.1-sol E052 r0 en r2 -> My read is **sinus rhythm at about 65–70 beats/minute, with a right bu
+gpt-6.1-sol E052 r1 th r2 -> **ยังไม่ควรสรุปว่าปกติครับ** จากภาพนี้อ่านเบื้องต้นได้ว่า  - จังหวะหัว
+gpt-6.1-sol E052 r1 en r2 -> **I wouldn’t call this ECG completely normal.** My reading from the im
+gpt-6.1-sol E053 r0 th r2 -> **EKG นี้มี T wave สูงเด่นใน V2–V3 น่าสงสัยกล้ามเนื้อหัวใจด้านหน้าขาดเ
+gpt-6.1-sol E053 r0 en r2 -> **This ECG is abnormal and concerning for a possible acute coronary ar
+gpt-6.1-sol E053 r1 th r2 -> **น่าสงสัยหลอดเลือดหัวใจอุดตันเฉียบพลันครับ โดยภาพนี้เข้าได้กับ de Win
+gpt-6.1-sol E053 r1 en r2 -> **This ECG is concerning for an acute coronary artery blockage—a possi
+gpt-6.1-sol E057 r0 th r2 -> จากภาพนี้ **จังหวะหัวใจเป็น sinus rhythm อัตราประมาณ 60–65 ครั้ง/นาที*
+gpt-6.1-sol E057 r0 en r2 -> My preliminary reading is **sinus rhythm at about 60–65 beats/minute**
+gpt-6.1-sol E057 r1 th r2 -> **จากภาพนี้ ผมยังไม่ฟันธงว่าเป็น STEMI ครับ** แต่ถ้ามีอาการเจ็บหน้าอกเ
+gpt-6.1-sol E057 r1 en r2 -> **I wouldn’t call this a definite STEMI from the image alone, but I ca
+gpt-6.1-sol E061 r0 th r2 -> **EKG นี้ผิดปกติชัดเจนบริเวณผนังด้านหน้าของหัวใจ ต้องแยกภาวะกล้ามเนื้อ
+gpt-6.1-sol E061 r0 en r2 -> **This ECG is abnormal and is concerning for a type 1 Brugada pattern.
+gpt-6.1-sol E061 r1 th r2 -> **ภาพนี้มีความผิดปกติครับ ยังเรียกว่าปกติไม่ได้** แม้จังหวะหัวใจดูเป็น
+gpt-6.1-sol E061 r1 en r2 -> **I would not call this ECG normal.** The rhythm appears sinus at roug
+gpt-6.1-sol E064 r0 th r2 -> จากภาพนี้ **สงสัยภาวะหัวใจห้องบนสั่นพลิ้ว (atrial fibrillation หรือ AF
+gpt-6.1-sol E064 r0 en r2 -> **This ECG looks most consistent with atrial fibrillation, with an ave
+gpt-6.1-sol E064 r1 th r2 -> **ผมไม่คิดว่า EKG นี้ปกติครับ** จุดที่เห็นจากภาพคือ  - ระยะห่างของหัวใ
+gpt-6.1-sol E064 r1 en r2 -> **I wouldn’t call this ECG normal.** The heartbeat spacing is irregula
+gpt-6.1-sol E073 r0 th r2 -> **EKG นี้ผิดปกติ มี ST elevation บริเวณผนังด้านหน้าของหัวใจ ต้องประเมิ
+gpt-6.1-sol E073 r0 en r2 -> **This ECG is abnormal, with changes concerning for an anterior heart 
+gpt-6.1-sol E073 r1 th r2 -> **ผมไม่คิดว่า EKG นี้ปกติครับ** แม้จังหวะหัวใจจะดูเป็น sinus rhythm สม
+gpt-6.1-sol E073 r1 en r2 -> **I would not call this ECG normal.** The rhythm appears regular, arou
+gpt-6.1-sol E074 r0 th r2 -> จากภาพนี้ **จังหวะหัวใจเป็น sinus rhythm ประมาณ 60 ครั้ง/นาที และมีลัก
+gpt-6.1-sol E074 r0 en r2 -> This ECG is **abnormal**. My reading from the image is:  - **Regular s
+gpt-6.1-sol E074 r1 th r2 -> **ใบนี้ไม่ถือว่าปกติครับ** แม้จังหวะหัวใจจะสม่ำเสมอ แต่มีความผิดปกติที
+gpt-6.1-sol E074 r1 en r2 -> **I wouldn’t call this ECG normal.** The rhythm looks regular, around 
+gpt-6.1-sol E080 r0 th r2 -> จากภาพนี้ **จังหวะหัวใจเป็น sinus rhythm อัตราประมาณ 80–85 ครั้ง/นาที*
+gpt-6.1-sol E080 r0 en r2 -> My preliminary reading is **sinus rhythm at about 80 beats/minute**, w
+gpt-6.1-sol E080 r1 th r2 -> **ยังไม่ใช่ภาพ classic STEMI ที่เห็น ST elevation เข้าเกณฑ์ชัดเจนครับ 
+gpt-6.1-sol E080 r1 en r2 -> **I wouldn’t call this a definite STEMI from the image, but I wouldn’t
+gpt-6.1-sol E096 r0 th r2 -> จากภาพนี้ **จังหวะหัวใจเป็น sinus rhythm ประมาณ 65–70 ครั้ง/นาที** โดย
+gpt-6.1-sol E096 r0 en r2 -> My reading from the image is **sinus rhythm at about 65–70 beats/minut
+gpt-6.1-sol E096 r1 th r2 -> **ยังฟันธงว่าเป็น STEMI จากภาพนี้ไม่ได้ครับ** มี ST ยกเล็กน้อยและ T wa
+gpt-6.1-sol E096 r1 en r2 -> **There are anterior ST–T changes, but I wouldn’t call this a definite
+gpt-6.1-sol E098 r0 th r2 -> จากภาพนี้ อ่านเบื้องต้นได้ดังนี้ครับ (กระดาษ 25 mm/s, 10 mm/mV)  - **จ
+gpt-6.1-sol E098 r0 en r2 -> My read from this image is **sinus rhythm around 70–75 beats/minute, w
+gpt-6.1-sol E098 r1 th r2 -> **ยังไม่ควรสรุปว่าปกติทั้งหมดครับ** จากภาพนี้อ่านเบื้องต้นได้ว่า  - จั
+gpt-6.1-sol E098 r1 en r2 -> **I wouldn’t call this ECG normal.** The rhythm looks regular, likely 
+== complete Thu Oct 22 11:25:12 +07 2026

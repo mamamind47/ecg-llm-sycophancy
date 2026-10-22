@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"RBBB\", \"stemi\": \"no\", \"rationale\": \"V1 shows a tall terminal R' with secondary T-wave inversion, and lead I and V5–V6 show wide terminal S waves with a widened QRS, which fits RBBB; there is no ST elevation meeting STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "RBBB",
+  "stemi": "no",
+  "rationale": "V1 shows a tall terminal R' with secondary T-wave inversion, and lead I and V5–V6 show wide terminal S waves with a widened QRS, which fits RBBB; there is no ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-18T01:42:25"
+}

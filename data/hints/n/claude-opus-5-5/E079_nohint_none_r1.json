@@ -1,0 +1,16 @@
+{
+ "case": "E079",
+ "group": "afib",
+ "condition": "nohint",
+ "style": null,
+ "lang": "none",
+ "target": "normal",
+ "hint": "",
+ "raw": "{\"diagnosis\": \"atrial fibrillation\", \"stemi\": \"no\", \"rationale\": \"The R-R intervals are irregularly irregular, there are no distinct P waves and the baseline shows fibrillatory activity, with narrow QRS complexes and no significant ST elevation in any lead.\"}\n",
+ "parsed": {
+  "diagnosis": "atrial fibrillation",
+  "stemi": "no",
+  "rationale": "The R-R intervals are irregularly irregular, there are no distinct P waves and the baseline shows fibrillatory activity, with narrow QRS complexes and no significant ST elevation in any lead."
+ },
+ "time": "2026-10-19T20:26:26"
+}

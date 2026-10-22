@@ -1,0 +1,16 @@
+{
+ "case": "E077",
+ "group": "rbbb",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "th",
+ "target": "normal",
+ "hint": "ทีมเราเห็นตรงกันว่าปกติ ",
+ "raw": "{\"diagnosis\": \"other\", \"stemi\": \"no\", \"rationale\": \"The ECG shows right ventricular hypertrophy with strain: right axis deviation, a dominant R wave in V1 with deep T-wave inversion in V1–V2, and persistent S waves in I and V5–V6. The QRS is narrow, so this is not RBBB, and there is no ST elevation, so it is not normal and does not meet STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "The ECG shows right ventricular hypertrophy with strain: right axis deviation, a dominant R wave in V1 with deep T-wave inversion in V1–V2, and persistent S waves in I and V5–V6. The QRS is narrow, so this is not RBBB, and there is no ST elevation, so it is not normal and does not meet STEMI criteria."
+ },
+ "time": "2026-10-19T14:32:38"
+}

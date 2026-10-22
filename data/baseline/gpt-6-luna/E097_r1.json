@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"other\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with marked poor R-wave progression and QS complexes in V2–V4, without diagnostic ST elevation.\"}",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with marked poor R-wave progression and QS complexes in V2–V4, without diagnostic ST elevation."
+ },
+ "time": "2026-10-19T23:01:53"
+}

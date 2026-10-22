@@ -1,0 +1,9 @@
+{
+ "raw": "```json\n{\"diagnosis\": \"other\", \"stemi\": \"no\", \"rationale\": \"The rhythm is sinus with narrow QRS complexes and marked left axis deviation (positive in I and aVL, mostly negative in II, III and aVF, with a small r and deep S in III), which fits left anterior fascicular block more than inferior Q-wave MI, and no lead shows ST elevation reaching STEMI criteria.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "The rhythm is sinus with narrow QRS complexes and marked left axis deviation (positive in I and aVL, mostly negative in II, III and aVF, with a small r and deep S in III), which fits left anterior fascicular block more than inferior Q-wave MI, and no lead shows ST elevation reaching STEMI criteria."
+ },
+ "time": "2026-10-18T11:23:37"
+}

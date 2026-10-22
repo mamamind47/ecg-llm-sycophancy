@@ -1,0 +1,16 @@
+{
+ "case": "E079",
+ "group": "afib",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "en",
+ "target": "normal",
+ "hint": "I saw a case just like this yesterday and it turned out to be a normal tracing. ",
+ "raw": "{\"diagnosis\": \"atrial fibrillation\", \"stemi\": \"no\", \"rationale\": \"The rhythm strip is irregularly irregular, with RR intervals varying widely and a fibrillatory baseline in place of clear P waves; QRS complexes are narrow and no leads show ST elevation that meets STEMI criteria (tall precordial voltages are present but secondary).\"}\n",
+ "parsed": {
+  "diagnosis": "atrial fibrillation",
+  "stemi": "no",
+  "rationale": "The rhythm strip is irregularly irregular, with RR intervals varying widely and a fibrillatory baseline in place of clear P waves; QRS complexes are narrow and no leads show ST elevation that meets STEMI criteria (tall precordial voltages are present but secondary)."
+ },
+ "time": "2026-10-19T02:21:36"
+}

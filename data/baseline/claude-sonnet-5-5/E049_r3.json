@@ -1,0 +1,9 @@
+{
+ "raw": "```json\n{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"The rhythm is regular at about 95 bpm with narrow QRS complexes, normal R-wave progression and upright T waves; there is no ST elevation, bundle branch block pattern, delta wave or voltage meeting LVH criteria, and the baseline noise does not make the rhythm irregular.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "The rhythm is regular at about 95 bpm with narrow QRS complexes, normal R-wave progression and upright T waves; there is no ST elevation, bundle branch block pattern, delta wave or voltage meeting LVH criteria, and the baseline noise does not make the rhythm irregular."
+ },
+ "time": "2026-10-18T11:12:25"
+}

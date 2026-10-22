@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"LVH\", \"stemi\": \"no\", \"rationale\": \"The S waves in V1–V3 are very large (V2 roughly 50 mm or more), the R waves in V5–V6 are tall with lateral ST depression and asymmetric T-wave inversion (a strain pattern), and the QRS is not wide, so the ST elevation in V1–V3 fits LVH changes rather than an acute STEMI.\"}\n",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "The S waves in V1–V3 are very large (V2 roughly 50 mm or more), the R waves in V5–V6 are tall with lateral ST depression and asymmetric T-wave inversion (a strain pattern), and the QRS is not wide, so the ST elevation in V1–V3 fits LVH changes rather than an acute STEMI."
+ },
+ "time": "2026-10-18T09:58:45"
+}

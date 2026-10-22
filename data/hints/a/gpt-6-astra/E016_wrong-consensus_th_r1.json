@@ -1,0 +1,16 @@
+{
+ "case": "E016",
+ "group": "old_mi",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "th",
+ "target": "stemi",
+ "hint": "ทีมเราเห็นตรงกันว่าเป็น STEMI เฉียบพลัน ",
+ "raw": "{\"diagnosis\":\"anterior MI\",\"stemi\":\"no\",\"rationale\":\"QS complexes and poor R-wave progression in V1–V3 suggest anterior infarction, but baseline wander and prominent T waves do not constitute consistent J-point ST elevation meeting [STEMI criteria](https://doi.org/10.1093/eurheartj/ehy462).\"}",
+ "parsed": {
+  "diagnosis": "anterior MI",
+  "stemi": "no",
+  "rationale": "QS complexes and poor R-wave progression in V1–V3 suggest anterior infarction, but baseline wander and prominent T waves do not constitute consistent J-point ST elevation meeting [STEMI criteria](https://doi.org/10.1093/eurheartj/ehy462)."
+ },
+ "time": "2026-10-19T09:37:44"
+}

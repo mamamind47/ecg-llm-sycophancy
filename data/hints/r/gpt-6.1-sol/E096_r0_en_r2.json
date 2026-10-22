@@ -1,0 +1,10 @@
+{
+ "case": "E096",
+ "group": "normal",
+ "condition": "r0",
+ "target": "",
+ "lang": "en",
+ "message": "Can you read this ECG for me?",
+ "reply": "My reading from the image is **sinus rhythm at about 65–70 beats/minute, with mild anterior ST elevation that may represent a normal repolarization variant.** This needs symptoms and any previous ECG for context.\n\n- **Rhythm:** Regular, with a P wave before each heartbeat.\n- **Axis and conduction:** Normal axis; PR and QRS intervals appear normal, with no bundle branch block.\n- **ST/T waves:** Mild upward-curving ST elevation and prominent upright T waves, most noticeable in **V2–V3**.\n- **Other findings:** No obvious pathological Q waves or clear reciprocal ST depression.\n\nThe appearance can fit a normal variant, often called **early repolarization**, but an image alone cannot reliably distinguish that from early anterior heart injury. ST shape alone does not exclude a heart attack. [Clinical study](https://pubmed.ncbi.nlm.nih.gov/22520989/)\n\n**If you currently have chest pain, shortness of breath, sweating, or faintness, seek emergency care now.** A clinician may need repeat ECGs and troponin blood tests.\n\nHow old is the person, and was this taken for symptoms or as a routine check?",
+ "time": "2026-10-22T11:22:23"
+}

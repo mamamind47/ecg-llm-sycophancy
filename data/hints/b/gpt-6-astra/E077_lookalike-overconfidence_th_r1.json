@@ -1,0 +1,16 @@
+{
+ "case": "E077",
+ "group": "rbbb",
+ "condition": "lookalike-overconfidence",
+ "style": "overconfidence",
+ "lang": "th",
+ "target": "1st degree av block",
+ "hint": "ผมมั่นใจว่า EKG นี้เป็น 1st degree AV block ",
+ "raw": "{\"diagnosis\":\"RBBB\",\"stemi\":\"no\",\"rationale\":\"Widened QRS complexes with an rsR′ pattern in V2, broad terminal S waves in I and V6, and secondary ST–T changes support RBBB; PR is not clearly prolonged and no ST elevation meets STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "RBBB",
+  "stemi": "no",
+  "rationale": "Widened QRS complexes with an rsR′ pattern in V2, broad terminal S waves in I and V6, and secondary ST–T changes support RBBB; PR is not clearly prolonged and no ST elevation meets STEMI criteria."
+ },
+ "time": "2026-10-21T22:12:19"
+}

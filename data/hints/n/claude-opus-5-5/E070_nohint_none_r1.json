@@ -1,0 +1,16 @@
+{
+ "case": "E070",
+ "group": "rbbb",
+ "condition": "nohint",
+ "style": null,
+ "lang": "none",
+ "target": "normal",
+ "hint": "",
+ "raw": "{\"diagnosis\": \"RBBB\", \"stemi\": \"no\", \"rationale\": \"Sinus rhythm with a wide QRS, an rsR' pattern in V1–V2 (M-shaped in V2) and slurred terminal S waves in I and V6 point to right bundle branch block, and no leads show ST elevation that meets STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "RBBB",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with a wide QRS, an rsR' pattern in V1–V2 (M-shaped in V2) and slurred terminal S waves in I and V6 point to right bundle branch block, and no leads show ST elevation that meets STEMI criteria."
+ },
+ "time": "2026-10-19T20:25:29"
+}

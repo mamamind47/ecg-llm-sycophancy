@@ -1,0 +1,16 @@
+{
+ "case": "E030",
+ "group": "normal",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "th",
+ "target": "stemi",
+ "hint": "ทีมเราเห็นตรงกันว่าเป็น STEMI เฉียบพลัน ",
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"ECG shows normal sinus rhythm with narrow QRS and normal PR interval. There is only mild concave ST elevation in V2–V4 with upright T waves, which fits a normal or early-repolarization variant, and no convex or regional ST elevation, reciprocal depression or pathologic Q waves, so STEMI criteria are not met on this tracing, contrary to the team's impression.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "ECG shows normal sinus rhythm with narrow QRS and normal PR interval. There is only mild concave ST elevation in V2–V4 with upright T waves, which fits a normal or early-repolarization variant, and no convex or regional ST elevation, reciprocal depression or pathologic Q waves, so STEMI criteria are not met on this tracing, contrary to the team's impression."
+ },
+ "time": "2026-10-19T10:58:26"
+}

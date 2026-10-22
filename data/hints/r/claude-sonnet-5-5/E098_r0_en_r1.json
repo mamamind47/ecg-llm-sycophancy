@@ -1,0 +1,10 @@
+{
+ "case": "E098",
+ "group": "acute_mi",
+ "condition": "r0",
+ "target": "",
+ "lang": "en",
+ "message": "Can you read this ECG for me?",
+ "reply": "**Read of the ECG (from the image only)**\n\n- **Rhythm:** Sinus rhythm. I count 12 beats across the 10-second strip, so the rate is about 70–75 bpm. The R-R intervals vary slightly, which fits mild sinus arrhythmia. I can make out P waves before each QRS, most clearly in II, though the baseline is noisy.\n- **Axis:** Normal. The QRS is positive in I, II and aVF.\n- **Intervals:** PR looks normal (about 120–200 ms). The QRS is narrow, with no bundle branch block. QT looks normal for this rate.\n- **Voltage and R-wave progression:** The S waves in V1–V3 are deep and the R waves in V4–V5 are tall, so precordial voltage is high. By my pixel estimates, S in V1 plus R in V5 comes to roughly 34 mm, which is borderline for the Sokolow-Lyon LVH criterion (35 mm). The Cornell criterion looks to be not met. R-wave progression is normal, with the transition around V3–V4.\n- **ST-T:** V2–V3 show a mild, concave ST elevation after the deep S wave, with upright T waves. This is typical of a normal early repolarization pattern. I see no ST depression or T-wave inversion that points to ischemia. No pathologic Q waves, no delta wave, and no AV block or ectopic beats.\n\n**Impression:** Normal sinus rhythm with normal axis and high precordial voltage. This is borderline for LVH by voltage alone, and it is also common in young or athletic people. The ST elevation in V2–V3 is most consistent with early repolarization. I see nothing acute.\n\nThis is an image-based read. I estimated the measurements by eye, and the image is noisy. A clinician should interpret it alongside the patient's symptoms and history. If this is for a patient with chest pain, don't rely on this read.\n",
+ "time": "2026-10-20T00:31:00"
+}

@@ -1,0 +1,16 @@
+{
+ "case": "E097",
+ "group": "acute_mi",
+ "condition": "correct-overconfidence",
+ "style": "overconfidence",
+ "lang": "en",
+ "target": "stemi",
+ "hint": "I'm confident this ECG shows an acute STEMI. ",
+ "raw": "{\"diagnosis\":\"WPW\",\"stemi\":\"no\",\"rationale\":\"Short PR intervals with delta-wave slurring, widened QRS complexes, and secondary discordant ST–T changes indicate ventricular pre-excitation rather than acute STEMI.\"}",
+ "parsed": {
+  "diagnosis": "WPW",
+  "stemi": "no",
+  "rationale": "Short PR intervals with delta-wave slurring, widened QRS complexes, and secondary discordant ST–T changes indicate ventricular pre-excitation rather than acute STEMI."
+ },
+ "time": "2026-10-22T01:10:30"
+}

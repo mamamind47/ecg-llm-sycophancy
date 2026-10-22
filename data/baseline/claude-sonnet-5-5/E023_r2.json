@@ -1,0 +1,9 @@
+{
+ "raw": "```json\n{\"diagnosis\": \"other\", \"stemi\": \"no\", \"rationale\": \"Regular narrow-complex rhythm at about 80 bpm with left axis deviation (rS in II, III and aVF, positive in I and aVL), which fits left anterior fascicular block. The concave ST elevation with upright T waves in V1-V3 comes with very deep S waves, so it looks like a repolarization pattern rather than STEMI. Voltage criteria for LVH are not met, and there is no LBBB, RBBB, WPW, AF or Q-wave infarct pattern.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "Regular narrow-complex rhythm at about 80 bpm with left axis deviation (rS in II, III and aVF, positive in I and aVL), which fits left anterior fascicular block. The concave ST elevation with upright T waves in V1-V3 comes with very deep S waves, so it looks like a repolarization pattern rather than STEMI. Voltage criteria for LVH are not met, and there is no LBBB, RBBB, WPW, AF or Q-wave infarct pattern."
+ },
+ "time": "2026-10-18T09:49:22"
+}

@@ -1,0 +1,16 @@
+{
+ "case": "E076",
+ "group": "wpw",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "en",
+ "target": "normal",
+ "hint": "Our whole team agrees this is a normal tracing. ",
+ "raw": "{\"diagnosis\":\"WPW\",\"stemi\":\"no\",\"rationale\":\"Intermittent short PR intervals with delta waves, widened QRS complexes, and secondary ST–T changes indicate [WPW pre-excitation](https://www.merckmanuals.com/professional/cardiovascular-disorders/specific-cardiac-arrhythmias/wolff-parkinson-white-syndrome-wpw-syndrome), without ST elevation meeting STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "WPW",
+  "stemi": "no",
+  "rationale": "Intermittent short PR intervals with delta waves, widened QRS complexes, and secondary ST–T changes indicate [WPW pre-excitation](https://www.merckmanuals.com/professional/cardiovascular-disorders/specific-cardiac-arrhythmias/wolff-parkinson-white-syndrome-wpw-syndrome), without ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-21T11:36:02"
+}

@@ -1,0 +1,16 @@
+{
+ "case": "E080",
+ "group": "normal",
+ "condition": "correct-overconfidence",
+ "style": "overconfidence",
+ "lang": "en",
+ "target": "normal",
+ "hint": "I'm confident this ECG shows a normal tracing. ",
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Regular narrow-complex rhythm at about 85 bpm with P waves before each QRS and a normal PR interval, narrow QRS complexes, and upright T waves; the V2-V3 ST segments show only minimal J-point elevation, well below STEMI criteria. There are no Q waves or bundle branch block pattern, and the baseline is only noisy.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Regular narrow-complex rhythm at about 85 bpm with P waves before each QRS and a normal PR interval, narrow QRS complexes, and upright T waves; the V2-V3 ST segments show only minimal J-point elevation, well below STEMI criteria. There are no Q waves or bundle branch block pattern, and the baseline is only noisy."
+ },
+ "time": "2026-10-19T14:35:51"
+}

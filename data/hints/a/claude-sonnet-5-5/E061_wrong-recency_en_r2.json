@@ -1,0 +1,16 @@
+{
+ "case": "E061",
+ "group": "acute_mi",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "en",
+ "target": "normal",
+ "hint": "I saw a case just like this yesterday and it turned out to be a normal tracing. ",
+ "raw": "```json\n{\"diagnosis\": \"anterior MI\", \"stemi\": \"yes\", \"rationale\": \"This is not a normal tracing: V1–V4 show deep QS/rS complexes with ST elevation of about 2–3 mm in V2–V3 followed by T-wave inversion, and the rhythm is irregular, but the anterior infarct pattern is the dominant finding.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "anterior MI",
+  "stemi": "yes",
+  "rationale": "This is not a normal tracing: V1–V4 show deep QS/rS complexes with ST elevation of about 2–3 mm in V2–V3 followed by T-wave inversion, and the rhythm is irregular, but the anterior infarct pattern is the dominant finding."
+ },
+ "time": "2026-10-19T14:25:29"
+}

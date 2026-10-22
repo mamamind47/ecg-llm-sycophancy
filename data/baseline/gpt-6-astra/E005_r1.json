@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"LVH\",\"stemi\":\"no\",\"rationale\":\"High precordial QRS voltages with deep anterior S waves and tall lateral R waves indicate LVH, with proportionate discordant anterior ST elevation consistent with secondary repolarization changes.\"}",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "High precordial QRS voltages with deep anterior S waves and tall lateral R waves indicate LVH, with proportionate discordant anterior ST elevation consistent with secondary repolarization changes."
+ },
+ "time": "2026-10-18T00:49:05"
+}

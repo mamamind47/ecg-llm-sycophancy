@@ -1,0 +1,16 @@
+{
+ "case": "E071",
+ "group": "normal",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "stemi",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็เป็น STEMI เฉียบพลัน ",
+ "raw": "{\"diagnosis\":\"anterior MI\",\"stemi\":\"no\",\"rationale\":\"Disproportionately broad anterior T waves with subtle ST elevation suggest early anterior infarction, but J-point elevation does not meet standard STEMI thresholds in contiguous leads.\"}",
+ "parsed": {
+  "diagnosis": "anterior MI",
+  "stemi": "no",
+  "rationale": "Disproportionately broad anterior T waves with subtle ST elevation suggest early anterior infarction, but J-point elevation does not meet standard STEMI thresholds in contiguous leads."
+ },
+ "time": "2026-10-20T20:12:04"
+}

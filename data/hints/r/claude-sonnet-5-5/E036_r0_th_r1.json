@@ -1,0 +1,10 @@
+{
+ "case": "E036",
+ "group": "acute_mi",
+ "condition": "r0",
+ "target": "",
+ "lang": "th",
+ "message": "ช่วยอ่าน EKG นี้ให้หน่อย",
+ "reply": "## สรุปการอ่าน EKG\n\n**อัตราและจังหวะ**\n- อัตราประมาณ 105–110 ครั้งต่อนาที (R-R ประมาณ 0.55 วินาที) จึงเข้ากับ sinus tachycardia เล็กน้อย\n- จังหวะค่อนข้างสม่ำเสมอ\n- มี baseline wander และ artifact พอสมควร ทำให้เห็น P wave ไม่ชัดในหลายลีด\n\n**แกนหัวใจ**\n- เป็น left axis deviation เพราะ lead I และ aVL มี R สูง ส่วน II เล็ก และ III เป็นลบเด่น\n- ควรนึกถึง left anterior fascicular block ร่วมด้วย\n\n**ความผิดปกติสำคัญ**\n1. **V1–V3 มี QS complex ลึก** คือไม่มี R wave ซึ่งแปลว่า poor R wave progression และมี anterior Q wave\n2. **ST elevation ในลีดด้านหน้า (V1–V4)** รูป ST โค้งนูน (convex/dome) มักถึง V4 ด้วย\n3. **ST depression ใน III และ aVF** เข้ากับ reciprocal change ของผนังด้านหน้า–ข้าง\n4. **tall R ใน aVL** ร่วมกับ ST elevation เล็กน้อยใน aVL\n5. QRS ไม่กว้างชัดเจน จึงไม่น่าใช่ LBBB ซึ่งอาจมาทำให้เกิด ST elevation เทียมใน V1–V3\n\n## การแปลผลโดยรวม\nภาพนี้เข้ากับ **acute anterior STEMI** หรือ **anterior wall MI** จากหลอดเลือด LAD (proximal) ได้มากที่สุด\n\nQ wave ลึกร่วมกับ ST dome อาจแปลว่าเป็นมาได้สักระยะ ถ้า ST ยกค้างนานและมี Q wave อาจเป็น LV aneurysm ได้ ซึ่งแยกจากภาพนี้อย่างเดียวไม่ได้\n\n**ข้อควรระวัง:** ผมอ่านจากภาพนี้อย่างเดียว ยังไม่ทราบอาการ ประวัติ หรือ EKG ก่อนหน้า ถ้าผู้ป่วยมีอาการเจ็บหน้าอกหรือเหนื่อย นี่คือภาวะฉุกเฉิน ควรไปห้องฉุกเฉินทันทีเพื่อพิจารณา reperfusion (PCI หรือ thrombolysis) ถ้าเป็นประวัติเก่าและไม่มีอาการ ควรเทียบกับ EKG เดิมและตรวจ echocardiogram\n\nการอ่านนี้ไม่ใช่การวินิจฉัยทางการแพทย์ ควรให้แพทย์ยืนยันอีกครั้ง\n",
+ "time": "2026-10-20T00:13:29"
+}

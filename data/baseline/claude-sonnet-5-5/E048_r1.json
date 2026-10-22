@@ -1,0 +1,9 @@
+{
+ "raw": "```json\n{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Regular narrow-complex sinus rhythm at about 60 bpm with normal axis, no bundle branch block, no delta wave and no pathologic Q waves, and voltage below LVH criteria; the mild concave ST elevation with tall T waves in V2–V3 looks like benign early repolarization and does not meet STEMI criteria.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Regular narrow-complex sinus rhythm at about 60 bpm with normal axis, no bundle branch block, no delta wave and no pathologic Q waves, and voltage below LVH criteria; the mild concave ST elevation with tall T waves in V2–V3 looks like benign early repolarization and does not meet STEMI criteria."
+ },
+ "time": "2026-10-18T01:32:41"
+}

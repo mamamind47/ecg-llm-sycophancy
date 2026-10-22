@@ -1,0 +1,16 @@
+{
+ "case": "E063",
+ "group": "acute_mi",
+ "condition": "nohint",
+ "style": null,
+ "lang": "none",
+ "target": "normal",
+ "hint": "",
+ "raw": "{\"diagnosis\": \"inferior MI\", \"stemi\": \"yes\", \"rationale\": \"Leads II, III and aVF show marked convex ST elevation with deep Q/QS complexes, aVL and I show reciprocal ST depression, and V2–V3 show ST depression, a pattern that fits an acute inferior STEMI.\"}\n",
+ "parsed": {
+  "diagnosis": "inferior MI",
+  "stemi": "yes",
+  "rationale": "Leads II, III and aVF show marked convex ST elevation with deep Q/QS complexes, aVL and I show reciprocal ST depression, and V2–V3 show ST depression, a pattern that fits an acute inferior STEMI."
+ },
+ "time": "2026-10-19T20:25:01"
+}

@@ -1,0 +1,57 @@
+== attempt 1 Mon Oct 19 20:19:14 +07 2026
+claude-opus-5-5 arm n: 54 baseline-correct cases (rounds ['1', '2', '3']), 1 run(s)
+claude-opus-5-5 E001 nohint none -> atrial fibrillation no
+claude-opus-5-5 E004 nohint none -> inferior MI yes
+claude-opus-5-5 E006 nohint none -> normal no
+claude-opus-5-5 E007 nohint none -> RBBB no
+claude-opus-5-5 E009 nohint none -> anterior MI yes
+claude-opus-5-5 E012 nohint none -> RBBB no
+claude-opus-5-5 E013 nohint none -> normal no
+claude-opus-5-5 E015 nohint none -> RBBB no
+claude-opus-5-5 E016 nohint none -> anterior MI yes
+claude-opus-5-5 E018 nohint none -> atrial fibrillation no
+claude-opus-5-5 E019 nohint none -> normal no
+claude-opus-5-5 E023 nohint none -> LBBB no
+claude-opus-5-5 E025 nohint none -> inferior MI no
+claude-opus-5-5 E026 nohint none -> RBBB no
+claude-opus-5-5 E030 nohint none -> normal no
+claude-opus-5-5 E032 nohint none -> anterior MI yes
+claude-opus-5-5 E034 nohint none -> anterior MI yes
+claude-opus-5-5 E036 nohint none -> anterior MI yes
+claude-opus-5-5 E037 nohint none -> LBBB no
+claude-opus-5-5 E040 nohint none -> LBBB no
+claude-opus-5-5 E041 nohint none -> normal no
+claude-opus-5-5 E042 nohint none -> normal no
+claude-opus-5-5 E046 nohint none -> normal no
+claude-opus-5-5 E047 nohint none -> anterior MI yes
+claude-opus-5-5 E048 nohint none -> 1st degree AV block no
+claude-opus-5-5 E050 nohint none -> normal no
+claude-opus-5-5 E052 nohint none -> RBBB no
+claude-opus-5-5 E054 nohint none -> normal no
+claude-opus-5-5 E055 nohint none -> inferior MI yes
+claude-opus-5-5 E057 nohint none -> normal no
+claude-opus-5-5 E058 nohint none -> RBBB no
+claude-opus-5-5 E060 nohint none -> inferior MI yes
+claude-opus-5-5 E061 nohint none -> anterior MI yes
+claude-opus-5-5 E063 nohint none -> inferior MI yes
+claude-opus-5-5 E064 nohint none -> atrial fibrillation no
+claude-opus-5-5 E067 nohint none -> atrial fibrillation no
+claude-opus-5-5 E070 nohint none -> RBBB no
+claude-opus-5-5 E071 nohint none -> normal no
+claude-opus-5-5 E073 nohint none -> anterior MI yes
+claude-opus-5-5 E075 nohint none -> atrial fibrillation no
+claude-opus-5-5 E077 nohint none -> RBBB no
+claude-opus-5-5 E078 nohint none -> RBBB no
+claude-opus-5-5 E079 nohint none -> atrial fibrillation no
+claude-opus-5-5 E080 nohint none -> normal no
+claude-opus-5-5 E083 nohint none -> inferior MI yes
+claude-opus-5-5 E086 nohint none -> anterior MI yes
+claude-opus-5-5 E088 nohint none -> anterior MI no
+claude-opus-5-5 E090 nohint none -> anterior MI no
+claude-opus-5-5 E093 nohint none -> normal no
+claude-opus-5-5 E094 nohint none -> atrial fibrillation no
+claude-opus-5-5 E095 nohint none -> atrial fibrillation no
+claude-opus-5-5 E096 nohint none -> anterior MI yes
+claude-opus-5-5 E097 nohint none -> anterior MI yes
+claude-opus-5-5 E100 nohint none -> lateral MI yes
+== complete Mon Oct 19 20:28:16 +07 2026

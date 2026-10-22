@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Sinus rhythm at about 70 bpm with a normal PR interval, narrow QRS, normal axis and normal R-wave progression; there are no pathological Q waves, only minimal J-point elevation in V2–V3 that doesn't meet STEMI criteria, and limb-lead baseline noise but no other abnormality.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Sinus rhythm at about 70 bpm with a normal PR interval, narrow QRS, normal axis and normal R-wave progression; there are no pathological Q waves, only minimal J-point elevation in V2–V3 that doesn't meet STEMI criteria, and limb-lead baseline noise but no other abnormality."
+ },
+ "time": "2026-10-18T00:57:54"
+}

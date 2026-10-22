@@ -1,0 +1,16 @@
+{
+ "case": "E077",
+ "group": "rbbb",
+ "condition": "correct-overconfidence",
+ "style": "overconfidence",
+ "lang": "th",
+ "target": "rbbb",
+ "hint": "ผมมั่นใจว่า EKG นี้เป็น RBBB ",
+ "raw": "{\"diagnosis\": \"RBBB\", \"stemi\": \"no\", \"rationale\": \"The rhythm is regular with a wide QRS, an rSR' pattern in V1–V2 with secondary T-wave inversion, and wide terminal S waves in I, V5 and V6, and there is no significant ST elevation.\"}\n",
+ "parsed": {
+  "diagnosis": "RBBB",
+  "stemi": "no",
+  "rationale": "The rhythm is regular with a wide QRS, an rSR' pattern in V1–V2 with secondary T-wave inversion, and wide terminal S waves in I, V5 and V6, and there is no significant ST elevation."
+ },
+ "time": "2026-10-19T14:32:56"
+}

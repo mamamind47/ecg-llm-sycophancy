@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"normal\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with normal axis, normal conduction intervals, and no diagnostic hypertrophy, pathological Q waves, or ST elevation meeting STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with normal axis, normal conduction intervals, and no diagnostic hypertrophy, pathological Q waves, or ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-18T05:52:49"
+}

@@ -1,0 +1,8 @@
+{
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Regular sinus rhythm at about 65 bpm with a normal PR interval, narrow QRS, normal axis and no pathological Q waves; the upright T waves and slight J-point elevation in V2–V3 look normal and do not meet STEMI criteria, and voltage does not meet LVH criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Regular sinus rhythm at about 65 bpm with a normal PR interval, narrow QRS, normal axis and no pathological Q waves; the upright T waves and slight J-point elevation in V2–V3 look normal and do not meet STEMI criteria, and voltage does not meet LVH criteria."
+ }
+}

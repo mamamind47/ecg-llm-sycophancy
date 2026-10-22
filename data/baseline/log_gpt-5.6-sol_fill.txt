@@ -1,0 +1,16 @@
+gpt-5.6-sol E093 r2 WPW no
+gpt-5.6-sol E094 r2 LVH no
+gpt-5.6-sol E095 r2 atrial fibrillation no
+gpt-5.6-sol E096 r2 anterior MI yes
+gpt-5.6-sol E097 r2 anterior MI yes
+gpt-5.6-sol E098 r2 LVH no
+gpt-5.6-sol E099 r2 normal no
+gpt-5.6-sol E100 r2 other no
+gpt-5.6-sol E101 r2 LVH no
+gpt-5.6-sol E001 r3 LVH no
+gpt-5.6-sol E002 r3 anterior MI yes
+gpt-5.6-sol E003 r3 LVH no
+gpt-5.6-sol E004 r3 other no
+gpt-5.6-sol E005 r3 anterior MI yes
+gpt-5.6-sol E006 r3 normal no
+gpt-5.6-sol E007 r3 WPW no

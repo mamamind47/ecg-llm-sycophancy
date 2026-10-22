@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"atrial fibrillation\",\"stemi\":\"no\",\"rationale\":\"The rhythm is irregularly irregular with no discrete P waves, and the ST changes do not meet STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "atrial fibrillation",
+  "stemi": "no",
+  "rationale": "The rhythm is irregularly irregular with no discrete P waves, and the ST changes do not meet STEMI criteria."
+ },
+ "time": "2026-10-20T11:36:09"
+}

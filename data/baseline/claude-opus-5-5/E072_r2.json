@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"LVH\", \"stemi\": \"no\", \"rationale\": \"Very deep S waves in V2–V3 (over 35 mm) and a tall R wave in V6 with downsloping ST depression and T inversion show LVH with strain; the ST elevation in V1–V3 runs opposite to deep S waves, as LVH causes, rather than meeting STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "Very deep S waves in V2–V3 (over 35 mm) and a tall R wave in V6 with downsloping ST depression and T inversion show LVH with strain; the ST elevation in V1–V3 runs opposite to deep S waves, as LVH causes, rather than meeting STEMI criteria."
+ },
+ "time": "2026-10-18T10:01:58"
+}

@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"The rhythm looks like regular sinus at about 100 bpm, with narrow QRS complexes, normal precordial R-wave progression and no clear ST elevation, Q waves, delta waves or bundle branch block pattern, though the limb leads are noisy and low in voltage.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "The rhythm looks like regular sinus at about 100 bpm, with narrow QRS complexes, normal precordial R-wave progression and no clear ST elevation, Q waves, delta waves or bundle branch block pattern, though the limb leads are noisy and low in voltage."
+ },
+ "time": "2026-10-18T09:57:21"
+}

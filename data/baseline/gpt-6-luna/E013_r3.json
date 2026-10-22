@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"other\",\"stemi\":\"no\",\"rationale\":\"The ECG shows a regular narrow-complex rhythm with frequent premature atrial beats and no diagnostic ST elevation.\"}",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "The ECG shows a regular narrow-complex rhythm with frequent premature atrial beats and no diagnostic ST elevation."
+ },
+ "time": "2026-10-19T23:17:53"
+}

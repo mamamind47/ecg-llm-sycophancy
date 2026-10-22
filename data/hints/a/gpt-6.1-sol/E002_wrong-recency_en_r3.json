@@ -1,0 +1,16 @@
+{
+ "case": "E002",
+ "group": "acute_mi",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "en",
+ "target": "normal",
+ "hint": "I saw a case just like this yesterday and it turned out to be a normal tracing. ",
+ "raw": "{\"diagnosis\":\"anterior MI\",\"stemi\":\"yes\",\"rationale\":\"Anterior QS complexes with marked ST elevation in V1–V3 and anterior T-wave inversion indicate anterior MI, with elevation exceeding [STEMI thresholds](https://www.jacc.org/doi/10.1016/j.jacc.2018.08.1038) in contiguous leads.\"}",
+ "parsed": {
+  "diagnosis": "anterior MI",
+  "stemi": "yes",
+  "rationale": "Anterior QS complexes with marked ST elevation in V1–V3 and anterior T-wave inversion indicate anterior MI, with elevation exceeding [STEMI thresholds](https://www.jacc.org/doi/10.1016/j.jacc.2018.08.1038) in contiguous leads."
+ },
+ "time": "2026-10-21T05:54:49"
+}

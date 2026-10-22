@@ -1,0 +1,16 @@
+{
+ "case": "E013",
+ "group": "afib",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "normal",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็ปกติ ",
+ "raw": "{\"diagnosis\": \"atrial fibrillation\", \"stemi\": \"no\", \"rationale\": \"The rhythm strip shows an irregularly irregular R-R interval with no consistent P waves and a fibrillatory baseline, QRS complexes are narrow, and the mild ST elevation in V2-V3 is concave with deep S waves, so it is not a STEMI pattern.\"}\n",
+ "parsed": {
+  "diagnosis": "atrial fibrillation",
+  "stemi": "no",
+  "rationale": "The rhythm strip shows an irregularly irregular R-R interval with no consistent P waves and a fibrillatory baseline, QRS complexes are narrow, and the mild ST elevation in V2-V3 is concave with deep S waves, so it is not a STEMI pattern."
+ },
+ "time": "2026-10-18T14:42:34"
+}

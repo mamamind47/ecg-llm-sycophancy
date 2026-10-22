@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"normal\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with narrow QRS complexes and no diagnostic conduction abnormality, hypertrophy pattern, pathologic infarct pattern, or contiguous ST elevation meeting STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with narrow QRS complexes and no diagnostic conduction abnormality, hypertrophy pattern, pathologic infarct pattern, or contiguous ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-18T10:53:17"
+}

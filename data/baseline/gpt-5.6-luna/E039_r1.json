@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"LVH\",\"stemi\":\"no\",\"rationale\":\"High-voltage QRS complexes with lateral strain-type ST-T changes and discordant anterior ST elevation support LVH rather than acute STEMI.\"}",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "High-voltage QRS complexes with lateral strain-type ST-T changes and discordant anterior ST elevation support LVH rather than acute STEMI."
+ },
+ "time": "2026-10-18T06:07:23"
+}

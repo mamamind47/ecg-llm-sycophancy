@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"LVH\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with tall lateral-lead QRS complexes and secondary repolarization changes consistent with LVH, without diagnostic ST elevation.\"}",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with tall lateral-lead QRS complexes and secondary repolarization changes consistent with LVH, without diagnostic ST elevation."
+ },
+ "time": "2026-10-19T23:17:57"
+}

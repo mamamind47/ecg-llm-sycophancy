@@ -1,0 +1,16 @@
+{
+ "case": "E083",
+ "group": "acute_mi",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "en",
+ "target": "normal",
+ "hint": "I saw a case just like this yesterday and it turned out to be a normal tracing. ",
+ "raw": "{\"diagnosis\": \"inferior MI\", \"stemi\": \"yes\", \"rationale\": \"There is ST elevation in contiguous inferior leads II, III, and aVF with reciprocal ST depression in lead aVL, diagnostic of an acute inferior myocardial infarction.\"}\n",
+ "parsed": {
+  "diagnosis": "inferior MI",
+  "stemi": "yes",
+  "rationale": "There is ST elevation in contiguous inferior leads II, III, and aVF with reciprocal ST depression in lead aVL, diagnostic of an acute inferior myocardial infarction."
+ },
+ "time": "2026-10-18T20:34:19"
+}

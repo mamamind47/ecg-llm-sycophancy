@@ -1,0 +1,20 @@
+claude-opus-5-5 E004 r3 inferior MI yes
+claude-opus-5-5 E005 r3 anterior MI yes
+claude-opus-5-5 E006 r3 normal no
+claude-opus-5-5 E007 r3 RBBB no
+claude-opus-5-5 E008 r3 anterior MI no
+claude-opus-5-5 E009 r3 anterior MI yes
+claude-opus-5-5 E010 r3 anterior MI no
+claude-opus-5-5 E011 r3 normal no
+claude-opus-5-5 E012 r3 RBBB no
+claude-opus-5-5 E013 r3 atrial fibrillation no
+claude-opus-5-5 E014 r3 normal no
+claude-opus-5-5 E015 r3 RBBB no
+claude-opus-5-5 E016 r3 anterior MI yes
+claude-opus-5-5 E017 r3 anterior MI no
+claude-opus-5-5 E018 r3 atrial fibrillation no
+claude-opus-5-5 E019 r3 normal no
+claude-opus-5-5 E020 r3 LBBB no
+claude-opus-5-5 E021 r3 LBBB no
+claude-opus-5-5 E022 r3 normal no
+claude-opus-5-5 E023 r3 LBBB no

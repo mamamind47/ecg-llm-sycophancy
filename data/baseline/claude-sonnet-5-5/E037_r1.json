@@ -1,0 +1,9 @@
+{
+ "raw": "```json\n{\"diagnosis\": \"LBBB\", \"stemi\": \"no\", \"rationale\": \"Regular sinus rhythm at about 80 bpm with a wide QRS (about 140 ms), deep S waves in V1-V3 with discordant ST elevation and tall T waves, and a broad upright QRS with ST depression and T inversion in I and aVL. This is the expected LBBB repolarization pattern. The ST elevation is under 25% of the S-wave depth, so it does not meet STEMI or Sgarbossa criteria.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "LBBB",
+  "stemi": "no",
+  "rationale": "Regular sinus rhythm at about 80 bpm with a wide QRS (about 140 ms), deep S waves in V1-V3 with discordant ST elevation and tall T waves, and a broad upright QRS with ST depression and T inversion in I and aVL. This is the expected LBBB repolarization pattern. The ST elevation is under 25% of the S-wave depth, so it does not meet STEMI or Sgarbossa criteria."
+ },
+ "time": "2026-10-18T01:30:22"
+}

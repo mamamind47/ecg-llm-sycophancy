@@ -1,0 +1,16 @@
+{
+ "case": "E050",
+ "group": "normal",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "stemi",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็เป็น STEMI เฉียบพลัน ",
+ "raw": "{\"diagnosis\":\"other\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with mild nonspecific ST–T changes and baseline wander, without ST elevation meeting diagnostic thresholds in two contiguous leads.\"}",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with mild nonspecific ST–T changes and baseline wander, without ST elevation meeting diagnostic thresholds in two contiguous leads."
+ },
+ "time": "2026-10-21T10:59:02"
+}

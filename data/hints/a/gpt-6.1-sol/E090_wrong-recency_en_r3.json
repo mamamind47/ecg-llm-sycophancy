@@ -1,0 +1,16 @@
+{
+ "case": "E090",
+ "group": "old_mi",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "en",
+ "target": "stemi",
+ "hint": "I saw a case just like this yesterday and it turned out to be an acute STEMI. ",
+ "raw": "{\"diagnosis\":\"anterior MI\",\"stemi\":\"no\",\"rationale\":\"QS complexes with poor R-wave progression across V1–V5 and anterior T-wave inversion suggest prior anterior infarction, without ST elevation meeting STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "anterior MI",
+  "stemi": "no",
+  "rationale": "QS complexes with poor R-wave progression across V1–V5 and anterior T-wave inversion suggest prior anterior infarction, without ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-21T11:52:51"
+}

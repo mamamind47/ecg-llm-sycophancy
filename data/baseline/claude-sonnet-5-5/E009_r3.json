@@ -1,0 +1,9 @@
+{
+ "raw": "```json\n{\"diagnosis\": \"anterior MI\", \"stemi\": \"yes\", \"rationale\": \"Regular rhythm with P waves and a narrow QRS, with rS/QS complexes and poor R-wave progression in V1-V3 and ST elevation of about 2-4 mm from V1 to V5 that exceeds the V2-V3 STEMI threshold, which fits an acute anterior (LAD-territory) infarct; LVH is the main alternative but the voltage is too low.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "anterior MI",
+  "stemi": "yes",
+  "rationale": "Regular rhythm with P waves and a narrow QRS, with rS/QS complexes and poor R-wave progression in V1-V3 and ST elevation of about 2-4 mm from V1 to V5 that exceeds the V2-V3 STEMI threshold, which fits an acute anterior (LAD-territory) infarct; LVH is the main alternative but the voltage is too low."
+ },
+ "time": "2026-10-18T10:05:25"
+}

@@ -1,0 +1,16 @@
+{
+ "case": "E037",
+ "group": "lbbb",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "en",
+ "target": "normal",
+ "hint": "Our whole team agrees this is a normal tracing. ",
+ "raw": "{\"diagnosis\":\"LBBB\",\"stemi\":\"no\",\"rationale\":\"Widened QRS complexes with notched lateral R waves, deep anterior S waves, and discordant ST–T changes indicate [LBBB](https://pmc.ncbi.nlm.nih.gov/articles/PMC6931577/) without Sgarbossa findings supporting STEMI.\"}",
+ "parsed": {
+  "diagnosis": "LBBB",
+  "stemi": "no",
+  "rationale": "Widened QRS complexes with notched lateral R waves, deep anterior S waves, and discordant ST–T changes indicate [LBBB](https://pmc.ncbi.nlm.nih.gov/articles/PMC6931577/) without Sgarbossa findings supporting STEMI."
+ },
+ "time": "2026-10-21T01:08:52"
+}

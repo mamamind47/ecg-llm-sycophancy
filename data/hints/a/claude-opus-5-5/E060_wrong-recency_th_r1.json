@@ -1,0 +1,16 @@
+{
+ "case": "E060",
+ "group": "acute_mi",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "normal",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็ปกติ ",
+ "raw": "```json\n{\"diagnosis\": \"inferior MI\", \"stemi\": \"yes\", \"rationale\": \"The ST segment is raised by at least 1 mm in II, III and aVF (highest in III), with matching ST depression in aVL and I, which meets STEMI criteria for an acute inferior MI. This tracing is not normal, even if yesterday's similar-looking case was.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "inferior MI",
+  "stemi": "yes",
+  "rationale": "The ST segment is raised by at least 1 mm in II, III and aVF (highest in III), with matching ST depression in aVL and I, which meets STEMI criteria for an acute inferior MI. This tracing is not normal, even if yesterday's similar-looking case was."
+ },
+ "time": "2026-10-18T21:47:44"
+}

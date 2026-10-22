@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"LVH\", \"stemi\": \"no\", \"rationale\": \"The ECG demonstrates voltage criteria for left ventricular hypertrophy with R wave in aVL exceeding 11 mm and SV1 + RV5 exceeding 35 mm, with no ST elevation meeting STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "The ECG demonstrates voltage criteria for left ventricular hypertrophy with R wave in aVL exceeding 11 mm and SV1 + RV5 exceeding 35 mm, with no ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-18T09:48:12"
+}

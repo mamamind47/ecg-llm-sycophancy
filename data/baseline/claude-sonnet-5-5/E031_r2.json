@@ -1,0 +1,9 @@
+{
+ "raw": "```json\n{\"diagnosis\": \"LVH\", \"stemi\": \"no\", \"rationale\": \"Sinus rhythm with a narrow QRS and very tall precordial voltages (R in V4–V5 about 25–40 mm, deep S in V2–V3, so Sokolow-Lyon is well over 35 mm) plus tall R in aVL and left axis deviation; the ST elevation in V1–V3 is the discordant pattern seen with LVH, with no reciprocal changes or regional pattern that would meet STEMI criteria.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with a narrow QRS and very tall precordial voltages (R in V4–V5 about 25–40 mm, deep S in V2–V3, so Sokolow-Lyon is well over 35 mm) plus tall R in aVL and left axis deviation; the ST elevation in V1–V3 is the discordant pattern seen with LVH, with no reciprocal changes or regional pattern that would meet STEMI criteria."
+ },
+ "time": "2026-10-18T09:50:52"
+}

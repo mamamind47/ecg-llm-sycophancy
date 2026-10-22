@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"anterior MI\",\"stemi\":\"no\",\"rationale\":\"Pathologic QS waves and marked loss of R-wave progression across V1–V4 indicate an established anterior myocardial infarction without qualifying acute ST elevation.\"}",
+ "parsed": {
+  "diagnosis": "anterior MI",
+  "stemi": "no",
+  "rationale": "Pathologic QS waves and marked loss of R-wave progression across V1–V4 indicate an established anterior myocardial infarction without qualifying acute ST elevation."
+ },
+ "time": "2026-10-18T06:14:07"
+}

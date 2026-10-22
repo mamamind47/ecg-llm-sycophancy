@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"RBBB\", \"stemi\": \"no\", \"rationale\": \"The rhythm is regular with sinus P waves. V1 has a broad, slurred terminal R wave with a discordant inverted T wave, V2 has an rSR' pattern, and leads I and V6 have wide S waves. No ST elevation meets STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "RBBB",
+  "stemi": "no",
+  "rationale": "The rhythm is regular with sinus P waves. V1 has a broad, slurred terminal R wave with a discordant inverted T wave, V2 has an rSR' pattern, and leads I and V6 have wide S waves. No ST elevation meets STEMI criteria."
+ },
+ "time": "2026-10-18T01:38:12"
+}

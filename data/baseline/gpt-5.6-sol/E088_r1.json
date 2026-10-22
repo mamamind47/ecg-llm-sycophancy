@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"LVH\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with left-axis deviation and markedly increased QRS voltage with secondary repolarization abnormalities, without diagnostic ST elevation.\"}",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with left-axis deviation and markedly increased QRS voltage with secondary repolarization abnormalities, without diagnostic ST elevation."
+ },
+ "time": "2026-10-18T06:04:02"
+}

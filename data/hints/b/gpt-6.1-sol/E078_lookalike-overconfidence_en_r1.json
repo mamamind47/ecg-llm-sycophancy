@@ -1,0 +1,16 @@
+{
+ "case": "E078",
+ "group": "rbbb",
+ "condition": "lookalike-overconfidence",
+ "style": "overconfidence",
+ "lang": "en",
+ "target": "1st degree av block",
+ "hint": "I'm confident this ECG shows 1st degree AV block. ",
+ "raw": "{\"diagnosis\":\"WPW\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with a short PR interval, delta waves and widened QRS complexes indicates ventricular pre-excitation, with secondary ST–T changes that do not meet STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "WPW",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with a short PR interval, delta waves and widened QRS complexes indicates ventricular pre-excitation, with secondary ST–T changes that do not meet STEMI criteria."
+ },
+ "time": "2026-10-21T16:17:23"
+}

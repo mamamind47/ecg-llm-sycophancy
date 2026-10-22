@@ -1,0 +1,9 @@
+{
+ "raw": "```json\n{\"diagnosis\": \"LVH\", \"stemi\": \"no\", \"rationale\": \"Very tall precordial voltages (deep S in V1–V3 and R in V4 well over 35 mm combined) with concave ST elevation and tall T waves in V2–V3 look like LVH repolarization, with no reciprocal changes or Q waves to suggest STEMI.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "Very tall precordial voltages (deep S in V1–V3 and R in V4 well over 35 mm combined) with concave ST elevation and tall T waves in V2–V3 look like LVH repolarization, with no reciprocal changes or Q waves to suggest STEMI."
+ },
+ "time": "2026-10-18T09:51:37"
+}

@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"anterior MI\", \"stemi\": \"yes\", \"rationale\": \"ST elevation of more than 2 mm in V1–V4 (highest in V2–V3), slight elevation in aVL, and reciprocal ST depression in III and aVF point to an acute anterior STEMI.\"}\n",
+ "parsed": {
+  "diagnosis": "anterior MI",
+  "stemi": "yes",
+  "rationale": "ST elevation of more than 2 mm in V1–V4 (highest in V2–V3), slight elevation in aVL, and reciprocal ST depression in III and aVF point to an acute anterior STEMI."
+ },
+ "time": "2026-10-18T11:13:48"
+}

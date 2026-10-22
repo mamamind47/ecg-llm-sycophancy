@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"other\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with frequent ventricular-paced beats and discordant repolarization changes; no convincing ST elevation meeting STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with frequent ventricular-paced beats and discordant repolarization changes; no convincing ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-19T23:25:29"
+}

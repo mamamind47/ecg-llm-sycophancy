@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"other\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with nonspecific ST–T abnormalities and marked baseline artifact, without qualifying ST elevation in two contiguous leads.\"}",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with nonspecific ST–T abnormalities and marked baseline artifact, without qualifying ST elevation in two contiguous leads."
+ },
+ "time": "2026-10-18T00:52:41"
+}

@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"normal\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with normal axis and intervals, narrow QRS complexes, no diagnostic hypertrophy or infarction pattern, and no contiguous ST elevation meeting STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with normal axis and intervals, narrow QRS complexes, no diagnostic hypertrophy or infarction pattern, and no contiguous ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-18T09:51:46"
+}

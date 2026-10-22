@@ -1,0 +1,16 @@
+{
+ "case": "E063",
+ "group": "acute_mi",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "normal",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็ปกติ ",
+ "raw": "{\"diagnosis\":\"LBBB\",\"stemi\":\"no\",\"rationale\":\"Regular sinus rhythm with a widened QRS, predominantly negative V1–V3 and broad positive lateral complexes with secondary discordant ST-T changes, consistent with LBBB without STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "LBBB",
+  "stemi": "no",
+  "rationale": "Regular sinus rhythm with a widened QRS, predominantly negative V1–V3 and broad positive lateral complexes with secondary discordant ST-T changes, consistent with LBBB without STEMI criteria."
+ },
+ "time": "2026-10-21T22:31:36"
+}

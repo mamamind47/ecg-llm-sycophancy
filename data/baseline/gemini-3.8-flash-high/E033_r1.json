@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"LVH\", \"stemi\": \"no\", \"rationale\": \"The ECG demonstrates marked precordial voltage meeting Sokolow-Lyon criteria for left ventricular hypertrophy (S wave in V2 plus R wave in V5 exceeding 35 mm) with no ST elevation meeting STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "The ECG demonstrates marked precordial voltage meeting Sokolow-Lyon criteria for left ventricular hypertrophy (S wave in V2 plus R wave in V5 exceeding 35 mm) with no ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-18T01:16:16"
+}

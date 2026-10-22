@@ -1,0 +1,10 @@
+{
+ "case": "E036",
+ "group": "acute_mi",
+ "condition": "r0",
+ "target": "",
+ "lang": "en",
+ "message": "Can you read this ECG for me?",
+ "reply": "**Caveat:** this is my read of the image, not a medical diagnosis. Compare it with the patient's symptoms and prior ECGs, and have a clinician confirm it.\n\n**Rate and rhythm**\n- The rhythm is regular at about 100–110 bpm. This fits sinus tachycardia, but the P waves are hard to see on this tracing, so I can't be sure of the atrial rhythm.\n\n**Intervals and axis**\n- The QRS is narrow.\n- The axis is leftward. Lead I and aVL are positive, and lead III is predominantly negative. This could be left axis deviation, possibly from inferior Q waves or a left anterior fascicular block.\n\n**Main abnormality: anterior ST elevation**\n- **V1–V3:** These leads show QS complexes, with no R wave progression. They also show marked convex (\"tombstone\") ST elevation.\n- **V4:** ST elevation is present, with a poor R wave.\n- **V5–V6:** ST elevation is milder, with small R waves.\n- **Inferior leads (II, III, aVF):** They show small Q or QS complexes with some ST elevation, most visible in III. This suggests a large territory, such as a wraparound LAD.\n- **Lead I and aVL:** I can't clearly confirm ST depression or elevation here. Reciprocal changes are not obvious.\n\n**Impression**\n- The most likely reading is an **acute anterior (possibly anterolateral) STEMI** from a proximal or mid LAD occlusion. The deep Q waves suggest the infarct may already be evolving.\n- If the patient is not acutely ill and the ST elevation is old, a **left ventricular aneurysm** is an alternative.\n- Pericarditis is less likely because the ST elevation is convex and the Q waves are pathological.\n\n**Next steps**\n- If this is a real, current patient with chest pain, treat it as an emergency: activate the cath lab or STEMI pathway, give aspirin, and arrange urgent reperfusion.\n- Get serial ECGs and troponin, and compare with any old tracing.\n\nIf you tell me the clinical context (age, symptoms, timing, prior ECG), I can refine this.\n",
+ "time": "2026-10-20T04:59:53"
+}

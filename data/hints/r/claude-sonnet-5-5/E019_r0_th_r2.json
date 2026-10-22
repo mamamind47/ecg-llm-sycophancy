@@ -1,0 +1,10 @@
+{
+ "case": "E019",
+ "group": "normal",
+ "condition": "r0",
+ "target": "",
+ "lang": "th",
+ "message": "ช่วยอ่าน EKG นี้ให้หน่อย",
+ "reply": "**สรุปการอ่านจากภาพ: คลื่นไฟฟ้าหัวใจดูใกล้เคียงปกติ โดยเข้าได้กับ sinus rhythm และมีลักษณะ early repolarization (normal variant) ใน precordial leads**\n\n| หัวข้อ | ที่เห็น |\n|---|---|\n| **Rhythm** | สม่ำเสมอ ระยะ R-R เท่ากันตลอดทั้ง strip lead II |\n| **Rate** | R-R ประมาณ 20 mm (4 ช่องใหญ่) ได้ประมาณ **75 ครั้ง/นาที** (ประมาณจากภาพ) |\n| **P wave** | เห็นไม่ชัดเพราะมี noise บางส่วน แต่ไม่มีลักษณะ AF (ไม่ irregularly irregular) จึงน่าจะเป็น sinus |\n| **QRS** | แคบ ไม่มี bundle branch block |\n| **Axis** | QRS บวกใน I, II และ aVF ได้แกนปกติ (ประมาณ 0 ถึง +60°) |\n| **R wave progression** | V1–V3 เป็น rS ที่มี S ลึก ส่วน V4 เริ่มเป็น RS ทำให้ transition อยู่ราว V3–V4 ซึ่งปกติ |\n| **Voltage** | R ใน V4–V5 ประมาณ 12–13 mm ไม่เข้าเกณฑ์ LVH ส่วน limb leads ค่อนข้างต่ำ (R ใน II ประมาณ 5 mm) แต่ไม่ชัดว่าเป็น low voltage |\n| **Q wave** | ไม่เห็น pathologic Q |\n| **ST-T** | V2–V4 มี ST elevation เล็กน้อยแบบ **concave upward** ร่วมกับ T สูง และ V5–V6 มี ST ยกเล็กน้อย เข้ากับ early repolarization ไม่เห็น ST depression หรือ T inversion ที่ชัดเจน |\n| **Artifact** | มี baseline noise หรือ muscle tremor ใน I, III, aVL และ aVF บางส่วน |\n\n**ข้อสังเกต**\n- ST elevation ใน V2–V3 ที่เป็นแบบ concave พร้อม T สูง มักเป็น normal variant โดยเฉพาะในคนอายุน้อยหรือผู้ชาย แต่ถ้าผู้ป่วยมีอาการเจ็บหน้าอก ควรเทียบกับ ECG เดิมและ troponin เพื่อแยกจาก STEMI หรือ pericarditis ระยะแรก\n- ภาพมี noise และความละเอียดจำกัด จึงวัด interval (PR, QT) ได้ไม่แม่น\n\nนี่เป็นการอ่านจากภาพโดย AI ไม่ใช่การวินิจฉัยทางการแพทย์ ควรให้แพทย์ยืนยันร่วมกับอาการและประวัติของผู้ป่วย\n\nถ้าบอกอายุ เพศ และอาการได้ ผมจะช่วยแปลผลให้ตรงบริบทมากขึ้น\n",
+ "time": "2026-10-20T00:37:52"
+}

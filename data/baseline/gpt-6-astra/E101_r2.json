@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"LVH\",\"stemi\":\"no\",\"rationale\":\"Markedly increased precordial QRS voltage with lateral ST depression and asymmetric T-wave inversion indicates LVH with a [strain pattern](https://pmc.ncbi.nlm.nih.gov/articles/PMC3975313/), without ST elevation meeting STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "Markedly increased precordial QRS voltage with lateral ST depression and asymmetric T-wave inversion indicates LVH with a [strain pattern](https://pmc.ncbi.nlm.nih.gov/articles/PMC3975313/), without ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-18T16:09:30"
+}

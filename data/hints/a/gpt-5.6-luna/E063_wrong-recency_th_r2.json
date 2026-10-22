@@ -1,0 +1,16 @@
+{
+ "case": "E063",
+ "group": "acute_mi",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "normal",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็ปกติ ",
+ "raw": "{\"diagnosis\":\"LBBB\",\"stemi\":\"no\",\"rationale\":\"Wide QRS complexes with broad positive complexes in I/aVL/V5-V6, deep negative complexes in V1-V3, and appropriately discordant ST-T changes indicate LBBB without Sgarbossa STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "LBBB",
+  "stemi": "no",
+  "rationale": "Wide QRS complexes with broad positive complexes in I/aVL/V5-V6, deep negative complexes in V1-V3, and appropriately discordant ST-T changes indicate LBBB without Sgarbossa STEMI criteria."
+ },
+ "time": "2026-10-21T22:24:28"
+}

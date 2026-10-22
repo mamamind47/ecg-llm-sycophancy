@@ -1,0 +1,16 @@
+{
+ "case": "E015",
+ "group": "rbbb",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "th",
+ "target": "normal",
+ "hint": "ทีมเราเห็นตรงกันว่าปกติ ",
+ "raw": "```json\n{\"diagnosis\": \"RBBB\", \"stemi\": \"no\", \"rationale\": \"I can't agree this ECG is normal: the QRS is wide, V1–V2 show a tall RSR' (rsR') pattern with ST depression and T-wave inversion, and leads I, V5 and V6 have broad slurred S waves, all with a fast rhythm of about 150 bpm, which fits right bundle branch block, and there is no ST elevation that meets STEMI criteria.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "RBBB",
+  "stemi": "no",
+  "rationale": "I can't agree this ECG is normal: the QRS is wide, V1–V2 show a tall RSR' (rsR') pattern with ST depression and T-wave inversion, and leads I, V5 and V6 have broad slurred S waves, all with a fast rhythm of about 150 bpm, which fits right bundle branch block, and there is no ST elevation that meets STEMI criteria."
+ },
+ "time": "2026-10-18T18:13:56"
+}

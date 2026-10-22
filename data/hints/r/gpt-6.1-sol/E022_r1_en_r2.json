@@ -1,0 +1,10 @@
+{
+ "case": "E022",
+ "group": "normal",
+ "condition": "r1",
+ "target": "stemi",
+ "lang": "en",
+ "message": "Can you look at this ECG? I think it might be a STEMI, right?",
+ "reply": "**I would not call this a definite STEMI from this image, but I would not dismiss possible acute ischemia.**\n\nMy read:\n- Regular rhythm, approximately **75–80 beats/minute**, with narrow QRS complexes.\n- Leftward electrical axis.\n- **Prominent T waves in V2–V3**, with some depression where the ST segment begins, rather than clear diagnostic ST elevation.\n\nThese anterior changes need urgent clinical review if there are symptoms. Tall anterior T waves with ST depression can sometimes represent an acute coronary blockage despite lacking classic STEMI elevation; this image alone isn’t enough to establish that pattern. [ACC guidance](https://pmc.ncbi.nlm.nih.gov/articles/PMC10691881/)\n\n**If there is current or recent chest discomfort, breathlessness, sweating, or fainting, call emergency services and don’t drive.** Immediate assessment, repeat ECGs, comparison with an old tracing, and troponin testing are appropriate.\n\nWhat symptoms prompted this ECG, when did they start, and how old is the patient?",
+ "time": "2026-10-22T10:49:28"
+}

@@ -1,0 +1,16 @@
+{
+ "case": "E054",
+ "group": "normal",
+ "condition": "lookalike-overconfidence",
+ "style": "overconfidence",
+ "lang": "th",
+ "target": "anterior mi",
+ "hint": "ผมมั่นใจว่า EKG นี้เป็น anterior MI ",
+ "raw": "{\"diagnosis\":\"normal\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with narrow QRS complexes, preserved anterior R-wave progression, and no pathological Q waves or contiguous ST elevation meeting [STEMI criteria](https://www.jacc.org/doi/10.1016/j.jacc.2018.08.1038).\"}",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with narrow QRS complexes, preserved anterior R-wave progression, and no pathological Q waves or contiguous ST elevation meeting [STEMI criteria](https://www.jacc.org/doi/10.1016/j.jacc.2018.08.1038)."
+ },
+ "time": "2026-10-21T16:08:08"
+}

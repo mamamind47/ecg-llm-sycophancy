@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"inferior MI\", \"stemi\": \"yes\", \"rationale\": \"There is ST elevation in II, III and aVF, greatest in III, with reciprocal ST depression in aVL and I and marked ST depression in V1–V3, which fits an acute inferior STEMI that likely extends to the posterior wall (inferoposterior).\"}\n",
+ "parsed": {
+  "diagnosis": "inferior MI",
+  "stemi": "yes",
+  "rationale": "There is ST elevation in II, III and aVF, greatest in III, with reciprocal ST depression in aVL and I and marked ST depression in V1–V3, which fits an acute inferior STEMI that likely extends to the posterior wall (inferoposterior)."
+ },
+ "time": "2026-10-18T10:04:01"
+}

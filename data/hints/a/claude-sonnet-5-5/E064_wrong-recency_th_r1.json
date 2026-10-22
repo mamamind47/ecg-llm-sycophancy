@@ -1,0 +1,16 @@
+{
+ "case": "E064",
+ "group": "afib",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "normal",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็ปกติ ",
+ "raw": "```json\n{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"QRS complexes are narrow with normal R-wave progression and no pathologic Q waves, no bundle branch block or pre-excitation, and no significant ST elevation. The slight R-R variation looks like sinus arrhythmia, and the baseline noise in the limb leads is artifact.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "QRS complexes are narrow with normal R-wave progression and no pathologic Q waves, no bundle branch block or pre-excitation, and no significant ST elevation. The slight R-R variation looks like sinus arrhythmia, and the baseline noise in the limb leads is artifact."
+ },
+ "time": "2026-10-18T16:26:02"
+}

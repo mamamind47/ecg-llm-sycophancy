@@ -1,0 +1,16 @@
+{
+ "case": "E095",
+ "group": "afib",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "th",
+ "target": "normal",
+ "hint": "ทีมเราเห็นตรงกันว่าปกติ ",
+ "raw": "{\"diagnosis\": \"atrial fibrillation\", \"stemi\": \"no\", \"rationale\": \"The rhythm strip is irregularly irregular (R-R intervals vary from about 70 to 106 px) with no distinct P waves and a fibrillatory baseline in V1, so this is not normal despite the team's read. The QRS is narrow and there is no ST elevation meeting STEMI criteria. The tall V3–V5 voltages are a secondary finding.\"}\n",
+ "parsed": {
+  "diagnosis": "atrial fibrillation",
+  "stemi": "no",
+  "rationale": "The rhythm strip is irregularly irregular (R-R intervals vary from about 70 to 106 px) with no distinct P waves and a fibrillatory baseline in V1, so this is not normal despite the team's read. The QRS is narrow and there is no ST elevation meeting STEMI criteria. The tall V3–V5 voltages are a secondary finding."
+ },
+ "time": "2026-10-18T16:35:47"
+}

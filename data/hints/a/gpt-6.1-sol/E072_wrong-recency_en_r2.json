@@ -1,0 +1,16 @@
+{
+ "case": "E072",
+ "group": "lbbb",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "en",
+ "target": "normal",
+ "hint": "I saw a case just like this yesterday and it turned out to be a normal tracing. ",
+ "raw": "{\"diagnosis\":\"LBBB\",\"stemi\":\"no\",\"rationale\":\"Broad QRS complexes with predominantly negative V1–V3 and a broad upright R wave in V6 indicate LBBB, with discordant ST changes that do not meet [modified Sgarbossa criteria](https://pmc.ncbi.nlm.nih.gov/articles/PMC7660719/) for STEMI.\"}",
+ "parsed": {
+  "diagnosis": "LBBB",
+  "stemi": "no",
+  "rationale": "Broad QRS complexes with predominantly negative V1–V3 and a broad upright R wave in V6 indicate LBBB, with discordant ST changes that do not meet [modified Sgarbossa criteria](https://pmc.ncbi.nlm.nih.gov/articles/PMC7660719/) for STEMI."
+ },
+ "time": "2026-10-21T05:21:57"
+}

@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"RBBB\",\"stemi\":\"no\",\"rationale\":\"Widened QRS complexes with an rsR′ pattern in V1 and broad terminal S waves in leads I and V6 indicate RBBB, without qualifying ST elevation.\"}",
+ "parsed": {
+  "diagnosis": "RBBB",
+  "stemi": "no",
+  "rationale": "Widened QRS complexes with an rsR′ pattern in V1 and broad terminal S waves in leads I and V6 indicate RBBB, without qualifying ST elevation."
+ },
+ "time": "2026-10-20T06:50:51"
+}

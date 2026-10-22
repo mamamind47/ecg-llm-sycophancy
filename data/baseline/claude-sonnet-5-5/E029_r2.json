@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"LVH\", \"stemi\": \"no\", \"rationale\": \"The rhythm is regular at about 75 bpm with narrow QRS complexes. Voltages are very high (deep S in V1–V3 with tall R in V3–V5, Sokolow-Lyon well over 35 mm). The mild concave ST elevation in V2–V3 is the expected repolarization pattern of LVH, with no reciprocal changes or convex, regional ST elevation, so STEMI criteria are not met.\"}\n",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "The rhythm is regular at about 75 bpm with narrow QRS complexes. Voltages are very high (deep S in V1–V3 with tall R in V3–V5, Sokolow-Lyon well over 35 mm). The mild concave ST elevation in V2–V3 is the expected repolarization pattern of LVH, with no reciprocal changes or convex, regional ST elevation, so STEMI criteria are not met."
+ },
+ "time": "2026-10-18T09:50:29"
+}

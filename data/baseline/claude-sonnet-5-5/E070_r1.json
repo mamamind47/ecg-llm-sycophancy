@@ -1,0 +1,9 @@
+{
+ "raw": "```json\n{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Regular narrow-complex rhythm at about 60 bpm with visible P waves, normal QRS duration, and no ST elevation or pathologic Q waves. Precordial R-wave voltages are somewhat prominent but don't clearly meet LVH criteria, and the limb-lead ST changes look like baseline wander.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Regular narrow-complex rhythm at about 60 bpm with visible P waves, normal QRS duration, and no ST elevation or pathologic Q waves. Precordial R-wave voltages are somewhat prominent but don't clearly meet LVH criteria, and the limb-lead ST changes look like baseline wander."
+ },
+ "time": "2026-10-18T01:36:53"
+}

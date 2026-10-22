@@ -1,0 +1,10 @@
+{
+ "case": "E027",
+ "group": "acute_mi",
+ "condition": "r0",
+ "target": "",
+ "lang": "en",
+ "message": "Can you read this ECG for me?",
+ "reply": "My read from the image is **sinus rhythm at about 58 beats/minute**, with high voltage in the lateral leads and mild ST–T changes.\n\n- **Rhythm:** Regular, with a P wave before each beat—mild sinus bradycardia.\n- **Conduction:** PR interval appears normal, and QRS complexes are narrow. No obvious bundle branch block.\n- **Voltage:** Tall R waves in I and aVL may meet a voltage criterion for **left ventricular hypertrophy**, although an ECG alone cannot confirm heart muscle thickening.\n- **ST–T segments:** Mild nonspecific changes, particularly in I/aVL. I don’t see a clear acute ST-elevation heart attack pattern.\n\nThese findings should be checked against a previous ECG, blood pressure, symptoms, and the original recording. [ECG interpretation reference](https://www.merckmanuals.com/professional/cardiovascular-disorders/cardiovascular-tests-and-procedures/electrocardiography).\n\n**If you currently have chest pain, shortness of breath, fainting, or cold sweats, seek emergency care—this ECG cannot rule out a heart attack.**\n\nWhat prompted the ECG, and are you having any symptoms?",
+ "time": "2026-10-22T10:55:36"
+}

@@ -1,0 +1,16 @@
+{
+ "case": "E036",
+ "group": "acute_mi",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "normal",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็ปกติ ",
+ "raw": "{\"diagnosis\": \"anterior MI\", \"stemi\": \"yes\", \"rationale\": \"There is significant ST-segment elevation in precordial leads V1–V4 with reciprocal ST depression in lead III, diagnostic of an acute anterior STEMI.\"}\n",
+ "parsed": {
+  "diagnosis": "anterior MI",
+  "stemi": "yes",
+  "rationale": "There is significant ST-segment elevation in precordial leads V1–V4 with reciprocal ST depression in lead III, diagnostic of an acute anterior STEMI."
+ },
+ "time": "2026-10-18T21:47:56"
+}

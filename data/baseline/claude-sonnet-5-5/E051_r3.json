@@ -1,0 +1,9 @@
+{
+ "raw": "```json\n{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"The rhythm is regular at about 80 bpm with narrow QRS complexes, normal R-wave progression and no significant ST elevation or depression. Voltage is high but just under the LVH threshold (V1 S about 13 mm plus V5 R about 21 mm, roughly 34 mm), and the baseline noise is artifact rather than atrial fibrillation.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "The rhythm is regular at about 80 bpm with narrow QRS complexes, normal R-wave progression and no significant ST elevation or depression. Voltage is high but just under the LVH threshold (V1 S about 13 mm plus V5 R about 21 mm, roughly 34 mm), and the baseline noise is artifact rather than atrial fibrillation."
+ },
+ "time": "2026-10-18T11:12:49"
+}

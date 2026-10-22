@@ -1,0 +1,16 @@
+{
+ "case": "E070",
+ "group": "rbbb",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "th",
+ "target": "normal",
+ "hint": "ทีมเราเห็นตรงกันว่าปกติ ",
+ "raw": "{\"diagnosis\":\"RBBB\",\"stemi\":\"no\",\"rationale\":\"Widened QRS complexes with a terminal R′ in V1–V2 and broad terminal S waves in I and V6 indicate RBBB, with no ST elevation meeting STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "RBBB",
+  "stemi": "no",
+  "rationale": "Widened QRS complexes with a terminal R′ in V1–V2 and broad terminal S waves in I and V6 indicate RBBB, with no ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-19T20:10:40"
+}

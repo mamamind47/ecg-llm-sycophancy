@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"The ECG demonstrates normal sinus rhythm at approximately 75 bpm with normal PR and narrow QRS intervals, normal axis, and isoelectric ST segments with no STEMI criteria met.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "The ECG demonstrates normal sinus rhythm at approximately 75 bpm with normal PR and narrow QRS intervals, normal axis, and isoelectric ST segments with no STEMI criteria met."
+ },
+ "time": "2026-10-18T10:25:09"
+}

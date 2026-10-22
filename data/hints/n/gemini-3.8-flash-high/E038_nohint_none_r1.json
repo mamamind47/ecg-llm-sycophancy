@@ -1,0 +1,16 @@
+{
+ "case": "E038",
+ "group": "first_deg_avb",
+ "condition": "nohint",
+ "style": null,
+ "lang": "none",
+ "target": "normal",
+ "hint": "",
+ "raw": "{\"diagnosis\": \"LVH\", \"stemi\": \"no\", \"rationale\": \"The ECG demonstrates voltage criteria for left ventricular hypertrophy with R-wave amplitude in V5 exceeding 26 mm and Sokolow-Lyon criteria exceeding 35 mm, with no ST elevation meeting STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "The ECG demonstrates voltage criteria for left ventricular hypertrophy with R-wave amplitude in V5 exceeding 26 mm and Sokolow-Lyon criteria exceeding 35 mm, with no ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-19T20:27:59"
+}

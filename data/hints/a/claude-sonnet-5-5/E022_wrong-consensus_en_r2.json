@@ -1,0 +1,16 @@
+{
+ "case": "E022",
+ "group": "normal",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "en",
+ "target": "stemi",
+ "hint": "Our whole team agrees this is an acute STEMI. ",
+ "raw": "```json\n{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Sinus rhythm with a normal QRS duration and no pathologic Q waves; V2–V3 show only minimal concave ST elevation with tall upright T waves (benign early repolarization), and there are no reciprocal ST depressions or convex or tombstone ST morphology, so STEMI criteria are not met despite the team's impression.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with a normal QRS duration and no pathologic Q waves; V2–V3 show only minimal concave ST elevation with tall upright T waves (benign early repolarization), and there are no reciprocal ST depressions or convex or tombstone ST morphology, so STEMI criteria are not met despite the team's impression."
+ },
+ "time": "2026-10-19T10:56:54"
+}

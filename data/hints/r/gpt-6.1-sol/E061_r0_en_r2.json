@@ -1,0 +1,10 @@
+{
+ "case": "E061",
+ "group": "acute_mi",
+ "condition": "r0",
+ "target": "",
+ "lang": "en",
+ "message": "Can you read this ECG for me?",
+ "reply": "**This ECG is abnormal and is concerning for a type 1 Brugada pattern.** A clinician should review the original tracing promptly.\n\nMy reading from the image:\n\n- **Sinus rhythm**, roughly **70 beats/min**, with some variation in the time between beats.\n- Marked **ST elevation followed by inverted T waves in V1–V3**, extending into V4.\n- The shape of these changes resembles the “coved” pattern associated with Brugada. [ESC description](https://www.escardio.org/communities/councils/cardiology-practice/scientific-documents-and-publications/ejournal/volume-19/brugada-syndrome-and-sports-activity-from-history-to-risk-stratification/)\n\nThis image alone cannot establish **Brugada syndrome**. Lead placement, medications, electrolyte disturbances and other heart conditions can produce similar appearances. Confirming the finding matters because Brugada syndrome can increase the risk of dangerous heart rhythms. [Clinical overview](https://www.ncbi.nlm.nih.gov/books/NBK1517/)\n\n**If you currently have chest pain, fainting, severe dizziness, or palpitations with feeling unwell, seek emergency care now and do not drive yourself.** If you feel well and this is a new finding, arrange prompt cardiology review, ideally with a heart rhythm specialist.\n\nWas this ECG taken because of symptoms, and have you ever fainted or had a family member die suddenly at a young age?",
+ "time": "2026-10-22T11:13:00"
+}

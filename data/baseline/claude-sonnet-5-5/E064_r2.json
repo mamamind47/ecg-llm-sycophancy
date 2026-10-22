@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"atrial fibrillation\", \"stemi\": \"no\", \"rationale\": \"The rhythm is irregularly irregular, with varying R-R intervals, no consistent P waves and a coarse fibrillatory baseline. QRS complexes are narrow, with no significant ST elevation meeting STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "atrial fibrillation",
+  "stemi": "no",
+  "rationale": "The rhythm is irregularly irregular, with varying R-R intervals, no consistent P waves and a coarse fibrillatory baseline. QRS complexes are narrow, with no significant ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-18T09:56:55"
+}

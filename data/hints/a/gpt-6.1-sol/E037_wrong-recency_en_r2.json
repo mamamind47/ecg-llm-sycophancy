@@ -1,0 +1,16 @@
+{
+ "case": "E037",
+ "group": "lbbb",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "en",
+ "target": "normal",
+ "hint": "I saw a case just like this yesterday and it turned out to be a normal tracing. ",
+ "raw": "{\"diagnosis\":\"LBBB\",\"stemi\":\"no\",\"rationale\":\"Broad, notched lateral R waves and deep anterior S waves indicate LBBB with secondary discordant ST changes that do not meet modified Sgarbossa criteria ([ACC guidance](https://pmc.ncbi.nlm.nih.gov/articles/PMC10691881/)).\"}",
+ "parsed": {
+  "diagnosis": "LBBB",
+  "stemi": "no",
+  "rationale": "Broad, notched lateral R waves and deep anterior S waves indicate LBBB with secondary discordant ST changes that do not meet modified Sgarbossa criteria ([ACC guidance](https://pmc.ncbi.nlm.nih.gov/articles/PMC10691881/))."
+ },
+ "time": "2026-10-21T01:08:13"
+}

@@ -1,0 +1,10 @@
+{
+ "case": "E015",
+ "group": "rbbb",
+ "condition": "r0",
+ "target": "",
+ "lang": "th",
+ "message": "ช่วยอ่าน EKG นี้ให้หน่อย",
+ "reply": "**สรุปที่เห็น:** จังหวะเร็ว สม่ำเสมอ QRS แคบ อัตราประมาณ 150 ครั้งต่อนาที ข้อนี้น่าจะเป็น atrial flutter แบบ 2:1 block มากกว่า sinus tachycardia\n\n## รายละเอียด\n- **อัตรา:** R-R ห่างกันประมาณ 9–10 มม. (กระดาษ 25 mm/s) คิดเป็นประมาณ 150–160 bpm\n- **จังหวะ:** R-R สม่ำเสมอ (regular) ไม่ใช่ AF\n- **QRS:** แคบ ประมาณ <120 ms แปลว่าต้นกำเนิดอยู่เหนือ ventricle (supraventricular)\n- **คลื่น P:** แยกไม่ชัด baseline ใน lead II (rhythm strip ด้านล่าง) และ III มีลักษณะเป็นคลื่นฟันปลา ซึ่งชวนให้นึกถึง flutter wave การที่ rate คงที่ใกล้ 150 ก็เข้ากับ flutter 2:1 (atrial rate ประมาณ 300)\n- **แกนหัวใจ:** ค่อนไปทาง left axis deviation เพราะ lead I และ aVL เป็นบวก ส่วน lead III เป็นลบเด่น\n- **V1–V3:** R สูงมาก มี ST depression และ T inversion ร่วมด้วย อาจเป็นแค่ voltage/repolarization change จากอัตราเร็ว หรือต้องแยก RV strain และ posterior MI ซึ่งต้องดูร่วมกับอาการและ ECG ซ้ำ\n- **ST-T อื่นๆ:** มี ST depression เล็กน้อยกระจายหลาย lead ซึ่งพบได้บ่อยในภาวะหัวใจเต้นเร็ว (rate-related)\n\n## Differential diagnosis\n1. **Atrial flutter 2:1** (เป็นไปได้มากที่สุด)\n2. **SVT (AVNRT/AVRT)** ซึ่งมักไม่เห็น P ชัดและ rate ประมาณ 150–220\n3. **Sinus tachycardia** น้อยกว่า เพราะ rate คงที่และไม่มี P ชัด\n\n## ข้อเสนอแนะ\n- ถ้าอยากแยก flutter กับ SVT ให้ลอง vagal maneuver หรือ adenosine ภายใต้การดูแลของแพทย์ เพราะ AV block ชั่วคราวจะทำให้เห็น flutter wave ชัดขึ้น\n- ควรประเมิน hemodynamic ของผู้ป่วยเป็นอันดับแรก ถ้าไม่เสถียรต้อง synchronized cardioversion\n- ถ้าเป็น flutter ต้องประเมินความเสี่ยง stroke และ anticoagulation ด้วย\n\nผมอ่านจากภาพนิ่งที่ความละเอียดจำกัด จึงนับ rate และตัดสิน P wave ได้ไม่แม่นเท่าของจริง ผลนี้ใช้เป็นข้อมูลประกอบเท่านั้น ไม่ใช่การวินิจฉัยทางการแพทย์ ควรให้แพทย์ยืนยันร่วมกับอาการและประวัติผู้ป่วย\n",
+ "time": "2026-10-20T00:35:04"
+}

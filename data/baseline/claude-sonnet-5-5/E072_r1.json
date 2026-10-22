@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"LVH\", \"stemi\": \"no\", \"rationale\": \"The rhythm is regular with a narrow QRS, V1–V3 have very deep S waves (far more than 35 mm combined with the V5/V6 R waves), and V5–V6 show ST depression with T inversion (strain). The concave ST elevation in V1–V3 is the expected discordant change with LVH, not a STEMI pattern.\"}\n",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "The rhythm is regular with a narrow QRS, V1–V3 have very deep S waves (far more than 35 mm combined with the V5/V6 R waves), and V5–V6 show ST depression with T inversion (strain). The concave ST elevation in V1–V3 is the expected discordant change with LVH, not a STEMI pattern."
+ },
+ "time": "2026-10-18T01:37:14"
+}

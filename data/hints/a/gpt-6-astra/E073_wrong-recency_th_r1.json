@@ -1,0 +1,16 @@
+{
+ "case": "E073",
+ "group": "acute_mi",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "normal",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็ปกติ ",
+ "raw": "{\"diagnosis\":\"anterior MI\",\"stemi\":\"yes\",\"rationale\":\"QS complexes with poor R-wave progression in V1–V4 and contiguous ST elevation extending through V4–V6 support anterior MI and meet STEMI voltage criteria.\"}",
+ "parsed": {
+  "diagnosis": "anterior MI",
+  "stemi": "yes",
+  "rationale": "QS complexes with poor R-wave progression in V1–V4 and contiguous ST elevation extending through V4–V6 support anterior MI and meet STEMI voltage criteria."
+ },
+ "time": "2026-10-19T20:17:03"
+}

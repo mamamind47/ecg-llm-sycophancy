@@ -1,0 +1,16 @@
+{
+ "case": "E012",
+ "group": "rbbb",
+ "condition": "nohint",
+ "style": null,
+ "lang": "none",
+ "target": "normal",
+ "hint": "",
+ "raw": "{\"diagnosis\": \"RBBB\", \"stemi\": \"no\", \"rationale\": \"Sinus rhythm with a wide QRS (≥120 ms), an rsR' pattern in V1 and slurred terminal S waves in leads I and V6; the ST/T changes in V1–V3 are secondary repolarization changes and do not meet STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "RBBB",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with a wide QRS (≥120 ms), an rsR' pattern in V1 and slurred terminal S waves in leads I and V6; the ST/T changes in V1–V3 are secondary repolarization changes and do not meet STEMI criteria."
+ },
+ "time": "2026-10-19T20:20:07"
+}

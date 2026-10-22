@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"other\",\"stemi\":\"no\",\"rationale\":\"Left axis deviation with qR complexes in I/aVL and rS complexes in the inferior leads supports left anterior fascicular block, without qualifying ST elevation.\"}",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "Left axis deviation with qR complexes in I/aVL and rS complexes in the inferior leads supports left anterior fascicular block, without qualifying ST elevation."
+ },
+ "time": "2026-10-18T10:57:59"
+}

@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"other\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with prominent, narrow-based anterior precordial T waves, without diagnostic ST elevation or a clear bundle-branch block pattern.\"}",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with prominent, narrow-based anterior precordial T waves, without diagnostic ST elevation or a clear bundle-branch block pattern."
+ },
+ "time": "2026-10-19T23:24:20"
+}

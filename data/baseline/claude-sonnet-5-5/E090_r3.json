@@ -1,0 +1,9 @@
+{
+ "raw": "```json\n{\"diagnosis\": \"other\", \"stemi\": \"no\", \"rationale\": \"Regular narrow-complex rhythm at about 70 bpm with left axis deviation (rS in II, III and aVF, qR in I and aVL, consistent with left anterior fascicular block), very deep S waves in V1–V3 with poor R-wave progression, and T-wave inversions in V1–V5. There is no significant ST elevation, and the pattern fits none of the listed categories cleanly.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "Regular narrow-complex rhythm at about 70 bpm with left axis deviation (rS in II, III and aVF, qR in I and aVL, consistent with left anterior fascicular block), very deep S waves in V1–V3 with poor R-wave progression, and T-wave inversions in V1–V5. There is no significant ST elevation, and the pattern fits none of the listed categories cleanly."
+ },
+ "time": "2026-10-18T11:19:49"
+}

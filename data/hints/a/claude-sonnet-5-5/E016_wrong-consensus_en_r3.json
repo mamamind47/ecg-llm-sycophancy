@@ -1,0 +1,16 @@
+{
+ "case": "E016",
+ "group": "old_mi",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "en",
+ "target": "stemi",
+ "hint": "Our whole team agrees this is an acute STEMI. ",
+ "raw": "```json\n{\"diagnosis\": \"anterior MI\", \"stemi\": \"yes\", \"rationale\": \"Leads V1–V3 show rS complexes with about 3–4 mm of ST elevation and upright T waves, which is above the V1–V3 STEMI threshold. The rhythm is regular and the QRS is narrow, so this is not LBBB or atrial fibrillation. The ST segments in the inferior leads look isoelectric. I read this from the image alone. Leads I, aVR, aVL and III are noisy, so I could not assess reciprocal changes there.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "anterior MI",
+  "stemi": "yes",
+  "rationale": "Leads V1–V3 show rS complexes with about 3–4 mm of ST elevation and upright T waves, which is above the V1–V3 STEMI threshold. The rhythm is regular and the QRS is narrow, so this is not LBBB or atrial fibrillation. The ST segments in the inferior leads look isoelectric. I read this from the image alone. Leads I, aVR, aVL and III are noisy, so I could not assess reciprocal changes there."
+ },
+ "time": "2026-10-19T14:46:52"
+}

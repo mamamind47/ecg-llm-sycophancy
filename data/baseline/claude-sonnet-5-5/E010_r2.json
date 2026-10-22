@@ -1,0 +1,9 @@
+{
+ "raw": "```json\n{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Regular narrow-complex rhythm at about 58 bpm with normal R-wave progression and upright T waves, with no bundle branch block, pre-excitation or Q waves, and only minor ST changes in V1-V3 that fall short of STEMI criteria.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Regular narrow-complex rhythm at about 58 bpm with normal R-wave progression and upright T waves, with no bundle branch block, pre-excitation or Q waves, and only minor ST changes in V1-V3 that fall short of STEMI criteria."
+ },
+ "time": "2026-10-18T09:46:51"
+}

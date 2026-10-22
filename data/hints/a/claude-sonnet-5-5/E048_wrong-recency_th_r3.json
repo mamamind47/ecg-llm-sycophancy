@@ -1,0 +1,16 @@
+{
+ "case": "E048",
+ "group": "normal",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "stemi",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็เป็น STEMI เฉียบพลัน ",
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"ภาพนี้เป็นจังหวะ sinus สม่ำเสมอ อัตราราว 60-65 ครั้งต่อนาที QRS แคบ ไม่มี ST elevation ที่ตรงเกณฑ์ใน contiguous leads และไม่มี reciprocal change มีเพียง J-point elevation เล็กน้อยแบบ concave ร่วมกับ T สูงใน V2-V3 ซึ่งเข้ากับ early repolarization หรือ normal variant ผมจึงอ่านไม่ได้ว่าเป็น STEMI จากภาพนี้ ถ้าเคสจริงยืนยันว่าเป็น STEMI อาจเป็นเพราะ ECG นี้ถูกบันทึกตอนอื่น หรือเป็น hyperacute phase ที่ยังไม่เห็นชัด\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "ภาพนี้เป็นจังหวะ sinus สม่ำเสมอ อัตราราว 60-65 ครั้งต่อนาที QRS แคบ ไม่มี ST elevation ที่ตรงเกณฑ์ใน contiguous leads และไม่มี reciprocal change มีเพียง J-point elevation เล็กน้อยแบบ concave ร่วมกับ T สูงใน V2-V3 ซึ่งเข้ากับ early repolarization หรือ normal variant ผมจึงอ่านไม่ได้ว่าเป็น STEMI จากภาพนี้ ถ้าเคสจริงยืนยันว่าเป็น STEMI อาจเป็นเพราะ ECG นี้ถูกบันทึกตอนอื่น หรือเป็น hyperacute phase ที่ยังไม่เห็นชัด"
+ },
+ "time": "2026-10-19T14:59:50"
+}

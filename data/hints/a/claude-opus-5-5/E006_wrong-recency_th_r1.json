@@ -1,0 +1,16 @@
+{
+ "case": "E006",
+ "group": "normal",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "stemi",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็เป็น STEMI เฉียบพลัน ",
+ "raw": "```json\n{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"This tracing shows sinus rhythm at about 55–60 bpm with normal PR and narrow QRS, no pathological Q waves, and no ST elevation that meets STEMI criteria in contiguous leads (only a normal small J-point rise in V2–V3), so although your patient was later found to have a STEMI, it is not visible here; if this was the first ECG, early or evolving ischemia needs serial ECGs every 15–30 minutes, posterior/right leads, and troponin.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "This tracing shows sinus rhythm at about 55–60 bpm with normal PR and narrow QRS, no pathological Q waves, and no ST elevation that meets STEMI criteria in contiguous leads (only a normal small J-point rise in V2–V3), so although your patient was later found to have a STEMI, it is not visible here; if this was the first ECG, early or evolving ischemia needs serial ECGs every 15–30 minutes, posterior/right leads, and troponin."
+ },
+ "time": "2026-10-18T18:06:19"
+}

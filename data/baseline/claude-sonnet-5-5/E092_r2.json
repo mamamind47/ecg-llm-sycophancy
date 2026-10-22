@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"LVH\", \"stemi\": \"no\", \"rationale\": \"Tall R waves in aVL (about 13 mm), V5 and V6 with downsloping ST depression and T-wave flattening in V4-V6 (strain pattern) and left axis deviation suggest LVH, with no ST elevation in contiguous leads.\"}\n",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "Tall R waves in aVL (about 13 mm), V5 and V6 with downsloping ST depression and T-wave flattening in V4-V6 (strain pattern) and left axis deviation suggest LVH, with no ST elevation in contiguous leads."
+ },
+ "time": "2026-10-18T10:02:03"
+}

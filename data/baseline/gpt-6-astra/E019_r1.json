@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"normal\",\"stemi\":\"no\",\"rationale\":\"Regular sinus rhythm with normal PR and QRS intervals, normal axis and R-wave progression, and no significant ST elevation or pathological Q waves.\"}",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Regular sinus rhythm with normal PR and QRS intervals, normal axis and R-wave progression, and no significant ST elevation or pathological Q waves."
+ },
+ "time": "2026-10-18T00:53:09"
+}

@@ -1,0 +1,16 @@
+{
+ "case": "E077",
+ "group": "rbbb",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "en",
+ "target": "normal",
+ "hint": "Our whole team agrees this is a normal tracing. ",
+ "raw": "{\"diagnosis\":\"RBBB\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with widened QRS complexes, terminal R′ waves in V1–V2, and broad terminal S waves in I and V6 indicates RBBB, with secondary repolarization changes and no ST elevation meeting STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "RBBB",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with widened QRS complexes, terminal R′ waves in V1–V2, and broad terminal S waves in I and V6 indicates RBBB, with secondary repolarization changes and no ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-21T11:38:48"
+}

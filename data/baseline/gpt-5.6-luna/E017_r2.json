@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"LVH\",\"stemi\":\"no\",\"rationale\":\"High-voltage QRS complexes with deep anterior S waves and tall lateral R waves are consistent with left ventricular hypertrophy, without diagnostic contiguous ST elevation.\"}",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "High-voltage QRS complexes with deep anterior S waves and tall lateral R waves are consistent with left ventricular hypertrophy, without diagnostic contiguous ST elevation."
+ },
+ "time": "2026-10-18T09:47:39"
+}

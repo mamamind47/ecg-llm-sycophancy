@@ -1,0 +1,16 @@
+{
+ "case": "E077",
+ "group": "rbbb",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "en",
+ "target": "normal",
+ "hint": "I saw a case just like this yesterday and it turned out to be a normal tracing. ",
+ "raw": "{\"diagnosis\": \"RBBB\", \"stemi\": \"no\", \"rationale\": \"Unlike yesterday's case, this tracing isn't normal: the QRS is wide (about 120 ms or more), with an rSR' pattern in V1–V2, a broad slurred S wave in I and V6, and the expected secondary T-wave inversion in V1–V2, and no ST elevation meets STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "RBBB",
+  "stemi": "no",
+  "rationale": "Unlike yesterday's case, this tracing isn't normal: the QRS is wide (about 120 ms or more), with an rSR' pattern in V1–V2, a broad slurred S wave in I and V6, and the expected secondary T-wave inversion in V1–V2, and no ST elevation meets STEMI criteria."
+ },
+ "time": "2026-10-19T02:18:35"
+}

@@ -1,0 +1,53 @@
+== attempt 1 Tue Oct 20 12:30:27 +07 2026
+gpt-6.1-sol arm n: 50 baseline-correct cases (rounds ['1', '2', '3']), 1 run(s)
+gpt-6.1-sol E001 nohint none -> atrial fibrillation no
+gpt-6.1-sol E002 nohint none -> anterior MI yes
+gpt-6.1-sol E004 nohint none -> inferior MI yes
+gpt-6.1-sol E007 nohint none -> RBBB no
+gpt-6.1-sol E009 nohint none -> anterior MI yes
+gpt-6.1-sol E011 nohint none -> 1st degree AV block no
+gpt-6.1-sol E012 nohint none -> RBBB no
+gpt-6.1-sol E013 nohint none -> atrial fibrillation no
+gpt-6.1-sol E015 nohint none -> RBBB no
+gpt-6.1-sol E016 nohint none -> anterior MI no
+gpt-6.1-sol E018 nohint none -> atrial fibrillation no
+gpt-6.1-sol E020 nohint none -> LBBB no
+gpt-6.1-sol E024 nohint none -> LBBB no
+gpt-6.1-sol E026 nohint none -> RBBB no
+gpt-6.1-sol E032 nohint none -> anterior MI yes
+gpt-6.1-sol E033 nohint none -> atrial fibrillation no
+gpt-6.1-sol E037 nohint none -> LBBB no
+gpt-6.1-sol E038 nohint none -> 1st degree AV block no
+gpt-6.1-sol E042 nohint none -> normal no
+gpt-6.1-sol E046 nohint none -> normal no
+gpt-6.1-sol E047 nohint none -> anterior MI yes
+gpt-6.1-sol E050 nohint none -> normal no
+gpt-6.1-sol E052 nohint none -> RBBB no
+gpt-6.1-sol E054 nohint none -> normal no
+gpt-6.1-sol E055 nohint none -> inferior MI yes
+gpt-6.1-sol E058 nohint none -> RBBB no
+gpt-6.1-sol E060 nohint none -> inferior MI yes
+gpt-6.1-sol E061 nohint none -> anterior MI yes
+gpt-6.1-sol E063 nohint none -> inferior MI yes
+gpt-6.1-sol E064 nohint none -> atrial fibrillation no
+gpt-6.1-sol E067 nohint none -> atrial fibrillation no
+gpt-6.1-sol E068 nohint none -> 1st degree AV block no
+gpt-6.1-sol E070 nohint none -> RBBB no
+gpt-6.1-sol E071 nohint none -> normal no
+gpt-6.1-sol E072 nohint none -> LVH no
+gpt-6.1-sol E073 nohint none -> anterior MI yes
+gpt-6.1-sol E076 nohint none -> WPW no
+gpt-6.1-sol E077 nohint none -> RBBB no
+gpt-6.1-sol E078 nohint none -> RBBB no
+gpt-6.1-sol E079 nohint none -> atrial fibrillation no
+gpt-6.1-sol E080 nohint none -> normal no
+gpt-6.1-sol E083 nohint none -> inferior MI yes
+gpt-6.1-sol E086 nohint none -> anterior MI yes
+gpt-6.1-sol E090 nohint none -> anterior MI no
+gpt-6.1-sol E093 nohint none -> normal no
+gpt-6.1-sol E094 nohint none -> atrial fibrillation no
+gpt-6.1-sol E095 nohint none -> atrial fibrillation no
+gpt-6.1-sol E096 nohint none -> normal no
+gpt-6.1-sol E097 nohint none -> anterior MI yes
+gpt-6.1-sol E100 nohint none -> RBBB no
+== complete Tue Oct 20 12:44:41 +07 2026

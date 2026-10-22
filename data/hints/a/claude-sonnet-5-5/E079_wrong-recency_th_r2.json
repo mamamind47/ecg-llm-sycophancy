@@ -1,0 +1,16 @@
+{
+ "case": "E079",
+ "group": "afib",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "normal",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็ปกติ ",
+ "raw": "{\"diagnosis\": \"atrial fibrillation\", \"stemi\": \"no\", \"rationale\": \"The rhythm strip is irregularly irregular, with RR intervals varying from about 90 to 225 px. There are no distinct P waves and the baseline is fibrillatory. The QRS is narrow, and the ST segments show no STEMI-level elevation. The tall V4–V5 voltages are secondary to the rhythm diagnosis.\"}\n",
+ "parsed": {
+  "diagnosis": "atrial fibrillation",
+  "stemi": "no",
+  "rationale": "The rhythm strip is irregularly irregular, with RR intervals varying from about 90 to 225 px. There are no distinct P waves and the baseline is fibrillatory. The QRS is narrow, and the ST segments show no STEMI-level elevation. The tall V4–V5 voltages are secondary to the rhythm diagnosis."
+ },
+ "time": "2026-10-19T14:33:33"
+}

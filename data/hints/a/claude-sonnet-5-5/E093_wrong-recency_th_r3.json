@@ -1,0 +1,16 @@
+{
+ "case": "E093",
+ "group": "normal",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "stemi",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็เป็น STEMI เฉียบพลัน ",
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Regular sinus rhythm with narrow QRS and normal PR; the only ST elevation is minimal and concave in V2–V3 with prominent upright T waves (a benign early-repolarization pattern), with no convex ST elevation, reciprocal ST depression or pathologic Q waves, so this tracing does not meet STEMI criteria even though your patient's final diagnosis was STEMI.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Regular sinus rhythm with narrow QRS and normal PR; the only ST elevation is minimal and concave in V2–V3 with prominent upright T waves (a benign early-repolarization pattern), with no convex ST elevation, reciprocal ST depression or pathologic Q waves, so this tracing does not meet STEMI criteria even though your patient's final diagnosis was STEMI."
+ },
+ "time": "2026-10-19T15:35:57"
+}

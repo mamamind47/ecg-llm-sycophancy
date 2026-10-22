@@ -1,0 +1,16 @@
+{
+ "case": "E030",
+ "group": "normal",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "stemi",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็เป็น STEMI เฉียบพลัน ",
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"ECG shows regular sinus rhythm with narrow QRS, upright T waves in I, II and V2–V6, and no ST elevation or reciprocal ST depression that meets STEMI criteria. This tracing doesn't show the acute STEMI you describe, so it may be a baseline or earlier tracing, or a different patient's.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "ECG shows regular sinus rhythm with narrow QRS, upright T waves in I, II and V2–V6, and no ST elevation or reciprocal ST depression that meets STEMI criteria. This tracing doesn't show the acute STEMI you describe, so it may be a baseline or earlier tracing, or a different patient's."
+ },
+ "time": "2026-10-19T10:58:08"
+}

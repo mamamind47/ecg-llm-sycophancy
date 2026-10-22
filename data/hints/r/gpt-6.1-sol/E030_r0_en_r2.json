@@ -1,0 +1,10 @@
+{
+ "case": "E030",
+ "group": "normal",
+ "condition": "r0",
+ "target": "",
+ "lang": "en",
+ "message": "Can you read this ECG for me?",
+ "reply": "**My preliminary read is sinus bradycardia—a regular rhythm at about 50 beats/minute—with no obvious acute heart-attack pattern.** An image alone cannot rule out a heart problem.\n\n- **Rhythm:** A normal-looking P wave precedes each QRS, consistent with sinus rhythm.\n- **Axis and conduction:** Normal axis; PR approximately 160 ms and QRS approximately 80–90 ms. No obvious heart block or bundle branch block.\n- **QT:** Does not appear prolonged after correcting for the slow heart rate.\n- **ST/T waves:** Slight upward ST–T contour in the anterior chest leads, which may represent a normal repolarization variant. No convincing reciprocal ST depression or concerning T-wave inversion.\n- **Voltage:** Prominent chest-lead complexes, but I would not diagnose an enlarged heart muscle from this tracing alone. [ECG voltage criteria](https://www.merckmanuals.com/professional/multimedia/table/criteria-for-ecg-diagnosis-of-left-ventricular-hypertrophy)\n\nA rate near 50 can be normal during rest or in physically fit people; symptoms and medications matter. **If you currently have chest pain, shortness of breath, fainting, or significant dizziness, seek urgent medical care regardless of this interpretation.**\n\nHow old is the person, why was the ECG taken, and were there any symptoms?",
+ "time": "2026-10-22T10:58:05"
+}

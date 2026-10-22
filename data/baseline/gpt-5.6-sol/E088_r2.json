@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"LBBB\",\"stemi\":\"no\",\"rationale\":\"Broad QRS complexes with dominant QS waves in V1–V3 and broad dominant R waves in the lateral leads are consistent with LBBB, without concordant or excessively discordant ST elevation meeting STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "LBBB",
+  "stemi": "no",
+  "rationale": "Broad QRS complexes with dominant QS waves in V1–V3 and broad dominant R waves in the lateral leads are consistent with LBBB, without concordant or excessively discordant ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-18T09:59:52"
+}

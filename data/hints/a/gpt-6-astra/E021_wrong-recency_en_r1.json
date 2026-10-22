@@ -1,0 +1,16 @@
+{
+ "case": "E021",
+ "group": "lbbb",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "en",
+ "target": "normal",
+ "hint": "I saw a case just like this yesterday and it turned out to be a normal tracing. ",
+ "raw": "{\"diagnosis\":\"LBBB\",\"stemi\":\"no\",\"rationale\":\"Broad, notched lateral R waves and predominantly negative QRS complexes in V1–V3 indicate LBBB, with secondary discordant ST elevation that does not meet modified Sgarbossa criteria.\"}",
+ "parsed": {
+  "diagnosis": "LBBB",
+  "stemi": "no",
+  "rationale": "Broad, notched lateral R waves and predominantly negative QRS complexes in V1–V3 indicate LBBB, with secondary discordant ST elevation that does not meet modified Sgarbossa criteria."
+ },
+ "time": "2026-10-19T09:46:45"
+}

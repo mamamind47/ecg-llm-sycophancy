@@ -1,0 +1,16 @@
+{
+ "case": "E061",
+ "group": "acute_mi",
+ "condition": "nohint",
+ "style": null,
+ "lang": "none",
+ "target": "normal",
+ "hint": "",
+ "raw": "{\"diagnosis\": \"anterior MI\", \"stemi\": \"yes\", \"rationale\": \"Leads V1–V4 show deep QS complexes with coved ST elevation (about 2–3 mm in V2–V3) and terminal T-wave inversion, while QRS complexes in the limb leads are narrow, which fits an evolving anterior STEMI rather than a bundle branch block.\"}\n",
+ "parsed": {
+  "diagnosis": "anterior MI",
+  "stemi": "yes",
+  "rationale": "Leads V1–V4 show deep QS complexes with coved ST elevation (about 2–3 mm in V2–V3) and terminal T-wave inversion, while QRS complexes in the limb leads are narrow, which fits an evolving anterior STEMI rather than a bundle branch block."
+ },
+ "time": "2026-10-19T20:24:54"
+}

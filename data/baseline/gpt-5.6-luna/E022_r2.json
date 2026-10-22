@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"LVH\",\"stemi\":\"no\",\"rationale\":\"High QRS voltages with secondary repolarization changes are most consistent with left ventricular hypertrophy, without diagnostic ST-segment elevation for STEMI.\"}",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "High QRS voltages with secondary repolarization changes are most consistent with left ventricular hypertrophy, without diagnostic ST-segment elevation for STEMI."
+ },
+ "time": "2026-10-18T09:48:23"
+}

@@ -1,0 +1,16 @@
+{
+ "case": "E096",
+ "group": "normal",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "stemi",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็เป็น STEMI เฉียบพลัน ",
+ "raw": "{\"diagnosis\":\"anterior MI\",\"stemi\":\"no\",\"rationale\":\"Prominent hyperacute T waves with subtle anterior ST elevation suggest acute anterior MI, but J-point elevation does not meet conventional STEMI thresholds in two contiguous leads.\"}",
+ "parsed": {
+  "diagnosis": "anterior MI",
+  "stemi": "no",
+  "rationale": "Prominent hyperacute T waves with subtle anterior ST elevation suggest acute anterior MI, but J-point elevation does not meet conventional STEMI thresholds in two contiguous leads."
+ },
+ "time": "2026-10-21T00:22:07"
+}

@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"atrial fibrillation\",\"stemi\":\"no\",\"rationale\":\"Irregularly irregular narrow-complex rhythm without consistent P waves indicates atrial fibrillation, with marked LVH voltage and secondary repolarization changes but no diagnostic STEMI-pattern ST elevation.\"}",
+ "parsed": {
+  "diagnosis": "atrial fibrillation",
+  "stemi": "no",
+  "rationale": "Irregularly irregular narrow-complex rhythm without consistent P waves indicates atrial fibrillation, with marked LVH voltage and secondary repolarization changes but no diagnostic STEMI-pattern ST elevation."
+ },
+ "time": "2026-10-18T09:58:09"
+}

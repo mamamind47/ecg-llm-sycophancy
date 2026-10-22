@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"RBBB\",\"stemi\":\"no\",\"rationale\":\"The ECG shows an rSR′ pattern in the right precordial leads with broad terminal S waves in lateral leads and secondary repolarization changes, without ST elevation meeting STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "RBBB",
+  "stemi": "no",
+  "rationale": "The ECG shows an rSR′ pattern in the right precordial leads with broad terminal S waves in lateral leads and secondary repolarization changes, without ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-18T01:04:20"
+}

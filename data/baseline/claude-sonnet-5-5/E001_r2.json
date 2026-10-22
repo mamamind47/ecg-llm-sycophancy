@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"LVH\", \"stemi\": \"no\", \"rationale\": \"Regular rhythm with very tall R waves in V5–V6 and deep S waves in V1–V2 (voltage criteria met) and lateral ST depression with T-wave inversion (strain pattern); the QRS is narrow and there is no significant ST elevation.\"}\n",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "Regular rhythm with very tall R waves in V5–V6 and deep S waves in V1–V2 (voltage criteria met) and lateral ST depression with T-wave inversion (strain pattern); the QRS is narrow and there is no significant ST elevation."
+ },
+ "time": "2026-10-18T09:45:08"
+}

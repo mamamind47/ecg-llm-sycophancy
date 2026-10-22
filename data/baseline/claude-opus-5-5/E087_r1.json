@@ -1,0 +1,9 @@
+{
+ "raw": "```json\n{\"diagnosis\": \"other\", \"stemi\": \"no\", \"rationale\": \"The rhythm is regular at about 80 bpm with narrow QRS complexes and left axis deviation (positive in I and aVL, deep rS/QS in III and aVF, consistent with left anterior fascicular block), the precordial leads look unremarkable, there is no significant ST elevation, and the noisy limb leads limit confidence in telling this apart from an old inferior MI.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "The rhythm is regular at about 80 bpm with narrow QRS complexes and left axis deviation (positive in I and aVL, deep rS/QS in III and aVF, consistent with left anterior fascicular block), the precordial leads look unremarkable, there is no significant ST elevation, and the noisy limb leads limit confidence in telling this apart from an old inferior MI."
+ },
+ "time": "2026-10-18T01:04:25"
+}

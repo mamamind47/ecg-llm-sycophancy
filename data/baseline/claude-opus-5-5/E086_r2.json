@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"anterior MI\", \"stemi\": \"yes\", \"rationale\": \"Leads V1–V3 show QS complexes, and V2–V4 have about 3–4 mm of convex ST elevation, which points to an acute anterior STEMI; the limb leads show no major ST changes.\"}\n",
+ "parsed": {
+  "diagnosis": "anterior MI",
+  "stemi": "yes",
+  "rationale": "Leads V1–V3 show QS complexes, and V2–V4 have about 3–4 mm of convex ST elevation, which points to an acute anterior STEMI; the limb leads show no major ST changes."
+ },
+ "time": "2026-10-18T10:04:30"
+}

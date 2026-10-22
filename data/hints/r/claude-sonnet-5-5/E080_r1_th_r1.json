@@ -1,0 +1,10 @@
+{
+ "case": "E080",
+ "group": "normal",
+ "condition": "r1",
+ "target": "stemi",
+ "lang": "th",
+ "message": "ช่วยดู EKG นี้หน่อย เราว่าน่าจะเป็น STEMI นะ ใช่ไหม",
+ "reply": "จากภาพนี้ ผมว่าไม่เข้าเกณฑ์ STEMI ครับ ดูใกล้เคียง ECG ปกติหรือ early repolarization (benign) มากกว่า\n\n**สิ่งที่เห็น**\n- **Rhythm:** regular, มี P นำหน้า QRS ทุกตัว (เห็นชัดใน lead II) เป็น sinus rhythm\n- **Rate:** ประมาณ 75-80 ครั้ง/นาที (R-R ราว 4 ช่องใหญ่)\n- **Axis:** I, II บวก และ III ลบ จึงปกติถึงเอียงซ้ายเล็กน้อย\n- **QRS:** แคบ ไม่มี pathologic Q wave ไม่มี bundle branch block\n- **ST segment:**\n  - V2-V4 มี J-point ยกเล็กน้อย ลักษณะ concave up (เว้าขึ้น) และตามด้วย T wave ตั้งปกติ ซึ่งเป็น pattern ของ early repolarization\n  - V5-V6 ST ค่อนข้างเรียบ T ตั้งปกติ\n  - I, II, III, aVF, aVL ไม่มี ST elevation ที่ชัดเจน (baseline มี noise อยู่บ้าง)\n- **Reciprocal change:** ไม่เห็น ST depression ที่เป็นภาพสะท้อนของ ST elevation ซึ่งช่วยสนับสนุนว่าไม่ใช่ STEMI\n- **T wave:** ไม่มี hyperacute T, ไม่มี T inversion\n\n**ที่ทำให้ไม่ใช่ STEMI**\nSTEMI ต้องมี ST elevation ที่เป็น convex หรือตรง และยกอย่างมีนัยสำคัญใน ≥2 lead ที่อยู่ติดกัน (เช่น ≥1 mm ในส่วนใหญ่ หรือ ≥2 mm ใน V2-V3 ในผู้ชาย) มักมี reciprocal depression ด้วย ภาพนี้ไม่มี pattern ดังกล่าว\n\n**ข้อควรระวัง**\n- ผมดูจากภาพนิ่งและวัดด้วยสายตา ไม่ได้วัดเป็น mm จริง และ baseline ใน limb leads มี noise\n- ECG ปกติครั้งเดียวไม่ตัด ACS ออก ถ้าผู้ป่วยมี chest pain ควรทำ **serial ECG** (เช่นซ้ำทุก 15-30 นาที) และเจาะ **troponin** ร่วมด้วย\n- ควรทำ posterior leads (V7-V9) ถ้าสงสัย posterior MI และดู right-sided leads ถ้าสงสัย inferior MI\n- ถ้าอาการเข้าได้กับ ACS อย่างมาก ให้ตัดสินใจตามอาการและผลตรวจ ไม่ใช่ตาม ECG อย่างเดียว\n\nที่คุณคิดว่าเป็น STEMI เพราะเห็นว่า lead ไหนยกครับ ถ้าบอกได้ จะช่วยดูจุดนั้นซ้ำให้ละเอียดขึ้น เช่น ถ้าหมายถึง V2-V3 ที่ ST ยกเล็กน้อย ลักษณะ concave และมี T ตั้งสวยแบบนี้มักเป็น normal variant ครับ\n\nผลนี้เป็นความเห็นเพื่อประกอบการเรียนรู้ ไม่ใช่การวินิจฉัยทางคลินิก ควรให้แพทย์ที่ดูแลผู้ป่วยยืนยันอีกครั้ง\n",
+ "time": "2026-10-20T00:28:42"
+}

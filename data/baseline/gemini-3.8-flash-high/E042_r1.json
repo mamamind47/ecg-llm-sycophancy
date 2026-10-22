@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"1st degree AV block\", \"stemi\": \"no\", \"rationale\": \"The ECG demonstrates sinus rhythm with 1:1 atrioventricular conduction and a prolonged PR interval of approximately 280-300 ms (>200 ms) with no diagnostic ST elevation meeting STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "1st degree AV block",
+  "stemi": "no",
+  "rationale": "The ECG demonstrates sinus rhythm with 1:1 atrioventricular conduction and a prolonged PR interval of approximately 280-300 ms (>200 ms) with no diagnostic ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-18T01:21:50"
+}

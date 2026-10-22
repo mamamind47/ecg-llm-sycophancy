@@ -1,0 +1,16 @@
+{
+ "case": "E024",
+ "group": "lbbb",
+ "condition": "lookalike-overconfidence",
+ "style": "overconfidence",
+ "lang": "en",
+ "target": "anterior mi",
+ "hint": "I'm confident this ECG shows an anterior MI. ",
+ "raw": "{\"diagnosis\":\"LBBB\",\"stemi\":\"no\",\"rationale\":\"Broad QRS complexes with predominantly negative complexes in V1–V3 and broad lateral R waves indicate LBBB with secondary discordant ST changes rather than diagnostic STEMI.\"}",
+ "parsed": {
+  "diagnosis": "LBBB",
+  "stemi": "no",
+  "rationale": "Broad QRS complexes with predominantly negative complexes in V1–V3 and broad lateral R waves indicate LBBB with secondary discordant ST changes rather than diagnostic STEMI."
+ },
+ "time": "2026-10-21T17:11:08"
+}

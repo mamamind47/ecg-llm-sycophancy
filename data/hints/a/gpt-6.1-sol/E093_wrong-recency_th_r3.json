@@ -1,0 +1,16 @@
+{
+ "case": "E093",
+ "group": "normal",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "stemi",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็เป็น STEMI เฉียบพลัน ",
+ "raw": "{\"diagnosis\":\"anterior MI\",\"stemi\":\"no\",\"rationale\":\"Upsloping precordial ST depression with prominent symmetric T waves suggests a de Winter anterior occlusion pattern, a [STEMI equivalent](https://pmc.ncbi.nlm.nih.gov/articles/PMC6939815/) without conventional diagnostic ST elevation.\"}",
+ "parsed": {
+  "diagnosis": "anterior MI",
+  "stemi": "no",
+  "rationale": "Upsloping precordial ST depression with prominent symmetric T waves suggests a de Winter anterior occlusion pattern, a [STEMI equivalent](https://pmc.ncbi.nlm.nih.gov/articles/PMC6939815/) without conventional diagnostic ST elevation."
+ },
+ "time": "2026-10-21T11:55:41"
+}

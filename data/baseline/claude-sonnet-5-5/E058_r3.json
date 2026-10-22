@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"RBBB\", \"stemi\": \"no\", \"rationale\": \"The rhythm is regular, and V1-V3 show broad, notched rsR'/RSR'-type complexes with secondary ST-T changes and slurred terminal S waves in the lateral leads, which fits right bundle branch block. There is no ST elevation that meets STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "RBBB",
+  "stemi": "no",
+  "rationale": "The rhythm is regular, and V1-V3 show broad, notched rsR'/RSR'-type complexes with secondary ST-T changes and slurred terminal S waves in the lateral leads, which fits right bundle branch block. There is no ST elevation that meets STEMI criteria."
+ },
+ "time": "2026-10-18T11:14:00"
+}

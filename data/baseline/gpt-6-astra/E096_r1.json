@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"normal\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with normal intervals and narrow QRS complexes; mild concave anterior ST elevation is consistent with early repolarization and does not meet STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with normal intervals and narrow QRS complexes; mild concave anterior ST elevation is consistent with early repolarization and does not meet STEMI criteria."
+ },
+ "time": "2026-10-18T06:00:09"
+}

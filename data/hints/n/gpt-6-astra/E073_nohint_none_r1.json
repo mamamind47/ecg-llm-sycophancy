@@ -1,0 +1,16 @@
+{
+ "case": "E073",
+ "group": "acute_mi",
+ "condition": "nohint",
+ "style": null,
+ "lang": "none",
+ "target": "normal",
+ "hint": "",
+ "raw": "{\"diagnosis\":\"anterior MI\",\"stemi\":\"yes\",\"rationale\":\"QS complexes with loss of anterior R-wave progression and ST elevation in contiguous anterior precordial leads, including V3–V5, indicate anterior MI meeting STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "anterior MI",
+  "stemi": "yes",
+  "rationale": "QS complexes with loss of anterior R-wave progression and ST elevation in contiguous anterior precordial leads, including V3–V5, indicate anterior MI meeting STEMI criteria."
+ },
+ "time": "2026-10-20T13:48:28"
+}

@@ -1,0 +1,16 @@
+{
+ "case": "E095",
+ "group": "afib",
+ "condition": "nohint",
+ "style": null,
+ "lang": "none",
+ "target": "normal",
+ "hint": "",
+ "raw": "{\"diagnosis\":\"atrial fibrillation\",\"stemi\":\"no\",\"rationale\":\"Irregularly irregular R–R intervals with absent discrete P waves and fibrillatory baseline activity indicate atrial fibrillation, with no ST elevation meeting STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "atrial fibrillation",
+  "stemi": "no",
+  "rationale": "Irregularly irregular R–R intervals with absent discrete P waves and fibrillatory baseline activity indicate atrial fibrillation, with no ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-20T12:43:49"
+}

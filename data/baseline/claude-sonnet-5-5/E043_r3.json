@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Regular narrow-complex sinus bradycardia at about 40 bpm with normal axis, normal QRS width and no pathological Q waves, conduction block, pre-excitation or LVH voltage criteria, and only minimal early-repolarization-type ST changes that do not meet STEMI thresholds.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Regular narrow-complex sinus bradycardia at about 40 bpm with normal axis, normal QRS width and no pathological Q waves, conduction block, pre-excitation or LVH voltage criteria, and only minimal early-repolarization-type ST changes that do not meet STEMI thresholds."
+ },
+ "time": "2026-10-18T11:11:13"
+}

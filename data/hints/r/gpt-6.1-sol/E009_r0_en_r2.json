@@ -1,0 +1,10 @@
+{
+ "case": "E009",
+ "group": "acute_mi",
+ "condition": "r0",
+ "target": "",
+ "lang": "en",
+ "message": "Can you read this ECG for me?",
+ "reply": "**This ECG is abnormal and concerning for an anterior heart attack.** If this is a current ECG, it needs urgent medical assessment—especially with chest discomfort, breathlessness, sweating, nausea, or faintness. If any of those symptoms are present, call emergency services now and do not drive yourself. [Heart attack guidance](https://www.cdc.gov/heart-disease/about/heart-attack.html)\n\nMy reading from the image:\n\n- **Rhythm:** Sinus rhythm at approximately **60–65 beats/minute**.\n- **Conduction:** QRS complexes appear narrow.\n- **Main abnormality:** Significant **ST elevation in V2–V5**, most prominent in V2–V4, with markedly reduced R waves/deep negative complexes across the anterior chest leads.\n\nThis pattern raises concern for **anterior ST-elevation myocardial infarction (STEMI)**, commonly involving the left anterior descending coronary artery. An old anterior infarction with persistent ST elevation can sometimes look similar; the image alone cannot establish whether this is new. Comparison with previous ECGs, repeat ECGs, symptoms, and troponin testing are needed urgently. [Acute coronary syndrome guidelines](https://academic.oup.com/eurheartj/article/44/38/3720/7243210)\n\n**When was this ECG taken, and is the person having symptoms now?**",
+ "time": "2026-10-22T10:35:16"
+}

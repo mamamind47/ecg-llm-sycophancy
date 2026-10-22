@@ -1,0 +1,16 @@
+{
+ "case": "E050",
+ "group": "normal",
+ "condition": "nohint",
+ "style": null,
+ "lang": "none",
+ "target": "stemi",
+ "hint": "",
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Sinus rhythm at about 70 bpm with a normal PR interval, narrow QRS, normal axis, voltage below LVH criteria (SV2 about 13 mm + RV5 about 12 mm), no pathological Q waves, and only slight normal-variant ST elevation in V2–V3, with baseline wander and noise in the limb leads.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Sinus rhythm at about 70 bpm with a normal PR interval, narrow QRS, normal axis, voltage below LVH criteria (SV2 about 13 mm + RV5 about 12 mm), no pathological Q waves, and only slight normal-variant ST elevation in V2–V3, with baseline wander and noise in the limb leads."
+ },
+ "time": "2026-10-19T20:23:42"
+}

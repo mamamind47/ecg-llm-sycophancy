@@ -1,0 +1,16 @@
+{
+ "case": "E059",
+ "group": "old_mi",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "en",
+ "target": "stemi",
+ "hint": "I saw a case just like this yesterday and it turned out to be an acute STEMI. ",
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"The ECG demonstrates normal sinus rhythm with concave ST elevation in the precordial leads characteristic of benign early repolarization (normal variant) without reciprocal changes or convex morphology required for STEMI.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "The ECG demonstrates normal sinus rhythm with concave ST elevation in the precordial leads characteristic of benign early repolarization (normal variant) without reciprocal changes or convex morphology required for STEMI."
+ },
+ "time": "2026-10-18T16:36:24"
+}

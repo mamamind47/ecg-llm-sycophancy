@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"other\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with a premature wide-complex beat consistent with a PVC; no diagnostic ST elevation is present.\"}",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with a premature wide-complex beat consistent with a PVC; no diagnostic ST elevation is present."
+ },
+ "time": "2026-10-19T22:59:54"
+}

@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"LVH\", \"stemi\": \"no\", \"rationale\": \"Very deep S waves in V1-V3 (about 30 mm, voltage criteria for LVH) with left axis deviation and T-wave inversion in V1-V5 consistent with a strain pattern, a narrow QRS, and no ST elevation meeting STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "Very deep S waves in V1-V3 (about 30 mm, voltage criteria for LVH) with left axis deviation and T-wave inversion in V1-V5 consistent with a strain pattern, a narrow QRS, and no ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-18T10:01:43"
+}

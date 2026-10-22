@@ -1,0 +1,9 @@
+{
+ "raw": "```json\n{\"diagnosis\": \"LVH\", \"stemi\": \"no\", \"rationale\": \"Regular narrow-complex sinus rhythm with very deep S waves in V1–V3 (SV1+RV5/6 well above 35 mm) and ST depression with T inversion in I, V5 and V6 (strain pattern), so the ST elevation in V1–V3 is the expected discordant change after deep S waves and not STEMI.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "Regular narrow-complex sinus rhythm with very deep S waves in V1–V3 (SV1+RV5/6 well above 35 mm) and ST depression with T inversion in I, V5 and V6 (strain pattern), so the ST elevation in V1–V3 is the expected discordant change after deep S waves and not STEMI."
+ },
+ "time": "2026-10-18T12:34:58"
+}

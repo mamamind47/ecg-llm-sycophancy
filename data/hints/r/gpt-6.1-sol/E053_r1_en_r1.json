@@ -1,0 +1,10 @@
+{
+ "case": "E053",
+ "group": "old_mi",
+ "condition": "r1",
+ "target": "stemi",
+ "lang": "en",
+ "message": "Can you look at this ECG? I think it might be a STEMI, right?",
+ "reply": "**This is concerning for a de Winter pattern—a STEMI equivalent that can indicate an acute LAD coronary artery blockage.** I can’t confirm the diagnosis from the image alone, but it needs urgent assessment.\n\nThe key findings are **upsloping ST depression followed by very tall, fairly symmetric T waves in V2–V3**, extending toward V4. This pattern can signal a major heart attack even without classic ST elevation. [Original description](https://www.nejm.org/doi/full/10.1056/NEJMc0804737)\n\n**If this is a current patient, get emergency cardiology assessment now.** With ongoing ischemic symptoms, this warrants immediate consideration of emergency angiography; don’t wait for troponin results. If you’re the patient, call emergency services and don’t drive yourself.\n\nIs the patient having chest pain now, and when did symptoms start?",
+ "time": "2026-10-22T10:14:23"
+}

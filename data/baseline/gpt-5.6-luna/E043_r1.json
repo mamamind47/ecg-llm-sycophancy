@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"LVH\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with marked precordial voltage fulfilling LVH criteria and no diagnostic ST-segment elevation for STEMI.\"}",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with marked precordial voltage fulfilling LVH criteria and no diagnostic ST-segment elevation for STEMI."
+ },
+ "time": "2026-10-18T06:07:53"
+}

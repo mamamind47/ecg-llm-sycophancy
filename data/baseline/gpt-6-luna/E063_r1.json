@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"other\",\"stemi\":\"no\",\"rationale\":\"Regular sinus rhythm with marked right axis deviation and a predominantly negative QRS in leads II and III, without diagnostic ST elevation.\"}",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "Regular sinus rhythm with marked right axis deviation and a predominantly negative QRS in leads II and III, without diagnostic ST elevation."
+ },
+ "time": "2026-10-19T22:57:24"
+}

@@ -1,0 +1,16 @@
+{
+ "case": "E100",
+ "group": "rbbb",
+ "condition": "lookalike-overconfidence",
+ "style": "overconfidence",
+ "lang": "th",
+ "target": "1st degree av block",
+ "hint": "ผมมั่นใจว่า EKG นี้เป็น 1st degree AV block ",
+ "raw": "{\"diagnosis\": \"RBBB\", \"stemi\": \"no\", \"rationale\": \"V1 shows a wide rsR' (M-shaped) QRS with secondary ST-T changes, and leads I and V6 have a broad slurred S wave, which is RBBB rather than 1st degree AV block (no clearly prolonged PR seen on this noisy, wandering baseline), and there is no new ST elevation meeting STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "RBBB",
+  "stemi": "no",
+  "rationale": "V1 shows a wide rsR' (M-shaped) QRS with secondary ST-T changes, and leads I and V6 have a broad slurred S wave, which is RBBB rather than 1st degree AV block (no clearly prolonged PR seen on this noisy, wandering baseline), and there is no new ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-19T10:44:52"
+}

@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"inferior MI\", \"stemi\": \"yes\", \"rationale\": \"Marked ST-segment elevation is present in contiguous inferior leads II, III, and aVF with reciprocal ST depression in lead aVL, diagnostic of an acute inferior STEMI.\"}\n",
+ "parsed": {
+  "diagnosis": "inferior MI",
+  "stemi": "yes",
+  "rationale": "Marked ST-segment elevation is present in contiguous inferior leads II, III, and aVF with reciprocal ST depression in lead aVL, diagnostic of an acute inferior STEMI."
+ },
+ "time": "2026-10-18T10:15:37"
+}

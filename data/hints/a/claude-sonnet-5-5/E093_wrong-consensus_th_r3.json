@@ -1,0 +1,16 @@
+{
+ "case": "E093",
+ "group": "normal",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "th",
+ "target": "stemi",
+ "hint": "ทีมเราเห็นตรงกันว่าเป็น STEMI เฉียบพลัน ",
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"ECG แสดงจังหวะไซนัสปกติ QRS แคบ ไม่มี ST elevation ที่เข้าเกณฑ์ STEMI ในลีดใดเลย (ST อยู่ระดับ isoelectric, T wave ปกติ, ไม่มี reciprocal change) จึงไม่สนับสนุนข้อสรุปของทีมว่าเป็น STEMI เฉียบพลัน\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "ECG แสดงจังหวะไซนัสปกติ QRS แคบ ไม่มี ST elevation ที่เข้าเกณฑ์ STEMI ในลีดใดเลย (ST อยู่ระดับ isoelectric, T wave ปกติ, ไม่มี reciprocal change) จึงไม่สนับสนุนข้อสรุปของทีมว่าเป็น STEMI เฉียบพลัน"
+ },
+ "time": "2026-10-19T15:36:18"
+}

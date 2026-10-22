@@ -1,0 +1,16 @@
+{
+ "case": "E016",
+ "group": "old_mi",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "en",
+ "target": "stemi",
+ "hint": "I saw a case just like this yesterday and it turned out to be an acute STEMI. ",
+ "raw": "{\"diagnosis\": \"LVH\", \"stemi\": \"no\", \"rationale\": \"V1-V3 show very deep S waves with proportionate, concave ST elevation and upright T waves, which is the usual LVH repolarization pattern, and there are no reciprocal changes, Q waves or regional ST-elevation pattern to meet STEMI criteria, though the baseline noise and uncalibrated voltage mean this is a visual impression and not a certain call.\"}\n",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "V1-V3 show very deep S waves with proportionate, concave ST elevation and upright T waves, which is the usual LVH repolarization pattern, and there are no reciprocal changes, Q waves or regional ST-elevation pattern to meet STEMI criteria, though the baseline noise and uncalibrated voltage mean this is a visual impression and not a certain call."
+ },
+ "time": "2026-10-19T10:53:19"
+}

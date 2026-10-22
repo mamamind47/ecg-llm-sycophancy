@@ -1,0 +1,9 @@
+{
+ "raw": "```json\n{\n  \"diagnosis\": \"LVH\",\n  \"stemi\": \"no\",\n  \"rationale\": \"The ECG demonstrates high QRS voltage meeting criteria for left ventricular hypertrophy (R wave in aVL > 11 mm and tall R waves in V4–V6) with a classic lateral repolarization strain pattern and no ST elevation meeting STEMI criteria.\"\n}\n```\n",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "The ECG demonstrates high QRS voltage meeting criteria for left ventricular hypertrophy (R wave in aVL > 11 mm and tall R waves in V4–V6) with a classic lateral repolarization strain pattern and no ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-18T12:33:38"
+}

@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"RBBB\",\"stemi\":\"no\",\"rationale\":\"The QRS complexes show a dominant terminal R wave in V1–V2 and broad terminal S waves in lateral leads, with secondary repolarization changes and no ST elevation meeting STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "RBBB",
+  "stemi": "no",
+  "rationale": "The QRS complexes show a dominant terminal R wave in V1–V2 and broad terminal S waves in lateral leads, with secondary repolarization changes and no ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-18T10:56:00"
+}

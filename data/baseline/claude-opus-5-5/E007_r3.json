@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"RBBB\", \"stemi\": \"no\", \"rationale\": \"The QRS is wide, with a tall, notched R' in V1–V3 (rsR' pattern) and secondary T-wave inversion in V1, plus broad slurred S waves in I and V6, and no ST elevation that meets STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "RBBB",
+  "stemi": "no",
+  "rationale": "The QRS is wide, with a tall, notched R' in V1–V3 (rsR' pattern) and secondary T-wave inversion in V1, plus broad slurred S waves in I and V6, and no ST elevation that meets STEMI criteria."
+ },
+ "time": "2026-10-18T12:32:39"
+}

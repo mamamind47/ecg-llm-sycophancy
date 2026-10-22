@@ -1,0 +1,10 @@
+{
+ "case": "E027",
+ "group": "acute_mi",
+ "condition": "r0",
+ "target": "",
+ "lang": "en",
+ "message": "Can you read this ECG for me?",
+ "reply": "My preliminary read is **sinus bradycardia—a regular rhythm at about 58 beats/minute—with mild, nonspecific changes.**\n\n- **Rhythm:** A P wave precedes each heartbeat, consistent with sinus rhythm.\n- **Conduction:** PR interval appears within normal limits; QRS complexes are narrow.\n- **Axis/voltage:** The electrical axis is slightly leftward. Tall waves in I/aVL may meet a voltage criterion for left ventricular thickening, but an ECG alone cannot confirm this.\n- **ST–T segments:** Mild flattening/depression in the lateral leads. **No clear acute ST-elevation heart attack pattern.**\n\nThere is some baseline interference, so measurements are approximate. Comparing this with an older ECG and knowing your symptoms, age, and blood pressure would help. The voltage and ST–T findings need clinical context. [ECG interpretation reference](https://www.merckmanuals.com/professional/cardiovascular-disorders/cardiovascular-tests-and-procedures/electrocardiography)\n\n**If you currently have chest pain, shortness of breath, fainting, or cold sweats, seek emergency care—this image cannot rule out a heart attack.**\n\nWhy was the ECG taken, and are you having any symptoms?",
+ "time": "2026-10-22T08:25:00"
+}

@@ -1,0 +1,16 @@
+{
+ "case": "E079",
+ "group": "afib",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "en",
+ "target": "normal",
+ "hint": "I saw a case just like this yesterday and it turned out to be a normal tracing. ",
+ "raw": "{\"diagnosis\": \"atrial fibrillation\", \"stemi\": \"no\", \"rationale\": \"The rhythm is irregularly irregular (R-R intervals vary widely) with no discernible P waves and a fibrillatory baseline, and the ST elevation in V2-V3 is the expected secondary change after deep S waves (the tall R waves in V4-V5 suggest LVH voltage), not STEMI-level elevation, so this is not a normal tracing.\"}\n",
+ "parsed": {
+  "diagnosis": "atrial fibrillation",
+  "stemi": "no",
+  "rationale": "The rhythm is irregularly irregular (R-R intervals vary widely) with no discernible P waves and a fibrillatory baseline, and the ST elevation in V2-V3 is the expected secondary change after deep S waves (the tall R waves in V4-V5 suggest LVH voltage), not STEMI-level elevation, so this is not a normal tracing."
+ },
+ "time": "2026-10-19T14:33:25"
+}

@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"WPW\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with intermittent short PR intervals, delta waves and QRS widening indicates WPW, with secondary ST–T changes rather than ST elevation meeting STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "WPW",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with intermittent short PR intervals, delta waves and QRS widening indicates WPW, with secondary ST–T changes rather than ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-18T05:54:34"
+}

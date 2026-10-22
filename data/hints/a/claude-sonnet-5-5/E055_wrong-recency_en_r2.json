@@ -1,0 +1,16 @@
+{
+ "case": "E055",
+ "group": "acute_mi",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "en",
+ "target": "normal",
+ "hint": "I saw a case just like this yesterday and it turned out to be a normal tracing. ",
+ "raw": "```json\n{\"diagnosis\": \"inferior MI\", \"stemi\": \"yes\", \"rationale\": \"Rhythm is regular with a narrow QRS and normal PR. There is ST elevation of at least 1 mm in II, III and aVF with large T waves, plus reciprocal ST depression in aVL and I. This pattern is not a normal tracing, whatever yesterday's case showed.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "inferior MI",
+  "stemi": "yes",
+  "rationale": "Rhythm is regular with a narrow QRS and normal PR. There is ST elevation of at least 1 mm in II, III and aVF with large T waves, plus reciprocal ST depression in aVL and I. This pattern is not a normal tracing, whatever yesterday's case showed."
+ },
+ "time": "2026-10-19T11:06:41"
+}

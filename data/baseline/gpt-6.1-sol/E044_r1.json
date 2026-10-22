@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"LVH\",\"stemi\":\"no\",\"rationale\":\"Tall R waves in aVL exceeding 11 mm support LVH by voltage criteria, with no ST elevation meeting STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "Tall R waves in aVL exceeding 11 mm support LVH by voltage criteria, with no ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-20T06:17:55"
+}

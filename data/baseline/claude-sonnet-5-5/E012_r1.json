@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"other\", \"stemi\": \"no\", \"rationale\": \"Regular sinus rhythm with right axis deviation (negative QRS in lead I), a tall R wave in V1 and persistent deep S waves in V5-V6, which fits right ventricular hypertrophy (not in the list), with no significant ST elevation and no clear bundle branch block.\"}\n",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "Regular sinus rhythm with right axis deviation (negative QRS in lead I), a tall R wave in V1 and persistent deep S waves in V5-V6, which fits right ventricular hypertrophy (not in the list), with no significant ST elevation and no clear bundle branch block."
+ },
+ "time": "2026-10-18T01:25:29"
+}

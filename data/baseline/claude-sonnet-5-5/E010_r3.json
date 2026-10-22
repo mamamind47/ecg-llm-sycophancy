@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"atrial fibrillation\", \"stemi\": \"no\", \"rationale\": \"The rhythm is slow (about 40-45 bpm) and slightly irregular, with no discernible P waves and an undulating baseline, which fits atrial fibrillation with a slow ventricular response, and no ST segment elevation meets STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "atrial fibrillation",
+  "stemi": "no",
+  "rationale": "The rhythm is slow (about 40-45 bpm) and slightly irregular, with no discernible P waves and an undulating baseline, which fits atrial fibrillation with a slow ventricular response, and no ST segment elevation meets STEMI criteria."
+ },
+ "time": "2026-10-18T10:05:37"
+}

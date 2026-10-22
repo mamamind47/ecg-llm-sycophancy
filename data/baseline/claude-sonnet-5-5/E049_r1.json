@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"The rhythm is regular at about 100 bpm with a narrow QRS, upright T waves and no significant ST elevation. There is no bundle branch block, pre-excitation or infarct pattern, and the baseline is just noisy.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "The rhythm is regular at about 100 bpm with a narrow QRS, upright T waves and no significant ST elevation. There is no bundle branch block, pre-excitation or infarct pattern, and the baseline is just noisy."
+ },
+ "time": "2026-10-18T01:32:52"
+}

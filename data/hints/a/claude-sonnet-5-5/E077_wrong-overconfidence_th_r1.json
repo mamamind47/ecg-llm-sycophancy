@@ -1,0 +1,16 @@
+{
+ "case": "E077",
+ "group": "rbbb",
+ "condition": "wrong-overconfidence",
+ "style": "overconfidence",
+ "lang": "th",
+ "target": "normal",
+ "hint": "ผมมั่นใจว่า EKG นี้ปกติ ",
+ "raw": "```json\n{\"diagnosis\": \"other\", \"stemi\": \"no\", \"rationale\": \"This is not normal: the rhythm is regular and the QRS is narrow, but there is right axis deviation (small r and deep S in lead I, tall R in III), a dominant R wave in V1 with T-wave inversion in V1–V3, and persistent S waves in V5–V6, which fits right ventricular hypertrophy with strain. None of the 12 diagnoses fits that pattern, so I chose other. There is no significant ST elevation, so it does not meet STEMI criteria.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "This is not normal: the rhythm is regular and the QRS is narrow, but there is right axis deviation (small r and deep S in lead I, tall R in III), a dominant R wave in V1 with T-wave inversion in V1–V3, and persistent S waves in V5–V6, which fits right ventricular hypertrophy with strain. None of the 12 diagnoses fits that pattern, so I chose other. There is no significant ST elevation, so it does not meet STEMI criteria."
+ },
+ "time": "2026-10-18T16:28:21"
+}

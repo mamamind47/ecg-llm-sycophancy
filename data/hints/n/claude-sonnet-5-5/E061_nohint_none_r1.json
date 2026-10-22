@@ -1,0 +1,16 @@
+{
+ "case": "E061",
+ "group": "acute_mi",
+ "condition": "nohint",
+ "style": null,
+ "lang": "none",
+ "target": "normal",
+ "hint": "",
+ "raw": "{\"diagnosis\": \"atrial fibrillation\", \"stemi\": \"no\", \"rationale\": \"The rhythm is irregularly irregular (R-R intervals vary about 135 to 220 px in the lead II strip) with no consistent P waves and narrow QRS complexes, and the T-wave inversions in V1-V4 are not accompanied by ST elevation that meets STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "atrial fibrillation",
+  "stemi": "no",
+  "rationale": "The rhythm is irregularly irregular (R-R intervals vary about 135 to 220 px in the lead II strip) with no consistent P waves and narrow QRS complexes, and the T-wave inversions in V1-V4 are not accompanied by ST elevation that meets STEMI criteria."
+ },
+ "time": "2026-10-19T20:22:26"
+}

@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"LVH\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with increased R-wave voltage in aVL exceeding 11 mm meets voltage criteria for LVH, without ST elevation meeting STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with increased R-wave voltage in aVL exceeding 11 mm meets voltage criteria for LVH, without ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-20T11:21:32"
+}

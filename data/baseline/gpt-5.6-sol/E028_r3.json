@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"WPW\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm shows a short PR interval with delta-wave slurring and widened QRS complexes with secondary discordant ST-T changes.\"}",
+ "parsed": {
+  "diagnosis": "WPW",
+  "stemi": "no",
+  "rationale": "Sinus rhythm shows a short PR interval with delta-wave slurring and widened QRS complexes with secondary discordant ST-T changes."
+ },
+ "time": "2026-10-18T10:55:13"
+}

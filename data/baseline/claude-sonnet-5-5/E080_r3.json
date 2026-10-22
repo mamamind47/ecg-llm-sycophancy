@@ -1,0 +1,9 @@
+{
+ "raw": "```json\n{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"The rhythm is regular at about 85 bpm with upright T waves, narrow QRS complexes and normal R-wave progression, and the J-point elevation in V2–V4 is small, with no reciprocal ST depression, so it does not meet STEMI criteria.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "The rhythm is regular at about 85 bpm with upright T waves, narrow QRS complexes and normal R-wave progression, and the J-point elevation in V2–V4 is small, with no reciprocal ST depression, so it does not meet STEMI criteria."
+ },
+ "time": "2026-10-18T11:17:55"
+}

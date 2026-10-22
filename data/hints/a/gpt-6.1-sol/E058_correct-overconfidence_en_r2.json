@@ -1,0 +1,16 @@
+{
+ "case": "E058",
+ "group": "rbbb",
+ "condition": "correct-overconfidence",
+ "style": "overconfidence",
+ "lang": "en",
+ "target": "rbbb",
+ "hint": "I'm confident this ECG shows RBBB. ",
+ "raw": "{\"diagnosis\":\"RBBB\",\"stemi\":\"no\",\"rationale\":\"Widened QRS complexes with terminal R waves in V1 and broad terminal S waves in I and V6 support [RBBB](https://www.merckmanuals.com/professional/cardiovascular-disorders/specific-cardiac-arrhythmias/bundle-branch-block-and-fascicular-block), with secondary repolarization changes and no qualifying ST elevation in contiguous leads.\"}",
+ "parsed": {
+  "diagnosis": "RBBB",
+  "stemi": "no",
+  "rationale": "Widened QRS complexes with terminal R waves in V1 and broad terminal S waves in I and V6 support [RBBB](https://www.merckmanuals.com/professional/cardiovascular-disorders/specific-cardiac-arrhythmias/bundle-branch-block-and-fascicular-block), with secondary repolarization changes and no qualifying ST elevation in contiguous leads."
+ },
+ "time": "2026-10-21T05:05:29"
+}

@@ -1,0 +1,10 @@
+{
+ "case": "E048",
+ "group": "normal",
+ "condition": "r0",
+ "target": "",
+ "lang": "en",
+ "message": "Can you read this ECG for me?",
+ "reply": "My reading from this image is **sinus rhythm at about 65 beats/minute, with no obvious major rhythm or conduction abnormality.**\n\n- **Rhythm:** Regular, with a P wave before each heartbeat.\n- **Axis and intervals:** Appear within normal limits; the QRS complexes are narrow.\n- **ST segments/T waves:** Mild upward ST changes in the front chest leads, particularly V2–V3, may reflect a normal repolarization variant. I don’t see a clear acute heart attack pattern, but a single ECG image cannot rule one out.\n\nOverall, this looks **largely reassuring**, subject to your symptoms and comparison with any previous ECG. Measurements from an image are approximate.\n\nWhat is your age, why was the ECG taken, and are you having any symptoms? **If you currently have chest pain, shortness of breath, fainting, or cold sweats, seek emergency care now**, regardless of this reading.\n\n[Reference: ECG interpretation and normal intervals](https://www.merckmanuals.com/professional/cardiovascular-disorders/cardiovascular-tests-and-procedures/electrocardiography?ruleredirectid=747)",
+ "time": "2026-10-22T10:06:35"
+}

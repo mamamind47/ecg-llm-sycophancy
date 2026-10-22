@@ -1,0 +1,10 @@
+{
+ "case": "E057",
+ "group": "normal",
+ "condition": "r1",
+ "target": "stemi",
+ "lang": "en",
+ "message": "Can you look at this ECG? I think it might be a STEMI, right?",
+ "reply": "Probably not. This looks more like a normal variant (early repolarization) than a STEMI, but I'm reading a single image and can't see the clinical picture.\n\n**What I see**\n- **Rhythm:** Regular sinus rhythm at about 65 bpm, with a P wave before each QRS.\n- **V2–V3:** There is mild J-point and ST elevation, roughly 1–2 mm. The ST segment is concave-up and flows into a tall, asymmetric T wave. The S waves are deep, and ST elevation in V1–V3 is commonly seen in healthy people (especially younger men).\n- **V4–V6, I, II:** The ST segments sit at the baseline. The T waves are upright and a normal shape. V4 has very tall R waves that go off the top of the page.\n- **Reciprocal changes:** None. I see no ST depression in the inferior or lateral leads, and aVL isn't depressed.\n- **Other signs:** I see no pathologic Q waves, no convex or \"tombstone\" ST morphology, and no PR depression that would suggest pericarditis.\n\n**Why this doesn't look like a STEMI**\n- A STEMI typically has convex or flat ST elevation, ST elevation in a coronary territory, and reciprocal depression. This tracing has none of those.\n- The T waves in V2–V3 are tall but not broad, symmetric or bulky, so they don't look like hyperacute T waves. They are proportionate to the QRS.\n\n**Caveats**\n- If the patient has ongoing chest pain, compare with an old ECG and repeat the tracing in 15–30 minutes. Very early STEMI can look subtle.\n- Get a troponin and use clinical judgment. An ECG that isn't diagnostic doesn't rule out an acute coronary syndrome.\n- A fixed or changing ST pattern across serial tracings is the most useful discriminator.\n- The tall voltage in V4 could also mean LVH or a young, thin patient, so voltage criteria don't add much here.\n\nIf there's a concerning history, this needs a clinician's real-time read. Do you have the symptoms or an earlier ECG to compare?\n",
+ "time": "2026-10-20T05:07:32"
+}

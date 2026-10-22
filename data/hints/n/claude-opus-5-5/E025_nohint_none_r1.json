@@ -1,0 +1,16 @@
+{
+ "case": "E025",
+ "group": "old_mi",
+ "condition": "nohint",
+ "style": null,
+ "lang": "none",
+ "target": "stemi",
+ "hint": "",
+ "raw": "{\"diagnosis\": \"inferior MI\", \"stemi\": \"no\", \"rationale\": \"The rhythm is sinus at about 65 bpm with normal intervals, and the inferior leads (III, aVF, II) show pathological Q waves with T-wave inversion in III, which points to an old inferior infarct, but no lead shows significant ST elevation.\"}\n",
+ "parsed": {
+  "diagnosis": "inferior MI",
+  "stemi": "no",
+  "rationale": "The rhythm is sinus at about 65 bpm with normal intervals, and the inferior leads (III, aVF, II) show pathological Q waves with T-wave inversion in III, which points to an old inferior infarct, but no lead shows significant ST elevation."
+ },
+ "time": "2026-10-19T20:21:23"
+}

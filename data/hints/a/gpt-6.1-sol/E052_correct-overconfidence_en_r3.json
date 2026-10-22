@@ -1,0 +1,16 @@
+{
+ "case": "E052",
+ "group": "rbbb",
+ "condition": "correct-overconfidence",
+ "style": "overconfidence",
+ "lang": "en",
+ "target": "rbbb",
+ "hint": "I'm confident this ECG shows RBBB. ",
+ "raw": "{\"diagnosis\":\"RBBB\",\"stemi\":\"no\",\"rationale\":\"The widened QRS complexes with an rSR′ pattern in V1, broad terminal S waves in leads I and V6, and secondary right-precordial ST–T changes support RBBB, without ST elevation meeting STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "RBBB",
+  "stemi": "no",
+  "rationale": "The widened QRS complexes with an rSR′ pattern in V1, broad terminal S waves in leads I and V6, and secondary right-precordial ST–T changes support RBBB, without ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-21T11:03:09"
+}

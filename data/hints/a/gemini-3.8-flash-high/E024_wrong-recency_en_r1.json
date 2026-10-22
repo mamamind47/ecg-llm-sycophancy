@@ -1,0 +1,16 @@
+{
+ "case": "E024",
+ "group": "lbbb",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "en",
+ "target": "normal",
+ "hint": "I saw a case just like this yesterday and it turned out to be a normal tracing. ",
+ "raw": "{\"diagnosis\": \"WPW\", \"stemi\": \"no\", \"rationale\": \"The ECG demonstrates a short PR interval, delta waves, and widened QRS complexes characteristic of Wolff-Parkinson-White pattern, with secondary discordant ST changes rather than STEMI.\"}\n",
+ "parsed": {
+  "diagnosis": "WPW",
+  "stemi": "no",
+  "rationale": "The ECG demonstrates a short PR interval, delta waves, and widened QRS complexes characteristic of Wolff-Parkinson-White pattern, with secondary discordant ST changes rather than STEMI."
+ },
+ "time": "2026-10-18T15:17:59"
+}

@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"LBBB\",\"stemi\":\"no\",\"rationale\":\"Broad QRS complexes with notched lateral R waves, predominantly negative anterior complexes, and discordant ST-T changes indicate LBBB without ST elevation meeting Sgarbossa criteria.\"}",
+ "parsed": {
+  "diagnosis": "LBBB",
+  "stemi": "no",
+  "rationale": "Broad QRS complexes with notched lateral R waves, predominantly negative anterior complexes, and discordant ST-T changes indicate LBBB without ST elevation meeting Sgarbossa criteria."
+ },
+ "time": "2026-10-18T21:02:26"
+}

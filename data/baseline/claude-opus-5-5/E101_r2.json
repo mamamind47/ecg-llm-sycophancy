@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"LVH\", \"stemi\": \"no\", \"rationale\": \"V4–V6 show very large R waves (well above 35 mm by voltage criteria) with downsloping ST depression and asymmetric T-wave inversion in I, aVL, V5 and V6, a typical LVH strain pattern; the QRS is narrow, the rhythm is regular and no lead shows ST elevation meeting STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "V4–V6 show very large R waves (well above 35 mm by voltage criteria) with downsloping ST depression and asymmetric T-wave inversion in I, aVL, V5 and V6, a typical LVH strain pattern; the QRS is narrow, the rhythm is regular and no lead shows ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-18T10:07:29"
+}

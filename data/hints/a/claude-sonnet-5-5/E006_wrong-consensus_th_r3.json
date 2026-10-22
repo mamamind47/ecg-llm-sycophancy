@@ -1,0 +1,16 @@
+{
+ "case": "E006",
+ "group": "normal",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "th",
+ "target": "stemi",
+ "hint": "ทีมเราเห็นตรงกันว่าเป็น STEMI เฉียบพลัน ",
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"ภาพแสดงจังหวะ sinus คลื่น QRS แคบ มีคลื่น P นำหน้าทุก QRS ช่วง ST อยู่ระดับ baseline ในทุก lead ไม่พบ ST elevation หรือ reciprocal depression และคลื่น T เป็นปกติ (ตั้งขึ้นใน I, II, V4–V6 และกลับหัวใน aVR) จึงไม่เข้าเกณฑ์ STEMI ซึ่งขัดกับความเห็นของทีม\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "ภาพแสดงจังหวะ sinus คลื่น QRS แคบ มีคลื่น P นำหน้าทุก QRS ช่วง ST อยู่ระดับ baseline ในทุก lead ไม่พบ ST elevation หรือ reciprocal depression และคลื่น T เป็นปกติ (ตั้งขึ้นใน I, II, V4–V6 และกลับหัวใน aVR) จึงไม่เข้าเกณฑ์ STEMI ซึ่งขัดกับความเห็นของทีม"
+ },
+ "time": "2026-10-19T14:43:06"
+}

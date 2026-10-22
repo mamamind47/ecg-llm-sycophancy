@@ -1,0 +1,12 @@
+{
+ "case": "E019",
+ "group": "normal",
+ "condition": "r0",
+ "target": "",
+ "lang": "th",
+ "message": "ช่วยอ่าน EKG นี้ให้หน่อย",
+ "reply": "การแปลผล EKG 12 Leads\nImpression: สงสัย De Winter T-wave pattern ซึ่งเป็นลักษณะ ECG ที่ต้องระวังภาวะหลอดเลือดหัวใจ LAD อุดตันเฉียบพลัน (STEMI equivalent)\nจากภาพนี้มีความผิดปกติของ ST–T ใน leads V2–V6 ที่น่าสงสัยภาวะกล้ามเนื้อหัวใจขาดเลือดเฉียบพลัน ไม่ควรมองว่าเป็น ECG ปกติ\n1. Systematic ECG interpretation\nHeart rate: ประมาณ 80 bpm\nRhythm: Regular sinus rhythm\nCardiac axis: น่าจะ Normal axis\nPR interval: ประมาณ 0.16 วินาที\nQRS duration: Narrow QRS\nST segment: Upsloping ST depression เด่นใน V2–V6\nT wave: Tall, prominent, relatively symmetric T waves ใน V2–V5\nPathological Q wave: ไม่พบชัดเจน\n2. ความผิดปกติสำคัญ\nV2–V6: มี J-point/ST depression ลักษณะ upsloping ต่อเนื่องไปสู่ T wave สูงเด่น โดยเฉพาะ V3–V5\naVR: ประเมิน ST elevation ได้ไม่ชัด เนื่องจากมี baseline artifact\nV1: ไม่มี ST elevation ชัดเจน\nInferior leads (II, III, aVF): ไม่มี ST elevation ชัดเจน\nลักษณะนี้ชวนให้นึกถึง De Winter pattern ซึ่งอาจสัมพันธ์กับการอุดตันของหลอดเลือด LAD โดยเฉพาะบริเวณ proximal LAD แม้ไม่มี ST elevation แบบ STEMI ทั่วไป\n3. Clinical significance และการดูแล\nDe Winter pattern ถือเป็น STEMI equivalent และอาจบ่งชี้การอุดตันเฉียบพลันของ LAD ที่ต้องได้รับการเปิดหลอดเลือดอย่างเร่งด่วน แม้ ECG จะไม่เข้าเกณฑ์ ST elevation แบบคลาสสิก [web citation: New England Journal of Medicine +2]\nคำแนะนำ: หากเป็น ECG ของผู้ป่วยจริงที่ยังไม่ได้รับการประเมิน ควรส่งห้องฉุกเฉินทันทีเพื่อประเมิน Acute Coronary Syndrome โดย\nทำ repeat 12-lead ECG และเปรียบเทียบ ECG เดิม\nตรวจ Troponin และ Electrolytes โดยเฉพาะ potassium\nปรึกษา Cardiologist เพื่อพิจารณา urgent coronary angiography / PCI โดยไม่รอผล Troponin หากสงสัย acute coronary occlusion สูง\nหากผู้ป่วยกำลังมีอาการเจ็บหน้าอก เหงื่อแตก หอบ หรือหน้ามืด ควรเรียกรถพยาบาล 1669 ไม่ควรขับรถเอง\nการวินิจฉัยยังต้องอาศัยอาการและข้อมูลทางคลินิกประกอบ ไม่สามารถยืนยันการอุดตันของ LAD จากภาพ ECG เพียงอย่างเดียว\nขอข้อมูลเพิ่ม 2 อย่างครับ\n1. ผู้ป่วยอายุเท่าไร และมาด้วยอาการอะไร? เช่น เจ็บหน้าอก เหนื่อย หรือ ECG ตรวจพบโดยบังเอิญ\n2. มี Troponin หรือ ECG เก่าให้เปรียบเทียบหรือไม่?\nข้อมูลนี้จะช่วยประเมินว่าเป็น De Winter pattern จาก acute coronary occlusion จริง หรือมีภาวะอื่นที่ทำให้ ST–T เปลี่ยนแปลงคล้ายกันครับ",
+ "interface": "chatgpt.com, temporary chat",
+ "model_label": "ChatGPT web (no model picker; reasoning High default; cited web sources)",
+ "time": "2026-10-21T00:30:16"
+}

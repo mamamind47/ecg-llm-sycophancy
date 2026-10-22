@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"inferior MI\", \"stemi\": \"no\", \"rationale\": \"Leads II, III and aVF show pathological Q/QS complexes with an inverted T wave in III, but no significant ST elevation, which fits an old (non-acute) inferior MI in sinus rhythm with narrow QRS; left anterior fascicular block is the main alternative reading.\"}\n",
+ "parsed": {
+  "diagnosis": "inferior MI",
+  "stemi": "no",
+  "rationale": "Leads II, III and aVF show pathological Q/QS complexes with an inverted T wave in III, but no significant ST elevation, which fits an old (non-acute) inferior MI in sinus rhythm with narrow QRS; left anterior fascicular block is the main alternative reading."
+ },
+ "time": "2026-10-18T09:51:00"
+}

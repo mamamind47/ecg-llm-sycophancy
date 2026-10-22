@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"LVH\", \"stemi\": \"no\", \"rationale\": \"The rhythm is sinus with narrow QRS complexes and a leftward axis, with tall R waves in V5–V6 (about 25 mm in V6) and aVL (about 11 mm), which together with the S wave in V1 meet or nearly meet LVH voltage criteria; there is no significant ST elevation.\"}\n",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "The rhythm is sinus with narrow QRS complexes and a leftward axis, with tall R waves in V5–V6 (about 25 mm in V6) and aVL (about 11 mm), which together with the S wave in V1 meet or nearly meet LVH voltage criteria; there is no significant ST elevation."
+ },
+ "time": "2026-10-18T01:03:28"
+}

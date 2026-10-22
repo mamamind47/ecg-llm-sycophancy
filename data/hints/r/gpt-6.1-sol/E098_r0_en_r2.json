@@ -1,0 +1,10 @@
+{
+ "case": "E098",
+ "group": "acute_mi",
+ "condition": "r0",
+ "target": "",
+ "lang": "en",
+ "message": "Can you read this ECG for me?",
+ "reply": "My read from this image is **sinus rhythm around 70–75 beats/minute, with high voltage and mild ST-segment abnormalities.** This needs clinical context to interpret fully.\n\n- **Rhythm:** Regular, with a P wave before each heartbeat.\n- **Axis and conduction:** Normal axis; PR and QRS intervals appear within normal limits.\n- **Voltage:** Tall chest-lead complexes suggest possible **left ventricular hypertrophy** (thickening of the main pumping chamber). An ECG alone cannot confirm this; an echocardiogram can.\n- **ST/T changes:** Mild, somewhat “scooped” ST depression, particularly in I, aVL, and the lateral chest leads. This can occur with ventricular hypertrophy or **digoxin use**. Digoxin-related changes do not by themselves mean toxicity. [Digoxin prescribing information](https://www.dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=42d079a7-def1-4220-b71f-db2651966ffe&type=display)\n- **No clear acute ST-elevation heart attack pattern**, but this ECG cannot exclude a heart attack or reduced blood supply.\n\nIf you currently have chest pain, breathlessness, fainting, or cold sweats, seek emergency care now.\n\n**What prompted the ECG, how old is the patient, and do they have high blood pressure or take digoxin?** Comparing it with a previous ECG would also help.",
+ "time": "2026-10-22T11:24:13"
+}

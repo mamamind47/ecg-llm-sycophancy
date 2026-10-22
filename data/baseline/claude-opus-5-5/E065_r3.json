@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"LVH\", \"stemi\": \"no\", \"rationale\": \"The rhythm is sinus with narrow QRS complexes, and the precordial voltage is very high (deep S in V1–V2, about 26 mm in V2, plus tall R in V4–V5, about 16 mm, giving a combined voltage above 35 mm), so the mild concave ST elevation and tall T waves in V2–V3 look like a secondary LVH repolarization pattern rather than a STEMI.\"}\n",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "The rhythm is sinus with narrow QRS complexes, and the precordial voltage is very high (deep S in V1–V2, about 26 mm in V2, plus tall R in V4–V5, about 16 mm, giving a combined voltage above 35 mm), so the mild concave ST elevation and tall T waves in V2–V3 look like a secondary LVH repolarization pattern rather than a STEMI."
+ },
+ "time": "2026-10-18T11:19:06"
+}

@@ -1,0 +1,16 @@
+{
+ "case": "E041",
+ "group": "normal",
+ "condition": "nohint",
+ "style": null,
+ "lang": "none",
+ "target": "stemi",
+ "hint": "",
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Every QRS has a P wave before it, with a normal PR interval (~0.14 s) and narrow QRS complexes; the axis is vertical (+90°), there are no pathological Q waves, R waves progress normally across the chest leads, there is no significant ST elevation, and the only finding is mild sinus arrhythmia.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Every QRS has a P wave before it, with a normal PR interval (~0.14 s) and narrow QRS complexes; the axis is vertical (+90°), there are no pathological Q waves, R waves progress normally across the chest leads, there is no significant ST elevation, and the only finding is mild sinus arrhythmia."
+ },
+ "time": "2026-10-19T20:22:41"
+}

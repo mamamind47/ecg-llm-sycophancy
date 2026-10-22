@@ -1,0 +1,9 @@
+{
+ "raw": "```json\n{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Regular narrow-complex sinus rhythm with normal PR and QRS widths and no bundle branch block pattern, delta wave or pathologic Q waves. Voltages are borderline-high in the precordial leads but don't clearly meet LVH criteria. The mild concave ST elevation in V2–V3 is a benign repolarization pattern without reciprocal changes, so it doesn't meet STEMI criteria.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Regular narrow-complex sinus rhythm with normal PR and QRS widths and no bundle branch block pattern, delta wave or pathologic Q waves. Voltages are borderline-high in the precordial leads but don't clearly meet LVH criteria. The mild concave ST elevation in V2–V3 is a benign repolarization pattern without reciprocal changes, so it doesn't meet STEMI criteria."
+ },
+ "time": "2026-10-18T01:29:34"
+}

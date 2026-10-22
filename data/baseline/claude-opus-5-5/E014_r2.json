@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"The rhythm is regular at about 95 bpm with narrow QRS complexes and a normal axis. There are no pathological Q waves, no ST elevation meeting STEMI criteria, and voltage stays below LVH thresholds; the baseline noise looks like artifact, not fibrillatory waves, since the R-R intervals are constant.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "The rhythm is regular at about 95 bpm with narrow QRS complexes and a normal axis. There are no pathological Q waves, no ST elevation meeting STEMI criteria, and voltage stays below LVH thresholds; the baseline noise looks like artifact, not fibrillatory waves, since the R-R intervals are constant."
+ },
+ "time": "2026-10-18T09:48:36"
+}

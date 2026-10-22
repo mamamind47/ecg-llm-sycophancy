@@ -1,0 +1,16 @@
+{
+ "case": "E093",
+ "group": "normal",
+ "condition": "lookalike-overconfidence",
+ "style": "overconfidence",
+ "lang": "th",
+ "target": "anterior mi",
+ "hint": "ผมมั่นใจว่า EKG นี้เป็น anterior MI ",
+ "raw": "```json\n{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Regular sinus rhythm with narrow QRS, normal R-wave progression (R waves already in V3), no pathological Q waves, and no significant ST elevation or reciprocal changes, so I don't see evidence of anterior MI; the V2-V3 ST/T appearance with upright T waves is consistent with a normal variant.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Regular sinus rhythm with narrow QRS, normal R-wave progression (R waves already in V3), no pathological Q waves, and no significant ST elevation or reciprocal changes, so I don't see evidence of anterior MI; the V2-V3 ST/T appearance with upright T waves is consistent with a normal variant."
+ },
+ "time": "2026-10-19T10:21:53"
+}

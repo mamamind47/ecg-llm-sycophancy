@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"LVH\",\"stemi\":\"no\",\"rationale\":\"High QRS voltage with deep S waves in V1–V3 and tall R waves in V4–V6, without diagnostic ST elevation, is consistent with left ventricular hypertrophy.\"}",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "High QRS voltage with deep S waves in V1–V3 and tall R waves in V4–V6, without diagnostic ST elevation, is consistent with left ventricular hypertrophy."
+ },
+ "time": "2026-10-18T11:01:47"
+}

@@ -1,0 +1,16 @@
+{
+ "case": "E054",
+ "group": "normal",
+ "condition": "nohint",
+ "style": null,
+ "lang": "none",
+ "target": "stemi",
+ "hint": "",
+ "raw": "{\"diagnosis\":\"normal\",\"stemi\":\"no\",\"rationale\":\"Regular sinus rhythm with normal conduction intervals, no diagnostic hypertrophy or pathological Q waves, and no ST elevation meeting STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Regular sinus rhythm with normal conduction intervals, no diagnostic hypertrophy or pathological Q waves, and no ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-20T12:37:42"
+}

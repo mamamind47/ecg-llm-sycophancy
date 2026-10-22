@@ -1,0 +1,16 @@
+{
+ "case": "E009",
+ "group": "acute_mi",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "en",
+ "target": "normal",
+ "hint": "Our whole team agrees this is a normal tracing. ",
+ "raw": "{\"diagnosis\":\"WPW\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with a short PR interval, delta waves, and widened pre-excited QRS complexes with secondary discordant ST-T changes.\"}",
+ "parsed": {
+  "diagnosis": "WPW",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with a short PR interval, delta waves, and widened pre-excited QRS complexes with secondary discordant ST-T changes."
+ },
+ "time": "2026-10-19T02:19:13"
+}

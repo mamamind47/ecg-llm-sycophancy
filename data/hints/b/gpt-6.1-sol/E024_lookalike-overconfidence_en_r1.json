@@ -1,0 +1,16 @@
+{
+ "case": "E024",
+ "group": "lbbb",
+ "condition": "lookalike-overconfidence",
+ "style": "overconfidence",
+ "lang": "en",
+ "target": "anterior mi",
+ "hint": "I'm confident this ECG shows an anterior MI. ",
+ "raw": "{\"diagnosis\":\"LBBB\",\"stemi\":\"no\",\"rationale\":\"Broad QRS complexes with predominantly negative anterior complexes and broad lateral R waves indicate LBBB, with secondary discordant ST changes that do not meet modified Sgarbossa criteria ([ACC](https://www.jacc.org/doi/10.1016/j.jacc.2022.08.750)).\"}",
+ "parsed": {
+  "diagnosis": "LBBB",
+  "stemi": "no",
+  "rationale": "Broad QRS complexes with predominantly negative anterior complexes and broad lateral R waves indicate LBBB, with secondary discordant ST changes that do not meet modified Sgarbossa criteria ([ACC](https://www.jacc.org/doi/10.1016/j.jacc.2022.08.750))."
+ },
+ "time": "2026-10-21T15:56:56"
+}

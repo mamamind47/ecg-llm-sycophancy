@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"other\",\"stemi\":\"no\",\"rationale\":\"Regular sinus rhythm with a narrow QRS and diffuse ST depression with T-wave abnormalities, without diagnostic ST elevation.\"}",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "Regular sinus rhythm with a narrow QRS and diffuse ST depression with T-wave abnormalities, without diagnostic ST elevation."
+ },
+ "time": "2026-10-19T23:14:41"
+}

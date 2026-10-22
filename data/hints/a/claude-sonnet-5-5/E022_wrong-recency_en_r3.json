@@ -1,0 +1,16 @@
+{
+ "case": "E022",
+ "group": "normal",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "en",
+ "target": "stemi",
+ "hint": "I saw a case just like this yesterday and it turned out to be an acute STEMI. ",
+ "raw": "{\"diagnosis\": \"other\", \"stemi\": \"no\", \"rationale\": \"Regular narrow-complex sinus rhythm at about 80 bpm with left axis deviation (positive QRS in I and aVL, rS in II, III and aVF), which fits a left anterior fascicular block pattern; the tall V2-V3 T waves have no significant ST elevation, so STEMI criteria are not met and this does not match the STEMI you saw yesterday.\"}\n",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "Regular narrow-complex sinus rhythm at about 80 bpm with left axis deviation (positive QRS in I and aVL, rS in II, III and aVF), which fits a left anterior fascicular block pattern; the tall V2-V3 T waves have no significant ST elevation, so STEMI criteria are not met and this does not match the STEMI you saw yesterday."
+ },
+ "time": "2026-10-19T14:49:58"
+}

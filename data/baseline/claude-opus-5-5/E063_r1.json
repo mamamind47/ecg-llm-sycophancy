@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"inferior MI\", \"stemi\": \"yes\", \"rationale\": \"Leads II, III and aVF show Q waves with marked convex ST elevation (well over 1 mm, largest in III), with reciprocal ST depression in aVL and I, a pattern typical of an acute inferior STEMI.\"}\n",
+ "parsed": {
+  "diagnosis": "inferior MI",
+  "stemi": "yes",
+  "rationale": "Leads II, III and aVF show Q waves with marked convex ST elevation (well over 1 mm, largest in III), with reciprocal ST depression in aVL and I, a pattern typical of an acute inferior STEMI."
+ },
+ "time": "2026-10-18T01:00:07"
+}

@@ -1,0 +1,16 @@
+{
+ "case": "E083",
+ "group": "acute_mi",
+ "condition": "nohint",
+ "style": null,
+ "lang": "none",
+ "target": "normal",
+ "hint": "",
+ "raw": "{\"diagnosis\": \"inferior MI\", \"stemi\": \"yes\", \"rationale\": \"There is ST elevation in II, III and aVF, larger in III than in II, with reciprocal ST depression in aVL and I and ST depression in V1–V3 suggesting posterior extension, which fits an acute inferior STEMI.\"}\n",
+ "parsed": {
+  "diagnosis": "inferior MI",
+  "stemi": "yes",
+  "rationale": "There is ST elevation in II, III and aVF, larger in III than in II, with reciprocal ST depression in aVL and I and ST depression in V1–V3 suggesting posterior extension, which fits an acute inferior STEMI."
+ },
+ "time": "2026-10-19T20:26:42"
+}

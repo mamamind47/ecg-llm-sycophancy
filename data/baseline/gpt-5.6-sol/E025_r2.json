@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"WPW\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with a short PR interval, delta waves, and widened QRS complexes with secondary repolarization changes is diagnostic of Wolff-Parkinson-White pattern.\"}",
+ "parsed": {
+  "diagnosis": "WPW",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with a short PR interval, delta waves, and widened QRS complexes with secondary repolarization changes is diagnostic of Wolff-Parkinson-White pattern."
+ },
+ "time": "2026-10-18T09:49:13"
+}

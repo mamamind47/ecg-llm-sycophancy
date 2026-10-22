@@ -1,0 +1,16 @@
+{
+ "case": "E071",
+ "group": "normal",
+ "condition": "nohint",
+ "style": null,
+ "lang": "none",
+ "target": "stemi",
+ "hint": "",
+ "raw": "{\"diagnosis\":\"normal\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with mild sinus arrhythmia, normal PR and QRS intervals, and no pathological Q waves or ST elevation meeting STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with mild sinus arrhythmia, normal PR and QRS intervals, and no pathological Q waves or ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-20T13:47:52"
+}

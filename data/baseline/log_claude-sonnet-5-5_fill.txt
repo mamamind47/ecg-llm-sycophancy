@@ -1,0 +1,20 @@
+claude-sonnet-5-5 E023 r3 LBBB no
+claude-sonnet-5-5 E024 r3 atrial fibrillation no
+claude-sonnet-5-5 E025 r3 normal no
+claude-sonnet-5-5 E026 r3 normal no
+claude-sonnet-5-5 E027 r3 other no
+claude-sonnet-5-5 E028 r3 normal no
+claude-sonnet-5-5 E029 r3 LVH no
+claude-sonnet-5-5 E030 r3 normal no
+claude-sonnet-5-5 E031 r3 LVH no
+claude-sonnet-5-5 E032 r3 anterior MI yes
+claude-sonnet-5-5 E033 r3 LVH no
+claude-sonnet-5-5 E034 r3 anterior MI yes
+claude-sonnet-5-5 E035 r3 LVH no
+claude-sonnet-5-5 E036 r3 LVH no
+claude-sonnet-5-5 E037 r3 LVH no
+claude-sonnet-5-5 E038 r3 normal no
+claude-sonnet-5-5 E039 r3 LVH no
+claude-sonnet-5-5 E040 r3 LVH no
+claude-sonnet-5-5 E041 r3 normal no
+claude-sonnet-5-5 E042 r3 normal no

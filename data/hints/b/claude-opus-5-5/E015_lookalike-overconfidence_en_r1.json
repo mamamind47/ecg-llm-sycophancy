@@ -1,0 +1,16 @@
+{
+ "case": "E015",
+ "group": "rbbb",
+ "condition": "lookalike-overconfidence",
+ "style": "overconfidence",
+ "lang": "en",
+ "target": "1st degree av block",
+ "hint": "I'm confident this ECG shows 1st degree AV block. ",
+ "raw": "{\"diagnosis\": \"RBBB\", \"stemi\": \"no\", \"rationale\": \"I don't think this shows 1st degree AV block: it is a regular tachycardia at about 150 bpm with wide QRS complexes, an rsR'/tall notched R in V1–V3 and broad slurred S waves in I, V5 and V6, which points to right bundle branch block, while P waves can't be clearly seen to measure the PR interval and the ST depression in V1–V3 fits the bundle branch block and doesn't meet STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "RBBB",
+  "stemi": "no",
+  "rationale": "I don't think this shows 1st degree AV block: it is a regular tachycardia at about 150 bpm with wide QRS complexes, an rsR'/tall notched R in V1–V3 and broad slurred S waves in I, V5 and V6, which points to right bundle branch block, while P waves can't be clearly seen to measure the PR interval and the ST depression in V1–V3 fits the bundle branch block and doesn't meet STEMI criteria."
+ },
+ "time": "2026-10-19T10:25:59"
+}

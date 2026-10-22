@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"other\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with marked right-precordial QRS abnormalities and discordant ST-T changes, without qualifying ST elevation in contiguous leads.\"}",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with marked right-precordial QRS abnormalities and discordant ST-T changes, without qualifying ST elevation in contiguous leads."
+ },
+ "time": "2026-10-19T22:56:20"
+}

@@ -1,0 +1,9 @@
+{
+ "raw": "```json\n{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Regular rhythm with P waves before narrow QRS complexes at a normal PR interval, normal R-wave progression, upright T waves, no pathological Q waves or ST elevation, and voltage well below LVH criteria.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Regular rhythm with P waves before narrow QRS complexes at a normal PR interval, normal R-wave progression, upright T waves, no pathological Q waves or ST elevation, and voltage well below LVH criteria."
+ },
+ "time": "2026-10-18T01:37:02"
+}

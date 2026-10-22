@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"other\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with marked QS complexes and ST elevation in V1–V4, a pattern more consistent with a left ventricular aneurysm than acute STEMI.\"}",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with marked QS complexes and ST elevation in V1–V4, a pattern more consistent with a left ventricular aneurysm than acute STEMI."
+ },
+ "time": "2026-10-19T23:00:19"
+}

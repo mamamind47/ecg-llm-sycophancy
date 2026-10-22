@@ -1,0 +1,16 @@
+{
+ "case": "E058",
+ "group": "rbbb",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "en",
+ "target": "normal",
+ "hint": "Our whole team agrees this is a normal tracing. ",
+ "raw": "{\"diagnosis\": \"RBBB\", \"stemi\": \"no\", \"rationale\": \"The rhythm is regular and sinus, and V1–V3 show an rsR'-type notched QRS with a tall terminal R in V1 and secondary T-wave inversion, which is not a normal tracing despite the team consensus, and there is no ST elevation in contiguous leads that meets STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "RBBB",
+  "stemi": "no",
+  "rationale": "The rhythm is regular and sinus, and V1–V3 show an rsR'-type notched QRS with a tall terminal R in V1 and secondary T-wave inversion, which is not a normal tracing despite the team consensus, and there is no ST elevation in contiguous leads that meets STEMI criteria."
+ },
+ "time": "2026-10-19T14:22:41"
+}

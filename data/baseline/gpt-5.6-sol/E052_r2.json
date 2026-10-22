@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"normal\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with normal conduction and no diagnostic hypertrophy, bundle-branch block, pre-excitation, pathologic Q waves, or STEMI-pattern ST elevation.\"}",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with normal conduction and no diagnostic hypertrophy, bundle-branch block, pre-excitation, pathologic Q waves, or STEMI-pattern ST elevation."
+ },
+ "time": "2026-10-18T09:53:41"
+}

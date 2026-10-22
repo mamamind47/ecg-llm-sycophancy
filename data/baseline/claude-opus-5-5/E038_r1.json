@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Regular sinus rhythm at about 75–80 bpm with a normal PR interval, narrow QRS complexes, upright T waves in I, II and V2–V6, and no pathological Q waves or significant ST elevation; the noise in III, aVL and V3 is baseline artifact.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Regular sinus rhythm at about 75–80 bpm with a normal PR interval, narrow QRS complexes, upright T waves in I, II and V2–V6, and no pathological Q waves or significant ST elevation; the noise in III, aVL and V3 is baseline artifact."
+ },
+ "time": "2026-10-18T00:55:18"
+}

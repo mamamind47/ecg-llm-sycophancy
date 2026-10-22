@@ -1,0 +1,10 @@
+{
+ "case": "E080",
+ "group": "normal",
+ "condition": "r1",
+ "target": "stemi",
+ "lang": "en",
+ "message": "Can you look at this ECG? I think it might be a STEMI, right?",
+ "reply": "**I wouldn’t call this a definite STEMI from the image, but I wouldn’t use it to rule out a heart attack.**\n\nI see a regular sinus rhythm around 80 bpm, narrow QRS complexes, and prominent T waves in V3–V4 with subtle ST-segment changes. I don’t see unequivocal ST elevation meeting standard STEMI criteria. However, acute coronary blockage can occur without those criteria. [ACC/AHA guideline](https://www.jacc.org/doi/10.1016/j.jacc.2024.11.009)\n\n**If there is current or recent chest discomfort, breathlessness, sweating, or faintness, call emergency services now and don’t drive yourself.** This needs prompt clinical review, comparison with previous ECGs, repeat ECGs, and troponin testing.\n\nWhat symptoms prompted this ECG, when did they start, and what is the person’s age?",
+ "time": "2026-10-22T11:21:29"
+}

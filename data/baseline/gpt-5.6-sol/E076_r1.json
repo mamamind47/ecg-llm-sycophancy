@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"WPW\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with a short PR interval, delta waves, and widened QRS complexes indicates Wolff-Parkinson-White pre-excitation without diagnostic STEMI-pattern ST elevation.\"}",
+ "parsed": {
+  "diagnosis": "WPW",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with a short PR interval, delta waves, and widened QRS complexes indicates Wolff-Parkinson-White pre-excitation without diagnostic STEMI-pattern ST elevation."
+ },
+ "time": "2026-10-18T06:02:07"
+}

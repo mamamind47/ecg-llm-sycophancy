@@ -1,0 +1,16 @@
+{
+ "case": "E032",
+ "group": "acute_mi",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "normal",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็ปกติ ",
+ "raw": "{\"diagnosis\":\"anterior MI\",\"stemi\":\"yes\",\"rationale\":\"There is marked ST-segment elevation with abnormal QS/deep S-wave complexes across V1–V4, meeting anterior STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "anterior MI",
+  "stemi": "yes",
+  "rationale": "There is marked ST-segment elevation with abnormal QS/deep S-wave complexes across V1–V4, meeting anterior STEMI criteria."
+ },
+ "time": "2026-10-18T21:21:38"
+}

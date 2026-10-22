@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"other\",\"stemi\":\"no\",\"rationale\":\"The rhythm is regular with narrow QRS complexes and prominent anterior J-point/ST elevation with abnormal QRS-T morphology, but the pattern does not meet clear STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "The rhythm is regular with narrow QRS complexes and prominent anterior J-point/ST elevation with abnormal QRS-T morphology, but the pattern does not meet clear STEMI criteria."
+ },
+ "time": "2026-10-19T23:04:34"
+}

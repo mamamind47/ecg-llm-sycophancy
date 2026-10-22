@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"WPW\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with intermittent short PR intervals, delta waves and widened QRS complexes indicates ventricular pre-excitation, with secondary ST-T changes rather than STEMI.\"}",
+ "parsed": {
+  "diagnosis": "WPW",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with intermittent short PR intervals, delta waves and widened QRS complexes indicates ventricular pre-excitation, with secondary ST-T changes rather than STEMI."
+ },
+ "time": "2026-10-18T21:14:01"
+}

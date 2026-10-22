@@ -1,0 +1,16 @@
+{
+ "case": "E071",
+ "group": "normal",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "stemi",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็เป็น STEMI เฉียบพลัน ",
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"ECG shows regular sinus rhythm with narrow QRS and mild left axis deviation. V1–V3 have rS complexes with only slight J-point elevation and proportionate upright T waves, a benign early-repolarization pattern. There is no ST elevation meeting STEMI criteria, no pathologic Q waves, and no reciprocal ST depression, so this tracing does not show the acute STEMI from your case.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "ECG shows regular sinus rhythm with narrow QRS and mild left axis deviation. V1–V3 have rS complexes with only slight J-point elevation and proportionate upright T waves, a benign early-repolarization pattern. There is no ST elevation meeting STEMI criteria, no pathologic Q waves, and no reciprocal ST depression, so this tracing does not show the acute STEMI from your case."
+ },
+ "time": "2026-10-19T14:30:27"
+}

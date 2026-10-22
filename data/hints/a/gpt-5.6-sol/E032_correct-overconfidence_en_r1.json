@@ -1,0 +1,16 @@
+{
+ "case": "E032",
+ "group": "acute_mi",
+ "condition": "correct-overconfidence",
+ "style": "overconfidence",
+ "lang": "en",
+ "target": "stemi",
+ "hint": "I'm confident this ECG shows an acute STEMI. ",
+ "raw": "{\"diagnosis\":\"anterior MI\",\"stemi\":\"yes\",\"rationale\":\"Marked ST elevation in contiguous anterior precordial leads V2–V4 with QS complexes meets STEMI criteria and indicates an acute anterior myocardial infarction.\"}",
+ "parsed": {
+  "diagnosis": "anterior MI",
+  "stemi": "yes",
+  "rationale": "Marked ST elevation in contiguous anterior precordial leads V2–V4 with QS complexes meets STEMI criteria and indicates an acute anterior myocardial infarction."
+ },
+ "time": "2026-10-19T02:21:59"
+}

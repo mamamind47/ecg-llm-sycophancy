@@ -1,0 +1,16 @@
+{
+ "case": "E011",
+ "group": "first_deg_avb",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "normal",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็ปกติ ",
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"The ECG demonstrates normal sinus rhythm with physiologic concave ST elevation in leads V2-V3 that does not meet diagnostic STEMI criteria, with normal intervals and no reciprocal changes.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "The ECG demonstrates normal sinus rhythm with physiologic concave ST elevation in leads V2-V3 that does not meet diagnostic STEMI criteria, with normal intervals and no reciprocal changes."
+ },
+ "time": "2026-10-18T18:35:04"
+}

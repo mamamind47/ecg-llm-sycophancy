@@ -1,0 +1,8 @@
+{
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Regular sinus rhythm at about 65 bpm with a normal PR interval, narrow QRS, normal axis and R-wave progression, and no pathological Q waves or significant ST changes; the noise in I, III, aVL and V3 is baseline artifact.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Regular sinus rhythm at about 65 bpm with a normal PR interval, narrow QRS, normal axis and R-wave progression, and no pathological Q waves or significant ST changes; the noise in I, III, aVL and V3 is baseline artifact."
+ }
+}

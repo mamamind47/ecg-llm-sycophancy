@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"LVH\", \"stemi\": \"no\", \"rationale\": \"There are very deep S waves in V1-V3 (well over 35 mm combined with the tall R waves in V5-V6 and II) with a narrow QRS, and the concave ST elevation with tall T waves in V1-V3 is secondary to the voltage, with mild ST depression in V5-V6, rather than a STEMI pattern.\"}\n",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "There are very deep S waves in V1-V3 (well over 35 mm combined with the tall R waves in V5-V6 and II) with a narrow QRS, and the concave ST elevation with tall T waves in V1-V3 is secondary to the voltage, with mild ST depression in V5-V6, rather than a STEMI pattern."
+ },
+ "time": "2026-10-18T11:13:39"
+}

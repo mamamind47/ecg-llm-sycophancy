@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"LVH\", \"stemi\": \"no\", \"rationale\": \"Regular narrow-complex rhythm with very deep S waves in V2-V3 and a tall R wave in V5 (S in V3 plus R in V5 well over 35 mm), with no ST elevation meeting STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "Regular narrow-complex rhythm with very deep S waves in V2-V3 and a tall R wave in V5 (S in V3 plus R in V5 well over 35 mm), with no ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-18T01:25:51"
+}

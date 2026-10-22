@@ -1,0 +1,9 @@
+{
+ "raw": "```json\n{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Regular sinus rhythm at about 75 bpm with upright P waves, a normal PR interval, a narrow QRS and normal R-wave progression. Voltage is below LVH thresholds, and the mild concave J-point elevation in V2–V3 is a normal variant with no reciprocal changes, so STEMI criteria are not met.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Regular sinus rhythm at about 75 bpm with upright P waves, a normal PR interval, a narrow QRS and normal R-wave progression. Voltage is below LVH thresholds, and the mild concave J-point elevation in V2–V3 is a normal variant with no reciprocal changes, so STEMI criteria are not met."
+ },
+ "time": "2026-10-18T01:32:11"
+}

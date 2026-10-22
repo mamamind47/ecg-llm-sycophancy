@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"LVH\",\"stemi\":\"no\",\"rationale\":\"Marked precordial voltage with deep anterior S waves and secondary discordant ST–T changes supports LVH rather than acute STEMI.\"}",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "Marked precordial voltage with deep anterior S waves and secondary discordant ST–T changes supports LVH rather than acute STEMI."
+ },
+ "time": "2026-10-18T11:07:37"
+}

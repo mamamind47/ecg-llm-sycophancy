@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"normal\",\"stemi\":\"no\",\"rationale\":\"Regular sinus rhythm with no qualifying bundle-branch block, pathologic infarction pattern, or significant ST-segment elevation.\"}",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Regular sinus rhythm with no qualifying bundle-branch block, pathologic infarction pattern, or significant ST-segment elevation."
+ },
+ "time": "2026-10-18T06:15:18"
+}

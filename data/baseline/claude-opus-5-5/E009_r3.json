@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"anterior MI\", \"stemi\": \"yes\", \"rationale\": \"V1–V3 show QS complexes, and V2–V5 show marked convex (tombstone-like) ST elevation well above STEMI thresholds; leads I and aVL show slight ST elevation and the inferior leads show reciprocal ST changes, which fits an acute anterior STEMI.\"}\n",
+ "parsed": {
+  "diagnosis": "anterior MI",
+  "stemi": "yes",
+  "rationale": "V1–V3 show QS complexes, and V2–V5 show marked convex (tombstone-like) ST elevation well above STEMI thresholds; leads I and aVL show slight ST elevation and the inferior leads show reciprocal ST changes, which fits an acute anterior STEMI."
+ },
+ "time": "2026-10-18T12:33:00"
+}

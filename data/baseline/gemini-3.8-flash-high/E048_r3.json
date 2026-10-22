@@ -1,0 +1,9 @@
+{
+ "raw": "```json\n{\n  \"diagnosis\": \"LVH\",\n  \"stemi\": \"no\",\n  \"rationale\": \"The ECG demonstrates marked voltage criteria for left ventricular hypertrophy (S in V2 plus R in V5 exceeding 35 mm and R in aVL > 11 mm) with secondary, discordant concave ST elevation in V2–V3 that does not meet STEMI criteria.\"\n}\n```\n",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "The ECG demonstrates marked voltage criteria for left ventricular hypertrophy (S in V2 plus R in V5 exceeding 35 mm and R in aVL > 11 mm) with secondary, discordant concave ST elevation in V2–V3 that does not meet STEMI criteria."
+ },
+ "time": "2026-10-18T11:43:52"
+}

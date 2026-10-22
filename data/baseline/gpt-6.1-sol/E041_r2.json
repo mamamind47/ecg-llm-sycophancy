@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"normal\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with respiratory variation, normal conduction intervals, and no diagnostic ST elevation, pathologic Q waves, or definite ventricular hypertrophy.\"}",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with respiratory variation, normal conduction intervals, and no diagnostic ST elevation, pathologic Q waves, or definite ventricular hypertrophy."
+ },
+ "time": "2026-10-20T06:41:43"
+}

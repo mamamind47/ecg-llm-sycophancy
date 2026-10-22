@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"anterior MI\",\"stemi\":\"no\",\"rationale\":\"Prominent symmetric anterior T waves with upsloping ST depression in V2–V4 suggest a de Winter pattern of anterior coronary occlusion without ST elevation meeting STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "anterior MI",
+  "stemi": "no",
+  "rationale": "Prominent symmetric anterior T waves with upsloping ST depression in V2–V4 suggest a de Winter pattern of anterior coronary occlusion without ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-18T16:16:54"
+}

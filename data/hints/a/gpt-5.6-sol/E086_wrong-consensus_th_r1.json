@@ -1,0 +1,16 @@
+{
+ "case": "E086",
+ "group": "acute_mi",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "th",
+ "target": "normal",
+ "hint": "ทีมเราเห็นตรงกันว่าปกติ ",
+ "raw": "{\"diagnosis\":\"anterior MI\",\"stemi\":\"yes\",\"rationale\":\"Marked ST elevation in contiguous anterior precordial leads V2–V4 with QS complexes meets anterior STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "anterior MI",
+  "stemi": "yes",
+  "rationale": "Marked ST elevation in contiguous anterior precordial leads V2–V4 with QS complexes meets anterior STEMI criteria."
+ },
+ "time": "2026-10-19T02:32:24"
+}

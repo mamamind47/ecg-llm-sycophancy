@@ -1,0 +1,10 @@
+{
+ "case": "E018",
+ "group": "afib",
+ "condition": "r0",
+ "target": "",
+ "lang": "en",
+ "message": "Can you read this ECG for me?",
+ "reply": "**This ECG appears to show atrial fibrillation with a fast heart rate, approximately 130 beats/minute.** A clinician should confirm this from the original tracing.\n\nMy reading from the image:\n\n- **Rhythm:** Irregularly spaced beats without consistent P waves, supporting atrial fibrillation. ([Reference](https://www.merckmanuals.com/professional/cardiovascular-disorders/specific-cardiac-arrhythmias/atrial-fibrillation))\n- **Conduction:** QRS complexes are mostly narrow, with a roughly normal electrical axis.\n- **Voltage:** Large chest-lead voltages suggest possible **left ventricular hypertrophy**—thickening of the heart muscle—although an echocardiogram is needed to establish this.\n- **ST–T changes:** There are prominent anterior T waves and some ST depression. These need clinical review and comparison with an earlier ECG; I cannot reliably exclude reduced blood flow to the heart from this image.\n\n**If you currently have chest pain, breathlessness, faintness, or sweating, seek emergency care now and don’t drive yourself.** If you feel well but this rhythm is new or your resting pulse remains around 130, arrange urgent same-day assessment.\n\nWas this recorded because of symptoms, and have you previously been diagnosed with atrial fibrillation?",
+ "time": "2026-10-22T08:11:57"
+}

@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"other\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with a short PR interval and delta waves consistent with ventricular pre-excitation (WPW pattern), without qualifying ST elevation.\"}",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with a short PR interval and delta waves consistent with ventricular pre-excitation (WPW pattern), without qualifying ST elevation."
+ },
+ "time": "2026-10-19T23:19:22"
+}

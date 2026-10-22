@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"atrial fibrillation\", \"stemi\": \"no\", \"rationale\": \"The rhythm is irregularly irregular with narrow QRS complexes, no clear P waves and a fibrillatory baseline (best seen in leads I and III), and no lead shows significant ST elevation.\"}\n",
+ "parsed": {
+  "diagnosis": "atrial fibrillation",
+  "stemi": "no",
+  "rationale": "The rhythm is irregularly irregular with narrow QRS complexes, no clear P waves and a fibrillatory baseline (best seen in leads I and III), and no lead shows significant ST elevation."
+ },
+ "time": "2026-10-18T01:00:16"
+}

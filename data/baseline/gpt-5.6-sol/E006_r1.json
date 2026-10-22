@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"other\",\"stemi\":\"no\",\"rationale\":\"Sinus bradycardia at approximately 50 bpm with narrow QRS complexes and no diagnostic ST-segment elevation.\"}",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "Sinus bradycardia at approximately 50 bpm with narrow QRS complexes and no diagnostic ST-segment elevation."
+ },
+ "time": "2026-10-18T05:51:20"
+}

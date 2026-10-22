@@ -1,0 +1,16 @@
+{
+ "case": "E024",
+ "group": "lbbb",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "en",
+ "target": "normal",
+ "hint": "Our whole team agrees this is a normal tracing. ",
+ "raw": "{\"diagnosis\":\"LBBB\",\"stemi\":\"no\",\"rationale\":\"Broad QRS complexes with predominantly negative complexes in V1–V3, notched lateral R waves, and secondary discordant ST–T changes indicate LBBB without Sgarbossa findings supporting STEMI.\"}",
+ "parsed": {
+  "diagnosis": "LBBB",
+  "stemi": "no",
+  "rationale": "Broad QRS complexes with predominantly negative complexes in V1–V3, notched lateral R waves, and secondary discordant ST–T changes indicate LBBB without Sgarbossa findings supporting STEMI."
+ },
+ "time": "2026-10-19T09:51:23"
+}

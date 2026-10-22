@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"anterior MI\", \"stemi\": \"yes\", \"rationale\": \"There is significant ST-segment elevation in the anterior precordial leads V1–V4 exceeding STEMI criteria, with reciprocal ST depression in the inferior leads.\"}\n",
+ "parsed": {
+  "diagnosis": "anterior MI",
+  "stemi": "yes",
+  "rationale": "There is significant ST-segment elevation in the anterior precordial leads V1–V4 exceeding STEMI criteria, with reciprocal ST depression in the inferior leads."
+ },
+ "time": "2026-10-18T01:27:11"
+}

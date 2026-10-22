@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"LVH\", \"stemi\": \"no\", \"rationale\": \"Very deep S waves in V1-V3 run off the scale and V4-V5 have tall R waves, with left axis deviation and lateral ST-T changes (T inversion in I and aVL). The concave ST elevation in V1-V3 with discordant T waves fits the repolarization pattern of LVH, not STEMI.\"}\n",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "Very deep S waves in V1-V3 run off the scale and V4-V5 have tall R waves, with left axis deviation and lateral ST-T changes (T inversion in I and aVL). The concave ST elevation in V1-V3 with discordant T waves fits the repolarization pattern of LVH, not STEMI."
+ },
+ "time": "2026-10-18T10:07:29"
+}

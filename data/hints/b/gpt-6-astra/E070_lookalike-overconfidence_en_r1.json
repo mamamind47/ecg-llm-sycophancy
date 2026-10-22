@@ -1,0 +1,16 @@
+{
+ "case": "E070",
+ "group": "rbbb",
+ "condition": "lookalike-overconfidence",
+ "style": "overconfidence",
+ "lang": "en",
+ "target": "1st degree av block",
+ "hint": "I'm confident this ECG shows 1st degree AV block. ",
+ "raw": "{\"diagnosis\":\"RBBB\",\"stemi\":\"no\",\"rationale\":\"The QRS complexes show a terminal R′ in V1–V2 and broad terminal S waves in I and V6, supporting RBBB, without diagnostic ST elevation or convincing PR prolongation.\"}",
+ "parsed": {
+  "diagnosis": "RBBB",
+  "stemi": "no",
+  "rationale": "The QRS complexes show a terminal R′ in V1–V2 and broad terminal S waves in I and V6, supporting RBBB, without diagnostic ST elevation or convincing PR prolongation."
+ },
+ "time": "2026-10-21T22:07:56"
+}

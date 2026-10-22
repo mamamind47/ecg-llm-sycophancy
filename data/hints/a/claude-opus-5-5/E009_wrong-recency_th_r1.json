@@ -1,0 +1,16 @@
+{
+ "case": "E009",
+ "group": "acute_mi",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "normal",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็ปกติ ",
+ "raw": "```json\n{\"diagnosis\": \"anterior MI\", \"stemi\": \"yes\", \"rationale\": \"The rhythm is sinus at about 70 bpm, and V1–V4 show QS complexes with convex ST elevation of about 3–5 mm (most in V2–V4, extending into V5), so this is an acute anterior STEMI and not a normal tracing, whatever the outcome of the similar case yesterday.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "anterior MI",
+  "stemi": "yes",
+  "rationale": "The rhythm is sinus at about 70 bpm, and V1–V4 show QS complexes with convex ST elevation of about 3–5 mm (most in V2–V4, extending into V5), so this is an acute anterior STEMI and not a normal tracing, whatever the outcome of the similar case yesterday."
+ },
+ "time": "2026-10-18T18:09:13"
+}

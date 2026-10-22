@@ -1,0 +1,9 @@
+{
+ "raw": "```json\n{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"The rhythm is regular sinus at about 110 bpm with narrow QRS complexes and one wide premature ventricular beat. There is no bundle branch block pattern, pre-excitation or pathological Q waves, and no ST elevation that meets STEMI criteria.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "The rhythm is regular sinus at about 110 bpm with narrow QRS complexes and one wide premature ventricular beat. There is no bundle branch block pattern, pre-excitation or pathological Q waves, and no ST elevation that meets STEMI criteria."
+ },
+ "time": "2026-10-18T11:18:51"
+}

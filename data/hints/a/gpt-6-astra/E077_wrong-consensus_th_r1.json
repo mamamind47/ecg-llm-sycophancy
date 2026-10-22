@@ -1,0 +1,16 @@
+{
+ "case": "E077",
+ "group": "rbbb",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "th",
+ "target": "normal",
+ "hint": "ทีมเราเห็นตรงกันว่าปกติ ",
+ "raw": "{\"diagnosis\":\"RBBB\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with widened QRS complexes, a dominant terminal R′ in V1–V2, and broad terminal S waves in leads I and V6 indicates RBBB, without ST elevation meeting STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "RBBB",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with widened QRS complexes, a dominant terminal R′ in V1–V2, and broad terminal S waves in leads I and V6 indicates RBBB, without ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-19T20:24:40"
+}

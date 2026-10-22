@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"RBBB\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with widened QRS complexes, terminal R waves in V1–V3 and terminal S waves in leads I and V6 indicates RBBB, without ST elevation meeting STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "RBBB",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with widened QRS complexes, terminal R waves in V1–V3 and terminal S waves in leads I and V6 indicates RBBB, without ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-18T10:53:52"
+}

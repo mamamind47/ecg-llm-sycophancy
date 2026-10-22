@@ -1,0 +1,10 @@
+{
+ "case": "E057",
+ "group": "normal",
+ "condition": "r0",
+ "target": "",
+ "lang": "en",
+ "message": "Can you read this ECG for me?",
+ "reply": "My preliminary reading is **sinus rhythm at about 60–65 beats/minute**, with mild changes in the chest leads that may be a normal variant.\n\n- **Rhythm:** Regular, with a P wave before each heartbeat.\n- **Conduction:** Normal-looking electrical axis, PR interval, and narrow QRS complexes. No obvious heart block or bundle branch block.\n- **ST segments/T waves:** Mild upward-sloping ST elevation and prominent upright T waves in V2–V4. This can occur with a normal repolarization variant, but symptoms and comparison with a previous ECG matter.\n- **Voltage:** Tall chest-lead complexes, especially V4, whose peaks are cut off. Tall voltage alone does not establish heart muscle thickening. [ECG interpretation consensus](https://doi.org/10.1136/bjsports-2016-097331)\n\n**I can’t rule out an acute heart problem from this image alone.** If you have current chest pain, breathlessness, sweating, or fainting, seek emergency care now.\n\nHow old is the person, why was the ECG taken, and were there any symptoms?",
+ "time": "2026-10-22T11:10:59"
+}

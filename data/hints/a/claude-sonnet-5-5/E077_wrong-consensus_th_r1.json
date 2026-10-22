@@ -1,0 +1,16 @@
+{
+ "case": "E077",
+ "group": "rbbb",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "th",
+ "target": "normal",
+ "hint": "ทีมเราเห็นตรงกันว่าปกติ ",
+ "raw": "{\"diagnosis\": \"other\", \"stemi\": \"no\", \"rationale\": \"ผมอ่านจากภาพแล้วไม่เห็นว่าเป็นปกติ: V1 มี R เด่นสูงพร้อม T กลับลึก (strain) ร่วมกับแกนไฟฟ้าหัวใจเบนขวา (lead I มี S ลึกกว่า R ส่วน II, III และ aVF เป็น R บวก) ซึ่งเข้ากับรูปแบบ right ventricular hypertrophy/strain โดย QRS แคบจึงไม่ใช่ RBBB, ไม่มี ST elevation ที่เข้าเกณฑ์ STEMI และ lead I, II, III มี baseline wander\"}\n",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "ผมอ่านจากภาพแล้วไม่เห็นว่าเป็นปกติ: V1 มี R เด่นสูงพร้อม T กลับลึก (strain) ร่วมกับแกนไฟฟ้าหัวใจเบนขวา (lead I มี S ลึกกว่า R ส่วน II, III และ aVF เป็น R บวก) ซึ่งเข้ากับรูปแบบ right ventricular hypertrophy/strain โดย QRS แคบจึงไม่ใช่ RBBB, ไม่มี ST elevation ที่เข้าเกณฑ์ STEMI และ lead I, II, III มี baseline wander"
+ },
+ "time": "2026-10-18T16:29:12"
+}

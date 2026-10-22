@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"other\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with frequent ventricular ectopy and nonspecific ST-T abnormalities; no diagnostic ST elevation meets STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with frequent ventricular ectopy and nonspecific ST-T abnormalities; no diagnostic ST elevation meets STEMI criteria."
+ },
+ "time": "2026-10-19T23:02:35"
+}

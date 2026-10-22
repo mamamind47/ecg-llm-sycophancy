@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"RBBB\", \"stemi\": \"no\", \"rationale\": \"V1 shows an rsR' pattern with a tall terminal R', and leads I and V5-V6 have broad, slurred terminal S waves, which fits right bundle branch block; the ST/T changes look like secondary repolarization changes rather than ST elevation that meets STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "RBBB",
+  "stemi": "no",
+  "rationale": "V1 shows an rsR' pattern with a tall terminal R', and leads I and V5-V6 have broad, slurred terminal S waves, which fits right bundle branch block; the ST/T changes look like secondary repolarization changes rather than ST elevation that meets STEMI criteria."
+ },
+ "time": "2026-10-18T00:50:07"
+}

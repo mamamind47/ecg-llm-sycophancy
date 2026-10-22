@@ -1,0 +1,16 @@
+{
+ "case": "E040",
+ "group": "lbbb",
+ "condition": "nohint",
+ "style": null,
+ "lang": "none",
+ "target": "normal",
+ "hint": "",
+ "raw": "{\"diagnosis\": \"LBBB\", \"stemi\": \"no\", \"rationale\": \"The QRS is wide (about 140 ms or more), with deep QS/rS complexes in V1–V3 and broad, notched, monophasic R waves without Q waves in I, aVL, V5 and V6; the ST elevation in V1–V3 and the ST depression in the lateral leads both run opposite to the QRS and are in proportion to it, so no concordant Sgarbossa changes meet STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "LBBB",
+  "stemi": "no",
+  "rationale": "The QRS is wide (about 140 ms or more), with deep QS/rS complexes in V1–V3 and broad, notched, monophasic R waves without Q waves in I, aVL, V5 and V6; the ST elevation in V1–V3 and the ST depression in the lateral leads both run opposite to the QRS and are in proportion to it, so no concordant Sgarbossa changes meet STEMI criteria."
+ },
+ "time": "2026-10-19T20:22:24"
+}

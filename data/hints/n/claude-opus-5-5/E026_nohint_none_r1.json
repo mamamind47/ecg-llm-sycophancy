@@ -1,0 +1,16 @@
+{
+ "case": "E026",
+ "group": "rbbb",
+ "condition": "nohint",
+ "style": null,
+ "lang": "none",
+ "target": "normal",
+ "hint": "",
+ "raw": "{\"diagnosis\": \"RBBB\", \"stemi\": \"no\", \"rationale\": \"The rhythm is sinus with wide QRS complexes, showing an rSR′ (M-shaped) pattern with a dominant R′ in V1–V2, a wide slurred S wave in I and V6, and secondary ST-T changes, with no ST elevation that meets STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "RBBB",
+  "stemi": "no",
+  "rationale": "The rhythm is sinus with wide QRS complexes, showing an rSR′ (M-shaped) pattern with a dominant R′ in V1–V2, a wide slurred S wave in I and V6, and secondary ST-T changes, with no ST elevation that meets STEMI criteria."
+ },
+ "time": "2026-10-19T20:21:32"
+}

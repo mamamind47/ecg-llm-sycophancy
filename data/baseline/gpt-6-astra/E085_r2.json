@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"other\",\"stemi\":\"no\",\"rationale\":\"Sinus tachycardia with an isolated premature ventricular complex and inferolateral ST depression is present, without ST elevation meeting STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "Sinus tachycardia with an isolated premature ventricular complex and inferolateral ST depression is present, without ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-18T16:04:33"
+}

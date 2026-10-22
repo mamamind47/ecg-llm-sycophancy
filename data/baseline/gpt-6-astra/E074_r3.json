@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"anterior MI\",\"stemi\":\"yes\",\"rationale\":\"QS complexes with loss of R-wave progression and ST elevation meeting STEMI thresholds in contiguous leads V1–V4 indicate anterior myocardial infarction.\"}",
+ "parsed": {
+  "diagnosis": "anterior MI",
+  "stemi": "yes",
+  "rationale": "QS complexes with loss of R-wave progression and ST elevation meeting STEMI thresholds in contiguous leads V1–V4 indicate anterior myocardial infarction."
+ },
+ "time": "2026-10-18T21:13:20"
+}

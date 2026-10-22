@@ -1,0 +1,16 @@
+{
+ "case": "E042",
+ "group": "normal",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "en",
+ "target": "stemi",
+ "hint": "I saw a case just like this yesterday and it turned out to be an acute STEMI. ",
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Regular narrow-complex rhythm at about 75 bpm with upright P waves before each QRS, a normal PR interval and normal axis, no pathologic Q waves, and upright T waves. The only ST change is minimal J-point elevation in V2-V3, which is a normal variant and falls well short of STEMI criteria, with no reciprocal changes.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Regular narrow-complex rhythm at about 75 bpm with upright P waves before each QRS, a normal PR interval and normal axis, no pathologic Q waves, and upright T waves. The only ST change is minimal J-point elevation in V2-V3, which is a normal variant and falls well short of STEMI criteria, with no reciprocal changes."
+ },
+ "time": "2026-10-18T16:12:20"
+}

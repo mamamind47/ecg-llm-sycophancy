@@ -1,0 +1,10 @@
+{
+ "case": "E018",
+ "group": "afib",
+ "condition": "r0",
+ "target": "",
+ "lang": "en",
+ "message": "Can you read this ECG for me?",
+ "reply": "**This ECG is most consistent with atrial fibrillation with a fast ventricular rate, approximately 125–135 beats/minute.** This is a preliminary reading from the image and should be confirmed by a clinician.\n\n- **Rhythm:** Irregularly spaced beats without consistent P waves—the typical pattern of atrial fibrillation. [Reference](https://www.merckmanuals.com/professional/cardiovascular-disorders/specific-cardiac-arrhythmias/atrial-fibrillation)\n- **Conduction:** QRS complexes are mostly narrow; the electrical axis appears normal.\n- **ST/T waves:** There are some changes in the front chest leads. I don’t see a clear classic ST-elevation heart attack pattern, but this image alone cannot exclude a heart attack.\n\n**If you currently have chest pain, significant breathlessness, fainting, or new weakness/speech difficulty, seek emergency care now.** If you feel well but this rhythm is new or unexpected, arrange assessment today. Confirmed atrial fibrillation needs evaluation of heart rate, possible causes, and stroke risk.\n\nWas this ECG taken because of symptoms, and have you previously been diagnosed with atrial fibrillation?",
+ "time": "2026-10-22T10:40:38"
+}

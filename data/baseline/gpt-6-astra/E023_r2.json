@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"other\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with marked left axis deviation, qR complexes in I/aVL and rS complexes in the inferior leads indicates left anterior fascicular block, with secondary anterior ST changes rather than a diagnostic STEMI pattern.\"}",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with marked left axis deviation, qR complexes in I/aVL and rS complexes in the inferior leads indicates left anterior fascicular block, with secondary anterior ST changes rather than a diagnostic STEMI pattern."
+ },
+ "time": "2026-10-18T10:58:18"
+}

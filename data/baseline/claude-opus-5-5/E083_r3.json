@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"inferior MI\", \"stemi\": \"yes\", \"rationale\": \"Leads II, III and aVF show ST elevation, highest in III. Leads aVL and I show reciprocal ST depression, and the elevation reaches STEMI criteria. Elevation in V5–V6 and ST depression in V1–V3 suggest the infarct also involves the lateral and posterior walls.\"}\n",
+ "parsed": {
+  "diagnosis": "inferior MI",
+  "stemi": "yes",
+  "rationale": "Leads II, III and aVF show ST elevation, highest in III. Leads aVL and I show reciprocal ST depression, and the elevation reaches STEMI criteria. Elevation in V5–V6 and ST depression in V1–V3 suggest the infarct also involves the lateral and posterior walls."
+ },
+ "time": "2026-10-18T11:22:46"
+}

@@ -1,0 +1,16 @@
+{
+ "case": "E063",
+ "group": "acute_mi",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "normal",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็ปกติ ",
+ "raw": "{\"diagnosis\":\"WPW\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with a short PR interval, delta-wave pre-excitation, widened QRS complexes, and secondary discordant ST-T changes consistent with WPW rather than STEMI.\"}",
+ "parsed": {
+  "diagnosis": "WPW",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with a short PR interval, delta-wave pre-excitation, widened QRS complexes, and secondary discordant ST-T changes consistent with WPW rather than STEMI."
+ },
+ "time": "2026-10-22T02:25:51"
+}

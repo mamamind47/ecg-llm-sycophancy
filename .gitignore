@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+.DS_Store
+# raw PTB-XL files: re-downloadable from physionet.org (CC BY 4.0), see scripts/02b_download_records.sh
+data/ptbxl/records500/
+# archived earlier case sets and the unused clinician-review package
+data/cases/v1_2026-10-12/
+data/cases/v2_2026-10-18/
+# Scopus exports may not be redistributed
+data/scopus_*/
+# drafts, share packages and build output
+share/
+paper/manuscript/*.pdf
+paper/manuscript/*.aux
+paper/manuscript/*.log

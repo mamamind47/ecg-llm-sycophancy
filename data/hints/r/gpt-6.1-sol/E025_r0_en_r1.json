@@ -1,0 +1,10 @@
+{
+ "case": "E025",
+ "group": "old_mi",
+ "condition": "r0",
+ "target": "",
+ "lang": "en",
+ "message": "Can you read this ECG for me?",
+ "reply": "**This appears to show a regular sinus rhythm at about 60 beats/minute, with left axis deviation and prominent T waves in the front chest leads. It needs clinical context before being called benign.**\n\nMy approximate reading from the image:\n\n- **Rhythm:** Sinus rhythm—each heartbeat is preceded by a P wave.\n- **Intervals:** PR approximately 150–170 ms; QRS narrow, approximately 90 ms. No obvious QT prolongation.\n- **Axis/conduction:** The pattern is consistent with **left anterior fascicular block**, a delay in one branch of the heart’s electrical conduction system. [Guideline reference](https://pmc.ncbi.nlm.nih.gov/articles/PMC5137383/)\n- **ST segments/T waves:** Relatively tall, symmetric T waves in **V2–V4**, with subtle ST changes. I don’t see definite conventional ST elevation meeting heart-attack criteria, but this appearance **cannot exclude acute ischemia**. Tall anterior T waves accompanied by upsloping ST depression can represent a concerning *de Winter* pattern; this image is insufficient to confidently establish that diagnosis. [Research reference](https://pmc.ncbi.nlm.nih.gov/articles/PMC7507532/)\n\n**If this ECG was taken because of current or recent chest pressure, shortness of breath, sweating, faintness, or pain spreading to the arm/jaw, seek emergency care now and don’t drive yourself.** A clinician should compare previous ECGs and consider repeat ECGs and troponin blood tests.\n\nWhat is the person’s age, what symptoms prompted the ECG, and are symptoms happening now?",
+ "time": "2026-10-22T08:22:59"
+}

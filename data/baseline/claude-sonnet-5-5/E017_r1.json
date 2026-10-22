@@ -1,0 +1,9 @@
+{
+ "raw": "```json\n{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Regular sinus rhythm with narrow QRS complexes, normal R-wave progression and normal voltages. The mild ST elevation in V1–V3 has a concave shape with upright T waves, which fits a benign early-repolarization pattern. There are no Q waves, reciprocal changes or ST elevation meeting STEMI criteria.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Regular sinus rhythm with narrow QRS complexes, normal R-wave progression and normal voltages. The mild ST elevation in V1–V3 has a concave shape with upright T waves, which fits a benign early-repolarization pattern. There are no Q waves, reciprocal changes or ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-18T01:26:28"
+}

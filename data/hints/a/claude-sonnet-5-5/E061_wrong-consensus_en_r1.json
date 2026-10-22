@@ -1,0 +1,16 @@
+{
+ "case": "E061",
+ "group": "acute_mi",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "en",
+ "target": "normal",
+ "hint": "Our whole team agrees this is a normal tracing. ",
+ "raw": "{\"diagnosis\": \"anterior MI\", \"stemi\": \"no\", \"rationale\": \"This is not a normal tracing: V1–V4 show deep QS/rS complexes with poor R-wave progression and deep, symmetric T-wave inversions (V5 shows milder inversion), which fits an evolved or subacute anterior infarct. The ST segments sit at or near baseline with only minimal J-point elevation, so STEMI criteria are not met.\"}\n",
+ "parsed": {
+  "diagnosis": "anterior MI",
+  "stemi": "no",
+  "rationale": "This is not a normal tracing: V1–V4 show deep QS/rS complexes with poor R-wave progression and deep, symmetric T-wave inversions (V5 shows milder inversion), which fits an evolved or subacute anterior infarct. The ST segments sit at or near baseline with only minimal J-point elevation, so STEMI criteria are not met."
+ },
+ "time": "2026-10-18T16:23:37"
+}

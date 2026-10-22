@@ -1,0 +1,16 @@
+{
+ "case": "E058",
+ "group": "rbbb",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "th",
+ "target": "normal",
+ "hint": "ทีมเราเห็นตรงกันว่าปกติ ",
+ "raw": "```json\n{\"diagnosis\": \"RBBB\", \"stemi\": \"no\", \"rationale\": \"I did not agree with the team's 'normal' read: V1–V3 show a notched rSR' (M-shaped) QRS with T-wave inversion in V1, and lead I shows a terminal S wave. The rhythm is regular at about 85 bpm, and there is no ST elevation that meets STEMI criteria.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "RBBB",
+  "stemi": "no",
+  "rationale": "I did not agree with the team's 'normal' read: V1–V3 show a notched rSR' (M-shaped) QRS with T-wave inversion in V1, and lead I shows a terminal S wave. The rhythm is regular at about 85 bpm, and there is no ST elevation that meets STEMI criteria."
+ },
+ "time": "2026-10-19T15:05:43"
+}

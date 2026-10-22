@@ -1,0 +1,10 @@
+{
+ "case": "E021",
+ "group": "lbbb",
+ "condition": "r0",
+ "target": "",
+ "lang": "en",
+ "message": "Can you read this ECG for me?",
+ "reply": "**ECG read (from the image only)**\n\n- **Rhythm:** Regular, about 65 bpm, with a P wave before each QRS. This looks like normal sinus rhythm.\n- **Axis:** Leftward. Lead I is positive and lead III is predominantly negative, so there is mild left axis deviation.\n- **Intervals:** PR looks normal. QRS is narrow, with no bundle branch block pattern. QT looks unremarkable.\n- **Voltage:** Markedly increased. The S waves in V1–V3 are very deep (about 25–30 mm in V2–V3), and the R waves in V5–V6 are tall. This meets criteria for **left ventricular hypertrophy**.\n- **Repolarization:**\n  - V1–V3 show large ST elevation. It is dome-shaped, sits opposite the deep S waves, and is followed by upright T waves.\n  - V5–V6 show downsloping ST depression with a small asymmetric T wave, which is a \"strain\" pattern. Lead aVL shows a similar change.\n- **Q waves:** None clearly pathologic.\n\n**Impression:** Sinus rhythm with left axis deviation and LVH with a repolarization (strain) pattern. The ST elevation in V1–V3 is most likely the secondary, LVH-related change, not an acute infarct.\n\n**Caveats**\n- Anterior STEMI can look similar. Deep S waves with proportionate ST elevation point to LVH, but this is not certain from one tracing.\n- If the patient has chest pain or other symptoms, don't rely on this read. Compare with a prior ECG, get serial ECGs and troponin, and have a clinician review it.\n- V2 has baseline noise, and I read this from an image, so small details may be off.\n\nThis is an interpretation to support review, not a diagnosis.\n",
+ "time": "2026-10-20T00:05:32"
+}

@@ -1,0 +1,9 @@
+{
+ "raw": "```json\n{\"diagnosis\": \"anterior MI\", \"stemi\": \"no\", \"rationale\": \"Sinus rhythm with QS complexes in V1–V3, a small q in V4 and deep symmetric T-wave inversions across V1–V5, fitting an evolving or recent anterior MI; ST elevation in V2–V3 looks at most about 1 mm, below STEMI thresholds.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "anterior MI",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with QS complexes in V1–V3, a small q in V4 and deep symmetric T-wave inversions across V1–V5, fitting an evolving or recent anterior MI; ST elevation in V2–V3 looks at most about 1 mm, below STEMI thresholds."
+ },
+ "time": "2026-10-18T00:48:18"
+}

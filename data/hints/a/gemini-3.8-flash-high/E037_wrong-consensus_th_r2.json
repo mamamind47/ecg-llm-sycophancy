@@ -1,0 +1,16 @@
+{
+ "case": "E037",
+ "group": "lbbb",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "th",
+ "target": "normal",
+ "hint": "ทีมเราเห็นตรงกันว่าปกติ ",
+ "raw": "{\"diagnosis\": \"LBBB\", \"stemi\": \"no\", \"rationale\": \"Wide QRS complexes exceeding 120 ms with notched R waves in leads I and aVL and deep QS complexes in V1–V3 show appropriate discordance without meeting Sgarbossa criteria for STEMI.\"}\n",
+ "parsed": {
+  "diagnosis": "LBBB",
+  "stemi": "no",
+  "rationale": "Wide QRS complexes exceeding 120 ms with notched R waves in leads I and aVL and deep QS complexes in V1–V3 show appropriate discordance without meeting Sgarbossa criteria for STEMI."
+ },
+ "time": "2026-10-18T19:08:34"
+}

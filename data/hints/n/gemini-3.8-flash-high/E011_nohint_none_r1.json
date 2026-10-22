@@ -1,0 +1,16 @@
+{
+ "case": "E011",
+ "group": "first_deg_avb",
+ "condition": "nohint",
+ "style": null,
+ "lang": "none",
+ "target": "normal",
+ "hint": "",
+ "raw": "```json\n{\n  \"diagnosis\": \"1st degree AV block\",\n  \"stemi\": \"no\",\n  \"rationale\": \"The ECG demonstrates sinus rhythm with a prolonged PR interval of approximately 280 ms (greater than 200 ms) with 1:1 AV conduction and normal QRS duration, with no ST elevation meeting STEMI criteria.\"\n}\n```\n",
+ "parsed": {
+  "diagnosis": "1st degree AV block",
+  "stemi": "no",
+  "rationale": "The ECG demonstrates sinus rhythm with a prolonged PR interval of approximately 280 ms (greater than 200 ms) with 1:1 AV conduction and normal QRS duration, with no ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-19T20:23:39"
+}

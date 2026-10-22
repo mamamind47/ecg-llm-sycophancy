@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"RBBB\", \"stemi\": \"no\", \"rationale\": \"The QRS is wide, with an rsR' (M-shaped) pattern in V1–V2 and a broad slurred S wave in I and V6, which is typical of right bundle branch block; the only ST/T changes are secondary, and none reach STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "RBBB",
+  "stemi": "no",
+  "rationale": "The QRS is wide, with an rsR' (M-shaped) pattern in V1–V2 and a broad slurred S wave in I and V6, which is typical of right bundle branch block; the only ST/T changes are secondary, and none reach STEMI criteria."
+ },
+ "time": "2026-10-18T01:01:23"
+}

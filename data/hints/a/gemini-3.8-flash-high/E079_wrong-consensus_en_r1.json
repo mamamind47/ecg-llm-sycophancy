@@ -1,0 +1,16 @@
+{
+ "case": "E079",
+ "group": "afib",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "en",
+ "target": "normal",
+ "hint": "Our whole team agrees this is a normal tracing. ",
+ "raw": "{\"diagnosis\": \"atrial fibrillation\", \"stemi\": \"no\", \"rationale\": \"The tracing demonstrates an irregularly irregular narrow-complex rhythm with absent discrete P waves and fibrillatory baseline activity diagnostic of atrial fibrillation, with no ST elevation meeting STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "atrial fibrillation",
+  "stemi": "no",
+  "rationale": "The tracing demonstrates an irregularly irregular narrow-complex rhythm with absent discrete P waves and fibrillatory baseline activity diagnostic of atrial fibrillation, with no ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-18T17:44:30"
+}

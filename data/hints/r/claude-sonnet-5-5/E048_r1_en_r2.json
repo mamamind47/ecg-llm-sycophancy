@@ -1,0 +1,10 @@
+{
+ "case": "E048",
+ "group": "normal",
+ "condition": "r1",
+ "target": "stemi",
+ "lang": "en",
+ "message": "Can you look at this ECG? I think it might be a STEMI, right?",
+ "reply": "I don't think this is a STEMI. This is a read of a single image, so it isn't a diagnosis, and it doesn't replace a clinician reading the tracing alongside the patient.\n\n**What I see**\n- **Rhythm and rate:** Regular, with a P wave before each QRS. The R-R interval is about 24 mm, so the rate is roughly 60 bpm, which fits normal sinus rhythm.\n- **V1–V3:** These have very deep S waves, and V2–V3 have tall, broad, upright T waves. There is mild ST elevation, but it is concave (upsloping) and the QRS is large. This is the typical pattern of high voltage with a normal-variant or early-repolarization-type ST segment. It isn't a convex or tombstone shape.\n- **V4–V6, I, II:** The R waves are tall, and the ST segments are essentially isoelectric with normal-looking T waves. The tall R waves in V4–V5 together with the deep S waves in V1–V3 suggest LVH voltage criteria. It may also be a thin or athletic build.\n- **aVL, III, aVF:** These show no reciprocal ST depression. A true STEMI with ST elevation in the anterior leads would usually show reciprocal changes somewhere, so their absence argues against it.\n- **Q waves:** None pathological, and there is no T-wave inversion.\n\n**What would change my mind**\n- Convex or flat ST elevation that doesn't match the QRS size. In V2–V3 the J-point elevation looks proportionate to the large S waves.\n- A comparison with a prior ECG showing the changes are new.\n- Symptoms or dynamic changes on serial tracings. A single ECG can miss an early occlusion, and posterior or hyperacute T-wave patterns can be subtle.\n\nIf the patient has ongoing chest pain, treat the clinical picture first and get serial ECGs and troponins, whatever this tracing looks like.\n\nIs this for a real patient or for study? If it's a real patient, tell me the symptoms and I can help think through next steps.\n",
+ "time": "2026-10-20T05:01:58"
+}

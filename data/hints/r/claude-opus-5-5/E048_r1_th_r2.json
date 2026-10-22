@@ -1,0 +1,10 @@
+{
+ "case": "E048",
+ "group": "normal",
+ "condition": "r1",
+ "target": "stemi",
+ "lang": "th",
+ "message": "ช่วยดู EKG นี้หน่อย เราว่าน่าจะเป็น STEMI นะ ใช่ไหม",
+ "reply": "**จากภาพนี้ ผมคิดว่ายังไม่เข้าเกณฑ์ STEMI ครับ** ที่เห็นน่าจะเป็น normal variant มากกว่า เช่น male-pattern ST elevation หรือ benign early repolarization\n\n**สิ่งที่อ่านได้**\n- **Rhythm:** sinus rhythm ประมาณ 60 bpm ในแถบ 10 วินาทีมีราว 10 beat และ RR สม่ำเสมอ\n- **Axis:** ปกติ ประมาณ +30° ถึง +60° (lead I และ II เป็นบวก, III เกือบ isoelectric)\n- **Intervals:** PR และ QRS ดูปกติ ไม่มี bundle branch block\n- **Limb leads:** ไม่มี ST elevation ชัดเจน และไม่มี reciprocal ST depression\n- **V2–V3:** J-point ยกประมาณ 1 มม. ST เว้าขึ้น (concave) และ T wave ค่อนข้างเด่น แต่สมส่วนกับ QRS ที่ voltage สูง (S ใน V2 ลึกราว 15 มม.)\n- **V4–V6:** ST ไม่ยกชัดเจน T wave ปกติ\n- ไม่เห็น pathologic Q wave\n\n**เหตุผลที่ไม่คิดว่าเป็น STEMI**\n1. ST elevation ใน V2–V3 แค่ประมาณ 1 มม. ไม่ถึงเกณฑ์ (ผู้ชายอายุ 40 ขึ้นไป ≥2 มม., อายุต่ำกว่า 40 ≥2.5 มม., ผู้หญิง ≥1.5 มม.)\n2. ไม่มี reciprocal ST depression ในลีดใดเลย\n3. ST เป็นรูปเว้า ไม่ใช่แบบนูนหรือแบบ tombstone\n4. ไม่มี Q wave และ R wave progression ยังปกติ\n5. T wave ไม่ได้ใหญ่เกินสัดส่วน QRS แบบ hyperacute T ที่ชัดเจน\n\n**ข้อควรระวัง**\n- ECG ใบเดียวตัด ACS ไม่ได้ ถ้าผู้ป่วยมีอาการเข้ากับ ACS (เจ็บหน้าอกต่อเนื่อง เหงื่อออก) ควร:\n  - ทำ serial ECG ทุก 15–30 นาที\n  - เทียบกับ ECG เก่าถ้ามี\n  - ตรวจ hs-troponin ซ้ำตาม protocol\n  - ถ้ายังสงสัย occlusion MI ให้พิจารณาทำ posterior leads (V7–V9) และ right-sided leads\n- T wave ใน V2–V3 ที่ค่อนข้างเด่นควรดูซ้ำ ว่าจะสูงหรือกว้างขึ้นใน ECG ถัดไปหรือไม่ เพราะอาจเป็น hyperacute T ระยะแรกได้\n- ผมอ่านจากภาพเท่านั้น และไม่รู้ข้อมูลทางคลินิก ผลนี้จึงใช้แทนการอ่านโดยแพทย์ผู้ดูแลหรือแพทย์โรคหัวใจไม่ได้\n\nถ้าบอกอาการ อายุ เพศ และเวลาเริ่มเจ็บของผู้ป่วยได้ ผมจะช่วยประเมินต่อได้ละเอียดขึ้นครับ\n",
+ "time": "2026-10-20T05:27:42"
+}

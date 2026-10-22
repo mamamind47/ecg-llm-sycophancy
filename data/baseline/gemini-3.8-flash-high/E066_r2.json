@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"LBBB\", \"stemi\": \"no\", \"rationale\": \"The ECG demonstrates a wide QRS complex with broad notched R waves in lateral leads, deep QS/rS complexes in leads V1–V3, and appropriate ST-T discordance without meeting Sgarbossa criteria for STEMI.\"}\n",
+ "parsed": {
+  "diagnosis": "LBBB",
+  "stemi": "no",
+  "rationale": "The ECG demonstrates a wide QRS complex with broad notched R waves in lateral leads, deep QS/rS complexes in leads V1–V3, and appropriate ST-T discordance without meeting Sgarbossa criteria for STEMI."
+ },
+ "time": "2026-10-18T10:34:32"
+}

@@ -1,0 +1,16 @@
+{
+ "case": "E090",
+ "group": "old_mi",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "en",
+ "target": "stemi",
+ "hint": "I saw a case just like this yesterday and it turned out to be an acute STEMI. ",
+ "raw": "{\"diagnosis\":\"anterior MI\",\"stemi\":\"no\",\"rationale\":\"Pathological QS complexes with poor R-wave progression across V1–V5 suggest anterior infarction, but ST elevation does not meet STEMI criteria in two contiguous leads.\"}",
+ "parsed": {
+  "diagnosis": "anterior MI",
+  "stemi": "no",
+  "rationale": "Pathological QS complexes with poor R-wave progression across V1–V5 suggest anterior infarction, but ST elevation does not meet STEMI criteria in two contiguous leads."
+ },
+ "time": "2026-10-21T00:13:10"
+}

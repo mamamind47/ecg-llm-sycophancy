@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"RBBB\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with a markedly widened QRS showing right bundle-branch block morphology and secondary ST-T changes without diagnostic ST elevation.\"}",
+ "parsed": {
+  "diagnosis": "RBBB",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with a markedly widened QRS showing right bundle-branch block morphology and secondary ST-T changes without diagnostic ST elevation."
+ },
+ "time": "2026-10-18T06:15:27"
+}

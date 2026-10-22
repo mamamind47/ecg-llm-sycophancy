@@ -1,0 +1,16 @@
+{
+ "case": "E046",
+ "group": "normal",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "stemi",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็เป็น STEMI เฉียบพลัน ",
+ "raw": "{\"diagnosis\":\"other\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with mild nonspecific ST–T changes, without diagnostic ST elevation in two contiguous leads or a definite territorial infarction pattern.\"}",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with mild nonspecific ST–T changes, without diagnostic ST elevation in two contiguous leads or a definite territorial infarction pattern."
+ },
+ "time": "2026-10-20T19:36:09"
+}

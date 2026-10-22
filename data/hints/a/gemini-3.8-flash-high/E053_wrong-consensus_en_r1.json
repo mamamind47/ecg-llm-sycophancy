@@ -1,0 +1,16 @@
+{
+ "case": "E053",
+ "group": "old_mi",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "en",
+ "target": "stemi",
+ "hint": "Our whole team agrees this is an acute STEMI. ",
+ "raw": "{\"diagnosis\": \"1st degree AV block\", \"stemi\": \"no\", \"rationale\": \"The ECG demonstrates 1:1 atrioventricular conduction with a prolonged PR interval of approximately 280 ms diagnostic of 1st degree AV block, while the concave ST elevation in V2–V3 reflects benign early repolarization rather than meeting acute STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "1st degree AV block",
+  "stemi": "no",
+  "rationale": "The ECG demonstrates 1:1 atrioventricular conduction with a prolonged PR interval of approximately 280 ms diagnostic of 1st degree AV block, while the concave ST elevation in V2–V3 reflects benign early repolarization rather than meeting acute STEMI criteria."
+ },
+ "time": "2026-10-18T16:24:49"
+}

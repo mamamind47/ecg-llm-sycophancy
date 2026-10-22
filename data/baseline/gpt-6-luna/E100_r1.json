@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"other\",\"stemi\":\"no\",\"rationale\":\"The ECG shows sinus rhythm with a narrow QRS and marked right-axis deviation, without diagnostic ST elevation; this does not fit the listed infarction or bundle-branch diagnoses.\"}",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "The ECG shows sinus rhythm with a narrow QRS and marked right-axis deviation, without diagnostic ST elevation; this does not fit the listed infarction or bundle-branch diagnoses."
+ },
+ "time": "2026-10-19T23:02:39"
+}

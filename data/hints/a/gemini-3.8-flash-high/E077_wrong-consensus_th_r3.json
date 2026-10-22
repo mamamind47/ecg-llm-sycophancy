@@ -1,0 +1,16 @@
+{
+ "case": "E077",
+ "group": "rbbb",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "th",
+ "target": "normal",
+ "hint": "ทีมเราเห็นตรงกันว่าปกติ ",
+ "raw": "{\"diagnosis\": \"RBBB\", \"stemi\": \"no\", \"rationale\": \"There is a widened QRS complex with an rsR' pattern in leads V1-V2 and wide, slurred S waves in leads I and V6, consistent with right bundle branch block and no ST-elevation meeting STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "RBBB",
+  "stemi": "no",
+  "rationale": "There is a widened QRS complex with an rsR' pattern in leads V1-V2 and wide, slurred S waves in leads I and V6, consistent with right bundle branch block and no ST-elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-18T23:27:40"
+}

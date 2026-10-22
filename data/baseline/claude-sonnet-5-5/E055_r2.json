@@ -1,0 +1,9 @@
+{
+ "raw": "```json\n{\"diagnosis\": \"inferior MI\", \"stemi\": \"yes\", \"rationale\": \"ST elevation of about 2 mm with tall, broad T waves in II, III and aVF, with reciprocal ST depression and T inversion in aVL, in a regular sinus rhythm with no bundle branch block or pre-excitation.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "inferior MI",
+  "stemi": "yes",
+  "rationale": "ST elevation of about 2 mm with tall, broad T waves in II, III and aVF, with reciprocal ST depression and T inversion in aVL, in a regular sinus rhythm with no bundle branch block or pre-excitation."
+ },
+ "time": "2026-10-18T09:55:29"
+}

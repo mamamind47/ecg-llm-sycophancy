@@ -1,0 +1,16 @@
+{
+ "case": "E083",
+ "group": "acute_mi",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "normal",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็ปกติ ",
+ "raw": "{\"diagnosis\":\"inferior MI\",\"stemi\":\"yes\",\"rationale\":\"ST elevation in contiguous inferior leads with reciprocal ST depression in aVL and V1–V3 supports inferior STEMI with possible posterior involvement.\"}",
+ "parsed": {
+  "diagnosis": "inferior MI",
+  "stemi": "yes",
+  "rationale": "ST elevation in contiguous inferior leads with reciprocal ST depression in aVL and V1–V3 supports inferior STEMI with possible posterior involvement."
+ },
+ "time": "2026-10-21T00:08:42"
+}

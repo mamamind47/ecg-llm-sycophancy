@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"other\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with a narrow QRS and diffuse downsloping ST depression, most prominent in the lateral leads, without diagnostic ST elevation.\"}",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with a narrow QRS and diffuse downsloping ST depression, most prominent in the lateral leads, without diagnostic ST elevation."
+ },
+ "time": "2026-10-19T23:29:16"
+}

@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"inferior MI\", \"stemi\": \"yes\", \"rationale\": \"Sinus rhythm with deep QS complexes and convex ST elevation in II, III and aVF, with reciprocal ST depression in aVL, which meets the criteria for an inferior STEMI.\"}\n",
+ "parsed": {
+  "diagnosis": "inferior MI",
+  "stemi": "yes",
+  "rationale": "Sinus rhythm with deep QS complexes and convex ST elevation in II, III and aVF, with reciprocal ST depression in aVL, which meets the criteria for an inferior STEMI."
+ },
+ "time": "2026-10-18T01:35:29"
+}

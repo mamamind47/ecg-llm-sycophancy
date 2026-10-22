@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"The rhythm is regular sinus at about 70 bpm with narrow QRS complexes and normal R-wave progression; the one wide, tall beat is an isolated ectopic beat, and the other beats show no ST elevation or pathological Q waves.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "The rhythm is regular sinus at about 70 bpm with narrow QRS complexes and normal R-wave progression; the one wide, tall beat is an isolated ectopic beat, and the other beats show no ST elevation or pathological Q waves."
+ },
+ "time": "2026-10-18T09:59:49"
+}

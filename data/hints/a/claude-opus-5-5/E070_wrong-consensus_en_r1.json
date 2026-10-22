@@ -1,0 +1,16 @@
+{
+ "case": "E070",
+ "group": "rbbb",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "en",
+ "target": "normal",
+ "hint": "Our whole team agrees this is a normal tracing. ",
+ "raw": "{\"diagnosis\": \"RBBB\", \"stemi\": \"no\", \"rationale\": \"I don't read this as normal: there is a wide QRS (about 120 ms or more) with an rsR′ pattern in V1–V2 and secondary T-wave inversion there, plus wide slurred S waves in I, V5 and V6, which together make right bundle branch block, and no leads show ST elevation that meets STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "RBBB",
+  "stemi": "no",
+  "rationale": "I don't read this as normal: there is a wide QRS (about 120 ms or more) with an rsR′ pattern in V1–V2 and secondary T-wave inversion there, plus wide slurred S waves in I, V5 and V6, which together make right bundle branch block, and no leads show ST elevation that meets STEMI criteria."
+ },
+ "time": "2026-10-18T21:56:03"
+}

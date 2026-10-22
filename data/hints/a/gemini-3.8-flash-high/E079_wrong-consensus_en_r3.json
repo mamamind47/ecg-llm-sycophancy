@@ -1,0 +1,16 @@
+{
+ "case": "E079",
+ "group": "afib",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "en",
+ "target": "normal",
+ "hint": "Our whole team agrees this is a normal tracing. ",
+ "raw": "{\"diagnosis\": \"atrial fibrillation\", \"stemi\": \"no\", \"rationale\": \"The ECG demonstrates an irregularly irregular rhythm with absent P waves and fibrillatory baseline activity diagnostic of atrial fibrillation, and the mild concave ST elevation in the anterior leads does not meet STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "atrial fibrillation",
+  "stemi": "no",
+  "rationale": "The ECG demonstrates an irregularly irregular rhythm with absent P waves and fibrillatory baseline activity diagnostic of atrial fibrillation, and the mild concave ST elevation in the anterior leads does not meet STEMI criteria."
+ },
+ "time": "2026-10-18T23:36:10"
+}

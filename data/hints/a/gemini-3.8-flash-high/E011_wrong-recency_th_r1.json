@@ -1,0 +1,16 @@
+{
+ "case": "E011",
+ "group": "first_deg_avb",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "normal",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็ปกติ ",
+ "raw": "```json\n{\"diagnosis\": \"1st degree AV block\", \"stemi\": \"no\", \"rationale\": \"The ECG demonstrates a prolonged PR interval of approximately 260 ms with 1:1 AV conduction diagnostic of 1st degree AV block, while the mild concave ST elevation in the anterior leads reflects benign early repolarization and does not meet STEMI criteria.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "1st degree AV block",
+  "stemi": "no",
+  "rationale": "The ECG demonstrates a prolonged PR interval of approximately 260 ms with 1:1 AV conduction diagnostic of 1st degree AV block, while the mild concave ST elevation in the anterior leads reflects benign early repolarization and does not meet STEMI criteria."
+ },
+ "time": "2026-10-18T15:09:50"
+}

@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"RBBB\",\"stemi\":\"no\",\"rationale\":\"Widened QRS complexes with a dominant terminal R wave in V1, broad terminal S waves in I and V6, and secondary right precordial repolarization changes indicate RBBB without ST elevation meeting STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "RBBB",
+  "stemi": "no",
+  "rationale": "Widened QRS complexes with a dominant terminal R wave in V1, broad terminal S waves in I and V6, and secondary right precordial repolarization changes indicate RBBB without ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-20T11:28:52"
+}

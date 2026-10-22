@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"LVH\", \"stemi\": \"no\", \"rationale\": \"Sinus rhythm with very deep S waves in V1–V2 and very tall R waves in V4–V6 (S in V2 plus R in V5 is well over 35 mm), and the mild ST elevation in V2–V3 is the usual repolarization pattern with LVH, so it doesn't meet STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with very deep S waves in V1–V2 and very tall R waves in V4–V6 (S in V2 plus R in V5 is well over 35 mm), and the mild ST elevation in V2–V3 is the usual repolarization pattern with LVH, so it doesn't meet STEMI criteria."
+ },
+ "time": "2026-10-18T01:35:49"
+}

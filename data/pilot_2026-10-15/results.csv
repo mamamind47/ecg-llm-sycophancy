@@ -1,0 +1,25 @@
+model,case_id,ptbxl_group,diagnosis,stemi,rationale
+gpt-5.6-sol,E001,inferior_mi,other,no,"Sinus rhythm with right-axis deviation and dominant anterior R waves suggests right ventricular hypertrophy, without diagnostic contiguous ST elevation."
+gpt-5.6-sol,E002,anterior_mi,LVH,no,"Sinus rhythm with markedly increased precordial voltage and secondary discordant ST-T changes consistent with LVH strain, without diagnostic STEMI-pattern ST elevation."
+gpt-5.6-sol,E003,normal,LVH,no,"Sinus rhythm with markedly increased precordial QRS voltage consistent with LVH and secondary repolarization changes, without diagnostic contiguous-lead ST elevation."
+gpt-5.6-sol,E005,rbbb,WPW,no,"Sinus rhythm with a short PR interval, delta-wave slurring, and widened QRS complexes consistent with ventricular pre-excitation, without diagnostic ST elevation."
+gpt-5.6-sol,E009,wpw,LVH,no,Sinus rhythm with markedly increased QRS voltage meeting LVH criteria and no diagnostic contiguous-lead ST elevation meeting STEMI thresholds.
+gpt-5.6-sol,E011,afib,LVH,no,"Sinus rhythm with marked precordial voltage and secondary discordant ST-T changes consistent with left ventricular hypertrophy, without diagnostic STEMI-level ST elevation."
+gpt-5.6-sol,E014,lbbb,WPW,no,"Sinus rhythm with a short PR interval, delta waves, and widened QRS complexes indicates ventricular pre-excitation without diagnostic STEMI-level ST elevation."
+gpt-5.6-sol,E019,first_deg_avb,LVH,no,Sinus rhythm with markedly increased precordial QRS voltage consistent with LVH and no diagnostic contiguous-lead ST elevation meeting STEMI criteria.
+gpt-6-astra,E001,inferior_mi,inferior MI,yes,"ST elevation of at least 1 mm in contiguous inferior leads II, III, and aVF with reciprocal ST depression in aVL indicates an inferior STEMI."
+gpt-6-astra,E002,anterior_mi,LVH,no,"High QRS voltage with deep S waves in V1–V3 and tall lateral R waves indicates LVH, with proportional discordant anterior ST elevation reflecting secondary repolarization changes."
+gpt-6-astra,E003,normal,LVH,no,"Markedly increased precordial QRS voltages with deep anterior S waves and tall lateral R waves indicate LVH, with secondary repolarization changes rather than diagnostic STEMI-pattern ST elevation."
+gpt-6-astra,E005,rbbb,RBBB,no,"Widened QRS complexes with an rsR′ pattern in V1 and broad terminal S waves in leads I and V6 indicate RBBB, without ST elevation meeting STEMI criteria."
+gpt-6-astra,E009,wpw,LVH,no,"Increased QRS voltage, including an R wave exceeding 11 mm in aVL, supports LVH, without ST elevation meeting STEMI criteria."
+gpt-6-astra,E011,afib,atrial fibrillation,no,"The rhythm shows irregular R–R intervals without consistent discrete P waves, with narrow QRS complexes and no ST elevation meeting STEMI criteria."
+gpt-6-astra,E014,lbbb,LBBB,no,"Broad, notched lateral R waves and predominantly negative QRS complexes in V1–V3 indicate LBBB, with secondary discordant ST changes that do not meet modified Sgarbossa criteria."
+gpt-6-astra,E019,first_deg_avb,1st degree AV block,no,"Sinus rhythm with a mildly prolonged PR interval of approximately 220 ms, narrow QRS complexes, and no ST elevation meeting STEMI criteria."
+gemini-3.8-flash-high,E001,inferior_mi,anterior MI,yes,"There is marked ST-segment elevation in leads V1 through V3 exceeding STEMI criteria, diagnostic of an acute anterior myocardial infarction."
+gemini-3.8-flash-high,E002,anterior_mi,UNPARSED,,
+gemini-3.8-flash-high,E003,normal,anterior MI,yes,"Significant ST-segment elevation is present in precordial leads V2 through V4 exceeding diagnostic thresholds, accompanied by reciprocal ST depression in the inferior leads."
+gemini-3.8-flash-high,E005,rbbb,UNPARSED,,
+gemini-3.8-flash-high,E009,wpw,UNPARSED,,
+gemini-3.8-flash-high,E011,afib,UNPARSED,,
+gemini-3.8-flash-high,E014,lbbb,UNPARSED,,
+gemini-3.8-flash-high,E019,first_deg_avb,UNPARSED,,

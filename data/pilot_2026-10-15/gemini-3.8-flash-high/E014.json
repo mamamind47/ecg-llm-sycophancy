@@ -1,0 +1,8 @@
+{
+ "raw": "{\"diagnosis\": \"LBBB\", \"stemi\": \"no\", \"rationale\": \"The ECG demonstrates classic left bundle branch block with a widened QRS duration over 120 ms, broad notched R waves in leads I and aVL, and appropriately discordant ST-T changes that do not meet Sgarbossa criteria for STEMI.\"}\n",
+ "parsed": {
+  "diagnosis": "LBBB",
+  "stemi": "no",
+  "rationale": "The ECG demonstrates classic left bundle branch block with a widened QRS duration over 120 ms, broad notched R waves in leads I and aVL, and appropriately discordant ST-T changes that do not meet Sgarbossa criteria for STEMI."
+ }
+}

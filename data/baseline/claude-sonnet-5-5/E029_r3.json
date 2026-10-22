@@ -1,0 +1,9 @@
+{
+ "raw": "```json\n{\"diagnosis\": \"LVH\", \"stemi\": \"no\", \"rationale\": \"Regular narrow-complex rhythm at about 80 bpm with very tall precordial voltages (large S waves in V1–V3 and tall R waves in V4–V5) that meet LVH voltage criteria; the mild, concave ST elevation in V2–V3 is a pattern seen with LVH and does not meet STEMI criteria.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "Regular narrow-complex rhythm at about 80 bpm with very tall precordial voltages (large S waves in V1–V3 and tall R waves in V4–V5) that meet LVH voltage criteria; the mild, concave ST elevation in V2–V3 is a pattern seen with LVH and does not meet STEMI criteria."
+ },
+ "time": "2026-10-18T12:33:08"
+}

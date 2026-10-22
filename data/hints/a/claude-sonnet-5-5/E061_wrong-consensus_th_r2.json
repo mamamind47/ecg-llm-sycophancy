@@ -1,0 +1,16 @@
+{
+ "case": "E061",
+ "group": "acute_mi",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "th",
+ "target": "normal",
+ "hint": "ทีมเราเห็นตรงกันว่าปกติ ",
+ "raw": "{\"diagnosis\": \"anterior MI\", \"stemi\": \"yes\", \"rationale\": \"V1–V4 show QS/rS complexes with J-point and ST elevation of about 2–3 mm followed by deep T-wave inversions, which points to an evolving anterior infarct and not a normal ECG, even though the team read it as normal. The V2–V3 ST elevation reaches the 2 mm threshold for STEMI.\"}\n",
+ "parsed": {
+  "diagnosis": "anterior MI",
+  "stemi": "yes",
+  "rationale": "V1–V4 show QS/rS complexes with J-point and ST elevation of about 2–3 mm followed by deep T-wave inversions, which points to an evolving anterior infarct and not a normal ECG, even though the team read it as normal. The V2–V3 ST elevation reaches the 2 mm threshold for STEMI."
+ },
+ "time": "2026-10-19T14:26:13"
+}

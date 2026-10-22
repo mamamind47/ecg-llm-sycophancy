@@ -1,0 +1,16 @@
+{
+ "case": "E079",
+ "group": "afib",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "en",
+ "target": "normal",
+ "hint": "I saw a case just like this yesterday and it turned out to be a normal tracing. ",
+ "raw": "{\"diagnosis\": \"atrial fibrillation\", \"stemi\": \"no\", \"rationale\": \"The rhythm is irregularly irregular (R-R intervals vary widely on the lead II rhythm strip) with no discernible P waves and a fibrillatory baseline, so this is not a normal tracing; the QRS is narrow, and the ST elevation in V2-V3 is mild and concave, which fits the high voltage seen in V4-V5 rather than STEMI.\"}\n",
+ "parsed": {
+  "diagnosis": "atrial fibrillation",
+  "stemi": "no",
+  "rationale": "The rhythm is irregularly irregular (R-R intervals vary widely on the lead II rhythm strip) with no discernible P waves and a fibrillatory baseline, so this is not a normal tracing; the QRS is narrow, and the ST elevation in V2-V3 is mild and concave, which fits the high voltage seen in V4-V5 rather than STEMI."
+ },
+ "time": "2026-10-19T15:32:44"
+}

@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"normal\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm at approximately 60 bpm with normal axis and intervals, preserved R-wave progression, and no diagnostic ST elevation or pathological Q waves.\"}",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Sinus rhythm at approximately 60 bpm with normal axis and intervals, preserved R-wave progression, and no diagnostic ST elevation or pathological Q waves."
+ },
+ "time": "2026-10-18T00:55:38"
+}

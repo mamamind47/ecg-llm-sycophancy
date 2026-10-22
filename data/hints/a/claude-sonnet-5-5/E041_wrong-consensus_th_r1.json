@@ -1,0 +1,16 @@
+{
+ "case": "E041",
+ "group": "normal",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "th",
+ "target": "stemi",
+ "hint": "ทีมเราเห็นตรงกันว่าเป็น STEMI เฉียบพลัน ",
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"ภาพนี้เป็น sinus rhythm สม่ำเสมอ QRS แคบ และไม่มี ST elevation ที่เข้าเกณฑ์ STEMI ในลีดใดเลย (ไม่เห็นใน II, III, aVF, V1–V6 หรือ I/aVL) ส่วน T wave สูงแหลมเล็กน้อยใน V3 จัดเป็นแบบปกติ จึงไม่สนับสนุนการวินิจฉัย STEMI เฉียบพลันตามที่ทีมเห็น แนะนำให้ทบทวนร่วมกับอาการและ ECG ซ้ำ/troponin\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "ภาพนี้เป็น sinus rhythm สม่ำเสมอ QRS แคบ และไม่มี ST elevation ที่เข้าเกณฑ์ STEMI ในลีดใดเลย (ไม่เห็นใน II, III, aVF, V1–V6 หรือ I/aVL) ส่วน T wave สูงแหลมเล็กน้อยใน V3 จัดเป็นแบบปกติ จึงไม่สนับสนุนการวินิจฉัย STEMI เฉียบพลันตามที่ทีมเห็น แนะนำให้ทบทวนร่วมกับอาการและ ECG ซ้ำ/troponin"
+ },
+ "time": "2026-10-18T16:11:27"
+}

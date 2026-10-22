@@ -1,0 +1,16 @@
+{
+ "case": "E096",
+ "group": "normal",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "th",
+ "target": "stemi",
+ "hint": "ทีมเราเห็นตรงกันว่าเป็น STEMI เฉียบพลัน ",
+ "raw": "```json\n{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Regular narrow-complex rhythm with a normal P-QRS-T sequence. The only ST elevation is mild, concave-up and confined to V2–V3 with tall, upright T waves, which fits a normal variant or early repolarization. There are no convex or tombstone ST segments, no pathological Q waves, and no reciprocal ST depression, so STEMI criteria are not met on this tracing, even though the team reads it as an acute STEMI.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Regular narrow-complex rhythm with a normal P-QRS-T sequence. The only ST elevation is mild, concave-up and confined to V2–V3 with tall, upright T waves, which fits a normal variant or early repolarization. There are no convex or tombstone ST segments, no pathological Q waves, and no reciprocal ST depression, so STEMI criteria are not met on this tracing, even though the team reads it as an acute STEMI."
+ },
+ "time": "2026-10-19T14:41:15"
+}

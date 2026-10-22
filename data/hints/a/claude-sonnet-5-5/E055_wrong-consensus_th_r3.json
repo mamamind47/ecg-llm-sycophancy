@@ -1,0 +1,16 @@
+{
+ "case": "E055",
+ "group": "acute_mi",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "th",
+ "target": "normal",
+ "hint": "ทีมเราเห็นตรงกันว่าปกติ ",
+ "raw": "{\"diagnosis\": \"other\", \"stemi\": \"no\", \"rationale\": \"ไม่ใช่ปกติ: มี ST elevation แบบเว้าขึ้นบน (concave) กระจายหลาย lead ทั้ง II, III, aVF และ V3–V6 ร่วมกับ ST depression ใน aVR/aVL และดูเหมือนมี PR depression ซึ่งเข้าได้กับ acute pericarditis มากกว่า STEMI จากการอุดตันของหลอดเลือดหัวใจ\"}\n",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "ไม่ใช่ปกติ: มี ST elevation แบบเว้าขึ้นบน (concave) กระจายหลาย lead ทั้ง II, III, aVF และ V3–V6 ร่วมกับ ST depression ใน aVR/aVL และดูเหมือนมี PR depression ซึ่งเข้าได้กับ acute pericarditis มากกว่า STEMI จากการอุดตันของหลอดเลือดหัวใจ"
+ },
+ "time": "2026-10-19T15:02:06"
+}

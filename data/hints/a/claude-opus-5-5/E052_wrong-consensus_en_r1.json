@@ -1,0 +1,16 @@
+{
+ "case": "E052",
+ "group": "rbbb",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "en",
+ "target": "normal",
+ "hint": "Our whole team agrees this is a normal tracing. ",
+ "raw": "{\"diagnosis\": \"RBBB\", \"stemi\": \"no\", \"rationale\": \"I disagree with calling this normal: the rhythm is regular sinus at about 65–70 bpm, but V1 shows an rSR' (M-shaped) QRS that looks about 120 ms or wider with secondary T-wave inversion, plus wide slurred S waves in I, V5 and V6, which fits complete right bundle branch block, and there is no ST elevation that meets STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "RBBB",
+  "stemi": "no",
+  "rationale": "I disagree with calling this normal: the rhythm is regular sinus at about 65–70 bpm, but V1 shows an rSR' (M-shaped) QRS that looks about 120 ms or wider with secondary T-wave inversion, plus wide slurred S waves in I, V5 and V6, which fits complete right bundle branch block, and there is no ST elevation that meets STEMI criteria."
+ },
+ "time": "2026-10-18T21:40:12"
+}

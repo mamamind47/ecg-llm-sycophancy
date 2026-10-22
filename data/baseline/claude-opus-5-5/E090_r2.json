@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"anterior MI\", \"stemi\": \"no\", \"rationale\": \"V1–V4 show QS complexes, V5 shows Q waves, and V2–V5 show deep T-wave inversion, which points to an anterior infarction; any ST elevation in V2–V3 is minimal and does not meet STEMI voltage criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "anterior MI",
+  "stemi": "no",
+  "rationale": "V1–V4 show QS complexes, V5 shows Q waves, and V2–V5 show deep T-wave inversion, which points to an anterior infarction; any ST elevation in V2–V3 is minimal and does not meet STEMI voltage criteria."
+ },
+ "time": "2026-10-18T10:05:20"
+}

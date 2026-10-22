@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"other\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with marked right-axis deviation and a dominant R wave in V1, suggesting right ventricular hypertrophy; there is no diagnostic ST elevation.\"}",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with marked right-axis deviation and a dominant R wave in V1, suggesting right ventricular hypertrophy; there is no diagnostic ST elevation."
+ },
+ "time": "2026-10-19T23:09:59"
+}

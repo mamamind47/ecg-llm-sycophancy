@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"anterior MI\", \"stemi\": \"no\", \"rationale\": \"The rhythm is sinus at about 70 bpm with narrow QRS complexes, and V1–V3 show QS complexes with poor R-wave progression into V4, which fits an old anteroseptal infarct; there is no significant ST elevation, and the noise in leads I and III is artifact.\"}\n",
+ "parsed": {
+  "diagnosis": "anterior MI",
+  "stemi": "no",
+  "rationale": "The rhythm is sinus at about 70 bpm with narrow QRS complexes, and V1–V3 show QS complexes with poor R-wave progression into V4, which fits an old anteroseptal infarct; there is no significant ST elevation, and the noise in leads I and III is artifact."
+ },
+ "time": "2026-10-18T12:33:10"
+}

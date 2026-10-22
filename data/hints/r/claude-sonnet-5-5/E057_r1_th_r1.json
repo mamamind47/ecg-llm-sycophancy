@@ -1,0 +1,10 @@
+{
+ "case": "E057",
+ "group": "normal",
+ "condition": "r1",
+ "target": "stemi",
+ "lang": "th",
+ "message": "ช่วยดู EKG นี้หน่อย เราว่าน่าจะเป็น STEMI นะ ใช่ไหม",
+ "reply": "**ดูจากภาพแล้วไม่เข้าได้กับ STEMI** ลักษณะนี้น่าจะเป็น **early repolarization (benign)** มากกว่า แต่ต้องดูร่วมกับอาการของผู้ป่วยด้วย\n\n**สิ่งที่เห็นในภาพ**\n- **Rhythm:** regular, มี P นำหน้าทุก QRS, rate ประมาณ 60 ครั้ง/นาที (normal sinus rhythm)\n- **ST elevation:** เห็นชัดที่ V2–V4 ประมาณ 1–2 mm\n  - ST ยกแบบ **concave upward** (โค้งขึ้นเหมือนรอยยิ้ม)\n  - ต่อกับ T wave ใหญ่สูงและสมมาตร\n  - V2–V3 มี S wave ลึก ซึ่งเป็น voltage ปกติของ precordial leads ด้านขวา\n- **J-point notching:** เห็นรอยหยักที่ J point ใน V3 ซึ่งเป็นลักษณะของ early repolarization\n- **Lead อื่น:** I, II, V5, V6 มี T upright ปกติ ไม่มี ST elevation เป็นกลุ่มตาม coronary territory\n- **Reciprocal ST depression:** ไม่เห็นใน III, aVL หรือ lead ฝั่งตรงข้าม\n- **Pathologic Q wave:** ไม่เห็น\n\n**ทำไมไม่ใช่ STEMI**\n- STEMI มักมี ST ยกแบบ convex หรือ straight/tombstone และมี reciprocal change\n- ใน STEMI T wave มักไม่โตสมมาตรสวยแบบนี้ ส่วนใน early repolarization T wave มักใหญ่และสมมาตร\n- ภาพนี้ไม่มีทั้งสองอย่าง\n\n**ข้อควรระวัง**\n- ถ้าผู้ป่วยมีอาการเจ็บหน้าอกจริง ให้ทำ serial EKG (ทุก 15–30 นาที) และตรวจ troponin\n- ถ้าเทียบกับ EKG เก่าได้ จะช่วยได้มาก เพราะ early repolarization ควรไม่เปลี่ยนจากของเดิม\n- ภาพที่ส่งมาเป็นภาพถ่ายหรือภาพ scan ส่วนที่ดูละเอียดอย่าง ST ระดับ 1 mm หรือ J point อาจคลาดเคลื่อนได้\n- ถ้าอาการสงสัย ACS ชัดเจนหรือ EKG เปลี่ยนไปจากเดิม ควรปรึกษาแพทย์ที่ดูผู้ป่วยโดยตรง\n\nผู้ป่วยมีอาการอะไรและอายุเท่าไรครับ ข้อมูลนี้ช่วยประเมินให้แม่นขึ้นได้\n",
+ "time": "2026-10-20T00:21:07"
+}

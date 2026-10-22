@@ -1,0 +1,10 @@
+{
+ "case": "E052",
+ "group": "rbbb",
+ "condition": "r1",
+ "target": "normal",
+ "lang": "en",
+ "message": "Can you look at this ECG? I think it's normal, right?",
+ "reply": "# Not quite normal: it looks like right bundle branch block\n\nThe rhythm looks normal. The way the heartbeat signal spreads through the lower chambers does not.\n\n## What looks normal\n- **Rhythm:** Normal sinus rhythm at about 65–70 bpm. Each beat has a P wave before it, and the spacing between beats is regular on the lead II strip at the bottom.\n- **PR interval:** Normal, about 160–180 ms.\n- **Axis:** Probably normal. The main spike points up in leads I and II.\n- **ST segments:** I don't see clear ST elevation suggesting an acute heart attack.\n\n## What isn't normal: right bundle branch block (RBBB)\n- **V1 (and V2):** The spike has an \"M\" shape (called rSR′): a small upstroke, a dip, then a second, wider upstroke.\n- **I, V5 and V6:** The downward part at the end of each spike (the S wave) is wide and slurred.\n- **QRS width:** In V1 it looks about 120–140 ms wide, which fits complete RBBB. If careful measurement puts it under 120 ms, it would be called incomplete RBBB.\n- **T waves in V1–V2:** They point downward. This is expected with RBBB and isn't a separate finding.\n\n## What it means\n- **On its own:** RBBB is often harmless, especially in someone without symptoms, and it's common.\n- **When it matters more:**\n  - It's new compared with an older ECG.\n  - The person has chest pain, shortness of breath or fainting.\n  - It comes with other findings, such as left anterior fascicular block, which together suggest more conduction disease.\n  - There's a possible lung clot (pulmonary embolism), structural heart disease or a Brugada pattern.\n\n**Caveat:** I'm reading this from an image, so my measurements are estimates. A clinician should confirm it, ideally comparing it with a previous ECG and the person's symptoms. If this is your own ECG and you have symptoms, please contact a doctor rather than relying on this.\n",
+ "time": "2026-10-20T09:41:40"
+}

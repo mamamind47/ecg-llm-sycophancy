@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"other\",\"stemi\":\"no\",\"rationale\":\"Regular sinus rhythm with frequent ventricular pacing and a paced wide-QRS morphology; there is no diagnostic ST elevation meeting STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "Regular sinus rhythm with frequent ventricular pacing and a paced wide-QRS morphology; there is no diagnostic ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-19T23:12:18"
+}

@@ -1,0 +1,9 @@
+{
+ "raw": "```json\n{\"diagnosis\": \"anterior MI\", \"stemi\": \"yes\", \"rationale\": \"Regular narrow-complex rhythm (about 100 bpm) with marked ST elevation in V1-V3 that extends into V4, deep QS/rS complexes and poor R-wave progression in the anterior leads, plus left axis deviation, which fits an acute anterior STEMI. The ST elevation is well above 2 mm in V2-V3.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "anterior MI",
+  "stemi": "yes",
+  "rationale": "Regular narrow-complex rhythm (about 100 bpm) with marked ST elevation in V1-V3 that extends into V4, deep QS/rS complexes and poor R-wave progression in the anterior leads, plus left axis deviation, which fits an acute anterior STEMI. The ST elevation is well above 2 mm in V2-V3."
+ },
+ "time": "2026-10-18T09:51:49"
+}

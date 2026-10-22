@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"LVH\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with markedly increased QRS voltage and secondary discordant ST-T changes, without diagnostic contiguous-lead ST elevation for STEMI.\"}",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with markedly increased QRS voltage and secondary discordant ST-T changes, without diagnostic contiguous-lead ST elevation for STEMI."
+ },
+ "time": "2026-10-18T11:03:16"
+}

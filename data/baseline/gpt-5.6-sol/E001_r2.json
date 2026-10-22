@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"LVH\",\"stemi\":\"no\",\"rationale\":\"Marked precordial voltage with deep right-precordial S waves, very tall V5–V6 R waves, and lateral repolarization strain supports left ventricular hypertrophy without diagnostic ST elevation.\"}",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "Marked precordial voltage with deep right-precordial S waves, very tall V5–V6 R waves, and lateral repolarization strain supports left ventricular hypertrophy without diagnostic ST elevation."
+ },
+ "time": "2026-10-18T09:45:08"
+}

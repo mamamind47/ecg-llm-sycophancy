@@ -1,0 +1,16 @@
+{
+ "case": "E067",
+ "group": "afib",
+ "condition": "nohint",
+ "style": null,
+ "lang": "none",
+ "target": "normal",
+ "hint": "",
+ "raw": "{\"diagnosis\": \"atrial fibrillation\", \"stemi\": \"no\", \"rationale\": \"The rhythm is irregularly irregular with narrow QRS complexes, R-R intervals vary from about 0.55 to 1.05 s in the lead II strip, there are no clear P waves and the baseline is fibrillatory, with no significant ST elevation.\"}\n",
+ "parsed": {
+  "diagnosis": "atrial fibrillation",
+  "stemi": "no",
+  "rationale": "The rhythm is irregularly irregular with narrow QRS complexes, R-R intervals vary from about 0.55 to 1.05 s in the lead II strip, there are no clear P waves and the baseline is fibrillatory, with no significant ST elevation."
+ },
+ "time": "2026-10-19T20:25:20"
+}

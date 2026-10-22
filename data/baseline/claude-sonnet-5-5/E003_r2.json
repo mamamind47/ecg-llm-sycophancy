@@ -1,0 +1,9 @@
+{
+ "raw": "```json\n{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Regular narrow-complex rhythm at about 75 bpm with normal QRS width, no pathological Q waves, no ST elevation, and voltages that fall just short of LVH criteria (S in V3 plus R in V6 is about 33 mm).\"}\n```\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Regular narrow-complex rhythm at about 75 bpm with normal QRS width, no pathological Q waves, no ST elevation, and voltages that fall just short of LVH criteria (S in V3 plus R in V6 is about 33 mm)."
+ },
+ "time": "2026-10-18T09:45:34"
+}

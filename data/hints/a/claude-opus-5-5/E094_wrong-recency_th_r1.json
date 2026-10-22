@@ -1,0 +1,16 @@
+{
+ "case": "E094",
+ "group": "afib",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "normal",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็ปกติ ",
+ "raw": "```json\n{\"diagnosis\": \"atrial fibrillation\", \"stemi\": \"no\", \"rationale\": \"The rhythm is irregularly irregular with narrow QRS complexes at about 105-110 bpm, there are no clear P waves and the baseline shows fine fibrillatory waves, and no lead has significant ST elevation.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "atrial fibrillation",
+  "stemi": "no",
+  "rationale": "The rhythm is irregularly irregular with narrow QRS complexes at about 105-110 bpm, there are no clear P waves and the baseline shows fine fibrillatory waves, and no lead has significant ST elevation."
+ },
+ "time": "2026-10-19T02:32:33"
+}

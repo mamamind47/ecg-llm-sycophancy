@@ -1,0 +1,10 @@
+{
+ "case": "E025",
+ "group": "old_mi",
+ "condition": "r0",
+ "target": "",
+ "lang": "en",
+ "message": "Can you read this ECG for me?",
+ "reply": "**This ECG has concerning changes that need urgent clinical review.** My reading from the image:\n\n- **Regular sinus rhythm, about 60 beats/minute.**\n- **Left axis deviation**, with a pattern suggesting left anterior fascicular block—a delay in one branch of the heart’s electrical system.\n- **Prominent, fairly symmetric T waves in V2–V4 with some upsloping ST depression.** This raises concern for a **de Winter–type pattern**, which can indicate an acutely blocked coronary artery even without typical ST elevation. [Clinical study](https://pmc.ncbi.nlm.nih.gov/articles/PMC7507532/)\n\nThe image alone cannot confirm that diagnosis, but **I would not regard this as a normal or reassuring ECG**. It needs assessment alongside symptoms, a previous ECG, repeat tracings, and troponin blood tests.\n\n**If this is your current ECG and you have chest discomfort, breathlessness, sweating, nausea, or faintness, call emergency services now; don’t drive yourself.** If you’re already in a medical facility, alert staff immediately.\n\nWas this recorded because of symptoms, and are they happening now?",
+ "time": "2026-10-22T10:53:24"
+}

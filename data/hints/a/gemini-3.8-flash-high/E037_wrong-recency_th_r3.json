@@ -1,0 +1,16 @@
+{
+ "case": "E037",
+ "group": "lbbb",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "normal",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็ปกติ ",
+ "raw": "{\"diagnosis\": \"LBBB\", \"stemi\": \"no\", \"rationale\": \"The ECG demonstrates classic left bundle branch block with widened QRS complexes, broad notched R waves in leads I and aVL, and appropriately discordant ST elevation in V1–V3 that does not meet Sgarbossa criteria for STEMI.\"}\n",
+ "parsed": {
+  "diagnosis": "LBBB",
+  "stemi": "no",
+  "rationale": "The ECG demonstrates classic left bundle branch block with widened QRS complexes, broad notched R waves in leads I and aVL, and appropriately discordant ST elevation in V1–V3 that does not meet Sgarbossa criteria for STEMI."
+ },
+ "time": "2026-10-18T21:51:56"
+}

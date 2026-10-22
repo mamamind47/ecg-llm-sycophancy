@@ -1,0 +1,16 @@
+{
+ "case": "E070",
+ "group": "rbbb",
+ "condition": "nohint",
+ "style": null,
+ "lang": "none",
+ "target": "normal",
+ "hint": "",
+ "raw": "{\"diagnosis\":\"RBBB\",\"stemi\":\"no\",\"rationale\":\"Broad QRS complexes with dominant terminal R waves in V1–V2, terminal S waves in lateral leads, and secondary anterior ST–T changes indicate RBBB without qualifying ST elevation.\"}",
+ "parsed": {
+  "diagnosis": "RBBB",
+  "stemi": "no",
+  "rationale": "Broad QRS complexes with dominant terminal R waves in V1–V2, terminal S waves in lateral leads, and secondary anterior ST–T changes indicate RBBB without qualifying ST elevation."
+ },
+ "time": "2026-10-20T12:40:04"
+}

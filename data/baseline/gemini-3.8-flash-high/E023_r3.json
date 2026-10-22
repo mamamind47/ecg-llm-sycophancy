@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"LBBB\", \"stemi\": \"no\", \"rationale\": \"The ECG demonstrates complete left bundle branch block with wide notched R waves in lateral leads and appropriately discordant ST elevation in V1–V3 that does not meet Sgarbossa criteria for STEMI.\"}\n",
+ "parsed": {
+  "diagnosis": "LBBB",
+  "stemi": "no",
+  "rationale": "The ECG demonstrates complete left bundle branch block with wide notched R waves in lateral leads and appropriately discordant ST elevation in V1–V3 that does not meet Sgarbossa criteria for STEMI."
+ },
+ "time": "2026-10-18T11:22:39"
+}

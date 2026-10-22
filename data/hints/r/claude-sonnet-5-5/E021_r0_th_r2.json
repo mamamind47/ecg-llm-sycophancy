@@ -1,0 +1,10 @@
+{
+ "case": "E021",
+ "group": "lbbb",
+ "condition": "r0",
+ "target": "",
+ "lang": "th",
+ "message": "ช่วยอ่าน EKG นี้ให้หน่อย",
+ "reply": "## การอ่าน EKG (12-lead, 25 mm/s, 10 mm/mV)\n\nอ่านจากภาพโดยประมาณ ไม่ได้วัดด้วยเครื่องมือ\n\n**ข้อมูลพื้นฐาน**\n- **จังหวะ (Rhythm):** Regular, มี P wave นำหน้า QRS ทุกตัว (เห็นชัดใน lead II) จึงเป็น Sinus rhythm\n- **อัตราการเต้น:** ประมาณ 60–70 ครั้ง/นาที (R-R ≈ 4.5–5 ช่องใหญ่)\n- **PR interval:** ดูปกติ ไม่เห็น AV block\n- **QRS duration:** แคบ ไม่น่าเกิน 0.10–0.12 วินาที จึงไม่ใช่ BBB ชัดเจน\n- **แกนหัวใจ (Axis):** Lead I และ aVL เป็นบวก, lead III เป็นลบ และ II เป็นบวกเล็กน้อย จึงเอียงไปทาง Left axis deviation เล็กน้อย\n\n**ความผิดปกติที่เห็น**\n1. **V1–V3 มี S wave ลึกมาก** (ประมาณ 15–20 mm) ร่วมกับ **ST elevation และ T wave สูงกว้าง**\n   - ST elevation แบบนี้อยู่สวนทางกับ QRS (discordant)\n   - รูปแบบนี้ตรงกับ **LVH pattern** หรือ early repolarization มากกว่า\n2. **V5–V6 มี R wave สูง** และมี **ST depression เล็กน้อย** ลักษณะ downsloping ต่อด้วย T wave ที่แบนหรือกลับเล็กน้อย เข้าได้กับ **LV strain pattern**\n3. **V2 มี baseline noise** ที่ช่วง ST ซึ่งอาจทำให้วัด ST ผิดได้เล็กน้อย\n\n**เกณฑ์ LVH ที่ตรวจเทียบ (ประมาณจากภาพ)**\n- Sokolow-Lyon (S V1 + R V5/V6): ประมาณ 26–30 mm ยังไม่ถึง 35 mm\n- Cornell (R aVL + S V3): ประมาณ 25 mm ยังไม่ถึงเกณฑ์\n\nดังนั้นแรงดันไฟฟ้าอยู่ก้ำกึ่ง ไม่ได้เข้าเกณฑ์ชัดเจน\n\n**สรุป**\n- Sinus rhythm, rate ~65/min, mild left axis deviation\n- มี prominent S wave และ ST elevation ใน V1–V3 ร่วมกับ ST-T change ใน V5–V6 ซึ่งเข้าได้กับ **LVH with repolarization abnormality (strain)** ส่วน early repolarization ก็เป็นไปได้\n- **ควรแยกจาก acute anterior STEMI** ด้วยประวัติและอาการ เช่น เจ็บหน้าอก\n  - ถ้ามีอาการ ควรเทียบกับ EKG เก่า และ serial EKG\n  - ควรเจาะ troponin ด้วย\n  - ถ้ามี echo ช่วยยืนยัน LVH ได้\n\nข้อจำกัดคือการอ่านจากภาพ ไม่มีข้อมูลทางคลินิก (อายุ เพศ อาการ ประวัติความดัน) การแปลผลสุดท้ายจึงต้องให้แพทย์ประเมินร่วมกับผู้ป่วยจริง\n\nถ้าบอกอายุ เพศ และอาการของผู้ป่วยได้ ผมจะช่วยวิเคราะห์ให้แคบลงได้\n",
+ "time": "2026-10-20T04:51:37"
+}

@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"The rhythm is regular at about 95–100 bpm with narrow QRS complexes, normal R-wave progression and no significant ST elevation or pathological Q waves; the baseline noise looks like artifact, not fibrillatory waves, because the R-R intervals are perfectly regular.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "The rhythm is regular at about 95–100 bpm with narrow QRS complexes, normal R-wave progression and no significant ST elevation or pathological Q waves; the baseline noise looks like artifact, not fibrillatory waves, because the R-R intervals are perfectly regular."
+ },
+ "time": "2026-10-18T00:57:45"
+}

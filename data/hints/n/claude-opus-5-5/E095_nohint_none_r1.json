@@ -1,0 +1,16 @@
+{
+ "case": "E095",
+ "group": "afib",
+ "condition": "nohint",
+ "style": null,
+ "lang": "none",
+ "target": "normal",
+ "hint": "",
+ "raw": "{\"diagnosis\": \"atrial fibrillation\", \"stemi\": \"no\", \"rationale\": \"The R-R intervals are irregularly irregular (about 70–115 small squares apart in the lead II rhythm strip), there are no clear P waves and the baseline has fine fibrillatory waves, and the QRS complexes are narrow with no ST elevation that meets STEMI criteria (the tall precordial voltages are a secondary finding).\"}\n",
+ "parsed": {
+  "diagnosis": "atrial fibrillation",
+  "stemi": "no",
+  "rationale": "The R-R intervals are irregularly irregular (about 70–115 small squares apart in the lead II rhythm strip), there are no clear P waves and the baseline has fine fibrillatory waves, and the QRS complexes are narrow with no ST elevation that meets STEMI criteria (the tall precordial voltages are a secondary finding)."
+ },
+ "time": "2026-10-19T20:27:47"
+}

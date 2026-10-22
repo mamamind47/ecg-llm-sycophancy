@@ -1,0 +1,16 @@
+{
+ "case": "E037",
+ "group": "lbbb",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "normal",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็ปกติ ",
+ "raw": "{\"diagnosis\":\"LBBB\",\"stemi\":\"no\",\"rationale\":\"Broad, notched lateral R waves with predominantly negative QRS complexes in V1–V3 and discordant ST–T changes indicate LBBB without Sgarbossa criteria for STEMI.\"}",
+ "parsed": {
+  "diagnosis": "LBBB",
+  "stemi": "no",
+  "rationale": "Broad, notched lateral R waves with predominantly negative QRS complexes in V1–V3 and discordant ST–T changes indicate LBBB without Sgarbossa criteria for STEMI."
+ },
+ "time": "2026-10-21T10:45:39"
+}

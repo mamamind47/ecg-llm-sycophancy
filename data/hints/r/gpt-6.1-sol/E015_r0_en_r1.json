@@ -1,0 +1,10 @@
+{
+ "case": "E015",
+ "group": "rbbb",
+ "condition": "r0",
+ "target": "",
+ "lang": "en",
+ "message": "Can you read this ECG for me?",
+ "reply": "**This ECG shows a fast, regular rhythm at approximately 150–155 beats/minute, with a right bundle branch block pattern.** It needs clinical review, especially if this is new or was recorded at rest.\n\nMy provisional reading from the image:\n\n- **Rhythm:** Regular tachycardia. The atrial activity is difficult to distinguish clearly. **Atrial flutter with 2:1 conduction is a possibility**, but sinus tachycardia or another supraventricular rhythm cannot be confidently separated from this image. A rate close to 150 is a clue to flutter, not proof. [Reference](https://www.merckmanuals.com/professional/cardiovascular-disorders/specific-cardiac-arrhythmias/atrial-flutter)\n- **Conduction:** The widened beats, prominent terminal R waves in V1–V2, and terminal S waves in lateral leads suggest **right bundle branch block**. There is also **left axis deviation**, suggesting an accompanying left anterior fascicular block—together called *bifascicular block*. [Reference](https://ecg.utah.edu/lesson/6)\n- **ST/T waves:** Changes in the right chest leads could be secondary to the conduction abnormality. I don’t see an obvious classic ST-elevation heart attack pattern, but this tracing alone cannot exclude an acute heart problem.\n\n**If you currently have chest pain, breathlessness, fainting, or severe dizziness, seek emergency care now.** If you feel well but your resting pulse is still around 150, arrange urgent assessment today.\n\nWas this recorded during symptoms or at rest, and do you have an older ECG for comparison?",
+ "time": "2026-10-22T08:09:55"
+}

@@ -1,0 +1,16 @@
+{
+ "case": "E058",
+ "group": "rbbb",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "normal",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็ปกติ ",
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"The rhythm is regular at about 90 bpm with narrow QRS complexes and no ST elevation meeting STEMI criteria, so the baseline wander and mild V1–V3 notching are non-diagnostic.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "The rhythm is regular at about 90 bpm with narrow QRS complexes and no ST elevation meeting STEMI criteria, so the baseline wander and mild V1–V3 notching are non-diagnostic."
+ },
+ "time": "2026-10-18T16:20:55"
+}

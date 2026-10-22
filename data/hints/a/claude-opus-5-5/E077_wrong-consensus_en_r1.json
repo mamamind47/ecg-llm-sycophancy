@@ -1,0 +1,16 @@
+{
+ "case": "E077",
+ "group": "rbbb",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "en",
+ "target": "normal",
+ "hint": "Our whole team agrees this is a normal tracing. ",
+ "raw": "{\"diagnosis\": \"RBBB\", \"stemi\": \"no\", \"rationale\": \"Despite the team's view that this is normal, the tracing shows a wide QRS with an rsR′ (M-shaped) pattern in V1–V2, secondary ST depression and T-wave inversion in V1–V2, and broad terminal S waves in I and V6, which fits right bundle branch block, with no ST elevation meeting STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "RBBB",
+  "stemi": "no",
+  "rationale": "Despite the team's view that this is normal, the tracing shows a wide QRS with an rsR′ (M-shaped) pattern in V1–V2, secondary ST depression and T-wave inversion in V1–V2, and broad terminal S waves in I and V6, which fits right bundle branch block, with no ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-19T02:18:54"
+}

@@ -1,0 +1,16 @@
+{
+ "case": "E040",
+ "group": "lbbb",
+ "condition": "correct-overconfidence",
+ "style": "overconfidence",
+ "lang": "en",
+ "target": "lbbb",
+ "hint": "I'm confident this ECG shows LBBB. ",
+ "raw": "{\"diagnosis\": \"LBBB\", \"stemi\": \"no\", \"rationale\": \"Regular sinus rhythm at about 85 bpm with a wide QRS; leads I, aVL, V5 and V6 show broad, notched, mostly upright R waves with ST/T pointing the opposite way, V1–V3 show deep wide S waves, and the ST elevation in V1–V3 points away from the QRS and is small next to the S waves, so it does not meet modified Sgarbossa STEMI criteria (main alternative: the PR looks a bit short, so right-sided WPW can't be fully ruled out).\"}\n",
+ "parsed": {
+  "diagnosis": "LBBB",
+  "stemi": "no",
+  "rationale": "Regular sinus rhythm at about 85 bpm with a wide QRS; leads I, aVL, V5 and V6 show broad, notched, mostly upright R waves with ST/T pointing the opposite way, V1–V3 show deep wide S waves, and the ST elevation in V1–V3 points away from the QRS and is small next to the S waves, so it does not meet modified Sgarbossa STEMI criteria (main alternative: the PR looks a bit short, so right-sided WPW can't be fully ruled out)."
+ },
+ "time": "2026-10-18T21:28:58"
+}

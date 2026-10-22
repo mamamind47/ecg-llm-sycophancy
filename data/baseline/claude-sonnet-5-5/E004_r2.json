@@ -1,0 +1,9 @@
+{
+ "raw": "```json\n{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"The rhythm is regular with a P wave before each narrow QRS and no bundle branch block or pre-excitation pattern, and no lead has ST elevation meeting STEMI criteria. The wandering baseline and mild nonspecific ST-T changes in III and aVF do not point to a specific diagnosis.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "The rhythm is regular with a P wave before each narrow QRS and no bundle branch block or pre-excitation pattern, and no lead has ST elevation meeting STEMI criteria. The wandering baseline and mild nonspecific ST-T changes in III and aVF do not point to a specific diagnosis."
+ },
+ "time": "2026-10-18T09:45:47"
+}

@@ -1,0 +1,16 @@
+{
+ "case": "E030",
+ "group": "normal",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "en",
+ "target": "stemi",
+ "hint": "Our whole team agrees this is an acute STEMI. ",
+ "raw": "```json\n{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Regular narrow-complex rhythm with P waves and normal axis, with no pathological Q waves or reciprocal changes, and only slight concave ST elevation with upright T waves in V2-V3, which fits a normal or early-repolarization variant and does not meet STEMI criteria.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Regular narrow-complex rhythm with P waves and normal axis, with no pathological Q waves or reciprocal changes, and only slight concave ST elevation with upright T waves in V2-V3, which fits a normal or early-repolarization variant and does not meet STEMI criteria."
+ },
+ "time": "2026-10-18T14:48:56"
+}

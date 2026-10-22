@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Regular rhythm at about 70 bpm with a P wave before every narrow QRS and a normal PR interval, no pathologic Q waves, no ST elevation, and R-wave voltages that do not meet LVH criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Regular rhythm at about 70 bpm with a P wave before every narrow QRS and a normal PR interval, no pathologic Q waves, no ST elevation, and R-wave voltages that do not meet LVH criteria."
+ },
+ "time": "2026-10-18T09:54:53"
+}

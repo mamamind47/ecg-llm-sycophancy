@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"other\", \"stemi\": \"no\", \"rationale\": \"Slow, regular, narrow-QRS rhythm (about 45 bpm, consistent with sinus bradycardia) with left axis deviation (positive in I and aVL, rS in II, deep S in III and aVF, suggesting left anterior fascicular block), no pathological Q waves, no bundle branch block pattern, and no significant ST elevation.\"}\n",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "Slow, regular, narrow-QRS rhythm (about 45 bpm, consistent with sinus bradycardia) with left axis deviation (positive in I and aVL, rS in II, deep S in III and aVF, suggesting left anterior fascicular block), no pathological Q waves, no bundle branch block pattern, and no significant ST elevation."
+ },
+ "time": "2026-10-18T10:07:12"
+}

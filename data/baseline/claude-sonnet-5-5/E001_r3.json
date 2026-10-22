@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"LVH\", \"stemi\": \"no\", \"rationale\": \"Regular narrow-complex rhythm with tall R waves in V5–V6 (about 21 mm) plus deep S waves in V1–V2 (about 15 mm) giving a voltage sum over 35 mm, with lateral ST depression and T-wave flattening (strain pattern) and no significant ST elevation.\"}\n",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "Regular narrow-complex rhythm with tall R waves in V5–V6 (about 21 mm) plus deep S waves in V1–V2 (about 15 mm) giving a voltage sum over 35 mm, with lateral ST depression and T-wave flattening (strain pattern) and no significant ST elevation."
+ },
+ "time": "2026-10-18T10:03:46"
+}

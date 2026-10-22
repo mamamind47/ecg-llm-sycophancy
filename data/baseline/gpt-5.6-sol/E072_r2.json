@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"LBBB\",\"stemi\":\"no\",\"rationale\":\"Wide QRS complexes with dominant deep S/QS waves in V1–V4 and broad monophasic R waves in lateral leads with secondary discordant ST-T changes are diagnostic of LBBB without STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "LBBB",
+  "stemi": "no",
+  "rationale": "Wide QRS complexes with dominant deep S/QS waves in V1–V4 and broad monophasic R waves in lateral leads with secondary discordant ST-T changes are diagnostic of LBBB without STEMI criteria."
+ },
+ "time": "2026-10-18T09:57:09"
+}

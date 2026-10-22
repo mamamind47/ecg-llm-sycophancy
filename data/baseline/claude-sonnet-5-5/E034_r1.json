@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"other\", \"stemi\": \"no\", \"rationale\": \"Regular sinus rhythm with a marked left axis deviation (tall R in I and aVL, rS or QS in III) and deep rS complexes in V1-V3, which fits left anterior fascicular block. QRS width is not clearly wide enough for LBBB or RBBB, the voltage is borderline for LVH, and there is no ST elevation that meets STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "Regular sinus rhythm with a marked left axis deviation (tall R in I and aVL, rS or QS in III) and deep rS complexes in V1-V3, which fits left anterior fascicular block. QRS width is not clearly wide enough for LBBB or RBBB, the voltage is borderline for LVH, and there is no ST elevation that meets STEMI criteria."
+ },
+ "time": "2026-10-18T01:29:48"
+}

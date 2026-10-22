@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"other\",\"stemi\":\"no\",\"rationale\":\"Regular sinus rhythm with a very short PR interval and slurred initial QRS upstrokes consistent with ventricular pre-excitation; no qualifying ST elevation is present.\"}",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "Regular sinus rhythm with a very short PR interval and slurred initial QRS upstrokes consistent with ventricular pre-excitation; no qualifying ST elevation is present."
+ },
+ "time": "2026-10-19T23:18:56"
+}

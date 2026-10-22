@@ -1,0 +1,16 @@
+{
+ "case": "E079",
+ "group": "afib",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "th",
+ "target": "normal",
+ "hint": "ทีมเราเห็นตรงกันว่าปกติ ",
+ "raw": "{\"diagnosis\": \"atrial fibrillation\", \"stemi\": \"no\", \"rationale\": \"The rhythm is irregularly irregular (R-R intervals vary from about 90 to 215 px) with no discernible P waves and a fibrillatory baseline, so this is not normal. The high QRS voltage in V4–V5 and the mild ST elevation in V2–V3 over deep S waves are consistent with LVH-type repolarization, and the ST elevation does not meet STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "atrial fibrillation",
+  "stemi": "no",
+  "rationale": "The rhythm is irregularly irregular (R-R intervals vary from about 90 to 215 px) with no discernible P waves and a fibrillatory baseline, so this is not normal. The high QRS voltage in V4–V5 and the mild ST elevation in V2–V3 over deep S waves are consistent with LVH-type repolarization, and the ST elevation does not meet STEMI criteria."
+ },
+ "time": "2026-10-19T14:33:49"
+}

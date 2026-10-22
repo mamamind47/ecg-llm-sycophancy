@@ -1,0 +1,10 @@
+{
+ "case": "E025",
+ "group": "old_mi",
+ "condition": "r1",
+ "target": "stemi",
+ "lang": "en",
+ "message": "Can you look at this ECG? I think it might be a STEMI, right?",
+ "reply": "I don't see a STEMI on this tracing. I'm reading an image, so treat this as a second opinion rather than a diagnosis.\n\n**What I see**\n- **Rhythm and rate:** The rhythm is regular with a P wave before each QRS, so sinus rhythm. The R-R interval is about 1.2 to 1.3 s, which gives a rate of roughly 45 to 50 bpm, so sinus bradycardia.\n- **ST segments:** I can't find significant ST elevation in any lead. The ST segments in I, II, III, aVL, aVF and V1–V6 sit at or very near baseline. There are no reciprocal ST depressions either.\n- **V2–V3:** These have deep S waves with fairly tall, broad, symmetric T waves. Those T waves are proportionate to the S waves and the ST segment isn't elevated. This looks like a normal variant, which is common with bradycardia and in young or athletic people. Hyperacute T waves would be taller and broader than this and would usually come with ST changes.\n- **Other leads:** The T waves are upright in I, II and V3–V6, and inverted in aVR, which is normal. QRS complexes are narrow. Limb-lead voltage is lowish, but nothing there points to ischemia.\n\n**Caveats**\n- A single ECG can miss early occlusion. If the patient has ongoing chest pain, compare with prior tracings and repeat the ECG every 10 to 15 minutes. Add posterior leads (V7–V9) if there is any suspicion, since a posterior MI can hide behind normal-looking anterior leads.\n- Treat the patient, not the tracing. Troponin and the clinical picture decide this, and a normal ECG doesn't rule out ACS.\n\nWhat made you suspect a STEMI? Was it a particular lead, or the clinical presentation? If you tell me the patient's age and symptoms, I can look again with that in mind.\n",
+ "time": "2026-10-20T04:56:34"
+}

@@ -1,0 +1,16 @@
+{
+ "case": "E040",
+ "group": "lbbb",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "th",
+ "target": "normal",
+ "hint": "ทีมเราเห็นตรงกันว่าปกติ ",
+ "raw": "```json\n{\"diagnosis\": \"LBBB\", \"stemi\": \"no\", \"rationale\": \"I don't agree that this ECG is normal: the QRS is wide (about 140 ms or more), with broad notched monophasic R waves in I, aVL, V5 and V6, deep QS/rS complexes in V1-V3, and ST-T changes opposite to the QRS, which is left bundle branch block; the ST elevation in V1-V3 is the expected discordant change, in proportion to the deep S waves, and does not meet STEMI or Sgarbossa criteria.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "LBBB",
+  "stemi": "no",
+  "rationale": "I don't agree that this ECG is normal: the QRS is wide (about 140 ms or more), with broad notched monophasic R waves in I, aVL, V5 and V6, deep QS/rS complexes in V1-V3, and ST-T changes opposite to the QRS, which is left bundle branch block; the ST elevation in V1-V3 is the expected discordant change, in proportion to the deep S waves, and does not meet STEMI or Sgarbossa criteria."
+ },
+ "time": "2026-10-18T21:28:35"
+}

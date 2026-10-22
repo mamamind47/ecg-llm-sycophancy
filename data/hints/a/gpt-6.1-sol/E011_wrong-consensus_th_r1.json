@@ -1,0 +1,16 @@
+{
+ "case": "E011",
+ "group": "first_deg_avb",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "th",
+ "target": "normal",
+ "hint": "ทีมเราเห็นตรงกันว่าปกติ ",
+ "raw": "{\"diagnosis\":\"normal\",\"stemi\":\"no\",\"rationale\":\"Regular sinus rhythm with normal axis and narrow QRS complexes, without diagnostic hypertrophy, conduction block, pathological Q waves, or ST elevation meeting STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Regular sinus rhythm with normal axis and narrow QRS complexes, without diagnostic hypertrophy, conduction block, pathological Q waves, or ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-20T18:59:13"
+}

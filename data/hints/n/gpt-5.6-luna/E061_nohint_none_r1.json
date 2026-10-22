@@ -1,0 +1,16 @@
+{
+ "case": "E061",
+ "group": "acute_mi",
+ "condition": "nohint",
+ "style": null,
+ "lang": "none",
+ "target": "normal",
+ "hint": "",
+ "raw": "{\"diagnosis\":\"anterior MI\",\"stemi\":\"no\",\"rationale\":\"QS complexes with poor R-wave progression across V1–V4 are consistent with an anterior myocardial infarction, without diagnostic ST elevation.\"}",
+ "parsed": {
+  "diagnosis": "anterior MI",
+  "stemi": "no",
+  "rationale": "QS complexes with poor R-wave progression across V1–V4 are consistent with an anterior myocardial infarction, without diagnostic ST elevation."
+ },
+ "time": "2026-10-20T12:45:00"
+}

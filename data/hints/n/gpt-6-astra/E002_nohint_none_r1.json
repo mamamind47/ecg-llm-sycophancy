@@ -1,0 +1,16 @@
+{
+ "case": "E002",
+ "group": "acute_mi",
+ "condition": "nohint",
+ "style": null,
+ "lang": "none",
+ "target": "normal",
+ "hint": "",
+ "raw": "{\"diagnosis\":\"anterior MI\",\"stemi\":\"yes\",\"rationale\":\"Pathological QS complexes in V1–V4 with ST elevation in contiguous anterior leads and associated T-wave inversion indicate anterior myocardial infarction meeting STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "anterior MI",
+  "stemi": "yes",
+  "rationale": "Pathological QS complexes in V1–V4 with ST elevation in contiguous anterior leads and associated T-wave inversion indicate anterior myocardial infarction meeting STEMI criteria."
+ },
+ "time": "2026-10-20T13:01:42"
+}

@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"LBBB\", \"stemi\": \"no\", \"rationale\": \"The QRS is wide (about 140–160 ms), with broad notched R waves in I, aVL, V5 and V6, deep QS/rS complexes in V1–V3 and left axis deviation; the ST changes all run opposite to the QRS (discordant), so no concordant Sgarbossa criteria are met.\"}\n",
+ "parsed": {
+  "diagnosis": "LBBB",
+  "stemi": "no",
+  "rationale": "The QRS is wide (about 140–160 ms), with broad notched R waves in I, aVL, V5 and V6, deep QS/rS complexes in V1–V3 and left axis deviation; the ST changes all run opposite to the QRS (discordant), so no concordant Sgarbossa criteria are met."
+ },
+ "time": "2026-10-18T11:19:18"
+}

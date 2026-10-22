@@ -1,0 +1,16 @@
+{
+ "case": "E042",
+ "group": "normal",
+ "condition": "nohint",
+ "style": null,
+ "lang": "none",
+ "target": "stemi",
+ "hint": "",
+ "raw": "{\"diagnosis\":\"normal\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with narrow QRS complexes and mild concave anterior ST elevation consistent with a normal early-repolarization pattern, without diagnostic STEMI changes.\"}",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with narrow QRS complexes and mild concave anterior ST elevation consistent with a normal early-repolarization pattern, without diagnostic STEMI changes."
+ },
+ "time": "2026-10-20T12:50:47"
+}

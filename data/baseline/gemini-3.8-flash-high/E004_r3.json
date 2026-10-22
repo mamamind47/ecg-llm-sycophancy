@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Normal sinus rhythm at approximately 83 bpm with normal axis, normal PR and QRS intervals, and no ischemic ST-T abnormalities or criteria for STEMI.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Normal sinus rhythm at approximately 83 bpm with normal axis, normal PR and QRS intervals, and no ischemic ST-T abnormalities or criteria for STEMI."
+ },
+ "time": "2026-10-18T11:08:18"
+}

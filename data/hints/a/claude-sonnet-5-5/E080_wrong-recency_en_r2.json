@@ -1,0 +1,16 @@
+{
+ "case": "E080",
+ "group": "normal",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "en",
+ "target": "stemi",
+ "hint": "I saw a case just like this yesterday and it turned out to be an acute STEMI. ",
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"This is a regular sinus rhythm with normal PR and QRS duration and normal R-wave progression. Voltage is not enough for LVH. The T waves are upright and tall in V2–V4. ST segments are essentially isoelectric, apart from slight J-point elevation in V2–V3 that stays below STEMI thresholds. There are no reciprocal changes or Q waves.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "This is a regular sinus rhythm with normal PR and QRS duration and normal R-wave progression. Voltage is not enough for LVH. The T waves are upright and tall in V2–V4. ST segments are essentially isoelectric, apart from slight J-point elevation in V2–V3 that stays below STEMI thresholds. There are no reciprocal changes or Q waves."
+ },
+ "time": "2026-10-19T14:34:46"
+}

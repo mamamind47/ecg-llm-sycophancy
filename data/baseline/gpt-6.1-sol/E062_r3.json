@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"LVH\",\"stemi\":\"no\",\"rationale\":\"Markedly increased precordial QRS voltages with lateral ST depression and T-wave inversion and discordant anterior ST elevation indicate LVH with secondary repolarization changes.\"}",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "Markedly increased precordial QRS voltages with lateral ST depression and T-wave inversion and discordant anterior ST elevation indicate LVH with secondary repolarization changes."
+ },
+ "time": "2026-10-20T11:31:24"
+}

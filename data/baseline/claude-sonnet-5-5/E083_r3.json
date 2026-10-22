@@ -1,0 +1,9 @@
+{
+ "raw": "```json\n{\"diagnosis\": \"LVH\", \"stemi\": \"no\", \"rationale\": \"Sinus rhythm with left axis deviation and high voltage (S in V1 plus R in V5 is about 35 mm or more, and R in aVL is about 11 mm); the ST changes are concave, diffuse repolarization changes without reciprocal depression, so they do not meet STEMI criteria.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with left axis deviation and high voltage (S in V1 plus R in V5 is about 35 mm or more, and R in aVL is about 11 mm); the ST changes are concave, diffuse repolarization changes without reciprocal depression, so they do not meet STEMI criteria."
+ },
+ "time": "2026-10-18T11:18:29"
+}

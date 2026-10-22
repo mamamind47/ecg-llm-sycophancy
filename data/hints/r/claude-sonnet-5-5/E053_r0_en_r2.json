@@ -1,0 +1,10 @@
+{
+ "case": "E053",
+ "group": "old_mi",
+ "condition": "r0",
+ "target": "",
+ "lang": "en",
+ "message": "Can you read this ECG for me?",
+ "reply": "**ECG read (from the image only, not a diagnosis)**\n\n**Main findings**\n- **Rhythm:** Sinus bradycardia, regular. Every QRS has a P wave in front of it (best seen in lead II).\n- **Rate:** About 55 bpm. This is estimated from an R-R interval of about 1.1 s.\n- **Intervals:** PR looks normal, roughly 0.16 to 0.20 s. QRS is narrow, under 0.12 s. QT looks normal for the rate.\n- **Axis:** Left axis deviation. Lead I and aVL are positive, while II, III and aVF are net negative (rS pattern).\n- **Likely left anterior fascicular block:** The left axis with rS complexes in the inferior leads and a narrow QRS fits this. It is a conduction pattern, not usually dangerous on its own.\n- **Precordial leads:**\n  - There are deep S waves in V1 to V3, and the transition is late, around V3 to V4.\n  - V2 and V3 have tall, broad T waves with a slight upsloping ST segment. This is most often a normal variant or early repolarization.\n  - There is no convincing ST elevation or depression and no pathologic Q waves.\n- **Voltage:** The amplitudes are on the high side but not clearly over the LVH criteria. S in V2 is about 14 mm and R in V5 about 17 mm, which sums to about 31 mm against a threshold of 35.\n\n**Overall impression:** Sinus bradycardia with left axis deviation, probably left anterior fascicular block, and prominent anterior T waves that are probably a normal variant. I see no acute ischemia or infarction pattern.\n\n**Caveats**\n- The tall precordial T waves would matter if the patient has symptoms, a high potassium level, or chest pain. In that case, compare with an old ECG and check electrolytes.\n- This is a read from a single image, and I can't confirm calibration or lead placement. Please have a clinician confirm it against the clinical picture.\n\nIs there any clinical context, such as age, symptoms or a prior ECG? That would help me narrow the interpretation.\n",
+ "time": "2026-10-20T05:05:22"
+}

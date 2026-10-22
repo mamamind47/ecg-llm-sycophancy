@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"normal\",\"stemi\":\"no\",\"rationale\":\"The ECG shows regular sinus rhythm with normal axis, narrow QRS complexes, and no diagnostic ST elevation, pathological Q waves, or convincing hypertrophy criteria.\"}",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "The ECG shows regular sinus rhythm with normal axis, narrow QRS complexes, and no diagnostic ST elevation, pathological Q waves, or convincing hypertrophy criteria."
+ },
+ "time": "2026-10-18T21:04:06"
+}

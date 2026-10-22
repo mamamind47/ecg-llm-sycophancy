@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Regular sinus rhythm at about 75 bpm with upright P waves, a normal PR interval and a narrow QRS; the concave ST elevation with tall T waves in V2-V4 looks like benign early repolarization, with no reciprocal changes, pathologic Q waves, bundle branch block or LVH voltage.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Regular sinus rhythm at about 75 bpm with upright P waves, a normal PR interval and a narrow QRS; the concave ST elevation with tall T waves in V2-V4 looks like benign early repolarization, with no reciprocal changes, pathologic Q waves, bundle branch block or LVH voltage."
+ },
+ "time": "2026-10-18T01:41:43"
+}

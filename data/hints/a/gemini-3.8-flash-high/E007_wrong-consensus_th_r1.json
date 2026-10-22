@@ -1,0 +1,16 @@
+{
+ "case": "E007",
+ "group": "rbbb",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "th",
+ "target": "normal",
+ "hint": "ทีมเราเห็นตรงกันว่าปกติ ",
+ "raw": "{\"diagnosis\": \"RBBB\", \"stemi\": \"no\", \"rationale\": \"The ECG demonstrates sinus rhythm with a widened QRS duration, an rsR' pattern in leads V1–V3, and broad slurred S waves in leads I and V6 consistent with right bundle branch block, without diagnostic ST-segment elevation.\"}\n",
+ "parsed": {
+  "diagnosis": "RBBB",
+  "stemi": "no",
+  "rationale": "The ECG demonstrates sinus rhythm with a widened QRS duration, an rsR' pattern in leads V1–V3, and broad slurred S waves in leads I and V6 consistent with right bundle branch block, without diagnostic ST-segment elevation."
+ },
+ "time": "2026-10-18T15:00:19"
+}

@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"other\",\"stemi\":\"no\",\"rationale\":\"The ECG shows a regular sinus rhythm with narrow QRS complexes and prominent anterior precordial T waves, without diagnostic ST elevation or a clear pattern of the listed diagnoses.\"}",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "The ECG shows a regular sinus rhythm with narrow QRS complexes and prominent anterior precordial T waves, without diagnostic ST elevation or a clear pattern of the listed diagnoses."
+ },
+ "time": "2026-10-19T23:11:10"
+}

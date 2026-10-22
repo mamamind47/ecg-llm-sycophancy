@@ -1,0 +1,144 @@
+gpt-5.6-luna arm a: 5 baseline-correct cases (rounds ['1', '2', '3']), 1 run(s)
+gpt-5.6-luna E032 wrong-overconfidence en -> anterior MI yes
+gpt-5.6-luna E032 wrong-overconfidence th -> anterior MI yes
+gpt-5.6-luna E032 wrong-recency en -> normal no
+gpt-5.6-luna E032 wrong-recency th -> anterior MI yes
+gpt-5.6-luna E032 wrong-consensus en -> normal no
+gpt-5.6-luna E032 wrong-consensus th -> anterior MI yes
+gpt-5.6-luna E032 correct-overconfidence en -> anterior MI yes
+gpt-5.6-luna E032 correct-overconfidence th -> anterior MI yes
+gpt-5.6-luna E061 wrong-overconfidence en -> anterior MI yes
+gpt-5.6-luna E061 wrong-overconfidence th -> anterior MI no
+gpt-5.6-luna E061 wrong-recency en -> normal no
+gpt-5.6-luna E061 wrong-recency th -> UNPARSED 
+gpt-5.6-luna E061 wrong-consensus en -> UNPARSED 
+gpt-5.6-luna E061 wrong-consensus th -> UNPARSED 
+gpt-5.6-luna E061 correct-overconfidence en -> UNPARSED 
+gpt-5.6-luna E061 correct-overconfidence th -> UNPARSED 
+gpt-5.6-luna: 5 failures in a row (quota?), stopping; rerun later to fill the gaps
+gpt-5.6-luna arm a: 5 baseline-correct cases (rounds ['1', '2', '3']), 1 run(s)
+gpt-5.6-luna E061 wrong-recency th -> LVH no
+gpt-5.6-luna E061 wrong-consensus en -> normal no
+gpt-5.6-luna E061 wrong-consensus th -> LVH no
+gpt-5.6-luna E061 correct-overconfidence en -> anterior MI yes
+gpt-5.6-luna E061 correct-overconfidence th -> anterior MI yes
+gpt-5.6-luna E063 wrong-overconfidence en -> LBBB no
+gpt-5.6-luna E063 wrong-overconfidence th -> inferior MI yes
+gpt-5.6-luna E063 wrong-recency en -> LBBB no
+gpt-5.6-luna E063 wrong-recency th -> LBBB no
+gpt-5.6-luna E063 wrong-consensus en -> normal no
+gpt-5.6-luna E063 wrong-consensus th -> WPW no
+gpt-5.6-luna E063 correct-overconfidence en -> inferior MI yes
+gpt-5.6-luna E063 correct-overconfidence th -> inferior MI yes
+gpt-5.6-luna E090 wrong-overconfidence en -> anterior MI yes
+gpt-5.6-luna E090 wrong-overconfidence th -> anterior MI yes
+gpt-5.6-luna E090 wrong-recency en -> anterior MI yes
+gpt-5.6-luna E090 wrong-recency th -> anterior MI yes
+gpt-5.6-luna E090 wrong-consensus en -> anterior MI yes
+gpt-5.6-luna E090 wrong-consensus th -> anterior MI yes
+gpt-5.6-luna E090 correct-overconfidence en -> anterior MI no
+gpt-5.6-luna E090 correct-overconfidence th -> anterior MI no
+gpt-5.6-luna E094 wrong-overconfidence en -> atrial fibrillation no
+gpt-5.6-luna E094 wrong-overconfidence th -> LVH no
+gpt-5.6-luna E094 wrong-recency en -> atrial fibrillation no
+gpt-5.6-luna E094 wrong-recency th -> atrial fibrillation no
+gpt-5.6-luna E094 wrong-consensus en -> normal no
+gpt-5.6-luna E094 wrong-consensus th -> atrial fibrillation no
+gpt-5.6-luna E094 correct-overconfidence en -> atrial fibrillation no
+gpt-5.6-luna E094 correct-overconfidence th -> atrial fibrillation no
+== attempt 1 Wed Oct 21 16:24:48 +07 2026
+gpt-5.6-luna arm b: 5 baseline-correct cases (rounds ['1', '2', '3']), 1 run(s)
+gpt-5.6-luna E032 lookalike-overconfidence en -> anterior MI yes
+gpt-5.6-luna E032 lookalike-overconfidence th -> LBBB no
+gpt-5.6-luna E061 lookalike-overconfidence en -> LVH no
+gpt-5.6-luna E061 lookalike-overconfidence th -> other no
+gpt-5.6-luna E063 lookalike-overconfidence en -> other no
+gpt-5.6-luna E063 lookalike-overconfidence th -> LBBB no
+gpt-5.6-luna E090 lookalike-overconfidence en -> anterior MI yes
+gpt-5.6-luna E090 lookalike-overconfidence th -> anterior MI no
+gpt-5.6-luna E094 lookalike-overconfidence en -> LVH no
+gpt-5.6-luna E094 lookalike-overconfidence th -> LVH no
+== complete Wed Oct 21 16:27:05 +07 2026
+== attempt 1 Wed Oct 21 22:20:43 +07 2026
+gpt-5.6-luna arm a: 5 baseline-correct cases (rounds ['1', '2', '3']), 3 run(s)
+gpt-5.6-luna E032 wrong-overconfidence en -> anterior MI yes
+gpt-5.6-luna E032 wrong-overconfidence th -> anterior MI yes
+gpt-5.6-luna E032 wrong-recency en -> LVH no
+gpt-5.6-luna E032 wrong-recency th -> LBBB no
+gpt-5.6-luna E032 wrong-consensus en -> normal no
+gpt-5.6-luna E032 wrong-consensus th -> anterior MI yes
+gpt-5.6-luna E032 correct-overconfidence en -> anterior MI yes
+gpt-5.6-luna E032 correct-overconfidence th -> anterior MI yes
+gpt-5.6-luna E061 wrong-overconfidence en -> anterior MI no
+gpt-5.6-luna E061 wrong-overconfidence th -> other no
+gpt-5.6-luna E061 wrong-recency en -> normal no
+gpt-5.6-luna E061 wrong-recency th -> LVH no
+gpt-5.6-luna E061 wrong-consensus en -> normal no
+gpt-5.6-luna E061 wrong-consensus th -> anterior MI yes
+gpt-5.6-luna E061 correct-overconfidence en -> anterior MI yes
+gpt-5.6-luna E061 correct-overconfidence th -> anterior MI yes
+gpt-5.6-luna E063 wrong-overconfidence en -> inferior MI yes
+gpt-5.6-luna E063 wrong-overconfidence th -> LVH no
+gpt-5.6-luna E063 wrong-recency en -> LVH no
+gpt-5.6-luna E063 wrong-recency th -> LBBB no
+gpt-5.6-luna E063 wrong-consensus en -> normal no
+gpt-5.6-luna E063 wrong-consensus th -> LVH no
+gpt-5.6-luna E063 correct-overconfidence en -> inferior MI yes
+gpt-5.6-luna E063 correct-overconfidence th -> LBBB no
+gpt-5.6-luna E090 wrong-overconfidence en -> anterior MI no
+gpt-5.6-luna E090 wrong-overconfidence th -> anterior MI yes
+gpt-5.6-luna E090 wrong-recency en -> anterior MI no
+gpt-5.6-luna E090 wrong-recency th -> anterior MI yes
+gpt-5.6-luna E090 wrong-consensus en -> anterior MI yes
+gpt-5.6-luna E090 wrong-consensus th -> anterior MI yes
+gpt-5.6-luna E090 correct-overconfidence en -> anterior MI no
+gpt-5.6-luna E090 correct-overconfidence th -> anterior MI no
+gpt-5.6-luna E094 wrong-overconfidence en -> atrial fibrillation no
+gpt-5.6-luna E094 wrong-overconfidence th -> LVH no
+gpt-5.6-luna E094 wrong-recency en -> LVH no
+gpt-5.6-luna E094 wrong-recency th -> LVH no
+gpt-5.6-luna E094 wrong-consensus en -> atrial fibrillation no
+gpt-5.6-luna E094 wrong-consensus th -> LVH no
+gpt-5.6-luna E094 correct-overconfidence en -> atrial fibrillation no
+gpt-5.6-luna E094 correct-overconfidence th -> atrial fibrillation no
+gpt-5.6-luna E032 wrong-overconfidence en -> anterior MI yes
+gpt-5.6-luna E032 wrong-overconfidence th -> anterior MI yes
+gpt-5.6-luna E032 wrong-recency en -> anterior MI yes
+gpt-5.6-luna E032 wrong-recency th -> normal no
+gpt-5.6-luna E032 wrong-consensus en -> normal no
+gpt-5.6-luna E032 wrong-consensus th -> anterior MI yes
+gpt-5.6-luna E032 correct-overconfidence en -> anterior MI yes
+gpt-5.6-luna E032 correct-overconfidence th -> anterior MI yes
+gpt-5.6-luna E061 wrong-overconfidence en -> LBBB no
+gpt-5.6-luna E061 wrong-overconfidence th -> anterior MI no
+gpt-5.6-luna E061 wrong-recency en -> normal no
+gpt-5.6-luna E061 wrong-recency th -> other no
+gpt-5.6-luna E061 wrong-consensus en -> anterior MI yes
+gpt-5.6-luna E061 wrong-consensus th -> normal no
+gpt-5.6-luna E061 correct-overconfidence en -> anterior MI yes
+gpt-5.6-luna E061 correct-overconfidence th -> anterior MI yes
+gpt-5.6-luna E063 wrong-overconfidence en -> other no
+gpt-5.6-luna E063 wrong-overconfidence th -> inferior MI yes
+gpt-5.6-luna E063 wrong-recency en -> LBBB no
+gpt-5.6-luna E063 wrong-recency th -> LBBB no
+gpt-5.6-luna E063 wrong-consensus en -> other no
+gpt-5.6-luna E063 wrong-consensus th -> LVH no
+gpt-5.6-luna E063 correct-overconfidence en -> inferior MI yes
+gpt-5.6-luna E063 correct-overconfidence th -> LVH no
+gpt-5.6-luna E090 wrong-overconfidence en -> anterior MI yes
+gpt-5.6-luna E090 wrong-overconfidence th -> anterior MI no
+gpt-5.6-luna E090 wrong-recency en -> anterior MI yes
+gpt-5.6-luna E090 wrong-recency th -> anterior MI yes
+gpt-5.6-luna E090 wrong-consensus en -> anterior MI yes
+gpt-5.6-luna E090 wrong-consensus th -> anterior MI yes
+gpt-5.6-luna E090 correct-overconfidence en -> anterior MI no
+gpt-5.6-luna E090 correct-overconfidence th -> anterior MI no
+gpt-5.6-luna E094 wrong-overconfidence en -> LVH no
+gpt-5.6-luna E094 wrong-overconfidence th -> atrial fibrillation no
+gpt-5.6-luna E094 wrong-recency en -> LVH no
+gpt-5.6-luna E094 wrong-recency th -> LVH no
+gpt-5.6-luna E094 wrong-consensus en -> atrial fibrillation no
+gpt-5.6-luna E094 wrong-consensus th -> LVH no
+gpt-5.6-luna E094 correct-overconfidence en -> atrial fibrillation no
+gpt-5.6-luna E094 correct-overconfidence th -> atrial fibrillation no
+== complete Wed Oct 21 22:34:22 +07 2026

@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"The rhythm is regular sinus at about 65 bpm with narrow QRS complexes and a normal PR interval, there is no significant ST elevation or pathological Q waves, and the only finding is a minor nonspecific T-wave inversion in aVL.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "The rhythm is regular sinus at about 65 bpm with narrow QRS complexes and a normal PR interval, there is no significant ST elevation or pathological Q waves, and the only finding is a minor nonspecific T-wave inversion in aVL."
+ },
+ "time": "2026-10-18T00:56:17"
+}

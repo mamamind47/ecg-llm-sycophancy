@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"LVH\",\"stemi\":\"no\",\"rationale\":\"High QRS voltage, particularly in aVL, with lateral ST depression and T-wave inversion supports LVH with strain, without ST elevation meeting STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "High QRS voltage, particularly in aVL, with lateral ST depression and T-wave inversion supports LVH with strain, without ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-20T06:54:06"
+}

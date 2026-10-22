@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Regular rhythm at about 60 bpm with upright P waves, normal QRS width and no pathological Q waves; the small concave ST elevation in V2-V3 with upright T waves is a benign early-repolarization pattern that falls short of STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Regular rhythm at about 60 bpm with upright P waves, normal QRS width and no pathological Q waves; the small concave ST elevation in V2-V3 with upright T waves is a benign early-repolarization pattern that falls short of STEMI criteria."
+ },
+ "time": "2026-10-18T12:32:19"
+}

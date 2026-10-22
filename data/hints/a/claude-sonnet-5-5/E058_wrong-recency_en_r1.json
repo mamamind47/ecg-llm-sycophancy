@@ -1,0 +1,16 @@
+{
+ "case": "E058",
+ "group": "rbbb",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "en",
+ "target": "normal",
+ "hint": "I saw a case just like this yesterday and it turned out to be a normal tracing. ",
+ "raw": "```json\n{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"The rhythm is regular at about 90 bpm with narrow QRS complexes and no clear pathologic ST elevation, bundle branch block, pre-excitation or voltage criteria for LVH; the baseline noise and minor ST-T variation are non-diagnostic.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "The rhythm is regular at about 90 bpm with narrow QRS complexes and no clear pathologic ST elevation, bundle branch block, pre-excitation or voltage criteria for LVH; the baseline noise and minor ST-T variation are non-diagnostic."
+ },
+ "time": "2026-10-18T16:20:42"
+}

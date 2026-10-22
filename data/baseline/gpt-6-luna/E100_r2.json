@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"other\",\"stemi\":\"no\",\"rationale\":\"There is sinus rhythm with diffuse ST-segment depression and T-wave abnormalities, without diagnostic ST elevation for STEMI.\"}",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "There is sinus rhythm with diffuse ST-segment depression and T-wave abnormalities, without diagnostic ST elevation for STEMI."
+ },
+ "time": "2026-10-19T23:16:07"
+}

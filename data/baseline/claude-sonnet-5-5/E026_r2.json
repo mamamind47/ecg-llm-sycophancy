@@ -1,0 +1,9 @@
+{
+ "raw": "```json\n{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Regular rhythm with P waves before narrow QRS complexes and a normal PR interval, with no bundle-branch block pattern, delta wave, voltage criteria for LVH, pathologic Q waves or ST elevation in any lead.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Regular rhythm with P waves before narrow QRS complexes and a normal PR interval, with no bundle-branch block pattern, delta wave, voltage criteria for LVH, pathologic Q waves or ST elevation in any lead."
+ },
+ "time": "2026-10-18T09:49:52"
+}

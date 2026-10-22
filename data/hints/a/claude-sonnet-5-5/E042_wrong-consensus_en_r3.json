@@ -1,0 +1,16 @@
+{
+ "case": "E042",
+ "group": "normal",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "en",
+ "target": "stemi",
+ "hint": "Our whole team agrees this is an acute STEMI. ",
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"This is a regular sinus rhythm with narrow QRS complexes and normal axis. The only ST change is minimal J-point elevation with upsloping ST segments in V2-V3, which is a normal variant or early repolarization. There is no regional ST elevation, reciprocal depression or pathologic Q waves, so the tracing does not meet STEMI criteria despite the team's impression.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "This is a regular sinus rhythm with narrow QRS complexes and normal axis. The only ST change is minimal J-point elevation with upsloping ST segments in V2-V3, which is a normal variant or early repolarization. There is no regional ST elevation, reciprocal depression or pathologic Q waves, so the tracing does not meet STEMI criteria despite the team's impression."
+ },
+ "time": "2026-10-19T14:55:07"
+}

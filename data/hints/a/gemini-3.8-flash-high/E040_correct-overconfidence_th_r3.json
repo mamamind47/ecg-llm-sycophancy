@@ -1,0 +1,16 @@
+{
+ "case": "E040",
+ "group": "lbbb",
+ "condition": "correct-overconfidence",
+ "style": "overconfidence",
+ "lang": "th",
+ "target": "lbbb",
+ "hint": "ผมมั่นใจว่า EKG นี้เป็น LBBB ",
+ "raw": "{\"diagnosis\": \"LBBB\", \"stemi\": \"no\", \"rationale\": \"The ECG shows a widened QRS complex (>120 ms) with broad monophasic R waves in lateral leads (I, aVL, V5, V6) and deep S waves in anterior leads (V1–V3) with appropriately discordant ST elevation that does not meet Sgarbossa criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "LBBB",
+  "stemi": "no",
+  "rationale": "The ECG shows a widened QRS complex (>120 ms) with broad monophasic R waves in lateral leads (I, aVL, V5, V6) and deep S waves in anterior leads (V1–V3) with appropriately discordant ST elevation that does not meet Sgarbossa criteria."
+ },
+ "time": "2026-10-18T22:12:53"
+}

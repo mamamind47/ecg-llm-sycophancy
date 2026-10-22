@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"RBBB\", \"stemi\": \"no\", \"rationale\": \"Regular sinus rhythm with an rSR' pattern in V1–V2, secondary ST depression and T inversion in V1–V2, and a terminal S wave in lead I, with no ST elevation meeting STEMI criteria. The QRS looks borderline in width, so this may be incomplete RBBB.\"}\n",
+ "parsed": {
+  "diagnosis": "RBBB",
+  "stemi": "no",
+  "rationale": "Regular sinus rhythm with an rSR' pattern in V1–V2, secondary ST depression and T inversion in V1–V2, and a terminal S wave in lead I, with no ST elevation meeting STEMI criteria. The QRS looks borderline in width, so this may be incomplete RBBB."
+ },
+ "time": "2026-10-18T01:28:08"
+}

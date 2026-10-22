@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Regular sinus rhythm at about 85-90 bpm with normal PR and a narrow QRS; the high precordial voltages with concave J-point/ST elevation and upright T waves in V2-V4 fit a normal early-repolarization variant, with no reciprocal changes or Q waves, so it does not meet STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Regular sinus rhythm at about 85-90 bpm with normal PR and a narrow QRS; the high precordial voltages with concave J-point/ST elevation and upright T waves in V2-V4 fit a normal early-repolarization variant, with no reciprocal changes or Q waves, so it does not meet STEMI criteria."
+ },
+ "time": "2026-10-18T01:33:53"
+}

@@ -1,0 +1,16 @@
+{
+ "case": "E050",
+ "group": "normal",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "en",
+ "target": "stemi",
+ "hint": "I saw a case just like this yesterday and it turned out to be an acute STEMI. ",
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"The tracing shows sinus rhythm at roughly 60–70 bpm with narrow QRS complexes, normal R-wave progression and upright T waves; V2–V3 have only slight concave J-point elevation, which falls within normal limits, so no two contiguous leads meet STEMI criteria (the limb leads have baseline wander and noise, but no real ST elevation).\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "The tracing shows sinus rhythm at roughly 60–70 bpm with narrow QRS complexes, normal R-wave progression and upright T waves; V2–V3 have only slight concave J-point elevation, which falls within normal limits, so no two contiguous leads meet STEMI criteria (the limb leads have baseline wander and noise, but no real ST elevation)."
+ },
+ "time": "2026-10-18T21:37:54"
+}

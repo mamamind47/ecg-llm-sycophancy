@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Regular sinus rhythm at about 70–75 bpm with normal PR, narrow QRS, normal axis and no pathologic Q waves or significant ST elevation; the only abnormality is a single isolated PVC (seen in V1–V3 and the rhythm strip), and the limb leads are noisy from baseline artifact.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Regular sinus rhythm at about 70–75 bpm with normal PR, narrow QRS, normal axis and no pathologic Q waves or significant ST elevation; the only abnormality is a single isolated PVC (seen in V1–V3 and the rhythm strip), and the limb leads are noisy from baseline artifact."
+ },
+ "time": "2026-10-18T01:03:17"
+}

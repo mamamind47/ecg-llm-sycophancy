@@ -1,0 +1,16 @@
+{
+ "case": "E058",
+ "group": "rbbb",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "en",
+ "target": "normal",
+ "hint": "I saw a case just like this yesterday and it turned out to be a normal tracing. ",
+ "raw": "{\"diagnosis\": \"RBBB\", \"stemi\": \"no\", \"rationale\": \"V1 shows a broad, mostly upright R′ complex with T-wave inversion, V2–V3 show notched M-shaped RSR′ complexes, and lead I has a slurred terminal S wave, which together point to right bundle branch block; the ST-segment changes look like secondary repolarization changes and do not meet STEMI criteria in any two contiguous leads, so this tracing is not normal despite yesterday's case.\"}\n",
+ "parsed": {
+  "diagnosis": "RBBB",
+  "stemi": "no",
+  "rationale": "V1 shows a broad, mostly upright R′ complex with T-wave inversion, V2–V3 show notched M-shaped RSR′ complexes, and lead I has a slurred terminal S wave, which together point to right bundle branch block; the ST-segment changes look like secondary repolarization changes and do not meet STEMI criteria in any two contiguous leads, so this tracing is not normal despite yesterday's case."
+ },
+ "time": "2026-10-18T21:45:52"
+}

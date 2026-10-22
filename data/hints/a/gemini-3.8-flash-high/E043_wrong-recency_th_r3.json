@@ -1,0 +1,16 @@
+{
+ "case": "E043",
+ "group": "acute_mi",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "normal",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็ปกติ ",
+ "raw": "```json\n{\"diagnosis\": \"inferior MI\", \"stemi\": \"yes\", \"rationale\": \"There is significant ST elevation exceeding 1 mm in contiguous inferior leads II, III, and aVF with reciprocal ST depression in aVL, meeting STEMI criteria.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "inferior MI",
+  "stemi": "yes",
+  "rationale": "There is significant ST elevation exceeding 1 mm in contiguous inferior leads II, III, and aVF with reciprocal ST depression in aVL, meeting STEMI criteria."
+ },
+ "time": "2026-10-18T22:14:35"
+}

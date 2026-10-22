@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"other\", \"stemi\": \"no\", \"rationale\": \"Sinus rhythm at about 70 bpm with normal PR and narrow QRS; there is marked left axis deviation, with qR in I/aVL and rS in II, III and aVF, which fits a left anterior fascicular block rather than inferior Q-wave MI, and the slight J-point elevation with prominent T waves in V2–V3 does not meet STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "Sinus rhythm at about 70 bpm with normal PR and narrow QRS; there is marked left axis deviation, with qR in I/aVL and rS in II, III and aVF, which fits a left anterior fascicular block rather than inferior Q-wave MI, and the slight J-point elevation with prominent T waves in V2–V3 does not meet STEMI criteria."
+ },
+ "time": "2026-10-18T00:58:23"
+}

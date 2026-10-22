@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"1st degree AV block\", \"stemi\": \"no\", \"rationale\": \"The rhythm is sinus at about 55–60 bpm, and every P wave is followed by a narrow QRS after a fixed PR interval of roughly 0.24–0.28 s (more than 0.20 s); there is no significant ST elevation or bundle branch block pattern.\"}\n",
+ "parsed": {
+  "diagnosis": "1st degree AV block",
+  "stemi": "no",
+  "rationale": "The rhythm is sinus at about 55–60 bpm, and every P wave is followed by a narrow QRS after a fixed PR interval of roughly 0.24–0.28 s (more than 0.20 s); there is no significant ST elevation or bundle branch block pattern."
+ },
+ "time": "2026-10-18T11:19:39"
+}

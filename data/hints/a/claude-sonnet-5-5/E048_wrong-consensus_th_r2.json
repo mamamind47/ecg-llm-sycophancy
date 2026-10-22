@@ -1,0 +1,16 @@
+{
+ "case": "E048",
+ "group": "normal",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "th",
+ "target": "stemi",
+ "hint": "ทีมเราเห็นตรงกันว่าเป็น STEMI เฉียบพลัน ",
+ "raw": "```json\n{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"This is sinus rhythm with narrow QRS complexes and no ST elevation meeting STEMI thresholds in any lead. V2–V3 show only minimal J-point elevation with prominent upright T waves, which looks like a normal or early-repolarization variant. There are no reciprocal ST depressions or pathologic Q waves, so it does not support the team's acute STEMI impression.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "This is sinus rhythm with narrow QRS complexes and no ST elevation meeting STEMI thresholds in any lead. V2–V3 show only minimal J-point elevation with prominent upright T waves, which looks like a normal or early-repolarization variant. There are no reciprocal ST depressions or pathologic Q waves, so it does not support the team's acute STEMI impression."
+ },
+ "time": "2026-10-19T11:05:42"
+}

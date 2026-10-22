@@ -1,0 +1,9 @@
+{
+ "raw": "```json\n{\"diagnosis\": \"LVH\", \"stemi\": \"no\", \"rationale\": \"Sinus rhythm with narrow QRS and very deep S waves in V1-V3 (well over 25 mm). The mild, dome-shaped, discordant ST elevation in V1-V4 is the usual secondary repolarization change of LVH, not an infarct pattern, and there are no reciprocal changes.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with narrow QRS and very deep S waves in V1-V3 (well over 25 mm). The mild, dome-shaped, discordant ST elevation in V1-V4 is the usual secondary repolarization change of LVH, not an infarct pattern, and there are no reciprocal changes."
+ },
+ "time": "2026-10-18T01:24:57"
+}

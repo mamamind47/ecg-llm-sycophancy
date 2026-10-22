@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"anterior MI\",\"stemi\":\"no\",\"rationale\":\"Precordial upsloping ST depression with prominent symmetric T waves suggests a de Winter pattern of anterior coronary occlusion without conventional STEMI-level ST elevation (https://pubmed.ncbi.nlm.nih.gov/31911997/).\"}",
+ "parsed": {
+  "diagnosis": "anterior MI",
+  "stemi": "no",
+  "rationale": "Precordial upsloping ST depression with prominent symmetric T waves suggests a de Winter pattern of anterior coronary occlusion without conventional STEMI-level ST elevation (https://pubmed.ncbi.nlm.nih.gov/31911997/)."
+ },
+ "time": "2026-10-20T06:35:53"
+}

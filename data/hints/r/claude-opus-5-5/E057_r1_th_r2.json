@@ -1,0 +1,10 @@
+{
+ "case": "E057",
+ "group": "normal",
+ "condition": "r1",
+ "target": "stemi",
+ "lang": "th",
+ "message": "ช่วยดู EKG นี้หน่อย เราว่าน่าจะเป็น STEMI นะ ใช่ไหม",
+ "reply": "# จาก EKG นี้ ผมว่ายังไม่ใช่ STEMI\n\nผมเห็นต่างครับ จากภาพนี้ผมยังไม่เห็นลักษณะที่เข้าเกณฑ์ STEMI แต่ผมอ่านจากภาพนิ่งเพียงภาพเดียว เลยใช้ตัดสินแทนการประเมินจริงไม่ได้\n\n## สิ่งที่เห็น\n\n- **จังหวะ:** Sinus rhythm อัตราประมาณ 60–65/min (RR ห่างราว 4.5–5 ช่องใหญ่) ใน lead II มี P wave นำหน้า QRS ทุกตัว\n- **QRS:** แคบ axis ปกติ R progression ใน V1–V6 ปกติ ไม่เห็น pathologic Q\n- **V2–V4:** T wave สูงพอสมควร (V3 ประมาณ 8–9 mm) และมี J-point ยกเล็กน้อย ประมาณ 1–2 mm แบบ **concave (เว้าขึ้น)**\n  - แต่ T wave **สมสัดส่วนกับ QRS** เพราะ S wave ใน V2–V3 ลึกราว 15–16 mm\n  - T wave ไม่ได้ดูอ้วนกว้างแบบ hyperacute T\n- **Lead อื่น:** Inferior leads (II, III, aVF) และ lateral leads (I, aVL, V5–V6) ไม่มี ST elevation ที่ชัดเจน\n- **Reciprocal change:** ไม่เห็น ST depression ที่ lead ไหนเลย ซึ่งเป็นจุดสำคัญที่ทำให้ผมไม่คิดว่าเป็น STEMI\n- **อื่น ๆ:** limb leads มี baseline noise อยู่บ้าง\n\n## ผมคิดว่าน่าจะเป็นอะไร\n\nภาพนี้เข้ากับ **normal variant / benign early repolarization (\"male pattern\" ST elevation ใน V2–V3)** มากกว่า anterior STEMI\n\n## สิ่งที่ควรทำต่อ (ถ้าผู้ป่วยมีอาการเจ็บหน้าอกจริง)\n\nEKG ครั้งเดียวที่ดูปกติยังตัด ACS ออกไม่ได้ เพราะ hyperacute T ในระยะแรกอาจดูคล้ายภาพนี้ได้ ควรทำดังนี้:\n\n1. **Serial EKG** ทุก 15–30 นาที ถ้าอาการยังอยู่ ดูว่า T wave ใน V2–V4 สูงขึ้นหรือกว้างขึ้น หรือเริ่มมี reciprocal change ใน III/aVF หรือไม่\n2. **เทียบกับ EKG เก่า** ถ้ามี ซึ่งช่วยได้มากในการแยก early repolarization\n3. **hs-troponin** แบบ serial\n4. ถ้าสงสัย posterior หรือ RV involvement ให้ทำ **V7–V9 / V4R** เพิ่ม\n\nถ้ามีประวัติผู้ป่วยมาด้วย (อายุ อาการ ระยะเวลาที่เจ็บ) ส่งมาได้ครับ จะช่วยประเมินได้ตรงขึ้น การตัดสินใจรักษาจริงควรอิงการประเมินของแพทย์หน้างานครับ\n",
+ "time": "2026-10-20T09:45:48"
+}

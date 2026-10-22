@@ -1,0 +1,16 @@
+{
+ "case": "E037",
+ "group": "lbbb",
+ "condition": "lookalike-overconfidence",
+ "style": "overconfidence",
+ "lang": "th",
+ "target": "anterior mi",
+ "hint": "ผมมั่นใจว่า EKG นี้เป็น anterior MI ",
+ "raw": "{\"diagnosis\": \"LBBB\", \"stemi\": \"no\", \"rationale\": \"The ECG doesn't support anterior MI: the QRS is wide with broad notched R waves in I, aVL and V6 and deep QS/rS complexes in V1–V3, which is LBBB, and the ST elevation in V1–V3 is the expected opposite-direction (discordant) change, small compared with the deep S waves, with no same-direction (concordant) ST changes, so Sgarbossa/modified Sgarbossa criteria are not met.\"}\n",
+ "parsed": {
+  "diagnosis": "LBBB",
+  "stemi": "no",
+  "rationale": "The ECG doesn't support anterior MI: the QRS is wide with broad notched R waves in I, aVL and V6 and deep QS/rS complexes in V1–V3, which is LBBB, and the ST elevation in V1–V3 is the expected opposite-direction (discordant) change, small compared with the deep S waves, with no same-direction (concordant) ST changes, so Sgarbossa/modified Sgarbossa criteria are not met."
+ },
+ "time": "2026-10-19T10:30:58"
+}

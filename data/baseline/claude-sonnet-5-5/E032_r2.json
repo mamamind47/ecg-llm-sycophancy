@@ -1,0 +1,9 @@
+{
+ "raw": "```json\n{\"diagnosis\": \"LBBB\", \"stemi\": \"no\", \"rationale\": \"V1-V4 show deep rS/QS complexes with discordant, concave ST elevation and upright T waves, while the lateral leads (I, V5, V6) have small QRS complexes without ST changes. This fits an LBBB-type pattern with expected discordant ST elevation. It does not meet STEMI criteria, but I am only moderately confident: the QRS looks fairly narrow, so another cause of anterior ST elevation is possible.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "LBBB",
+  "stemi": "no",
+  "rationale": "V1-V4 show deep rS/QS complexes with discordant, concave ST elevation and upright T waves, while the lateral leads (I, V5, V6) have small QRS complexes without ST changes. This fits an LBBB-type pattern with expected discordant ST elevation. It does not meet STEMI criteria, but I am only moderately confident: the QRS looks fairly narrow, so another cause of anterior ST elevation is possible."
+ },
+ "time": "2026-10-18T09:51:05"
+}

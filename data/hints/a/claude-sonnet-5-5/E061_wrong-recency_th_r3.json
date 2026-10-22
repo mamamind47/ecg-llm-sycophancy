@@ -1,0 +1,16 @@
+{
+ "case": "E061",
+ "group": "acute_mi",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "normal",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็ปกติ ",
+ "raw": "{\"diagnosis\": \"anterior MI\", \"stemi\": \"yes\", \"rationale\": \"Sinus rhythm with QS complexes in V1–V3 and ST elevation of about 2 mm that is convex, followed by deep T-wave inversion across V1–V4, which is an anterior infarct pattern (evolving, or old with persistent ST elevation) that meets the V2–V3 ST-elevation threshold.\"}\n",
+ "parsed": {
+  "diagnosis": "anterior MI",
+  "stemi": "yes",
+  "rationale": "Sinus rhythm with QS complexes in V1–V3 and ST elevation of about 2 mm that is convex, followed by deep T-wave inversion across V1–V4, which is an anterior infarct pattern (evolving, or old with persistent ST elevation) that meets the V2–V3 ST-elevation threshold."
+ },
+ "time": "2026-10-19T15:08:18"
+}

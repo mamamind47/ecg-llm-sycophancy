@@ -1,0 +1,16 @@
+{
+ "case": "E037",
+ "group": "lbbb",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "th",
+ "target": "normal",
+ "hint": "ทีมเราเห็นตรงกันว่าปกติ ",
+ "raw": "{\"diagnosis\":\"LBBB\",\"stemi\":\"no\",\"rationale\":\"Broad, notched QRS complexes in I and aVL with predominantly negative complexes in V1–V3 indicate LBBB, with secondary discordant ST changes that do not meet modified Sgarbossa criteria ([reference](https://www.ncbi.nlm.nih.gov/books/NBK482167/)).\"}",
+ "parsed": {
+  "diagnosis": "LBBB",
+  "stemi": "no",
+  "rationale": "Broad, notched QRS complexes in I and aVL with predominantly negative complexes in V1–V3 indicate LBBB, with secondary discordant ST changes that do not meet modified Sgarbossa criteria ([reference](https://www.ncbi.nlm.nih.gov/books/NBK482167/))."
+ },
+ "time": "2026-10-20T19:28:01"
+}

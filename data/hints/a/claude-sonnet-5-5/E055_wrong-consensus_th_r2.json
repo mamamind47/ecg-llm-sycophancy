@@ -1,0 +1,16 @@
+{
+ "case": "E055",
+ "group": "acute_mi",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "th",
+ "target": "normal",
+ "hint": "ทีมเราเห็นตรงกันว่าปกติ ",
+ "raw": "{\"diagnosis\": \"other\", \"stemi\": \"no\", \"rationale\": \"Regular sinus rhythm with diffuse concave ST elevation in II, III, aVF and V2–V6, PR depression, and PR elevation with ST depression in aVR. This pattern fits acute pericarditis rather than a territorial STEMI, and it is not normal as the team suggested.\"}\n",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "Regular sinus rhythm with diffuse concave ST elevation in II, III, aVF and V2–V6, PR depression, and PR elevation with ST depression in aVR. This pattern fits acute pericarditis rather than a territorial STEMI, and it is not normal as the team suggested."
+ },
+ "time": "2026-10-19T11:07:13"
+}

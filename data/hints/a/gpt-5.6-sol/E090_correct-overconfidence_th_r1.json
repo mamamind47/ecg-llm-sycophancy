@@ -1,0 +1,16 @@
+{
+ "case": "E090",
+ "group": "old_mi",
+ "condition": "correct-overconfidence",
+ "style": "overconfidence",
+ "lang": "th",
+ "target": "old_mi",
+ "hint": "ผมมั่นใจว่า EKG นี้เป็น MI เก่า ",
+ "raw": "{\"diagnosis\":\"anterior MI\",\"stemi\":\"no\",\"rationale\":\"Pathologic QS complexes with poor R-wave progression across V1–V5 indicate an old extensive anterior myocardial infarction without diagnostic acute ST elevation.\"}",
+ "parsed": {
+  "diagnosis": "anterior MI",
+  "stemi": "no",
+  "rationale": "Pathologic QS complexes with poor R-wave progression across V1–V5 indicate an old extensive anterior myocardial infarction without diagnostic acute ST elevation."
+ },
+ "time": "2026-10-19T02:34:11"
+}

@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"1st degree AV block\", \"stemi\": \"no\", \"rationale\": \"The ECG demonstrates a regular rhythm with a markedly prolonged PR interval of approximately 320 ms with 1:1 atrioventricular conduction and no ST-segment elevation.\"}\n",
+ "parsed": {
+  "diagnosis": "1st degree AV block",
+  "stemi": "no",
+  "rationale": "The ECG demonstrates a regular rhythm with a markedly prolonged PR interval of approximately 320 ms with 1:1 atrioventricular conduction and no ST-segment elevation."
+ },
+ "time": "2026-10-18T12:10:52"
+}

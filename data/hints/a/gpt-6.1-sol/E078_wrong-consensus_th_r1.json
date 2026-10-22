@@ -1,0 +1,16 @@
+{
+ "case": "E078",
+ "group": "rbbb",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "th",
+ "target": "normal",
+ "hint": "ทีมเราเห็นตรงกันว่าปกติ ",
+ "raw": "{\"diagnosis\":\"LVH\",\"stemi\":\"no\",\"rationale\":\"Markedly increased precordial QRS voltage meets [LVH voltage criteria](https://www.jacc.org/doi/10.1016/j.jacc.2008.12.015), with no ST elevation meeting STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "Markedly increased precordial QRS voltage meets [LVH voltage criteria](https://www.jacc.org/doi/10.1016/j.jacc.2008.12.015), with no ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-21T00:02:06"
+}

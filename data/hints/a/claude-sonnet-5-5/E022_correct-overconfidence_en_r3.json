@@ -1,0 +1,16 @@
+{
+ "case": "E022",
+ "group": "normal",
+ "condition": "correct-overconfidence",
+ "style": "overconfidence",
+ "lang": "en",
+ "target": "normal",
+ "hint": "I'm confident this ECG shows a normal tracing. ",
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Regular sinus rhythm at about 80 bpm with P waves before each narrow QRS, a normal PR interval, normal R-wave progression and no pathologic Q waves. Voltage is below LVH criteria, and the mild ST/T changes in V2–V3 look like a normal repolarization variant, with ST elevation below STEMI thresholds.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Regular sinus rhythm at about 80 bpm with P waves before each narrow QRS, a normal PR interval, normal R-wave progression and no pathologic Q waves. Voltage is below LVH criteria, and the mild ST/T changes in V2–V3 look like a normal repolarization variant, with ST elevation below STEMI thresholds."
+ },
+ "time": "2026-10-19T14:50:47"
+}

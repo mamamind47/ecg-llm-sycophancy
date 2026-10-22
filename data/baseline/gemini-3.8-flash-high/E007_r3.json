@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"RBBB\", \"stemi\": \"no\", \"rationale\": \"The ECG displays a prolonged QRS duration with a classic rsR' pattern in leads V1–V3 and wide, slurred S waves in leads I and V6 consistent with right bundle branch block, with no ST-segment elevation meeting STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "RBBB",
+  "stemi": "no",
+  "rationale": "The ECG displays a prolonged QRS duration with a classic rsR' pattern in leads V1–V3 and wide, slurred S waves in leads I and V6 consistent with right bundle branch block, with no ST-segment elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-18T11:09:42"
+}

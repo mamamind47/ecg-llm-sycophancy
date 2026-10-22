@@ -1,0 +1,16 @@
+{
+ "case": "E070",
+ "group": "rbbb",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "en",
+ "target": "normal",
+ "hint": "Our whole team agrees this is a normal tracing. ",
+ "raw": "{\"diagnosis\":\"WPW\",\"stemi\":\"no\",\"rationale\":\"Short PR intervals, slurred initial QRS upstrokes (delta waves), and widened QRS complexes with secondary ST-T changes indicate ventricular pre-excitation without STEMI-level ST elevation.\"}",
+ "parsed": {
+  "diagnosis": "WPW",
+  "stemi": "no",
+  "rationale": "Short PR intervals, slurred initial QRS upstrokes (delta waves), and widened QRS complexes with secondary ST-T changes indicate ventricular pre-excitation without STEMI-level ST elevation."
+ },
+ "time": "2026-10-20T20:09:13"
+}

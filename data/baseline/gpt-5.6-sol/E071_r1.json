@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"anterior MI\",\"stemi\":\"no\",\"rationale\":\"Pathologic QS complexes and poor R-wave progression in V1–V3 suggest prior anteroseptal infarction, without diagnostic contiguous-lead ST elevation.\"}",
+ "parsed": {
+  "diagnosis": "anterior MI",
+  "stemi": "no",
+  "rationale": "Pathologic QS complexes and poor R-wave progression in V1–V3 suggest prior anteroseptal infarction, without diagnostic contiguous-lead ST elevation."
+ },
+ "time": "2026-10-18T06:01:22"
+}

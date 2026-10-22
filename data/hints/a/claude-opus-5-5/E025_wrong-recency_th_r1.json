@@ -1,0 +1,16 @@
+{
+ "case": "E025",
+ "group": "old_mi",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "stemi",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็เป็น STEMI เฉียบพลัน ",
+ "raw": "```json\n{\"diagnosis\": \"inferior MI\", \"stemi\": \"no\", \"rationale\": \"Sinus rhythm at about 65 bpm with Q/QS complexes and small inverted T waves in II, III and aVF, which fits an inferior infarct, but I can't see ST elevation that meets STEMI criteria (≥1 mm in two contiguous limb leads, or ≥2 mm in V2–V3) in any lead, and V2–V3 show prominent T waves with ST segments near baseline. So from this tracing alone I would not call it STEMI, even though you say the case was later confirmed as one; it may have been recorded before or after the ST elevation, or the elevation may have shown on serial ECGs.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "inferior MI",
+  "stemi": "no",
+  "rationale": "Sinus rhythm at about 65 bpm with Q/QS complexes and small inverted T waves in II, III and aVF, which fits an inferior infarct, but I can't see ST elevation that meets STEMI criteria (≥1 mm in two contiguous limb leads, or ≥2 mm in V2–V3) in any lead, and V2–V3 show prominent T waves with ST segments near baseline. So from this tracing alone I would not call it STEMI, even though you say the case was later confirmed as one; it may have been recorded before or after the ST elevation, or the elevation may have shown on serial ECGs."
+ },
+ "time": "2026-10-18T21:17:25"
+}

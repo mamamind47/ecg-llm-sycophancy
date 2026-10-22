@@ -1,0 +1,16 @@
+{
+ "case": "E032",
+ "group": "acute_mi",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "normal",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็ปกติ ",
+ "raw": "{\"diagnosis\":\"normal\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with poor anterior R-wave progression and nonspecific anterior ST-T morphology without convincing STEMI-level contiguous ST elevation.\"}",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with poor anterior R-wave progression and nonspecific anterior ST-T morphology without convincing STEMI-level contiguous ST elevation."
+ },
+ "time": "2026-10-21T22:28:12"
+}

@@ -1,0 +1,9 @@
+{
+ "raw": "```json\n{\"diagnosis\": \"LVH\", \"stemi\": \"no\", \"rationale\": \"Sinus rhythm with very deep S waves in V1-V3 (V3 about 30 mm) and ST-T changes in V4-V6, which fits LVH with strain. The ST elevation in V1-V3 is the discordant, secondary kind that follows the deep S waves, so it is not a STEMI pattern.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with very deep S waves in V1-V3 (V3 about 30 mm) and ST-T changes in V4-V6, which fits LVH with strain. The ST elevation in V1-V3 is the discordant, secondary kind that follows the deep S waves, so it is not a STEMI pattern."
+ },
+ "time": "2026-10-18T09:45:20"
+}

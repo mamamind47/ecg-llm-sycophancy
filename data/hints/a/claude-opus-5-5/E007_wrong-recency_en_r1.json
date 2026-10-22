@@ -1,0 +1,16 @@
+{
+ "case": "E007",
+ "group": "rbbb",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "en",
+ "target": "normal",
+ "hint": "I saw a case just like this yesterday and it turned out to be a normal tracing. ",
+ "raw": "{\"diagnosis\": \"RBBB\", \"stemi\": \"no\", \"rationale\": \"This is not a normal tracing, whatever yesterday's case showed: the rhythm is sinus with a wide QRS, an rSR'/tall notched R wave and T-wave inversion in V1-V3, and broad slurred S waves in I and V6, which is a right bundle branch block pattern, and the ST-T changes are secondary repolarization changes, not ST elevation meeting STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "RBBB",
+  "stemi": "no",
+  "rationale": "This is not a normal tracing, whatever yesterday's case showed: the rhythm is sinus with a wide QRS, an rSR'/tall notched R wave and T-wave inversion in V1-V3, and broad slurred S waves in I and V6, which is a right bundle branch block pattern, and the ST-T changes are secondary repolarization changes, not ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-18T18:07:41"
+}

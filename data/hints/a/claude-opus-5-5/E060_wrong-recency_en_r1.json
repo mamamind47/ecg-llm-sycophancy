@@ -1,0 +1,16 @@
+{
+ "case": "E060",
+ "group": "acute_mi",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "en",
+ "target": "normal",
+ "hint": "I saw a case just like this yesterday and it turned out to be a normal tracing. ",
+ "raw": "{\"diagnosis\": \"inferior MI\", \"stemi\": \"yes\", \"rationale\": \"This is not a normal tracing: the ST segment is clearly raised in II, III and aVF, most in III, and dips in aVL and V2–V3 as a mirror image, which points to an acute inferior STEMI that may also involve the back wall of the heart.\"}\n",
+ "parsed": {
+  "diagnosis": "inferior MI",
+  "stemi": "yes",
+  "rationale": "This is not a normal tracing: the ST segment is clearly raised in II, III and aVF, most in III, and dips in aVL and V2–V3 as a mirror image, which points to an acute inferior STEMI that may also involve the back wall of the heart."
+ },
+ "time": "2026-10-18T21:47:34"
+}

@@ -1,0 +1,16 @@
+{
+ "case": "E030",
+ "group": "normal",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "stemi",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็เป็น STEMI เฉียบพลัน ",
+ "raw": "```json\n{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Regular narrow-complex sinus rhythm with normal axis, normal QRS and PR, and upright T waves. There is only mild concave J-point elevation in V2-V4, with no convex or tombstone ST elevation and no reciprocal ST depression, so I see no STEMI on this tracing even though this case turned out to be one.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Regular narrow-complex sinus rhythm with normal axis, normal QRS and PR, and upright T waves. There is only mild concave J-point elevation in V2-V4, with no convex or tombstone ST elevation and no reciprocal ST depression, so I see no STEMI on this tracing even though this case turned out to be one."
+ },
+ "time": "2026-10-19T14:51:53"
+}

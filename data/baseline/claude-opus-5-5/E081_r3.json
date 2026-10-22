@@ -1,0 +1,9 @@
+{
+ "raw": "```json\n{\"diagnosis\": \"other\", \"stemi\": \"no\", \"rationale\": \"Sinus rhythm at about 70 bpm with normal-width QRS and no significant ST elevation, but there is one premature ventricular complex (the wide, bizarre beat in V1–V3 and the rhythm strip), which none of the listed categories covers; limb-lead voltage is also low, so this is a borderline call against normal.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "Sinus rhythm at about 70 bpm with normal-width QRS and no significant ST elevation, but there is one premature ventricular complex (the wide, bizarre beat in V1–V3 and the rhythm strip), which none of the listed categories covers; limb-lead voltage is also low, so this is a borderline call against normal."
+ },
+ "time": "2026-10-18T11:22:18"
+}

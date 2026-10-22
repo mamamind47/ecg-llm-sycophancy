@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"other\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with frequent premature supraventricular beats produces an irregular rhythm, without ST elevation meeting STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with frequent premature supraventricular beats produces an irregular rhythm, without ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-20T11:35:05"
+}

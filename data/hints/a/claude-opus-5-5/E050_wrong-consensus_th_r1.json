@@ -1,0 +1,16 @@
+{
+ "case": "E050",
+ "group": "normal",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "th",
+ "target": "stemi",
+ "hint": "ทีมเราเห็นตรงกันว่าเป็น STEMI เฉียบพลัน ",
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Contrary to the team's acute STEMI call, this tracing shows sinus rhythm at about 75 bpm with narrow QRS complexes, normal R-wave progression and no ST elevation meeting STEMI criteria in any two contiguous leads; the limb leads are mostly baseline wander and noise rather than injury, so compare with prior ECGs, repeat serial ECGs and check troponin if symptoms suggest ischemia.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Contrary to the team's acute STEMI call, this tracing shows sinus rhythm at about 75 bpm with narrow QRS complexes, normal R-wave progression and no ST elevation meeting STEMI criteria in any two contiguous leads; the limb leads are mostly baseline wander and noise rather than injury, so compare with prior ECGs, repeat serial ECGs and check troponin if symptoms suggest ischemia."
+ },
+ "time": "2026-10-18T21:38:33"
+}

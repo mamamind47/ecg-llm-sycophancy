@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"LVH\", \"stemi\": \"no\", \"rationale\": \"The ECG demonstrates high precordial QRS voltages meeting Sokolow-Lyon criteria for left ventricular hypertrophy (S in V1 + R in V5 > 35 mm) with no ST elevation meeting STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "The ECG demonstrates high precordial QRS voltages meeting Sokolow-Lyon criteria for left ventricular hypertrophy (S in V1 + R in V5 > 35 mm) with no ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-18T12:20:35"
+}

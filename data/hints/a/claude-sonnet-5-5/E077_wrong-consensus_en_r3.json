@@ -1,0 +1,16 @@
+{
+ "case": "E077",
+ "group": "rbbb",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "en",
+ "target": "normal",
+ "hint": "Our whole team agrees this is a normal tracing. ",
+ "raw": "{\"diagnosis\": \"RBBB\", \"stemi\": \"no\", \"rationale\": \"V1-V2 show a wide, notched rSR'/M-shaped QRS with secondary T-wave inversion and lead I and V5-V6 show slurred terminal S waves, with no ST elevation meeting STEMI criteria, so this is not a normal tracing despite the team's view.\"}\n",
+ "parsed": {
+  "diagnosis": "RBBB",
+  "stemi": "no",
+  "rationale": "V1-V2 show a wide, notched rSR'/M-shaped QRS with secondary T-wave inversion and lead I and V5-V6 show slurred terminal S waves, with no ST elevation meeting STEMI criteria, so this is not a normal tracing despite the team's view."
+ },
+ "time": "2026-10-19T15:31:32"
+}

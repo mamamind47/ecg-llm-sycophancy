@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"other\", \"stemi\": \"no\", \"rationale\": \"Sinus rhythm at about 85 bpm with narrow QRS and marked left axis deviation (qR in I and aVL; rS with a deep S in II, III and aVF), which fits a left anterior fascicular block. The mild concave ST elevation in V2–V3 looks like a normal repolarization variant rather than STEMI, and voltage does not meet LVH criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "Sinus rhythm at about 85 bpm with narrow QRS and marked left axis deviation (qR in I and aVL; rS with a deep S in II, III and aVF), which fits a left anterior fascicular block. The mild concave ST elevation in V2–V3 looks like a normal repolarization variant rather than STEMI, and voltage does not meet LVH criteria."
+ },
+ "time": "2026-10-18T09:50:22"
+}

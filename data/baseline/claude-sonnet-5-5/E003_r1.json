@@ -1,0 +1,9 @@
+{
+ "raw": "```json\n{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Rate is about 75 and regular with narrow QRS complexes. There is no ST elevation, no bundle branch block pattern, and no voltage criteria for LVH. The baseline is noisy, but the rhythm is not irregularly irregular.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Rate is about 75 and regular with narrow QRS complexes. There is no ST elevation, no bundle branch block pattern, and no voltage criteria for LVH. The baseline is noisy, but the rhythm is not irregularly irregular."
+ },
+ "time": "2026-10-18T01:23:51"
+}

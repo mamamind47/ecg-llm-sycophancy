@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"LVH\", \"stemi\": \"no\", \"rationale\": \"The rhythm is regular sinus with narrow QRS complexes, and the precordial voltages are very large (tall R/deep S across V2–V3, plus SV1 + RV5 around the Sokolow-Lyon threshold), with no ST elevation that meets STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "The rhythm is regular sinus with narrow QRS complexes, and the precordial voltages are very large (tall R/deep S across V2–V3, plus SV1 + RV5 around the Sokolow-Lyon threshold), with no ST elevation that meets STEMI criteria."
+ },
+ "time": "2026-10-18T00:53:37"
+}

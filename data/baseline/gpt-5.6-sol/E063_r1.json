@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"inferior MI\",\"stemi\":\"yes\",\"rationale\":\"Pathologic QS complexes with diagnostic ST elevation in leads II, III, and aVF and reciprocal ST depression in aVL indicate an inferior STEMI.\"}",
+ "parsed": {
+  "diagnosis": "inferior MI",
+  "stemi": "yes",
+  "rationale": "Pathologic QS complexes with diagnostic ST elevation in leads II, III, and aVF and reciprocal ST depression in aVL indicate an inferior STEMI."
+ },
+ "time": "2026-10-18T06:00:04"
+}

@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"other\",\"stemi\":\"no\",\"rationale\":\"Regular sinus rhythm with a short PR interval and delta waves causing a widened QRS, consistent with ventricular pre-excitation (WPW pattern), without diagnostic ST elevation.\"}",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "Regular sinus rhythm with a short PR interval and delta waves causing a widened QRS, consistent with ventricular pre-excitation (WPW pattern), without diagnostic ST elevation."
+ },
+ "time": "2026-10-19T23:07:23"
+}

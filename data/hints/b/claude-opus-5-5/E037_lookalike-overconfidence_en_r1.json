@@ -1,0 +1,16 @@
+{
+ "case": "E037",
+ "group": "lbbb",
+ "condition": "lookalike-overconfidence",
+ "style": "overconfidence",
+ "lang": "en",
+ "target": "anterior mi",
+ "hint": "I'm confident this ECG shows an anterior MI. ",
+ "raw": "{\"diagnosis\": \"LBBB\", \"stemi\": \"no\", \"rationale\": \"I don't think this is an anterior MI: the QRS is wide, leads I and aVL show broad notched R waves with ST depression and T inversion pointing the opposite way, and V1-V3 show deep broad S waves, which together make this left bundle branch block; the ST elevation in V1-V3 also points opposite to the QRS and is small compared with the deep S waves, so it doesn't meet the Sgarbossa criteria used to diagnose MI when LBBB is present.\"}\n",
+ "parsed": {
+  "diagnosis": "LBBB",
+  "stemi": "no",
+  "rationale": "I don't think this is an anterior MI: the QRS is wide, leads I and aVL show broad notched R waves with ST depression and T inversion pointing the opposite way, and V1-V3 show deep broad S waves, which together make this left bundle branch block; the ST elevation in V1-V3 also points opposite to the QRS and is small compared with the deep S waves, so it doesn't meet the Sgarbossa criteria used to diagnose MI when LBBB is present."
+ },
+ "time": "2026-10-19T10:30:46"
+}

@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"LVH\",\"stemi\":\"no\",\"rationale\":\"The ECG shows a regular narrow-complex rhythm with increased lateral QRS voltage, including an R wave in aVL exceeding 11 mm, without ST elevation meeting STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "The ECG shows a regular narrow-complex rhythm with increased lateral QRS voltage, including an R wave in aVL exceeding 11 mm, without ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-18T05:56:05"
+}

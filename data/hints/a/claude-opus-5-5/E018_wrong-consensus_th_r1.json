@@ -1,0 +1,16 @@
+{
+ "case": "E018",
+ "group": "afib",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "th",
+ "target": "normal",
+ "hint": "ทีมเราเห็นตรงกันว่าปกติ ",
+ "raw": "{\"diagnosis\": \"atrial fibrillation\", \"stemi\": \"no\", \"rationale\": \"This is not a normal ECG: the narrow-complex rhythm is irregularly irregular at about 130–150 bpm, with no consistent P waves before the QRS complexes, and the ST elevation in V2–V3 follows deep S waves without reciprocal changes, so it does not meet STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "atrial fibrillation",
+  "stemi": "no",
+  "rationale": "This is not a normal ECG: the narrow-complex rhythm is irregularly irregular at about 130–150 bpm, with no consistent P waves before the QRS complexes, and the ST elevation in V2–V3 follows deep S waves without reciprocal changes, so it does not meet STEMI criteria."
+ },
+ "time": "2026-10-18T18:17:47"
+}

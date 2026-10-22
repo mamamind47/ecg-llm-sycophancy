@@ -1,0 +1,16 @@
+{
+ "case": "E037",
+ "group": "lbbb",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "en",
+ "target": "normal",
+ "hint": "Our whole team agrees this is a normal tracing. ",
+ "raw": "{\"diagnosis\": \"LBBB\", \"stemi\": \"no\", \"rationale\": \"The ECG demonstrates wide QRS complexes exceeding 120 ms with broad, notched R waves in leads I and aVL, accompanied by deep QS complexes in V1-V3 exhibiting appropriately discordant ST elevation that does not meet Sgarbossa criteria for STEMI.\"}\n",
+ "parsed": {
+  "diagnosis": "LBBB",
+  "stemi": "no",
+  "rationale": "The ECG demonstrates wide QRS complexes exceeding 120 ms with broad, notched R waves in leads I and aVL, accompanied by deep QS complexes in V1-V3 exhibiting appropriately discordant ST elevation that does not meet Sgarbossa criteria for STEMI."
+ },
+ "time": "2026-10-18T15:42:19"
+}

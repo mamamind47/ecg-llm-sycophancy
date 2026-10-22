@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"RBBB\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with an rsR′ pattern in V1–V2 and broad terminal S waves in lateral leads, without diagnostic ST-segment elevation.\"}",
+ "parsed": {
+  "diagnosis": "RBBB",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with an rsR′ pattern in V1–V2 and broad terminal S waves in lateral leads, without diagnostic ST-segment elevation."
+ },
+ "time": "2026-10-18T11:03:55"
+}

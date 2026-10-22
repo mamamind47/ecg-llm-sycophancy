@@ -1,0 +1,9 @@
+{
+ "raw": "```json\n{\"diagnosis\": \"RBBB\", \"stemi\": \"no\", \"rationale\": \"V1 shows a tall, late positive (R/R') deflection with secondary ST-T changes, and lead I has a wide terminal S wave, which fits right bundle branch block; the ST changes look secondary rather than a regional STEMI pattern.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "RBBB",
+  "stemi": "no",
+  "rationale": "V1 shows a tall, late positive (R/R') deflection with secondary ST-T changes, and lead I has a wide terminal S wave, which fits right bundle branch block; the ST changes look secondary rather than a regional STEMI pattern."
+ },
+ "time": "2026-10-18T11:21:35"
+}

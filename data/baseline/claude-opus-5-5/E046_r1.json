@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"The trace shows sinus rhythm at about 75 bpm with a normal PR interval, narrow QRS complexes and a normal axis; there is no pathological Q wave, no significant ST elevation or depression, and the T waves are upright where expected, while the deep S wave in V2 does not meet LVH criteria and shows no strain pattern.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "The trace shows sinus rhythm at about 75 bpm with a normal PR interval, narrow QRS complexes and a normal axis; there is no pathological Q wave, no significant ST elevation or depression, and the T waves are upright where expected, while the deep S wave in V2 does not meet LVH criteria and shows no strain pattern."
+ },
+ "time": "2026-10-18T00:57:00"
+}

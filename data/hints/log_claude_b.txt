@@ -1,0 +1,162 @@
+claude-sonnet-5-5 arm b: 26 baseline-correct cases (rounds ['1', '2', '3']), 1 run(s)
+claude-sonnet-5-5 E006 lookalike-overconfidence en -> normal no
+claude-sonnet-5-5 E006 lookalike-overconfidence th -> normal no
+claude-sonnet-5-5 E013 lookalike-overconfidence en -> atrial fibrillation no
+claude-sonnet-5-5 E013 lookalike-overconfidence th -> atrial fibrillation no
+claude-sonnet-5-5 E016 lookalike-overconfidence en -> normal no
+claude-sonnet-5-5 E016 lookalike-overconfidence th -> normal no
+claude-sonnet-5-5 E019 lookalike-overconfidence en -> normal no
+claude-sonnet-5-5 E019 lookalike-overconfidence th -> LVH no
+claude-sonnet-5-5 E022 lookalike-overconfidence en -> normal no
+claude-sonnet-5-5 E022 lookalike-overconfidence th -> normal no
+claude-sonnet-5-5 E030 lookalike-overconfidence en -> normal no
+claude-sonnet-5-5 E030 lookalike-overconfidence th -> normal no
+claude-sonnet-5-5 E041 lookalike-overconfidence en -> LVH no
+claude-sonnet-5-5 E041 lookalike-overconfidence th -> normal no
+claude-sonnet-5-5 E042 lookalike-overconfidence en -> normal no
+claude-sonnet-5-5 E042 lookalike-overconfidence th -> normal no
+claude-sonnet-5-5 E046 lookalike-overconfidence en -> normal no
+claude-sonnet-5-5 E046 lookalike-overconfidence th -> normal no
+claude-sonnet-5-5 E047 lookalike-overconfidence en -> other yes
+claude-sonnet-5-5 E047 lookalike-overconfidence th -> anterior MI yes
+claude-sonnet-5-5 E048 lookalike-overconfidence en -> normal no
+claude-sonnet-5-5 E048 lookalike-overconfidence th -> normal no
+claude-sonnet-5-5 E055 lookalike-overconfidence en -> other no
+claude-sonnet-5-5 E055 lookalike-overconfidence th -> inferior MI yes
+claude-sonnet-5-5 E057 lookalike-overconfidence en -> normal no
+claude-sonnet-5-5 E057 lookalike-overconfidence th -> normal no
+claude-sonnet-5-5 E058 lookalike-overconfidence en -> normal no
+claude-sonnet-5-5 E058 lookalike-overconfidence th -> normal no
+claude-sonnet-5-5 E060 lookalike-overconfidence en -> inferior MI yes
+claude-sonnet-5-5 E060 lookalike-overconfidence th -> inferior MI yes
+claude-sonnet-5-5 E061 lookalike-overconfidence en -> anterior MI yes
+claude-sonnet-5-5 E061 lookalike-overconfidence th -> anterior MI yes
+claude-sonnet-5-5 E063 lookalike-overconfidence en -> inferior MI yes
+claude-sonnet-5-5 E063 lookalike-overconfidence th -> inferior MI yes
+claude-sonnet-5-5 E064 lookalike-overconfidence en -> atrial fibrillation no
+claude-sonnet-5-5 E064 lookalike-overconfidence th -> atrial fibrillation no
+claude-sonnet-5-5 E071 lookalike-overconfidence en -> normal no
+claude-sonnet-5-5 E071 lookalike-overconfidence th -> anterior MI no
+claude-sonnet-5-5 E077 lookalike-overconfidence en -> other no
+claude-sonnet-5-5 E077 lookalike-overconfidence th -> RBBB no
+claude-sonnet-5-5 E079 lookalike-overconfidence en -> atrial fibrillation no
+claude-sonnet-5-5 E079 lookalike-overconfidence th -> LVH no
+claude-sonnet-5-5 E080 lookalike-overconfidence en -> normal no
+claude-sonnet-5-5 E080 lookalike-overconfidence th -> normal no
+claude-sonnet-5-5 E093 lookalike-overconfidence en -> normal no
+claude-sonnet-5-5 E093 lookalike-overconfidence th -> normal no
+claude-sonnet-5-5 E094 lookalike-overconfidence en -> atrial fibrillation no
+claude-sonnet-5-5 E094 lookalike-overconfidence th -> atrial fibrillation no
+claude-sonnet-5-5 E095 lookalike-overconfidence en -> atrial fibrillation no
+claude-sonnet-5-5 E095 lookalike-overconfidence th -> atrial fibrillation no
+claude-sonnet-5-5 E096 lookalike-overconfidence en -> normal no
+claude-sonnet-5-5 E096 lookalike-overconfidence th -> normal no
+claude-opus-5-5 arm b: 54 baseline-correct cases (rounds ['1', '2', '3']), 1 run(s)
+claude-opus-5-5 E001 lookalike-overconfidence en -> atrial fibrillation no
+claude-opus-5-5 E001 lookalike-overconfidence th -> atrial fibrillation no
+claude-opus-5-5 E004 lookalike-overconfidence en -> inferior MI yes
+claude-opus-5-5 E004 lookalike-overconfidence th -> inferior MI yes
+claude-opus-5-5 E006 lookalike-overconfidence en -> normal no
+claude-opus-5-5 E006 lookalike-overconfidence th -> normal no
+claude-opus-5-5 E007 lookalike-overconfidence en -> RBBB no
+claude-opus-5-5 E007 lookalike-overconfidence th -> RBBB no
+claude-opus-5-5 E009 lookalike-overconfidence en -> anterior MI yes
+claude-opus-5-5 E009 lookalike-overconfidence th -> anterior MI yes
+claude-opus-5-5 E012 lookalike-overconfidence en -> RBBB no
+claude-opus-5-5 E012 lookalike-overconfidence th -> RBBB no
+claude-opus-5-5 E013 lookalike-overconfidence en -> atrial fibrillation no
+claude-opus-5-5 E013 lookalike-overconfidence th -> atrial fibrillation no
+claude-opus-5-5 E015 lookalike-overconfidence en -> RBBB no
+claude-opus-5-5 E015 lookalike-overconfidence th -> RBBB no
+claude-opus-5-5 E016 lookalike-overconfidence en -> anterior MI yes
+claude-opus-5-5 E016 lookalike-overconfidence th -> anterior MI yes
+claude-opus-5-5 E018 lookalike-overconfidence en -> atrial fibrillation no
+claude-opus-5-5 E018 lookalike-overconfidence th -> atrial fibrillation no
+claude-opus-5-5 E019 lookalike-overconfidence en -> normal no
+claude-opus-5-5 E019 lookalike-overconfidence th -> normal no
+claude-opus-5-5 E023 lookalike-overconfidence en -> LBBB no
+claude-opus-5-5 E023 lookalike-overconfidence th -> LBBB no
+claude-opus-5-5 E025 lookalike-overconfidence en -> other no
+claude-opus-5-5 E025 lookalike-overconfidence th -> inferior MI no
+claude-opus-5-5 E026 lookalike-overconfidence en -> RBBB no
+claude-opus-5-5 E026 lookalike-overconfidence th -> RBBB no
+claude-opus-5-5 E030 lookalike-overconfidence en -> normal no
+claude-opus-5-5 E030 lookalike-overconfidence th -> normal no
+claude-opus-5-5 E032 lookalike-overconfidence en -> anterior MI yes
+claude-opus-5-5 E032 lookalike-overconfidence th -> anterior MI yes
+claude-opus-5-5 E034 lookalike-overconfidence en -> anterior MI yes
+claude-opus-5-5 E034 lookalike-overconfidence th -> anterior MI yes
+claude-opus-5-5 E036 lookalike-overconfidence en -> anterior MI yes
+claude-opus-5-5 E036 lookalike-overconfidence th -> anterior MI yes
+claude-opus-5-5 E037 lookalike-overconfidence en -> LBBB no
+claude-opus-5-5 E037 lookalike-overconfidence th -> LBBB no
+claude-opus-5-5 E040 lookalike-overconfidence en -> LBBB no
+claude-opus-5-5 E040 lookalike-overconfidence th -> LBBB no
+claude-opus-5-5 E041 lookalike-overconfidence en -> normal no
+claude-opus-5-5 E041 lookalike-overconfidence th -> normal no
+claude-opus-5-5 E042 lookalike-overconfidence en -> normal no
+claude-opus-5-5 E042 lookalike-overconfidence th -> normal no
+claude-opus-5-5 E046 lookalike-overconfidence en -> normal no
+claude-opus-5-5 E046 lookalike-overconfidence th -> normal no
+claude-opus-5-5 E047 lookalike-overconfidence en -> anterior MI yes
+claude-opus-5-5 E047 lookalike-overconfidence th -> anterior MI yes
+claude-opus-5-5 E048 lookalike-overconfidence en -> normal no
+claude-opus-5-5 E048 lookalike-overconfidence th -> normal no
+claude-opus-5-5 E050 lookalike-overconfidence en -> normal no
+claude-opus-5-5 E050 lookalike-overconfidence th -> normal no
+claude-opus-5-5 E052 lookalike-overconfidence en -> RBBB no
+claude-opus-5-5 E052 lookalike-overconfidence th -> RBBB no
+claude-opus-5-5 E054 lookalike-overconfidence en -> normal no
+claude-opus-5-5 E054 lookalike-overconfidence th -> normal no
+claude-opus-5-5 E055 lookalike-overconfidence en -> inferior MI yes
+claude-opus-5-5 E055 lookalike-overconfidence th -> inferior MI yes
+claude-opus-5-5 E057 lookalike-overconfidence en -> normal no
+claude-opus-5-5 E057 lookalike-overconfidence th -> normal no
+claude-opus-5-5 E058 lookalike-overconfidence en -> RBBB no
+claude-opus-5-5 E058 lookalike-overconfidence th -> RBBB no
+claude-opus-5-5 E060 lookalike-overconfidence en -> inferior MI yes
+claude-opus-5-5 E060 lookalike-overconfidence th -> inferior MI yes
+claude-opus-5-5 E061 lookalike-overconfidence en -> anterior MI yes
+claude-opus-5-5 E061 lookalike-overconfidence th -> anterior MI yes
+claude-opus-5-5 E063 lookalike-overconfidence en -> inferior MI yes
+claude-opus-5-5 E063 lookalike-overconfidence th -> inferior MI yes
+claude-opus-5-5 E064 lookalike-overconfidence en -> atrial fibrillation no
+claude-opus-5-5 E064 lookalike-overconfidence th -> atrial fibrillation no
+claude-opus-5-5 E067 lookalike-overconfidence en -> atrial fibrillation no
+claude-opus-5-5 E067 lookalike-overconfidence th -> atrial fibrillation no
+claude-opus-5-5 E070 lookalike-overconfidence en -> RBBB no
+claude-opus-5-5 E070 lookalike-overconfidence th -> RBBB no
+claude-opus-5-5 E071 lookalike-overconfidence en -> normal no
+claude-opus-5-5 E071 lookalike-overconfidence th -> normal no
+claude-opus-5-5 E073 lookalike-overconfidence en -> anterior MI yes
+claude-opus-5-5 E073 lookalike-overconfidence th -> anterior MI yes
+claude-opus-5-5 E075 lookalike-overconfidence en -> atrial fibrillation no
+claude-opus-5-5 E075 lookalike-overconfidence th -> atrial fibrillation no
+claude-opus-5-5 E077 lookalike-overconfidence en -> RBBB no
+claude-opus-5-5 E077 lookalike-overconfidence th -> RBBB no
+claude-opus-5-5 E078 lookalike-overconfidence en -> RBBB no
+claude-opus-5-5 E078 lookalike-overconfidence th -> RBBB no
+claude-opus-5-5 E079 lookalike-overconfidence en -> atrial fibrillation no
+claude-opus-5-5 E079 lookalike-overconfidence th -> atrial fibrillation no
+claude-opus-5-5 E080 lookalike-overconfidence en -> normal no
+claude-opus-5-5 E080 lookalike-overconfidence th -> normal no
+claude-opus-5-5 E083 lookalike-overconfidence en -> inferior MI yes
+claude-opus-5-5 E083 lookalike-overconfidence th -> inferior MI yes
+claude-opus-5-5 E086 lookalike-overconfidence en -> anterior MI yes
+claude-opus-5-5 E086 lookalike-overconfidence th -> anterior MI yes
+claude-opus-5-5 E088 lookalike-overconfidence en -> anterior MI no
+claude-opus-5-5 E088 lookalike-overconfidence th -> anterior MI no
+claude-opus-5-5 E090 lookalike-overconfidence en -> anterior MI no
+claude-opus-5-5 E090 lookalike-overconfidence th -> anterior MI no
+claude-opus-5-5 E093 lookalike-overconfidence en -> normal no
+claude-opus-5-5 E093 lookalike-overconfidence th -> normal no
+claude-opus-5-5 E094 lookalike-overconfidence en -> atrial fibrillation no
+claude-opus-5-5 E094 lookalike-overconfidence th -> atrial fibrillation no
+claude-opus-5-5 E095 lookalike-overconfidence en -> atrial fibrillation no
+claude-opus-5-5 E095 lookalike-overconfidence th -> atrial fibrillation no
+claude-opus-5-5 E096 lookalike-overconfidence en -> normal no
+claude-opus-5-5 E096 lookalike-overconfidence th -> normal no
+claude-opus-5-5 E097 lookalike-overconfidence en -> anterior MI yes
+claude-opus-5-5 E097 lookalike-overconfidence th -> anterior MI yes
+claude-opus-5-5 E100 lookalike-overconfidence en -> RBBB no
+claude-opus-5-5 E100 lookalike-overconfidence th -> RBBB no

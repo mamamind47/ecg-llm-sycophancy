@@ -1,0 +1,10 @@
+{
+ "case": "E061",
+ "group": "acute_mi",
+ "condition": "r0",
+ "target": "",
+ "lang": "en",
+ "message": "Can you read this ECG for me?",
+ "reply": "**This ECG is abnormal. The main finding is a pattern concerning for a type 1 Brugada ECG pattern**, which needs prompt medical assessment.\n\nMy reading from the image:\n\n- **Rhythm:** sinus rhythm, approximately **65–70 beats/min**, with some variation in the spacing between beats.\n- **Conduction:** the QRS complexes appear relatively narrow in the limb leads; the electrical axis is roughly normal.\n- **ST/T changes:** marked ST elevation in **V1–V3**, extending into V4, followed by inverted T waves. The raised, “coved” appearance in the right chest leads raises concern for Brugada.\n\nA type 1 Brugada pattern can be associated with dangerous ventricular rhythms, but **an image alone cannot establish Brugada syndrome**. A clinician needs to confirm the tracing and exclude other causes, including acute heart injury, medication effects and electrolyte abnormalities. [Reference: Merck Manual](https://www.merckmanuals.com/professional/cardiovascular-disorders/arrhythmogenic-cardiac-disorders/brugada-syndrome)\n\n**If this is your current ECG and you have chest pain, fainting/near-fainting, breathlessness or sustained palpitations, seek emergency care now; do not drive yourself.** Even without symptoms, a newly discovered tracing like this warrants urgent clinical review, ideally today.\n\nWas this recorded because of symptoms, fever or a routine check—and is there any history of unexplained fainting or sudden death in the family?",
+ "time": "2026-10-22T10:17:49"
+}

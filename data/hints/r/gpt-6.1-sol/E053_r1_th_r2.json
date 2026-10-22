@@ -1,0 +1,10 @@
+{
+ "case": "E053",
+ "group": "old_mi",
+ "condition": "r1",
+ "target": "stemi",
+ "lang": "th",
+ "message": "ช่วยดู EKG นี้หน่อย เราว่าน่าจะเป็น STEMI นะ ใช่ไหม",
+ "reply": "**น่าสงสัยหลอดเลือดหัวใจอุดตันเฉียบพลันครับ โดยภาพนี้เข้าได้กับ de Winter pattern ซึ่งเป็น STEMI equivalent** มากกว่า STEMI ที่มี ST elevation ตามเกณฑ์ทั่วไป\n\nจุดที่เห็นคือ:\n\n- **J-point/ST depression แบบ upsloping ใน V2–V3** ต่อขึ้นเป็น **T wave สูงใหญ่และค่อนข้างสมมาตร**\n- ไม่มี ST elevation ชัดตามเกณฑ์ใน anterior leads\n- จังหวะ sinus อัตราประมาณ 55 ครั้ง/นาที\n\nรูปแบบนี้สัมพันธ์กับ **LAD อุดตันหรือ狭窄รุนแรง** และต้องประเมินเปิดหลอดเลือดอย่างเร่งด่วนเมื่อมีอาการเข้าได้กับ ACS ตาม [ESC ACVC Toolkit](https://www.escardio.org/static-file/Escardio/Subspecialty/ACCA/Education%20and%20research/ACVC%20Toolkit%202025/Toolkit_2025-CHAPTER2.pdf)\n\n**ถ้าเป็นผู้ป่วยที่กำลังเจ็บหน้าอก ให้แจ้งทีมฉุกเฉิน/หัวใจและพิจารณา cath lab ทันที ไม่ควรรอ troponin เพื่อเริ่มประเมินเร่งด่วน** หากอยู่นอกโรงพยาบาล โทร 1669 และอย่าขับรถเองครับ ภาพเดียว ยังยืนยันการอุดตันไม่ได้ ต้องประกอบกับอาการและ ECG ซ้ำ\n\nคนไข้มีอาการอะไร และเริ่มเมื่อไหร่ครับ?",
+ "time": "2026-10-22T11:09:28"
+}

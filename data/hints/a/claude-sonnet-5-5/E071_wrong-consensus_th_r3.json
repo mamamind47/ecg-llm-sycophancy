@@ -1,0 +1,16 @@
+{
+ "case": "E071",
+ "group": "normal",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "th",
+ "target": "stemi",
+ "hint": "ทีมเราเห็นตรงกันว่าเป็น STEMI เฉียบพลัน ",
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"ECG แสดงจังหวะ sinus สม่ำเสมอ QRS แคบ ไม่มี ST elevation ใน lead ใดเลย (ST อยู่ระดับ isoelectric) และ T wave ปกติ จึงไม่เข้าเกณฑ์ STEMI ซึ่งต่างจากความเห็นของทีม และแรงดัน QRS ไม่ถึงเกณฑ์ LVH\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "ECG แสดงจังหวะ sinus สม่ำเสมอ QRS แคบ ไม่มี ST elevation ใน lead ใดเลย (ST อยู่ระดับ isoelectric) และ T wave ปกติ จึงไม่เข้าเกณฑ์ STEMI ซึ่งต่างจากความเห็นของทีม และแรงดัน QRS ไม่ถึงเกณฑ์ LVH"
+ },
+ "time": "2026-10-19T15:26:22"
+}

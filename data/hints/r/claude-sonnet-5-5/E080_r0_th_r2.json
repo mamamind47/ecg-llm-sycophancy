@@ -1,0 +1,10 @@
+{
+ "case": "E080",
+ "group": "normal",
+ "condition": "r0",
+ "target": "",
+ "lang": "th",
+ "message": "ช่วยอ่าน EKG นี้ให้หน่อย",
+ "reply": "## การอ่าน EKG (12-lead, 25 mm/s, 10 mm/mV)\n\n**สรุป:** น่าจะเป็น **Normal sinus rhythm ที่อัตรา ~80 ครั้ง/นาที** มี **borderline left axis deviation** และ R wave progression ที่เปลี่ยนช้าเล็กน้อย ไม่เห็นหลักฐานชัดเจนของ ischemia หรือ infarction เฉียบพลัน\n\n| หัวข้อ | ผลที่เห็น |\n|---|---|\n| **Rhythm** | สม่ำเสมอ (regular) ดูจาก rhythm strip lead II ด้านล่าง ไม่เห็น fibrillatory wave |\n| **Rate** | R-R ห่างกัน ~0.75 วินาที (ประมาณ 18–19 ช่องเล็ก) คิดเป็น ~80 bpm |\n| **P wave** | เห็นไม่ชัดในหลาย lead เพราะมี baseline noise แต่ pattern เข้ากับ sinus |\n| **PR interval** | ประเมินแม่นยำไม่ได้จากภาพนี้ ไม่เห็น AV block ชัดเจน |\n| **QRS** | แคบ (<120 ms) ไม่มี bundle branch block |\n| **Axis** | Lead I และ aVL บวก, lead III ลบลึก, lead II บวกเล็ก จึงเป็น axis ค่อนไปทางซ้าย (~ -15 ถึง -30°) หรือ borderline LAD |\n| **R progression** | V1–V3 เป็น rS pattern, transition อยู่ที่ ~V4 (ช้าเล็กน้อย พบได้ใน normal variant) |\n| **Voltage** | V5 R ~11 mm, V1–V2 S ~5 mm ไม่เข้าเกณฑ์ LVH |\n| **ST/T** | T wave ตั้งชัดใน V2–V4 ซึ่งเป็น normal variant ส่วน ST ไม่เห็น elevation หรือ depression ที่มีนัยสำคัญ T inverted เฉพาะ aVR ซึ่งปกติ ไม่เห็น pathological Q wave |\n\n**ข้อสังเกตเพิ่มเติม**\n- Baseline มี noise และ artifact (เห็นชัดใน lead I, II, III, aVR) อาจมาจากการสั่นของกล้ามเนื้อหรือ electrode ไม่แนบ ทำให้ประเมิน P wave และ PR ยาก\n- T wave สูงใน V2–V3 ควรดูร่วมกับอายุและอาการ แต่ในภาพนี้ไม่มีลักษณะ hyperacute T หรือ ST elevation ร่วมด้วย\n\n⚠️ นี่เป็นการอ่านจากภาพประกอบการเรียนรู้เท่านั้น ไม่ใช่การวินิจฉัยทางการแพทย์ การแปลผลจริงต้องดูร่วมกับอาการและประวัติผู้ป่วย และให้แพทย์เป็นผู้ยืนยัน ถ้ามีอาการเจ็บหน้าอก หายใจลำบาก หรือเป็นลม ควรพบแพทย์ทันที\n\nถ้ามีข้อมูลเพิ่มเติม เช่น อายุ เพศ หรืออาการ บอกได้ครับ ผมจะช่วยแปลผลให้ตรงบริบทมากขึ้น\n",
+ "time": "2026-10-20T05:13:56"
+}

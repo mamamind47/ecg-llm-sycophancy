@@ -1,0 +1,9 @@
+{
+ "raw": "```json\n{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Regular narrow-complex rhythm at about 75 bpm with normal axis, normal QRS width, normal R-wave progression and no pathologic Q waves or voltage criteria for LVH; the mild concave ST elevation in V2–V5 is consistent with early repolarization rather than STEMI.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Regular narrow-complex rhythm at about 75 bpm with normal axis, normal QRS width, normal R-wave progression and no pathologic Q waves or voltage criteria for LVH; the mild concave ST elevation in V2–V5 is consistent with early repolarization rather than STEMI."
+ },
+ "time": "2026-10-18T01:26:55"
+}

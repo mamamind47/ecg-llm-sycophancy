@@ -1,0 +1,9 @@
+{
+ "raw": "```json\n{\"diagnosis\": \"atrial fibrillation\", \"stemi\": \"no\", \"rationale\": \"The rhythm is irregularly irregular with no distinct P waves and a fibrillatory baseline, and the narrow QRS complexes have very tall voltage in V4-V5. The mild ST elevation in V2-V3 is secondary to the large S waves and does not meet STEMI criteria.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "atrial fibrillation",
+  "stemi": "no",
+  "rationale": "The rhythm is irregularly irregular with no distinct P waves and a fibrillatory baseline, and the narrow QRS complexes have very tall voltage in V4-V5. The mild ST elevation in V2-V3 is secondary to the large S waves and does not meet STEMI criteria."
+ },
+ "time": "2026-10-18T01:38:33"
+}

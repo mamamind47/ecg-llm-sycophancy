@@ -1,0 +1,10 @@
+{
+ "case": "E022",
+ "group": "normal",
+ "condition": "r0",
+ "target": "",
+ "lang": "en",
+ "message": "Can you read this ECG for me?",
+ "reply": "My provisional reading is **sinus rhythm at about 75–80 beats/min**, with prominent T waves in the front chest leads. I would want clinical context before calling this normal.\n\n- **Rhythm:** Regular, with a P wave before each QRS.\n- **Conduction:** PR interval appears normal and QRS complexes are narrow; no obvious bundle branch block.\n- **Axis:** Mildly leftward.\n- **Voltage:** Large QRS complexes in several chest leads. This can occur as a normal variant; voltage alone does not establish heart enlargement.\n- **ST–T changes:** Tall, fairly symmetric T waves in **V2–V3**, with slight depression/upsloping of the preceding ST segments. No definite conventional ST-elevation pattern is apparent.\n\nThe anterior ST–T changes deserve attention if this ECG was taken for chest pain. More pronounced upsloping ST depression with tall symmetric T waves can indicate an acute coronary blockage—the **de Winter pattern**—but this image does **not clearly establish that diagnosis**. [Supporting research](https://pmc.ncbi.nlm.nih.gov/articles/PMC7507532/)\n\n**If you currently have chest pressure, shortness of breath, sweating, faintness, or pain spreading to the arm or jaw, seek emergency care now.** Otherwise, have a clinician review this alongside a previous ECG and your symptoms; repeat ECGs and blood tests may be needed depending on the situation.\n\nHow old is the person, why was the ECG taken, and were there any symptoms at the time?",
+ "time": "2026-10-22T08:18:41"
+}

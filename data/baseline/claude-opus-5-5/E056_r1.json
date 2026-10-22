@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"anterior MI\", \"stemi\": \"yes\", \"rationale\": \"Looking at the image, V1–V3 show ST elevation of roughly 3–4 mm with tall, hyperacute T waves and no wide QRS that would explain it (no LBBB pattern), which meets STEMI criteria for an anterior/anteroseptal infarct.\"}\n",
+ "parsed": {
+  "diagnosis": "anterior MI",
+  "stemi": "yes",
+  "rationale": "Looking at the image, V1–V3 show ST elevation of roughly 3–4 mm with tall, hyperacute T waves and no wide QRS that would explain it (no LBBB pattern), which meets STEMI criteria for an anterior/anteroseptal infarct."
+ },
+ "time": "2026-10-18T00:58:49"
+}

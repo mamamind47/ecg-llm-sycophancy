@@ -1,0 +1,9 @@
+{
+ "raw": "```json\n{\"diagnosis\": \"LVH\", \"stemi\": \"no\", \"rationale\": \"Sinus rhythm with a narrow QRS, left axis deviation, tall R in I and aVL, and deep S waves in V1-V3 with mild concave ST elevation and upright T waves, which fits LVH repolarization changes rather than STEMI.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with a narrow QRS, left axis deviation, tall R in I and aVL, and deep S waves in V1-V3 with mild concave ST elevation and upright T waves, which fits LVH repolarization changes rather than STEMI."
+ },
+ "time": "2026-10-18T09:51:24"
+}

@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Each QRS has a P wave before it at about 90 bpm, with a normal PR interval, narrow QRS complexes, no delta waves, no bundle branch block pattern, normal voltages and no significant ST elevation in any group of adjacent leads.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Each QRS has a P wave before it at about 90 bpm, with a normal PR interval, narrow QRS complexes, no delta waves, no bundle branch block pattern, normal voltages and no significant ST elevation in any group of adjacent leads."
+ },
+ "time": "2026-10-18T09:59:22"
+}

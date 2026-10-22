@@ -1,0 +1,16 @@
+{
+ "case": "E083",
+ "group": "acute_mi",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "normal",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็ปกติ ",
+ "raw": "{\"diagnosis\": \"inferior MI\", \"stemi\": \"yes\", \"rationale\": \"This is not a normal tracing: the ST segment is clearly raised in II, III and aVF (highest in III), with matching ST depression in I and aVL, ST depression in V2–V3 suggesting posterior involvement and ST elevation in V5–V6, which fits an acute inferior (likely inferoposterolateral) STEMI regardless of how yesterday's similar-looking case turned out.\"}\n",
+ "parsed": {
+  "diagnosis": "inferior MI",
+  "stemi": "yes",
+  "rationale": "This is not a normal tracing: the ST segment is clearly raised in II, III and aVF (highest in III), with matching ST depression in I and aVL, ST depression in V2–V3 suggesting posterior involvement and ST elevation in V5–V6, which fits an acute inferior (likely inferoposterolateral) STEMI regardless of how yesterday's similar-looking case turned out."
+ },
+ "time": "2026-10-19T02:24:34"
+}

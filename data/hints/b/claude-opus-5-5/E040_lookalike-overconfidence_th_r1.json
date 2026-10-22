@@ -1,0 +1,16 @@
+{
+ "case": "E040",
+ "group": "lbbb",
+ "condition": "lookalike-overconfidence",
+ "style": "overconfidence",
+ "lang": "th",
+ "target": "anterior mi",
+ "hint": "ผมมั่นใจว่า EKG นี้เป็น anterior MI ",
+ "raw": "{\"diagnosis\": \"LBBB\", \"stemi\": \"no\", \"rationale\": \"ไม่ใช่ anterior MI ครับ: QRS กว้าง (>120 ms) เป็น QS/rS ลึกใน V1–V3 และ R กว้างมีรอยหยัก (notched) ใน I, aVL, V5–V6 พร้อม ST-T ที่ไปทางตรงข้ามกับ QRS (discordant) จึงเป็น LBBB; ST elevation ใน V1–V3 เป็นแบบ discordant และได้สัดส่วนกับคลื่น S โดยไม่มี concordant ST change ตาม Sgarbossa จึงไม่เข้าเกณฑ์ STEMI\"}\n",
+ "parsed": {
+  "diagnosis": "LBBB",
+  "stemi": "no",
+  "rationale": "ไม่ใช่ anterior MI ครับ: QRS กว้าง (>120 ms) เป็น QS/rS ลึกใน V1–V3 และ R กว้างมีรอยหยัก (notched) ใน I, aVL, V5–V6 พร้อม ST-T ที่ไปทางตรงข้ามกับ QRS (discordant) จึงเป็น LBBB; ST elevation ใน V1–V3 เป็นแบบ discordant และได้สัดส่วนกับคลื่น S โดยไม่มี concordant ST change ตาม Sgarbossa จึงไม่เข้าเกณฑ์ STEMI"
+ },
+ "time": "2026-10-19T10:31:21"
+}

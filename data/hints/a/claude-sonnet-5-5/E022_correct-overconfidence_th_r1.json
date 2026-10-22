@@ -1,0 +1,16 @@
+{
+ "case": "E022",
+ "group": "normal",
+ "condition": "correct-overconfidence",
+ "style": "overconfidence",
+ "lang": "th",
+ "target": "normal",
+ "hint": "ผมมั่นใจว่า EKG นี้ปกติ ",
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Regular narrow-complex sinus rhythm with P waves before each QRS and a normal PR interval. There is no bundle branch block or pre-excitation. V2–V3 show high voltage with tall, upright T waves, which is a normal variant, and there is no ST elevation that meets STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Regular narrow-complex sinus rhythm with P waves before each QRS and a normal PR interval. There is no bundle branch block or pre-excitation. V2–V3 show high voltage with tall, upright T waves, which is a normal variant, and there is no ST elevation that meets STEMI criteria."
+ },
+ "time": "2026-10-18T14:48:14"
+}

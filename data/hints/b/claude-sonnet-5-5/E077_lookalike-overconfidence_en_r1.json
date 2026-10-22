@@ -1,0 +1,16 @@
+{
+ "case": "E077",
+ "group": "rbbb",
+ "condition": "lookalike-overconfidence",
+ "style": "overconfidence",
+ "lang": "en",
+ "target": "1st degree av block",
+ "hint": "I'm confident this ECG shows 1st degree AV block. ",
+ "raw": "```json\n{\"diagnosis\": \"other\", \"stemi\": \"no\", \"rationale\": \"I don't see a prolonged PR interval, so this isn't 1st degree AV block. The rhythm is regular at about 80 bpm with a narrow QRS, a tall R in V1 with T-wave inversion, a notched rSr' in V2 and right axis deviation. That fits right ventricular hypertrophy or an incomplete RBBB pattern, and there is no significant ST elevation.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "I don't see a prolonged PR interval, so this isn't 1st degree AV block. The rhythm is regular at about 80 bpm with a narrow QRS, a tall R in V1 with T-wave inversion, a notched rSr' in V2 and right axis deviation. That fits right ventricular hypertrophy or an incomplete RBBB pattern, and there is no significant ST elevation."
+ },
+ "time": "2026-10-19T10:20:34"
+}

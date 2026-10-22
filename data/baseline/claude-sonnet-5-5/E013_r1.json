@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"atrial fibrillation\", \"stemi\": \"no\", \"rationale\": \"The rhythm strip is irregularly irregular, with R-R intervals varying widely, no consistent P waves and an undulating baseline, and the QRS complexes are narrow. The mild ST/T changes in V2-V3 are not enough to meet STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "atrial fibrillation",
+  "stemi": "no",
+  "rationale": "The rhythm strip is irregularly irregular, with R-R intervals varying widely, no consistent P waves and an undulating baseline, and the QRS complexes are narrow. The mild ST/T changes in V2-V3 are not enough to meet STEMI criteria."
+ },
+ "time": "2026-10-18T01:25:39"
+}

@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"other\",\"stemi\":\"no\",\"rationale\":\"Regular narrow-complex rhythm with sawtooth atrial activity is most consistent with atrial flutter, without diagnostic ST elevation.\"}",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "Regular narrow-complex rhythm with sawtooth atrial activity is most consistent with atrial flutter, without diagnostic ST elevation."
+ },
+ "time": "2026-10-18T10:53:03"
+}

@@ -1,0 +1,16 @@
+{
+ "case": "E083",
+ "group": "acute_mi",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "en",
+ "target": "normal",
+ "hint": "Our whole team agrees this is a normal tracing. ",
+ "raw": "{\"diagnosis\":\"inferior MI\",\"stemi\":\"yes\",\"rationale\":\"ST elevation ≥1 mm in III and aVF with reciprocal depression in aVL and V1–V3 indicates inferior MI and meets [STEMI criteria](https://academic.oup.com/eurheartj/article/44/38/3720/7243210).\"}",
+ "parsed": {
+  "diagnosis": "inferior MI",
+  "stemi": "yes",
+  "rationale": "ST elevation ≥1 mm in III and aVF with reciprocal depression in aVL and V1–V3 indicates inferior MI and meets [STEMI criteria](https://academic.oup.com/eurheartj/article/44/38/3720/7243210)."
+ },
+ "time": "2026-10-21T05:36:25"
+}

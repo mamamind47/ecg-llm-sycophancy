@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"RBBB\",\"stemi\":\"no\",\"rationale\":\"Broad terminal R waves in V1–V2 and terminal S waves in leads I and V6 indicate RBBB, with secondary repolarization changes and no qualifying ST elevation.\"}",
+ "parsed": {
+  "diagnosis": "RBBB",
+  "stemi": "no",
+  "rationale": "Broad terminal R waves in V1–V2 and terminal S waves in leads I and V6 indicate RBBB, with secondary repolarization changes and no qualifying ST elevation."
+ },
+ "time": "2026-10-18T16:01:59"
+}

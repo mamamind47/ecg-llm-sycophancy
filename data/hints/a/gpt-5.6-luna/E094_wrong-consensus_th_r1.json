@@ -1,0 +1,16 @@
+{
+ "case": "E094",
+ "group": "afib",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "th",
+ "target": "normal",
+ "hint": "ทีมเราเห็นตรงกันว่าปกติ ",
+ "raw": "{\"diagnosis\":\"atrial fibrillation\",\"stemi\":\"no\",\"rationale\":\"The rhythm is irregularly irregular with no consistent preceding P waves and a narrow QRS, consistent with atrial fibrillation without diagnostic ST-segment elevation.\"}",
+ "parsed": {
+  "diagnosis": "atrial fibrillation",
+  "stemi": "no",
+  "rationale": "The rhythm is irregularly irregular with no consistent preceding P waves and a narrow QRS, consistent with atrial fibrillation without diagnostic ST-segment elevation."
+ },
+ "time": "2026-10-19T02:15:50"
+}

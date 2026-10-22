@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"LVH\",\"stemi\":\"no\",\"rationale\":\"Marked precordial voltage with deep anterior S waves, tall lateral R waves, and secondary discordant ST-T changes supports LVH without diagnostic STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "Marked precordial voltage with deep anterior S waves, tall lateral R waves, and secondary discordant ST-T changes supports LVH without diagnostic STEMI criteria."
+ },
+ "time": "2026-10-18T11:03:07"
+}

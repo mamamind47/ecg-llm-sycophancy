@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"other\",\"stemi\":\"no\",\"rationale\":\"The ECG shows a regular sinus rhythm with narrow QRS complexes and diffuse concave ST elevation most consistent with early repolarization, without diagnostic STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "The ECG shows a regular sinus rhythm with narrow QRS complexes and diffuse concave ST elevation most consistent with early repolarization, without diagnostic STEMI criteria."
+ },
+ "time": "2026-10-19T22:51:51"
+}

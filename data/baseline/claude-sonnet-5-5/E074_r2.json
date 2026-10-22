@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"LVH\", \"stemi\": \"no\", \"rationale\": \"The QRS is narrow with very deep S waves in V1-V3 (well over 30 mm) and T-wave inversion in I and aVL; the discordant ST elevation in V1-V4 fits LVH repolarization changes, not an acute STEMI.\"}\n",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "The QRS is narrow with very deep S waves in V1-V3 (well over 30 mm) and T-wave inversion in I and aVL; the discordant ST elevation in V1-V4 fits LVH repolarization changes, not an acute STEMI."
+ },
+ "time": "2026-10-18T09:58:38"
+}

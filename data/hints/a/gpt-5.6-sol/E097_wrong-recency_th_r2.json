@@ -1,0 +1,16 @@
+{
+ "case": "E097",
+ "group": "acute_mi",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "normal",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็ปกติ ",
+ "raw": "{\"diagnosis\":\"other\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with narrow QRS complexes and prominent post-QRS artifact/baseline distortion, especially in V2–V4, mimicking ST elevation without a physiologic STEMI pattern.\"}",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with narrow QRS complexes and prominent post-QRS artifact/baseline distortion, especially in V2–V4, mimicking ST elevation without a physiologic STEMI pattern."
+ },
+ "time": "2026-10-22T01:05:24"
+}

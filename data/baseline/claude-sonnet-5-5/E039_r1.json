@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"LVH\", \"stemi\": \"no\", \"rationale\": \"The QRS is narrow with very tall R waves in I and aVL (left axis) and very deep S waves in V1-V3, which gives voltage criteria for LVH. Lateral strain-type ST depression and T inversion are present in I and aVL. The ST elevation in V1-V3 is discordant to the deep S waves, which is the usual LVH pattern, so it does not indicate STEMI.\"}\n",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "The QRS is narrow with very tall R waves in I and aVL (left axis) and very deep S waves in V1-V3, which gives voltage criteria for LVH. Lateral strain-type ST depression and T inversion are present in I and aVL. The ST elevation in V1-V3 is discordant to the deep S waves, which is the usual LVH pattern, so it does not indicate STEMI."
+ },
+ "time": "2026-10-18T01:30:46"
+}

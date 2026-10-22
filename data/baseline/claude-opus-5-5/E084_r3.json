@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"LVH\", \"stemi\": \"no\", \"rationale\": \"Sinus rhythm with very deep S waves in V2–V3 (about 25 mm) and tall precordial R waves meet voltage criteria such as Peguero–Lo Presti; the concave ST elevation in V2–V3 fits secondary repolarization change, and no reciprocal or territorial STEMI pattern is visible.\"}\n",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with very deep S waves in V2–V3 (about 25 mm) and tall precordial R waves meet voltage criteria such as Peguero–Lo Presti; the concave ST elevation in V2–V3 fits secondary repolarization change, and no reciprocal or territorial STEMI pattern is visible."
+ },
+ "time": "2026-10-18T11:22:57"
+}

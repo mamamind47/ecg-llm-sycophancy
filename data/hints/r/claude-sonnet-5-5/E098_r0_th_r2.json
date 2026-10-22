@@ -1,0 +1,10 @@
+{
+ "case": "E098",
+ "group": "acute_mi",
+ "condition": "r0",
+ "target": "",
+ "lang": "th",
+ "message": "ช่วยอ่าน EKG นี้ให้หน่อย",
+ "reply": "## สรุปการอ่าน EKG (12 leads, 25 mm/s, 10 mm/mV)\n\n**ภาพรวม: ส่วนใหญ่เข้าได้กับ Normal sinus rhythm ไม่เห็นความผิดปกติเฉียบพลันที่ชัดเจน**\n\n| หัวข้อ | ที่เห็น |\n|---|---|\n| **Rhythm** | สม่ำเสมอ มี P wave นำหน้าทุก QRS (เห็นชัดใน lead II) และ P ตั้งขึ้นใน II → sinus rhythm RR ห่างต่างกันเล็กน้อย อาจเป็น sinus arrhythmia ตามการหายใจ |\n| **Rate** | ประมาณ **65–75 bpm** (นับ R ได้ 12 beats ใน rhythm strip ยาว 10 วินาที) |\n| **Axis** | **Normal** (QRS บวกใน I และ aVF) |\n| **PR interval** | ประมาณ 0.12–0.20 วินาที ไม่เห็น AV block |\n| **QRS** | แคบ (<0.12 วินาที) ไม่มี bundle branch block |\n| **R wave progression** | V1–V2 เป็น rS (S ลึก) และ transition อยู่แถว V3–V4 ซึ่งปกติ |\n| **ST-T** | ST เกือบ isoelectric ใน lead ส่วนใหญ่ V2–V3 มี J-point/ST ยกขึ้นเล็กน้อยหลัง S ลึก ซึ่งมักเป็น normal variant หรือ early repolarization T ตั้งใน II, III, aVF, V2–V6 และกลับใน aVR ซึ่งปกติ ไม่เห็น ST depression หรือ T inversion ชัดเจน |\n| **Q wave** | ไม่เห็น pathological Q |\n| **Voltage** | ค่อนข้างสูงใน V2–V5 โดย S ใน V1–V2 ลึกประมาณ 15–18 mm และ R ใน V4–V5 สูงประมาณ 15 mm หรือมากกว่า SV1+RV5 ประมาณ 33 mm ซึ่งใกล้เกณฑ์ LVH แต่ยังไม่เกินชัดเจน และไม่มี strain pattern ที่ชัด |\n\n## ข้อสังเกต\n- แรงดันสูงใน precordial leads ร่วมกับ J-point elevation เล็กน้อย พบได้บ่อยในคนอายุน้อยหรือรูปร่างผอม ถ้าผู้ป่วยอายุมาก มีความดันสูง หรือโรคลิ้นหัวใจ ควรพิจารณา LVH ร่วมกับ echo\n- Lead I มี baseline wander/noise เล็กน้อย ไม่น่ารบกวนการแปลผล\n\n## ข้อจำกัด\nอ่านจากภาพนิ่งโดยประมาณ ค่า rate และ interval ไม่ใช่ค่าที่วัดแม่นยำ และไม่มีข้อมูลทางคลินิก (อายุ อาการ) การแปลผลจริงต้องดูร่วมกับอาการ เช่น เจ็บหน้าอก ใจสั่น หรือเป็นลม และควรให้แพทย์ยืนยัน\n\nถ้าบอกอายุ เพศ และอาการของผู้ป่วยเพิ่ม ผมช่วยวิเคราะห์ต่อให้เจาะจงขึ้นได้\n",
+ "time": "2026-10-20T05:16:38"
+}

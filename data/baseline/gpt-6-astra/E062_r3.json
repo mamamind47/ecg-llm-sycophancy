@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"LVH\",\"stemi\":\"no\",\"rationale\":\"Marked precordial QRS voltage with deep anterior S waves, tall lateral R waves, and discordant ST-T changes indicates LVH with strain rather than STEMI.\"}",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "Marked precordial QRS voltage with deep anterior S waves, tall lateral R waves, and discordant ST-T changes indicates LVH with strain rather than STEMI."
+ },
+ "time": "2026-10-18T21:09:48"
+}

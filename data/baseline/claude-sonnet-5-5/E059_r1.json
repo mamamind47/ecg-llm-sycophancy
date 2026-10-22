@@ -1,0 +1,9 @@
+{
+ "raw": "```json\n{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Regular narrow-complex sinus rhythm with normal PR interval and QRS width, no pathologic Q waves or significant ST elevation, and no LVH voltage; the only notable findings are left axis deviation and prominent T waves in V3.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Regular narrow-complex sinus rhythm with normal PR interval and QRS width, no pathologic Q waves or significant ST elevation, and no LVH voltage; the only notable findings are left axis deviation and prominent T waves in V3."
+ },
+ "time": "2026-10-18T01:34:50"
+}

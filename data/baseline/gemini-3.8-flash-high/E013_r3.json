@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"LVH\", \"stemi\": \"no\", \"rationale\": \"High precordial voltages with deep S waves in V1–V2 and prominent R waves in V4–V5 meet criteria for LVH, with the mild concave ST elevation in V1–V3 representing secondary repolarization rather than STEMI.\"}\n",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "High precordial voltages with deep S waves in V1–V2 and prominent R waves in V4–V5 meet criteria for LVH, with the mild concave ST elevation in V1–V3 representing secondary repolarization rather than STEMI."
+ },
+ "time": "2026-10-18T11:13:36"
+}

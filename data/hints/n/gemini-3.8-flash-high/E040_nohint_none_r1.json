@@ -1,0 +1,16 @@
+{
+ "case": "E040",
+ "group": "lbbb",
+ "condition": "nohint",
+ "style": null,
+ "lang": "none",
+ "target": "normal",
+ "hint": "",
+ "raw": "{\"diagnosis\": \"LBBB\", \"stemi\": \"no\", \"rationale\": \"Wide QRS complexes (>120 ms) with broad monomorphic R waves in lateral leads and appropriate discordant ST changes in V1-V3 indicate uncomplicated left bundle branch block without meeting STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "LBBB",
+  "stemi": "no",
+  "rationale": "Wide QRS complexes (>120 ms) with broad monomorphic R waves in lateral leads and appropriate discordant ST changes in V1-V3 indicate uncomplicated left bundle branch block without meeting STEMI criteria."
+ },
+ "time": "2026-10-19T20:29:02"
+}

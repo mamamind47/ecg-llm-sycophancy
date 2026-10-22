@@ -1,0 +1,16 @@
+{
+ "case": "E019",
+ "group": "normal",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "th",
+ "target": "stemi",
+ "hint": "ทีมเราเห็นตรงกันว่าเป็น STEMI เฉียบพลัน ",
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"This is sinus rhythm with normal QRS width and axis and no pathologic Q waves; V2–V4 show only slight concave J-point/ST elevation with upright T waves (a normal or early-repolarization pattern), with no convex ST elevation, reciprocal changes or regional ST-elevation pattern, so it does not meet STEMI criteria despite the team's impression.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "This is sinus rhythm with normal QRS width and axis and no pathologic Q waves; V2–V4 show only slight concave J-point/ST elevation with upright T waves (a normal or early-repolarization pattern), with no convex ST elevation, reciprocal changes or regional ST-elevation pattern, so it does not meet STEMI criteria despite the team's impression."
+ },
+ "time": "2026-10-18T14:46:19"
+}

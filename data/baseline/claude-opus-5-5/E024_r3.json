@@ -1,0 +1,9 @@
+{
+ "raw": "```json\n{\"diagnosis\": \"other\", \"stemi\": \"no\", \"rationale\": \"The rhythm is a regular narrow-to-borderline QRS tachycardia at about 150 bpm without clear P waves, and the undulating inferior baseline suggests atrial flutter with 2:1 conduction; the lateral ST depression and V2–V3 ST changes look secondary or rate-related and do not form a contiguous STEMI pattern.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "The rhythm is a regular narrow-to-borderline QRS tachycardia at about 150 bpm without clear P waves, and the undulating inferior baseline suggests atrial flutter with 2:1 conduction; the lateral ST depression and V2–V3 ST changes look secondary or rate-related and do not form a contiguous STEMI pattern."
+ },
+ "time": "2026-10-18T11:11:17"
+}

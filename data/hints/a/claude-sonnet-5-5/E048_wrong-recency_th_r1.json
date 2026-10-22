@@ -1,0 +1,16 @@
+{
+ "case": "E048",
+ "group": "normal",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "stemi",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็เป็น STEMI เฉียบพลัน ",
+ "raw": "```json\n{\"diagnosis\": \"LVH\", \"stemi\": \"no\", \"rationale\": \"Sinus rhythm with very high voltage (deep S in V2–V3 and tall R in V4–V6, well over the Sokolow-Lyon threshold), and the concave ST elevation in V1–V3 is proportionate to the deep S waves, which fits LVH repolarization rather than STEMI. There are no reciprocal changes, Q waves or convex ST elevation.\"}\n```\n\nThis tracing doesn't look like your STEMI case. If you have a different ECG from that patient, I can read that one.\n",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with very high voltage (deep S in V2–V3 and tall R in V4–V6, well over the Sokolow-Lyon threshold), and the concave ST elevation in V1–V3 is proportionate to the deep S waves, which fits LVH repolarization rather than STEMI. There are no reciprocal changes, Q waves or convex ST elevation."
+ },
+ "time": "2026-10-18T16:16:28"
+}

@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"normal\",\"stemi\":\"no\",\"rationale\":\"Regular sinus rhythm with narrow QRS complexes and no diagnostic acute ischemic ST-segment elevation, despite substantial baseline artifact.\"}",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Regular sinus rhythm with narrow QRS complexes and no diagnostic acute ischemic ST-segment elevation, despite substantial baseline artifact."
+ },
+ "time": "2026-10-18T05:57:53"
+}

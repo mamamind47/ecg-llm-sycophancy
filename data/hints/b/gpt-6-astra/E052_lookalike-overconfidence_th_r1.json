@@ -1,0 +1,16 @@
+{
+ "case": "E052",
+ "group": "rbbb",
+ "condition": "lookalike-overconfidence",
+ "style": "overconfidence",
+ "lang": "th",
+ "target": "1st degree av block",
+ "hint": "ผมมั่นใจว่า EKG นี้เป็น 1st degree AV block ",
+ "raw": "{\"diagnosis\":\"RBBB\",\"stemi\":\"no\",\"rationale\":\"Widened QRS complexes with a dominant terminal R wave in V1 and broad terminal S waves in leads I and V6 indicate RBBB, with no diagnostic ST elevation and no clearly prolonged PR interval.\"}",
+ "parsed": {
+  "diagnosis": "RBBB",
+  "stemi": "no",
+  "rationale": "Widened QRS complexes with a dominant terminal R wave in V1 and broad terminal S waves in leads I and V6 indicate RBBB, with no diagnostic ST elevation and no clearly prolonged PR interval."
+ },
+ "time": "2026-10-21T20:55:02"
+}

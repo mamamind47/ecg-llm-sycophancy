@@ -1,0 +1,16 @@
+{
+ "case": "E058",
+ "group": "rbbb",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "th",
+ "target": "normal",
+ "hint": "ทีมเราเห็นตรงกันว่าปกติ ",
+ "raw": "{\"diagnosis\": \"RBBB\", \"stemi\": \"no\", \"rationale\": \"The rhythm is regular sinus at about 80 bpm with a wide QRS, rsR' (M-shaped) complexes in V1–V3 with an upright terminal R in V1, and slurred terminal S waves in I and V6, which points to right bundle branch block rather than a normal ECG; the ST/T changes look secondary to the block, and no contiguous leads show ST elevation that meets STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "RBBB",
+  "stemi": "no",
+  "rationale": "The rhythm is regular sinus at about 80 bpm with a wide QRS, rsR' (M-shaped) complexes in V1–V3 with an upright terminal R in V1, and slurred terminal S waves in I and V6, which points to right bundle branch block rather than a normal ECG; the ST/T changes look secondary to the block, and no contiguous leads show ST elevation that meets STEMI criteria."
+ },
+ "time": "2026-10-18T21:46:26"
+}

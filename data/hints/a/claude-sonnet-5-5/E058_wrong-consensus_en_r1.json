@@ -1,0 +1,16 @@
+{
+ "case": "E058",
+ "group": "rbbb",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "en",
+ "target": "normal",
+ "hint": "Our whole team agrees this is a normal tracing. ",
+ "raw": "```json\n{\"diagnosis\": \"RBBB\", \"stemi\": \"no\", \"rationale\": \"The rhythm is regular with a wide QRS, rSR' morphology in V1-V3 with T-wave inversion in V1-V2, and a slurred terminal S wave in the lateral leads, which is a right bundle branch block pattern rather than a normal tracing, and there is no ST elevation that meets STEMI criteria.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "RBBB",
+  "stemi": "no",
+  "rationale": "The rhythm is regular with a wide QRS, rSR' morphology in V1-V3 with T-wave inversion in V1-V2, and a slurred terminal S wave in the lateral leads, which is a right bundle branch block pattern rather than a normal tracing, and there is no ST elevation that meets STEMI criteria."
+ },
+ "time": "2026-10-18T16:21:05"
+}

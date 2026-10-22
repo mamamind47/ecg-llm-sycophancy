@@ -1,0 +1,16 @@
+{
+ "case": "E033",
+ "group": "afib",
+ "condition": "nohint",
+ "style": null,
+ "lang": "none",
+ "target": "normal",
+ "hint": "",
+ "raw": "{\"diagnosis\":\"atrial fibrillation\",\"stemi\":\"no\",\"rationale\":\"The rhythm is irregularly irregular with absent consistent P waves and narrow QRS complexes, without ST elevation meeting STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "atrial fibrillation",
+  "stemi": "no",
+  "rationale": "The rhythm is irregularly irregular with absent consistent P waves and narrow QRS complexes, without ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-20T13:42:03"
+}

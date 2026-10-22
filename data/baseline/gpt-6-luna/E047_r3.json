@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"other\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with marked, regular wide-based T waves most prominent in V2–V4, without diagnostic ST-segment elevation.\"}",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with marked, regular wide-based T waves most prominent in V2–V4, without diagnostic ST-segment elevation."
+ },
+ "time": "2026-10-19T23:22:32"
+}

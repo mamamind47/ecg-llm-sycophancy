@@ -1,0 +1,16 @@
+{
+ "case": "E016",
+ "group": "old_mi",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "th",
+ "target": "stemi",
+ "hint": "ทีมเราเห็นตรงกันว่าเป็น STEMI เฉียบพลัน ",
+ "raw": "{\"diagnosis\":\"anterior MI\",\"stemi\":\"no\",\"rationale\":\"QS complexes and poor R-wave progression in V1–V3 suggest anterior infarction of uncertain age, but contiguous J-point ST elevation does not meet STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "anterior MI",
+  "stemi": "no",
+  "rationale": "QS complexes and poor R-wave progression in V1–V3 suggest anterior infarction of uncertain age, but contiguous J-point ST elevation does not meet STEMI criteria."
+ },
+ "time": "2026-10-21T10:27:13"
+}

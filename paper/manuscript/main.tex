@@ -1,0 +1,86 @@
+%% Draft manuscript for Journal of Electrocardiology (Elsevier) — elsarticle.
+%% Source of truth: ../manuscript_draft.md. Regenerate sections/*.tex with prepare.py, then compile with XeLaTeX:
+%%   python3 prepare.py && tectonic -X compile main.tex
+%% Overleaf: upload this folder, Menu > Compiler > XeLaTeX (Thai font bundled in fonts/).
+%% Red [TBD] = not yet available (no experiment has been run). Never replace one with an estimate.
+\documentclass[preprint,12pt]{elsarticle}
+
+\usepackage{fontspec}
+\setmainfont{texgyretermes}[Extension=.otf,UprightFont=*-regular,BoldFont=*-bold,ItalicFont=*-italic,BoldItalicFont=*-bolditalic]
+\newfontfamily\thaifont[Path=fonts/,
+  UprightFont=THSarabunNew.ttf, BoldFont={THSarabunNew Bold.ttf},
+  ItalicFont={THSarabunNew Italic.ttf}, BoldItalicFont={THSarabunNew BoldItalic.ttf},
+  Scale=1.35]{THSarabunNew}
+\usepackage[Latin, Thai]{ucharclasses}
+\setTransitionsFor{Thai}{\thaifont}{\rmfamily}
+\XeTeXlinebreaklocale "th"\XeTeXlinebreakskip = 0pt plus 1pt
+\emergencystretch=3em
+
+\usepackage{amssymb}
+\usepackage{booktabs,longtable,array,calc,etoolbox}
+\AtBeginEnvironment{longtable}{\small}
+\usepackage[hidelinks]{hyperref}
+\usepackage{xcolor}
+\usepackage{tikz}
+\usetikzlibrary{arrows.meta,positioning,calc}
+\usepackage{pgfplots}\pgfplotsset{compat=1.18}
+\usepgfplotslibrary{groupplots}
+\input{figures/fig_numbers}
+\usepackage{listings}
+\providecommand{\passthrough}[1]{#1}
+\lstset{basicstyle=\ttfamily\small,breaklines=true,columns=fullflexible,keepspaces=true,frame=single,framerule=0.3pt,xleftmargin=3pt,xrightmargin=3pt}
+\providecommand{\tightlist}{\setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\newcommand{\todo}[1]{\textcolor{red}{[TBD\ifx&#1&\else: #1\fi]}}
+
+\journal{Journal of Electrocardiology}
+
+\begin{document}
+
+\begin{frontmatter}
+
+\title{Do multimodal language models defer to a clinician's wrong ECG read? A controlled study of sycophancy in 12-lead ECG interpretation}
+
+\author{Badeesorn Sittikong\corref{cor1}}
+\ead{badeesorn.sitt@kmutt.ac.th}
+\cortext[cor1]{Corresponding author.}
+\affiliation{organization={School of Information Technology, King Mongkut's University of Technology Thonburi},
+  addressline={126 Pracha Uthit Road, Bang Mod, Thung Khru},
+  city={Bangkok}, postcode={10140}, country={Thailand}}
+
+\begin{abstract}
+\input{sections/abstract}
+\end{abstract}
+
+\begin{keyword}
+\input{sections/keywords}
+\end{keyword}
+
+\end{frontmatter}
+
+\begin{center}\fbox{\parbox{0.88\linewidth}{\small\textbf{Draft v0.8, 22 October 2026.} Condensed for Journal of Electrocardiology. Red [TBD] = still open. Supplementary material in a separate file.}}\end{center}
+
+\input{sections/body}
+
+
+\section*{Declaration of generative AI and AI-assisted technologies in the manuscript preparation process}
+During the preparation of this work the author used Claude (Anthropic) to write analysis and automation code and to draft and edit text. After using this tool, the author reviewed and edited the content as needed and takes full responsibility for the content of the published article. \todo{confirm wording}
+
+\section*{Declaration of competing interest}
+The author declares no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.
+
+\section*{CRediT authorship contribution statement}
+\textbf{Badeesorn Sittikong:} Conceptualization, Methodology, Software, Validation, Formal analysis, Investigation, Data curation, Visualization, Writing -- original draft, Writing -- review \& editing.
+
+\section*{Acknowledgements}
+The author thanks a colleague, who wishes to remain anonymous, for running the GPT-6-luna experiments on their account.
+
+\section*{Funding}
+This research did not receive any specific grant from funding agencies in the public, commercial, or not-for-profit sectors.
+
+\section*{Data availability}
+\todo{repository URL}
+
+\bibliographystyle{elsarticle-num}
+\bibliography{../references}
+
+\end{document}

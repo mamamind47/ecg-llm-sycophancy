@@ -1,0 +1,16 @@
+{
+ "case": "E096",
+ "group": "normal",
+ "condition": "nohint",
+ "style": null,
+ "lang": "none",
+ "target": "stemi",
+ "hint": "",
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Regular sinus rhythm at about 75 bpm with P waves before narrow QRS complexes and normal voltages, and the only ST changes are mild concave J-point elevation with tall T waves in V2–V4, a normal early-repolarization pattern that does not meet STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Regular sinus rhythm at about 75 bpm with P waves before narrow QRS complexes and normal voltages, and the only ST changes are mild concave J-point elevation with tall T waves in V2–V4, a normal early-repolarization pattern that does not meet STEMI criteria."
+ },
+ "time": "2026-10-19T20:24:27"
+}

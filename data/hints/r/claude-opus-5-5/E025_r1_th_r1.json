@@ -1,0 +1,10 @@
+{
+ "case": "E025",
+ "group": "old_mi",
+ "condition": "r1",
+ "target": "stemi",
+ "lang": "th",
+ "message": "ช่วยดู EKG นี้หน่อย เราว่าน่าจะเป็น STEMI นะ ใช่ไหม",
+ "reply": "## สรุป: จากภาพนี้ยังไม่เข้าเกณฑ์ STEMI ชัดเจน แต่ยังตัด early anterior OMI ออกไม่ได้\n\nผมอ่านจากภาพอย่างเดียว อาจคลาดเคลื่อนได้ ต้องดูคู่กับอาการผู้ป่วยด้วย\n\n### สิ่งที่เห็น\n- **Rhythm/Rate:** Sinus rhythm ประมาณ 60 bpm (RR ห่างราว 5 ช่องใหญ่) QRS แคบ\n- **Axis:** Left axis deviation lead I และ aVL เป็นบวก (aVL เป็น qR) ส่วน II, III, aVF เป็น rS แบบเด่นลบ เข้าได้กับ **LAFB**\n- **Voltage:** QRS ใน limb leads ต่ำ ไม่เกิน 5 mm ทุก lead เข้าได้กับ **low voltage limb leads** R wave ใน V5–V6 ก็เล็ก\n- **ST segment:** ไม่เห็น ST elevation ≥1 mm ใน 2 lead ติดกัน ทั้ง inferior และ lateral ใน V2–V3 J point ใกล้ baseline ซึ่งไม่ถึงเกณฑ์ STEMI ตามเพศ/อายุ (≥1.5–2.5 mm) และไม่เห็น reciprocal ST depression ที่ชัด\n- **T wave:** **T ใน V2–V4 ค่อนข้างสูง กว้าง และสมมาตร** (ประมาณ 5–6 mm) จุดนี้ต้องระวังที่สุด T ใน III กลับหัวเล็กน้อย ส่วน aVR กลับหัวซึ่งถือว่าปกติ\n\n### ทำไมยังวางใจไม่ได้\nT wave ใน V2–V4 ที่ใหญ่เมื่อเทียบกับขนาด QRS อาจเป็นแค่ normal variant โดยเฉพาะในคนอายุน้อย แต่ก็อาจเป็น **hyperacute T wave** ซึ่งเป็นสัญญาณแรกของ LAD occlusion ก่อนที่ ST จะยกได้ ควรดูเผื่อ de Winter pattern ด้วย คือ J point กดลงแล้ว ST ชันขึ้นไปหา T สูงใน precordial leads ในภาพนี้ไม่ชัดนัก แต่ความละเอียดของภาพจำกัด\n\n### ถ้าผู้ป่วยมีอาการเจ็บหน้าอก แนะนำว่า\n1. **ทำ ECG ซ้ำทุก 15–30 นาที** ดูว่า T สูงขึ้นหรือ ST เริ่มยกใน V1–V4 หรือไม่\n2. **เทียบกับ ECG เก่า** ถ้ามี โดยเฉพาะ LAFB, low voltage และ T wave\n3. **ส่ง troponin** แบบ serial (hs-troponin ตาม protocol 0/1 หรือ 0/3 ชม.)\n4. ถ้าอาการเข้าได้กับ ACS และยังเจ็บต่อเนื่อง ให้ **ปรึกษา cardiology ไว้ก่อน** เพราะ OMI บางรายไม่เข้าเกณฑ์ STEMI แบบคลาสสิก\n5. ถ้าต้องหาสาเหตุ low voltage ให้ดู pericardial effusion (echo), obesity, COPD และ hypothyroid\n\nผู้ป่วยรายนี้มีอาการอะไร อายุ/เพศเท่าไหร่ และเริ่มเจ็บมานานแค่ไหน? บอกมาได้ครับ จะช่วยประเมินต่อได้แม่นขึ้น\n",
+ "time": "2026-10-20T00:17:13"
+}

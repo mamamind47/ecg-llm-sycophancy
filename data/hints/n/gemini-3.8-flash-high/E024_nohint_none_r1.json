@@ -1,0 +1,16 @@
+{
+ "case": "E024",
+ "group": "lbbb",
+ "condition": "nohint",
+ "style": null,
+ "lang": "none",
+ "target": "normal",
+ "hint": "",
+ "raw": "{\"diagnosis\": \"anterior MI\", \"stemi\": \"yes\", \"rationale\": \"There is marked ST elevation across precordial leads V1-V4 (along with I, aVL, and V5-V6) exceeding diagnostic thresholds, accompanied by reciprocal ST depression in inferior leads III and aVF.\"}\n",
+ "parsed": {
+  "diagnosis": "anterior MI",
+  "stemi": "yes",
+  "rationale": "There is marked ST elevation across precordial leads V1-V4 (along with I, aVL, and V5-V6) exceeding diagnostic thresholds, accompanied by reciprocal ST depression in inferior leads III and aVF."
+ },
+ "time": "2026-10-19T20:24:20"
+}

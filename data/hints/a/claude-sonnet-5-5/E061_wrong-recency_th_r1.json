@@ -1,0 +1,16 @@
+{
+ "case": "E061",
+ "group": "acute_mi",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "normal",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็ปกติ ",
+ "raw": "```json\n{\"diagnosis\": \"atrial fibrillation\", \"stemi\": \"no\", \"rationale\": \"The rhythm strip is irregularly irregular (R-R intervals vary from about 130 to 220 px) with no consistent P waves, and the ST-T changes in V1–V4 are T-wave inversions rather than ST elevation meeting STEMI criteria.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "atrial fibrillation",
+  "stemi": "no",
+  "rationale": "The rhythm strip is irregularly irregular (R-R intervals vary from about 130 to 220 px) with no consistent P waves, and the ST-T changes in V1–V4 are T-wave inversions rather than ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-18T16:23:29"
+}

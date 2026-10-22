@@ -1,0 +1,16 @@
+{
+ "case": "E030",
+ "group": "normal",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "th",
+ "target": "stemi",
+ "hint": "ทีมเราเห็นตรงกันว่าเป็น STEMI เฉียบพลัน ",
+ "raw": "```json\n{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Sinus rhythm with narrow QRS, normal axis and R-wave progression, upright T waves, and ST segments at baseline in all leads (no ST elevation meeting STEMI criteria, no reciprocal depression), so this tracing does not support an acute STEMI, contrary to the team's impression.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with narrow QRS, normal axis and R-wave progression, upright T waves, and ST segments at baseline in all leads (no ST elevation meeting STEMI criteria, no reciprocal depression), so this tracing does not support an acute STEMI, contrary to the team's impression."
+ },
+ "time": "2026-10-18T14:49:05"
+}

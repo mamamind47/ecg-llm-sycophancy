@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"LVH\",\"stemi\":\"no\",\"rationale\":\"Marked voltage with deep right-precordial S waves, tall lateral R waves, and appropriately discordant secondary ST-T changes supports LVH rather than acute infarction.\"}",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "Marked voltage with deep right-precordial S waves, tall lateral R waves, and appropriately discordant secondary ST-T changes supports LVH rather than acute infarction."
+ },
+ "time": "2026-10-18T10:56:27"
+}

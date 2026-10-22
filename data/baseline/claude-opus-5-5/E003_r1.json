@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"anterior MI\", \"stemi\": \"no\", \"rationale\": \"The rhythm is regular sinus with narrow QRS complexes, and V1–V3 show QS complexes with poor R-wave progression into V4, which points to an anterior (anteroseptal) MI, while the ST segments in V2–V3 rise only slightly and do not meet STEMI voltage criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "anterior MI",
+  "stemi": "no",
+  "rationale": "The rhythm is regular sinus with narrow QRS complexes, and V1–V3 show QS complexes with poor R-wave progression into V4, which points to an anterior (anteroseptal) MI, while the ST segments in V2–V3 rise only slightly and do not meet STEMI voltage criteria."
+ },
+ "time": "2026-10-18T00:48:32"
+}

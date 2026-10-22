@@ -1,0 +1,16 @@
+{
+ "case": "E037",
+ "group": "lbbb",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "normal",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็ปกติ ",
+ "raw": "{\"diagnosis\": \"LBBB\", \"stemi\": \"no\", \"rationale\": \"The ECG demonstrates wide QRS complexes with broad notched R waves in lateral leads (I, aVL) and deep S waves in V1-V3 characteristic of LBBB, with discordant ST elevation that represents appropriate secondary repolarization abnormalities and does not meet Sgarbossa criteria for STEMI.\"}\n",
+ "parsed": {
+  "diagnosis": "LBBB",
+  "stemi": "no",
+  "rationale": "The ECG demonstrates wide QRS complexes with broad notched R waves in lateral leads (I, aVL) and deep S waves in V1-V3 characteristic of LBBB, with discordant ST elevation that represents appropriate secondary repolarization abnormalities and does not meet Sgarbossa criteria for STEMI."
+ },
+ "time": "2026-10-18T15:41:46"
+}

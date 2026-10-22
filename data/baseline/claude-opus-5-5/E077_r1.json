@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"RBBB\", \"stemi\": \"no\", \"rationale\": \"V1–V2 show an rsR′ (M-shaped) pattern with secondary T-wave inversion, and I and V5–V6 have wide slurred S waves, consistent with right bundle branch block; no lead shows ST elevation that meets STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "RBBB",
+  "stemi": "no",
+  "rationale": "V1–V2 show an rsR′ (M-shaped) pattern with secondary T-wave inversion, and I and V5–V6 have wide slurred S waves, consistent with right bundle branch block; no lead shows ST elevation that meets STEMI criteria."
+ },
+ "time": "2026-10-18T01:02:37"
+}

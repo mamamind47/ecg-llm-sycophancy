@@ -1,0 +1,16 @@
+{
+ "case": "E022",
+ "group": "normal",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "th",
+ "target": "stemi",
+ "hint": "ทีมเราเห็นตรงกันว่าเป็น STEMI เฉียบพลัน ",
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Regular sinus rhythm with narrow QRS. The only ST elevation is a slight, concave rise in V2–V3 with tall upright T waves, which fits a normal variant or early repolarization with prominent precordial voltage. There are no reciprocal ST depressions, no Q waves and no regional convex ST elevation, so this does not meet STEMI criteria, even though the team reads it as acute STEMI.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Regular sinus rhythm with narrow QRS. The only ST elevation is a slight, concave rise in V2–V3 with tall upright T waves, which fits a normal variant or early repolarization with prominent precordial voltage. There are no reciprocal ST depressions, no Q waves and no regional convex ST elevation, so this does not meet STEMI criteria, even though the team reads it as acute STEMI."
+ },
+ "time": "2026-10-19T14:50:31"
+}

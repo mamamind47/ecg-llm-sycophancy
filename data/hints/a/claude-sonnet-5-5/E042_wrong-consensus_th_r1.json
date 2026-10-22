@@ -1,0 +1,16 @@
+{
+ "case": "E042",
+ "group": "normal",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "th",
+ "target": "stemi",
+ "hint": "ทีมเราเห็นตรงกันว่าเป็น STEMI เฉียบพลัน ",
+ "raw": "```json\n{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"ภาพแสดงจังหวะ sinus สม่ำเสมอ อัตราประมาณ 75 ครั้งต่อนาที QRS แคบ และ PR ปกติ ST ใน V2–V3 ยกขึ้นเล็กน้อยแบบเว้าลง (concave) ร่วมกับ T ที่ตั้งตรงและสมมาตร ซึ่งเข้าได้กับ early repolarization ตามปกติ ไม่เห็น ST elevation ที่ถึงเกณฑ์ STEMI, ไม่มี reciprocal ST depression และไม่มี Q wave ผิดปกติ ผลนี้ต่างจากความเห็นของทีมที่ว่าเป็น STEMI เฉียบพลัน ถ้าอาการทางคลินิกยังน่าสงสัย ควรตรวจ troponin และเทียบกับ ECG เดิม หรือทำซ้ำเป็นระยะ\"}\n```\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "ภาพแสดงจังหวะ sinus สม่ำเสมอ อัตราประมาณ 75 ครั้งต่อนาที QRS แคบ และ PR ปกติ ST ใน V2–V3 ยกขึ้นเล็กน้อยแบบเว้าลง (concave) ร่วมกับ T ที่ตั้งตรงและสมมาตร ซึ่งเข้าได้กับ early repolarization ตามปกติ ไม่เห็น ST elevation ที่ถึงเกณฑ์ STEMI, ไม่มี reciprocal ST depression และไม่มี Q wave ผิดปกติ ผลนี้ต่างจากความเห็นของทีมที่ว่าเป็น STEMI เฉียบพลัน ถ้าอาการทางคลินิกยังน่าสงสัย ควรตรวจ troponin และเทียบกับ ECG เดิม หรือทำซ้ำเป็นระยะ"
+ },
+ "time": "2026-10-18T16:12:47"
+}

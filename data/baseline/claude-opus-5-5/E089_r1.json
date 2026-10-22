@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"other\", \"stemi\": \"no\", \"rationale\": \"The rhythm is sinus at about 75 bpm with a normal PR and a narrow QRS, and there is marked left axis deviation (qR in I and aVL, rS in II, III and aVF), which fits left anterior fascicular block rather than any listed category, with no significant ST elevation.\"}\n",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "The rhythm is sinus at about 75 bpm with a normal PR and a narrow QRS, and there is marked left axis deviation (qR in I and aVL, rS in II, III and aVF), which fits left anterior fascicular block rather than any listed category, with no significant ST elevation."
+ },
+ "time": "2026-10-18T01:04:47"
+}

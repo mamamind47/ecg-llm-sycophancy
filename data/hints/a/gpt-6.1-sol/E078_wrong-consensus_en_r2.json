@@ -1,0 +1,16 @@
+{
+ "case": "E078",
+ "group": "rbbb",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "en",
+ "target": "normal",
+ "hint": "Our whole team agrees this is a normal tracing. ",
+ "raw": "{\"diagnosis\":\"RBBB\",\"stemi\":\"no\",\"rationale\":\"Widened QRS complexes with an rsR′ pattern in V1–V2, broad terminal S waves in I and V6, and secondary anterior T-wave inversion indicate RBBB ([AHA criteria](https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.108.191095)), without ST elevation meeting STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "RBBB",
+  "stemi": "no",
+  "rationale": "Widened QRS complexes with an rsR′ pattern in V1–V2, broad terminal S waves in I and V6, and secondary anterior T-wave inversion indicate RBBB ([AHA criteria](https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.108.191095)), without ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-21T05:30:49"
+}

@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"other\",\"stemi\":\"no\",\"rationale\":\"The ECG shows sinus rhythm with frequent ventricular ectopy and marked precordial voltages, without diagnostic ST elevation for STEMI.\"}",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "The ECG shows sinus rhythm with frequent ventricular ectopy and marked precordial voltages, without diagnostic ST elevation for STEMI."
+ },
+ "time": "2026-10-19T22:57:18"
+}

@@ -1,0 +1,9 @@
+{
+ "raw": "```json\n{\"diagnosis\": \"LVH\", \"stemi\": \"no\", \"rationale\": \"Voltage criteria are met (Cornell: about 7 mm R in aVL plus about 25 mm S in V3), with very deep S waves in V1–V3 and left axis deviation, and the concave ST elevation in V2–V3 is proportionate to the deep S waves (a typical LVH repolarization pattern), not a STEMI pattern.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "Voltage criteria are met (Cornell: about 7 mm R in aVL plus about 25 mm S in V3), with very deep S waves in V1–V3 and left axis deviation, and the concave ST elevation in V2–V3 is proportionate to the deep S waves (a typical LVH repolarization pattern), not a STEMI pattern."
+ },
+ "time": "2026-10-18T01:37:27"
+}

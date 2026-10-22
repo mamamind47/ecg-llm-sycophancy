@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"RBBB\", \"stemi\": \"no\", \"rationale\": \"The rhythm is a regular tachycardia at about 150 bpm. V1–V2 show a dominant, notched rsR′-type R wave with secondary ST depression and T-wave inversion, and the S waves in I and V5–V6 are broad and slurred, all of which fit RBBB; no leads show ST elevation that meets STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "RBBB",
+  "stemi": "no",
+  "rationale": "The rhythm is a regular tachycardia at about 150 bpm. V1–V2 show a dominant, notched rsR′-type R wave with secondary ST depression and T-wave inversion, and the S waves in I and V5–V6 are broad and slurred, all of which fit RBBB; no leads show ST elevation that meets STEMI criteria."
+ },
+ "time": "2026-10-18T09:48:48"
+}

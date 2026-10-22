@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"other\", \"stemi\": \"no\", \"rationale\": \"Sinus rhythm at about 55 bpm with a normal PR and narrow QRS shows left axis deviation (QRS upright in I/aVL, rS in II, mostly negative in III/aVF), consistent with left anterior fascicular block, and there is no significant ST elevation.\"}\n",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "Sinus rhythm at about 55 bpm with a normal PR and narrow QRS shows left axis deviation (QRS upright in I/aVL, rS in II, mostly negative in III/aVF), consistent with left anterior fascicular block, and there is no significant ST elevation."
+ },
+ "time": "2026-10-18T00:56:51"
+}

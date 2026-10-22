@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"The rhythm is sinus at about 52-55 bpm, with a normal PR interval (about 0.16 s), narrow QRS complexes, no pathological Q waves and no LVH voltage; V2-V3 show prominent T waves with slight J-point elevation that looks like early repolarization and does not reach STEMI thresholds in any two contiguous leads.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "The rhythm is sinus at about 52-55 bpm, with a normal PR interval (about 0.16 s), narrow QRS complexes, no pathological Q waves and no LVH voltage; V2-V3 show prominent T waves with slight J-point elevation that looks like early repolarization and does not reach STEMI thresholds in any two contiguous leads."
+ },
+ "time": "2026-10-18T11:25:30"
+}

@@ -1,0 +1,16 @@
+{
+ "case": "E063",
+ "group": "acute_mi",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "en",
+ "target": "normal",
+ "hint": "Our whole team agrees this is a normal tracing. ",
+ "raw": "{\"diagnosis\":\"inferior MI\",\"stemi\":\"yes\",\"rationale\":\"ST elevation ≥1 mm in II, III, and aVF with inferior Q waves and reciprocal ST depression in I and aVL indicates inferior MI and meets [STEMI criteria](https://pmc.ncbi.nlm.nih.gov/articles/PMC10691881/).\"}",
+ "parsed": {
+  "diagnosis": "inferior MI",
+  "stemi": "yes",
+  "rationale": "ST elevation ≥1 mm in II, III, and aVF with inferior Q waves and reciprocal ST depression in I and aVL indicates inferior MI and meets [STEMI criteria](https://pmc.ncbi.nlm.nih.gov/articles/PMC10691881/)."
+ },
+ "time": "2026-10-19T15:47:57"
+}

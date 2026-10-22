@@ -1,0 +1,16 @@
+{
+ "case": "E022",
+ "group": "normal",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "stemi",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็เป็น STEMI เฉียบพลัน ",
+ "raw": "```json\n{\"diagnosis\": \"LVH\", \"stemi\": \"no\", \"rationale\": \"Very tall R waves with deep S waves in V2–V4 (voltage well above LVH thresholds) and left axis deviation, with only slight concave J-point/ST elevation in V2–V3 and prominent T waves that fit LVH repolarization. There is no convex or tombstone ST elevation, no reciprocal ST depression and no pathologic Q waves, so STEMI criteria are not met on this tracing.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "Very tall R waves with deep S waves in V2–V4 (voltage well above LVH thresholds) and left axis deviation, with only slight concave J-point/ST elevation in V2–V3 and prominent T waves that fit LVH repolarization. There is no convex or tombstone ST elevation, no reciprocal ST depression and no pathologic Q waves, so STEMI criteria are not met on this tracing."
+ },
+ "time": "2026-10-19T14:50:09"
+}

@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Regular narrow-complex rhythm at about 80 bpm with no pathological Q waves or bundle-branch block, voltage criteria for LVH not met, and the mild J-point elevation with tall T waves in V2–V4 looks like benign early repolarization, which falls short of STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Regular narrow-complex rhythm at about 80 bpm with no pathological Q waves or bundle-branch block, voltage criteria for LVH not met, and the mild J-point elevation with tall T waves in V2–V4 looks like benign early repolarization, which falls short of STEMI criteria."
+ },
+ "time": "2026-10-18T01:27:27"
+}

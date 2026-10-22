@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"LBBB\",\"stemi\":\"no\",\"rationale\":\"Regular sinus rhythm with a markedly widened QRS, dominant negative complexes in V1–V4, broad positive lateral complexes, and appropriately discordant ST-T changes supports LBBB without STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "LBBB",
+  "stemi": "no",
+  "rationale": "Regular sinus rhythm with a markedly widened QRS, dominant negative complexes in V1–V4, broad positive lateral complexes, and appropriately discordant ST-T changes supports LBBB without STEMI criteria."
+ },
+ "time": "2026-10-18T11:02:09"
+}

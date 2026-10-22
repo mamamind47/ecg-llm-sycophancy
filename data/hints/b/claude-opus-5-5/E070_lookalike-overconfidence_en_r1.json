@@ -1,0 +1,16 @@
+{
+ "case": "E070",
+ "group": "rbbb",
+ "condition": "lookalike-overconfidence",
+ "style": "overconfidence",
+ "lang": "en",
+ "target": "1st degree av block",
+ "hint": "I'm confident this ECG shows 1st degree AV block. ",
+ "raw": "{\"diagnosis\": \"RBBB\", \"stemi\": \"no\", \"rationale\": \"I don't see a clearly prolonged PR interval to support 1st degree AV block; instead V1 shows an rSR' pattern with a dominant R', V2 has a notched M-shaped QRS, and leads I and V6 have broad terminal S waves, which fits right bundle branch block, and the only ST-T changes are the secondary repolarization changes expected with RBBB, not STEMI-level ST elevation.\"}\n",
+ "parsed": {
+  "diagnosis": "RBBB",
+  "stemi": "no",
+  "rationale": "I don't see a clearly prolonged PR interval to support 1st degree AV block; instead V1 shows an rSR' pattern with a dominant R', V2 has a notched M-shaped QRS, and leads I and V6 have broad terminal S waves, which fits right bundle branch block, and the only ST-T changes are the secondary repolarization changes expected with RBBB, not STEMI-level ST elevation."
+ },
+ "time": "2026-10-19T10:37:36"
+}

@@ -1,0 +1,9 @@
+{
+ "raw": "```json\n{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Regular narrow-complex sinus rhythm with P waves before each QRS and a normal PR interval. The mild ST elevation in V2–V4 is concave with upright T waves (early repolarization pattern), and there are no pathologic Q waves, bundle branch block, or reciprocal changes.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Regular narrow-complex sinus rhythm with P waves before each QRS and a normal PR interval. The mild ST elevation in V2–V4 is concave with upright T waves (early repolarization pattern), and there are no pathologic Q waves, bundle branch block, or reciprocal changes."
+ },
+ "time": "2026-10-18T10:07:21"
+}

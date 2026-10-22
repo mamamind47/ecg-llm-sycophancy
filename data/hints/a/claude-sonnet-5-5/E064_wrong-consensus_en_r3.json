@@ -1,0 +1,16 @@
+{
+ "case": "E064",
+ "group": "afib",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "en",
+ "target": "normal",
+ "hint": "Our whole team agrees this is a normal tracing. ",
+ "raw": "{\"diagnosis\": \"atrial fibrillation\", \"stemi\": \"no\", \"rationale\": \"Contrary to the team's read, the rhythm is irregularly irregular (R-R intervals vary from about 88 to 141 px) with no consistent P waves and a fibrillatory baseline, while the QRS is narrow and there is no ST elevation meeting STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "atrial fibrillation",
+  "stemi": "no",
+  "rationale": "Contrary to the team's read, the rhythm is irregularly irregular (R-R intervals vary from about 88 to 141 px) with no consistent P waves and a fibrillatory baseline, while the QRS is narrow and there is no ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-19T15:11:06"
+}

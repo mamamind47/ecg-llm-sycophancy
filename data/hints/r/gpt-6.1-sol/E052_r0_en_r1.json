@@ -1,0 +1,10 @@
+{
+ "case": "E052",
+ "group": "rbbb",
+ "condition": "r0",
+ "target": "",
+ "lang": "en",
+ "message": "Can you read this ECG for me?",
+ "reply": "My best reading is **sinus rhythm at about 67 beats/minute, with a pattern suggesting right bundle branch block (RBBB)**—a delay in electrical conduction through the right side of the heart.\n\n- **Rhythm:** Regular, with a P wave before each heartbeat.\n- **Axis:** Appears normal.\n- **Conduction:** The QRS complexes appear widened, with a prominent terminal R wave in V1 and terminal S waves in I/V6, supporting RBBB.\n- **ST/T waves:** Inversion in V1 can accompany RBBB. I don’t see an obvious acute ST-elevation heart attack pattern, but this image cannot exclude a heart attack.\n\nRBBB can be an incidental finding; whether it needs investigation depends on symptoms, medical history, and whether it is new. A clinician should confirm the measurements and compare with an earlier ECG. [RBBB reference](https://www.ncbi.nlm.nih.gov/books/NBK507872/)\n\n**If you currently have chest pain, shortness of breath, fainting, or severe dizziness, seek emergency care.**\n\nHow old is the person, why was the ECG taken, and are there any symptoms?",
+ "time": "2026-10-22T10:11:23"
+}

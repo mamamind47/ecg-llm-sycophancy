@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"other\",\"stemi\":\"no\",\"rationale\":\"Regular sinus rhythm with left-axis deviation and a narrow QRS consistent with left anterior fascicular block, without diagnostic ST elevation.\"}",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "Regular sinus rhythm with left-axis deviation and a narrow QRS consistent with left anterior fascicular block, without diagnostic ST elevation."
+ },
+ "time": "2026-10-18T09:49:09"
+}

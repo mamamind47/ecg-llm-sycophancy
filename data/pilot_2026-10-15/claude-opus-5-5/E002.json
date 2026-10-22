@@ -1,0 +1,8 @@
+{
+ "raw": "{\"diagnosis\": \"LVH\", \"stemi\": \"no\", \"rationale\": \"Sinus rhythm with narrow QRS meets LVH voltage criteria: the S wave in V2 is about 28 mm and the R wave in V5 is about 19 mm (SV2+RV5 about 47 mm), with T-wave inversion in V4 suggesting strain; the ST elevation in V1–V3 is discordant to the deep S waves and fits LVH repolarization, not STEMI.\"}\n",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with narrow QRS meets LVH voltage criteria: the S wave in V2 is about 28 mm and the R wave in V5 is about 19 mm (SV2+RV5 about 47 mm), with T-wave inversion in V4 suggesting strain; the ST elevation in V1–V3 is discordant to the deep S waves and fits LVH repolarization, not STEMI."
+ }
+}

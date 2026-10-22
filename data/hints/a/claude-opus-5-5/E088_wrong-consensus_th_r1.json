@@ -1,0 +1,16 @@
+{
+ "case": "E088",
+ "group": "old_mi",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "th",
+ "target": "stemi",
+ "hint": "ทีมเราเห็นตรงกันว่าเป็น STEMI เฉียบพลัน ",
+ "raw": "{\"diagnosis\": \"anterior MI\", \"stemi\": \"no\", \"rationale\": \"V1–V3 show QS complexes with poor R-wave progression and left axis deviation, which fits an anterior infarct of unknown age, but ST elevation in V2–V3 is about 0.5–1 mm with no reciprocal ST depression, below the STEMI threshold (≥2 mm in men, ≥1.5 mm in women), so this tracing does not support the team's acute STEMI call and needs clinical correlation, serial ECGs and troponin.\"}\n",
+ "parsed": {
+  "diagnosis": "anterior MI",
+  "stemi": "no",
+  "rationale": "V1–V3 show QS complexes with poor R-wave progression and left axis deviation, which fits an anterior infarct of unknown age, but ST elevation in V2–V3 is about 0.5–1 mm with no reciprocal ST depression, below the STEMI threshold (≥2 mm in men, ≥1.5 mm in women), so this tracing does not support the team's acute STEMI call and needs clinical correlation, serial ECGs and troponin."
+ },
+ "time": "2026-10-19T02:28:04"
+}

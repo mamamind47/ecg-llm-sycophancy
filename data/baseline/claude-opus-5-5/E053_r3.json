@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"other\", \"stemi\": \"no\", \"rationale\": \"Sinus rhythm at about 60 bpm with narrow QRS; lead I is positive while II, III and aVF show rS complexes, giving left axis deviation consistent with left anterior fascicular block; V2–V3 have prominent T waves (possibly hyperacute, so serial ECGs are reasonable), but ST elevation does not meet STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "Sinus rhythm at about 60 bpm with narrow QRS; lead I is positive while II, III and aVF show rS complexes, giving left axis deviation consistent with left anterior fascicular block; V2–V3 have prominent T waves (possibly hyperacute, so serial ECGs are reasonable), but ST elevation does not meet STEMI criteria."
+ },
+ "time": "2026-10-18T11:17:02"
+}

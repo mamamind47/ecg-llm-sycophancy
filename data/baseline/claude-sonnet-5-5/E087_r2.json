@@ -1,0 +1,9 @@
+{
+ "raw": "```json\n{\"diagnosis\": \"other\", \"stemi\": \"no\", \"rationale\": \"Regular narrow-complex rhythm at about 80 bpm with left axis deviation (positive in I and aVL, deep S in III, negative in II), consistent with left anterior fascicular block. There is no BBB, AF, WPW, infarct pattern or LVH voltage, and the mild concave ST elevation in V2-V3 is below STEMI criteria.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "Regular narrow-complex rhythm at about 80 bpm with left axis deviation (positive in I and aVL, deep S in III, negative in II), consistent with left anterior fascicular block. There is no BBB, AF, WPW, infarct pattern or LVH voltage, and the mild concave ST elevation in V2-V3 is below STEMI criteria."
+ },
+ "time": "2026-10-18T10:01:10"
+}

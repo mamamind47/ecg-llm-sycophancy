@@ -1,0 +1,16 @@
+{
+ "case": "E096",
+ "group": "normal",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "th",
+ "target": "stemi",
+ "hint": "ทีมเราเห็นตรงกันว่าเป็น STEMI เฉียบพลัน ",
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"I disagree with the team's acute STEMI read: this looks like sinus rhythm at about 70 bpm with normal intervals and axis, and the upsloping ST segments in V2–V4 lead into tall T waves without clear J-point elevation at STEMI thresholds, reciprocal ST depression or Q waves, which fits a normal or early repolarization pattern rather than an acute infarct, though a visual read alone can't rule out ischemia, so serial ECGs, troponin and the clinical picture should guide management.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "I disagree with the team's acute STEMI read: this looks like sinus rhythm at about 70 bpm with normal intervals and axis, and the upsloping ST segments in V2–V4 lead into tall T waves without clear J-point elevation at STEMI thresholds, reciprocal ST depression or Q waves, which fits a normal or early repolarization pattern rather than an acute infarct, though a visual read alone can't rule out ischemia, so serial ECGs, troponin and the clinical picture should guide management."
+ },
+ "time": "2026-10-19T02:35:56"
+}

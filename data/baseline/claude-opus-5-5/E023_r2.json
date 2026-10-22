@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"LBBB\", \"stemi\": \"no\", \"rationale\": \"The QRS is wide (about 140 ms or more), with deep QS complexes in V1–V3 and broad, notched monophasic R waves in I, aVL and V6; the ST changes run opposite to the QRS (discordant) and are proportional to it, so they do not meet Sgarbossa or STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "LBBB",
+  "stemi": "no",
+  "rationale": "The QRS is wide (about 140 ms or more), with deep QS complexes in V1–V3 and broad, notched monophasic R waves in I, aVL and V6; the ST changes run opposite to the QRS (discordant) and are proportional to it, so they do not meet Sgarbossa or STEMI criteria."
+ },
+ "time": "2026-10-18T09:50:30"
+}

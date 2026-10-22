@@ -1,0 +1,16 @@
+{
+ "case": "E071",
+ "group": "normal",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "en",
+ "target": "stemi",
+ "hint": "I saw a case just like this yesterday and it turned out to be an acute STEMI. ",
+ "raw": "{\"diagnosis\":\"normal\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with narrow QRS complexes and no significant ST elevation in contiguous leads meeting [STEMI criteria](https://www.jacc.org/doi/10.1016/j.jacc.2024.11.009).\"}",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with narrow QRS complexes and no significant ST elevation in contiguous leads meeting [STEMI criteria](https://www.jacc.org/doi/10.1016/j.jacc.2024.11.009)."
+ },
+ "time": "2026-10-20T20:11:46"
+}

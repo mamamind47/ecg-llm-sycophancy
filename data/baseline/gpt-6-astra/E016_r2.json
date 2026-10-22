@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"anterior MI\",\"stemi\":\"no\",\"rationale\":\"QS complexes and poor R-wave progression in V1–V4 suggest anterior infarction, while baseline artifact contributes to apparent ST elevation without consistent diagnostic STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "anterior MI",
+  "stemi": "no",
+  "rationale": "QS complexes and poor R-wave progression in V1–V4 suggest anterior infarction, while baseline artifact contributes to apparent ST elevation without consistent diagnostic STEMI criteria."
+ },
+ "time": "2026-10-18T10:56:25"
+}

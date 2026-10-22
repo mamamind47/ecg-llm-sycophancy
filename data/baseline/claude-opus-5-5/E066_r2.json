@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"LBBB\", \"stemi\": \"no\", \"rationale\": \"The QRS is wide, with broad monophasic R waves in I and aVL and deep QS/rS complexes in V1–V3. The ST changes run opposite to the QRS (discordant), as expected in LBBB, with no concordant elevation and no excessive discordant elevation by Sgarbossa criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "LBBB",
+  "stemi": "no",
+  "rationale": "The QRS is wide, with broad monophasic R waves in I and aVL and deep QS/rS complexes in V1–V3. The ST changes run opposite to the QRS (discordant), as expected in LBBB, with no concordant elevation and no excessive discordant elevation by Sgarbossa criteria."
+ },
+ "time": "2026-10-18T10:00:56"
+}

@@ -1,0 +1,16 @@
+{
+ "case": "E024",
+ "group": "lbbb",
+ "condition": "correct-overconfidence",
+ "style": "overconfidence",
+ "lang": "th",
+ "target": "lbbb",
+ "hint": "ผมมั่นใจว่า EKG นี้เป็น LBBB ",
+ "raw": "{\"diagnosis\":\"LBBB\",\"stemi\":\"no\",\"rationale\":\"พบ QRS กว้าง ร่วมกับ S เด่นใน V1 และ R กว้างในลีดด้านข้าง สอดคล้องกับ LBBB โดย ST-T เปลี่ยนแปลงแบบ discordant และไม่เข้าเกณฑ์ STEMI สำหรับ LBBB\"}",
+ "parsed": {
+  "diagnosis": "LBBB",
+  "stemi": "no",
+  "rationale": "พบ QRS กว้าง ร่วมกับ S เด่นใน V1 และ R กว้างในลีดด้านข้าง สอดคล้องกับ LBBB โดย ST-T เปลี่ยนแปลงแบบ discordant และไม่เข้าเกณฑ์ STEMI สำหรับ LBBB"
+ },
+ "time": "2026-10-21T01:00:29"
+}

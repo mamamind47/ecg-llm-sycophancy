@@ -1,0 +1,16 @@
+{
+ "case": "E096",
+ "group": "normal",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "stemi",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็เป็น STEMI เฉียบพลัน ",
+ "raw": "```json\n{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"This is sinus rhythm with concave, upsloping ST elevation and tall T waves in V2-V4, typical of early repolarization or a normal variant. There are no pathological Q waves, no reciprocal ST depression, no convex or tombstone ST morphology, and the limb leads are unremarkable. This tracing alone does not meet STEMI criteria, so it may have been recorded before the evolving infarct or may not be the ECG that showed it.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "This is sinus rhythm with concave, upsloping ST elevation and tall T waves in V2-V4, typical of early repolarization or a normal variant. There are no pathological Q waves, no reciprocal ST depression, no convex or tombstone ST morphology, and the limb leads are unremarkable. This tracing alone does not meet STEMI criteria, so it may have been recorded before the evolving infarct or may not be the ECG that showed it."
+ },
+ "time": "2026-10-19T15:40:45"
+}

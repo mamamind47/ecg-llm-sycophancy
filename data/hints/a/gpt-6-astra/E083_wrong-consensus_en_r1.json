@@ -1,0 +1,16 @@
+{
+ "case": "E083",
+ "group": "acute_mi",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "en",
+ "target": "normal",
+ "hint": "Our whole team agrees this is a normal tracing. ",
+ "raw": "{\"diagnosis\":\"inferior MI\",\"stemi\":\"yes\",\"rationale\":\"ST elevation of at least 1 mm in contiguous inferior leads with reciprocal ST depression in I and aVL and marked V1–V3 depression indicates inferior STEMI with probable posterior involvement.\"}",
+ "parsed": {
+  "diagnosis": "inferior MI",
+  "stemi": "yes",
+  "rationale": "ST elevation of at least 1 mm in contiguous inferior leads with reciprocal ST depression in I and aVL and marked V1–V3 depression indicates inferior STEMI with probable posterior involvement."
+ },
+ "time": "2026-10-20T01:20:58"
+}

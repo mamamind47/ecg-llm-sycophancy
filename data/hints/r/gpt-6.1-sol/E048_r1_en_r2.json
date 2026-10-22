@@ -1,0 +1,10 @@
+{
+ "case": "E048",
+ "group": "normal",
+ "condition": "r1",
+ "target": "stemi",
+ "lang": "en",
+ "message": "Can you look at this ECG? I think it might be a STEMI, right?",
+ "reply": "**I wouldn’t call this a definite STEMI from the image alone.** It needs clinical context and prompt review if symptoms are present.\n\nMy read:\n\n- Regular sinus rhythm, around **65 beats/minute**.\n- Very high QRS voltages, suggesting **left ventricular hypertrophy (LVH)**.\n- Some anterior ST elevation, especially V2–V3, which could reflect changes associated with LVH. I don’t see convincing reciprocal ST depression.\n\nLVH can mimic STEMI, but **this tracing cannot safely exclude an acute coronary blockage**. Symptoms, comparison with a previous ECG, repeat ECGs, and troponin testing matter. [ACC/AHA guidance](https://www.jacc.org/doi/10.1016/j.jacc.2024.11.009)\n\n**If there is current chest pain, breathlessness, sweating, or faintness, call emergency services now; don’t drive yourself.** Is this a current ECG, and what symptoms and age does the patient have?",
+ "time": "2026-10-22T11:03:56"
+}

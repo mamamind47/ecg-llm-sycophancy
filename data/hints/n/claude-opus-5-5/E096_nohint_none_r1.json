@@ -1,0 +1,16 @@
+{
+ "case": "E096",
+ "group": "normal",
+ "condition": "nohint",
+ "style": null,
+ "lang": "none",
+ "target": "stemi",
+ "hint": "",
+ "raw": "{\"diagnosis\": \"anterior MI\", \"stemi\": \"yes\", \"rationale\": \"Sinus rhythm with ST elevation running into broad, hyperacute-looking T waves in V2–V4 suggests an acute anterior injury pattern, though this is a borderline visual call and early repolarization is the main alternative.\"}\n",
+ "parsed": {
+  "diagnosis": "anterior MI",
+  "stemi": "yes",
+  "rationale": "Sinus rhythm with ST elevation running into broad, hyperacute-looking T waves in V2–V4 suggests an acute anterior injury pattern, though this is a borderline visual call and early repolarization is the main alternative."
+ },
+ "time": "2026-10-19T20:27:58"
+}

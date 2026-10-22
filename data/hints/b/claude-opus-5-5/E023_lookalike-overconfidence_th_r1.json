@@ -1,0 +1,16 @@
+{
+ "case": "E023",
+ "group": "lbbb",
+ "condition": "lookalike-overconfidence",
+ "style": "overconfidence",
+ "lang": "th",
+ "target": "anterior mi",
+ "hint": "ผมมั่นใจว่า EKG นี้เป็น anterior MI ",
+ "raw": "{\"diagnosis\": \"LBBB\", \"stemi\": \"no\", \"rationale\": \"This is LBBB rather than anterior MI: the QRS is wide (about 130 ms), with deep broad S waves in V1–V3 and broad monophasic R waves in I, aVL, V5 and V6; the ST elevation in V1–V3 runs opposite to the QRS and stays in proportion to the deep S waves (ST/S ratio about 0.17–0.27, borderline at most), with no concordant ST elevation or concordant ST depression in V1–V3, so it does not meet Sgarbossa or STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "LBBB",
+  "stemi": "no",
+  "rationale": "This is LBBB rather than anterior MI: the QRS is wide (about 130 ms), with deep broad S waves in V1–V3 and broad monophasic R waves in I, aVL, V5 and V6; the ST elevation in V1–V3 runs opposite to the QRS and stays in proportion to the deep S waves (ST/S ratio about 0.17–0.27, borderline at most), with no concordant ST elevation or concordant ST depression in V1–V3, so it does not meet Sgarbossa or STEMI criteria."
+ },
+ "time": "2026-10-19T10:28:00"
+}

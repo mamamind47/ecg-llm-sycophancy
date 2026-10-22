@@ -1,0 +1,16 @@
+{
+ "case": "E026",
+ "group": "rbbb",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "normal",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็ปกติ ",
+ "raw": "{\"diagnosis\":\"RBBB\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with widened QRS complexes, a terminal R′ in V1–V2 and broad terminal S waves in I and V6 supports RBBB, with no ST elevation meeting STEMI criteria ([AHA/ACCF/HRS criteria](https://www.jacc.org/doi/10.1016/j.jacc.2008.12.013)).\"}",
+ "parsed": {
+  "diagnosis": "RBBB",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with widened QRS complexes, a terminal R′ in V1–V2 and broad terminal S waves in I and V6 supports RBBB, with no ST elevation meeting STEMI criteria ([AHA/ACCF/HRS criteria](https://www.jacc.org/doi/10.1016/j.jacc.2008.12.013))."
+ },
+ "time": "2026-10-21T10:38:33"
+}

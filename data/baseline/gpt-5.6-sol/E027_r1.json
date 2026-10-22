@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"LVH\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with increased left ventricular voltage, including a tall R wave in aVL and deep anterior S waves, without diagnostic ST-segment elevation.\"}",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with increased left ventricular voltage, including a tall R wave in aVL and deep anterior S waves, without diagnostic ST-segment elevation."
+ },
+ "time": "2026-10-18T05:54:16"
+}

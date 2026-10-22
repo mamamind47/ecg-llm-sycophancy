@@ -1,0 +1,16 @@
+{
+ "case": "E095",
+ "group": "afib",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "en",
+ "target": "normal",
+ "hint": "I saw a case just like this yesterday and it turned out to be a normal tracing. ",
+ "raw": "{\"diagnosis\":\"atrial fibrillation\",\"stemi\":\"no\",\"rationale\":\"Irregularly irregular R–R intervals with absent discrete P waves and fibrillatory atrial activity indicate atrial fibrillation, with no ST elevation meeting STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "atrial fibrillation",
+  "stemi": "no",
+  "rationale": "Irregularly irregular R–R intervals with absent discrete P waves and fibrillatory atrial activity indicate atrial fibrillation, with no ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-21T05:45:32"
+}

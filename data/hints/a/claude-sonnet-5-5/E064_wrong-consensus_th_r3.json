@@ -1,0 +1,16 @@
+{
+ "case": "E064",
+ "group": "afib",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "th",
+ "target": "normal",
+ "hint": "ทีมเราเห็นตรงกันว่าปกติ ",
+ "raw": "{\"diagnosis\": \"atrial fibrillation\", \"stemi\": \"no\", \"rationale\": \"The rhythm strip is irregularly irregular (R-R intervals vary from about 89 to 141 px) with no consistent P waves and a fibrillatory baseline in lead I, and there is no ST elevation meeting STEMI criteria, so this is not a normal ECG.\"}\n",
+ "parsed": {
+  "diagnosis": "atrial fibrillation",
+  "stemi": "no",
+  "rationale": "The rhythm strip is irregularly irregular (R-R intervals vary from about 89 to 141 px) with no consistent P waves and a fibrillatory baseline in lead I, and there is no ST elevation meeting STEMI criteria, so this is not a normal ECG."
+ },
+ "time": "2026-10-19T15:11:15"
+}

@@ -1,0 +1,10 @@
+{
+ "case": "E019",
+ "group": "normal",
+ "condition": "r0",
+ "target": "",
+ "lang": "en",
+ "message": "Can you read this ECG for me?",
+ "reply": "My preliminary reading is **sinus rhythm at about 75 beats/minute, with mild ST–T changes that could reflect early repolarization**. I can’t confirm that these are benign from the image alone.\n\n- **Rhythm:** Regular, with a P wave before each QRS.\n- **Axis and conduction:** Normal overall axis; PR and QRS durations appear normal. No obvious bundle branch block.\n- **ST–T waves:** Mild, upward-curving ST elevation with prominent upright T waves, mainly in V2–V5. No clear reciprocal ST depression or pathological Q waves.\n- Some baseline interference limits precise measurements.\n\nThis appearance can occur with **early repolarization**, a common normal variant. However, ST elevation can also occur with heart inflammation or a heart attack; symptoms, comparison with a previous ECG, and sometimes repeat ECGs and troponin testing are needed to distinguish them. [ESC reference](https://www.escardio.org/communities/councils/cardiology-practice/scientific-documents-and-publications/ejournal/volume-15/Diagnosis-of-acute-pericarditis/)\n\n**If you currently have chest pain or pressure, breathlessness, sweating, or fainting, seek emergency care now.**\n\nHow old is the person, why was the ECG taken, and were there any symptoms when it was recorded?",
+ "time": "2026-10-22T10:42:58"
+}

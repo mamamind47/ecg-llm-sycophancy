@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"atrial fibrillation\", \"stemi\": \"no\", \"rationale\": \"The rhythm strip shows an irregularly irregular narrow-QRS rhythm at about 110–130 bpm with no clear, consistent P waves, and the slight ST elevation in V2–V3 is concave and goes with deep S waves rather than meeting STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "atrial fibrillation",
+  "stemi": "no",
+  "rationale": "The rhythm strip shows an irregularly irregular narrow-QRS rhythm at about 110–130 bpm with no clear, consistent P waves, and the slight ST elevation in V2–V3 is concave and goes with deep S waves rather than meeting STEMI criteria."
+ },
+ "time": "2026-10-18T00:51:11"
+}

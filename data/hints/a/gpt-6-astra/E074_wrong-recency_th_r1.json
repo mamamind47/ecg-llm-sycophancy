@@ -1,0 +1,16 @@
+{
+ "case": "E074",
+ "group": "acute_mi",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "normal",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็ปกติ ",
+ "raw": "{\"diagnosis\":\"LVH\",\"stemi\":\"no\",\"rationale\":\"Deep anterior S waves and increased Cornell voltage with lateral strain and proportionate discordant anterior ST elevation support LVH with secondary repolarization changes.\"}",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "Deep anterior S waves and increased Cornell voltage with lateral strain and proportionate discordant anterior ST elevation support LVH with secondary repolarization changes."
+ },
+ "time": "2026-10-19T20:19:29"
+}

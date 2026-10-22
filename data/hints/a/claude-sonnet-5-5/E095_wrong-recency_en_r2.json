@@ -1,0 +1,16 @@
+{
+ "case": "E095",
+ "group": "afib",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "en",
+ "target": "normal",
+ "hint": "I saw a case just like this yesterday and it turned out to be a normal tracing. ",
+ "raw": "{\"diagnosis\": \"atrial fibrillation\", \"stemi\": \"no\", \"rationale\": \"This is not a normal tracing: the rhythm is irregularly irregular (R-R intervals vary clearly on the lead II rhythm strip), there are no discernible P waves, and the baseline is fibrillatory and fast. There is no ST elevation meeting STEMI criteria. The tall V4–V5 voltages suggest possible LVH, but the rhythm is the dominant finding.\"}\n",
+ "parsed": {
+  "diagnosis": "atrial fibrillation",
+  "stemi": "no",
+  "rationale": "This is not a normal tracing: the rhythm is irregularly irregular (R-R intervals vary clearly on the lead II rhythm strip), there are no discernible P waves, and the baseline is fibrillatory and fast. There is no ST elevation meeting STEMI criteria. The tall V4–V5 voltages suggest possible LVH, but the rhythm is the dominant finding."
+ },
+ "time": "2026-10-19T14:39:08"
+}

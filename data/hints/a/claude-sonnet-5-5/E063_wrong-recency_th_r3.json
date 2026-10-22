@@ -1,0 +1,16 @@
+{
+ "case": "E063",
+ "group": "acute_mi",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "normal",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็ปกติ ",
+ "raw": "{\"diagnosis\": \"inferior MI\", \"stemi\": \"yes\", \"rationale\": \"Regular rhythm at about 80 bpm with QS complexes and marked ST elevation in II, III and aVF, plus reciprocal ST depression in aVL, which meets inferior STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "inferior MI",
+  "stemi": "yes",
+  "rationale": "Regular rhythm at about 80 bpm with QS complexes and marked ST elevation in II, III and aVF, plus reciprocal ST depression in aVL, which meets inferior STEMI criteria."
+ },
+ "time": "2026-10-19T15:09:41"
+}

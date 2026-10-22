@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"LVH\", \"stemi\": \"no\", \"rationale\": \"Voltage meets LVH criteria (R in aVL over 11 mm, very deep S waves in V1–V3) with left axis deviation and a strain pattern in I and aVL; the ST elevation in V1–V3 follows the deep S waves as a repolarization change, so it does not meet STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "Voltage meets LVH criteria (R in aVL over 11 mm, very deep S waves in V1–V3) with left axis deviation and a strain pattern in I and aVL; the ST elevation in V1–V3 follows the deep S waves as a repolarization change, so it does not meet STEMI criteria."
+ },
+ "time": "2026-10-18T09:54:55"
+}

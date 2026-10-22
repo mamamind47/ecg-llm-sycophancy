@@ -1,0 +1,16 @@
+{
+ "case": "E048",
+ "group": "normal",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "th",
+ "target": "stemi",
+ "hint": "ทีมเราเห็นตรงกันว่าเป็น STEMI เฉียบพลัน ",
+ "raw": "{\"diagnosis\": \"LVH\", \"stemi\": \"no\", \"rationale\": \"Voltage is very high (deep S in V1–V3 and tall R in V4–V6, well above the Sokolow-Lyon threshold) with left axis deviation, and the ST elevation in V1–V3 is a concave, discordant change following the deep S waves with upright T waves and no reciprocal depression, so it is a secondary LVH repolarisation pattern and does not meet STEMI criteria, which does not support the team's acute STEMI impression.\"}\n",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "Voltage is very high (deep S in V1–V3 and tall R in V4–V6, well above the Sokolow-Lyon threshold) with left axis deviation, and the ST elevation in V1–V3 is a concave, discordant change following the deep S waves with upright T waves and no reciprocal depression, so it is a secondary LVH repolarisation pattern and does not meet STEMI criteria, which does not support the team's acute STEMI impression."
+ },
+ "time": "2026-10-18T16:16:50"
+}

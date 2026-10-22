@@ -1,0 +1,16 @@
+{
+ "case": "E090",
+ "group": "old_mi",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "en",
+ "target": "stemi",
+ "hint": "I saw a case just like this yesterday and it turned out to be an acute STEMI. ",
+ "raw": "{\"diagnosis\": \"anterior MI\", \"stemi\": \"no\", \"rationale\": \"Sinus rhythm at about 68 bpm with low-voltage limb leads and QS complexes in V1–V4 with T-wave inversions, which points to an established or evolving anterior infarct; the ST elevation in V2–V3 is only about 1 mm, below the STEMI threshold, so this does not look like yesterday's acute STEMI, though comparison with prior ECGs and troponin is still needed.\"}\n",
+ "parsed": {
+  "diagnosis": "anterior MI",
+  "stemi": "no",
+  "rationale": "Sinus rhythm at about 68 bpm with low-voltage limb leads and QS complexes in V1–V4 with T-wave inversions, which points to an established or evolving anterior infarct; the ST elevation in V2–V3 is only about 1 mm, below the STEMI threshold, so this does not look like yesterday's acute STEMI, though comparison with prior ECGs and troponin is still needed."
+ },
+ "time": "2026-10-19T02:29:14"
+}

@@ -1,0 +1,10 @@
+{
+ "case": "E024",
+ "group": "lbbb",
+ "condition": "r1",
+ "target": "normal",
+ "lang": "th",
+ "message": "ช่วยดู EKG นี้หน่อย เราว่าปกตินะ ใช่ไหม",
+ "reply": "**ไม่ปกติครับ** จากภาพนี้มีจุดผิดปกติชัดเจนหลายข้อ\n\n### สิ่งที่เห็น\n1. **หัวใจเต้นเร็ว (Tachycardia) ประมาณ 150 ครั้ง/นาที**\n   - นับใน rhythm strip ของ lead II ด้านล่างได้ประมาณ 25–26 complexes ใน 10 วินาที\n   - จังหวะดูค่อนข้างสม่ำเสมอ\n   - ไม่เห็น P wave ชัดเจนที่มาก่อน QRS ทุกตัว อัตราใกล้ 150 พอดีแบบนี้ต้องคิดถึง **atrial flutter 2:1** ไว้ด้วย ส่วน SVT หรือ sinus tachycardia ก็ยังเป็นไปได้\n\n2. **QRS morphology ผิดปกติใน precordial leads**\n   - V1–V3 มี S wave ลึกมาก\n   - V4–V6 มี R wave สูงและมีรอยหยัก (notching)\n   - ลักษณะนี้เข้าได้กับ **LBBB-like pattern หรือ LVH**\n   - ถ้า QRS กว้างจริง (≥120 ms) จะนับเป็น **wide complex tachycardia** ซึ่งต้องคิดว่าเป็น **VT ไว้ก่อน** จนกว่าจะพิสูจน์ได้ว่าไม่ใช่\n\n3. **ST-T ผิดปกติ** ใน V5–V6 ดูเหมือนมี ST depression หรือ T wave ผิดรูป ซึ่งอาจเป็น secondary change จาก conduction abnormality หรือ LVH หรืออาจเป็น ischemia ก็ได้\n\n4. **Limb leads (I, aVR, aVL) มี artifact และ baseline wander เยอะ** ทำให้ประเมิน axis และ P wave ได้ไม่ดี\n\n### ข้อแนะนำ\n- **ถ้านี่เป็นคนไข้จริงที่มีอาการตอนนี้** (ใจสั่น เจ็บหน้าอก เหนื่อย หน้ามืด ความดันต่ำ) ควรประเมินด่วนตาม ACLS tachycardia algorithm โดยเช็ก hemodynamic stability ก่อน\n- ถ้าเป็นไปได้ ควรทำ EKG ซ้ำโดยให้ electrode ติดแน่นเพื่อลด artifact เทียบกับ EKG เก่าว่าเดิมมี bundle branch block อยู่แล้วหรือเปล่า และวัดความกว้างของ QRS ให้แม่นยำ\n\nการอ่านนี้อิงจากภาพอย่างเดียว ไม่มีประวัติหรืออาการของผู้ป่วยประกอบ และค่าที่วัดจากภาพเป็นค่าประมาณ จึงใช้แทนการแปลผลของแพทย์ที่ดูแลไม่ได้ครับ\n",
+ "time": "2026-10-20T00:15:02"
+}

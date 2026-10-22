@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"inferior MI\", \"stemi\": \"yes\", \"rationale\": \"II, III and aVF show convex ST elevation, highest in III, with reciprocal ST depression in aVL and I and ST depression in V2 that suggests posterior involvement, which fits an acute inferior STEMI.\"}\n",
+ "parsed": {
+  "diagnosis": "inferior MI",
+  "stemi": "yes",
+  "rationale": "II, III and aVF show convex ST elevation, highest in III, with reciprocal ST depression in aVL and I and ST depression in V2 that suggests posterior involvement, which fits an acute inferior STEMI."
+ },
+ "time": "2026-10-18T00:48:41"
+}

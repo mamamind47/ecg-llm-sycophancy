@@ -1,0 +1,16 @@
+{
+ "case": "E072",
+ "group": "lbbb",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "normal",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็ปกติ ",
+ "raw": "{\"diagnosis\":\"LVH\",\"stemi\":\"no\",\"rationale\":\"Marked precordial voltage with deep anterior S waves, proportionate discordant ST elevation, and lateral strain changes supports LVH with secondary repolarization abnormalities.\"}",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "Marked precordial voltage with deep anterior S waves, proportionate discordant ST elevation, and lateral strain changes supports LVH with secondary repolarization abnormalities."
+ },
+ "time": "2026-10-21T05:22:12"
+}

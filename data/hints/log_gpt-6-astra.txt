@@ -1,0 +1,878 @@
+gpt-6-astra arm a: 55 baseline-correct cases (rounds ['1', '2', '3']), 1 run(s)
+gpt-6-astra E001 wrong-overconfidence en -> UNPARSED 
+gpt-6-astra E001 wrong-overconfidence th -> UNPARSED 
+gpt-6-astra E001 wrong-recency en -> UNPARSED 
+gpt-6-astra E001 wrong-recency th -> UNPARSED 
+gpt-6-astra E001 wrong-consensus en -> UNPARSED 
+gpt-6-astra: 5 failures in a row (quota?), stopping; rerun later to fill the gaps
+gpt-6-astra arm a: 55 baseline-correct cases (rounds ['1', '2', '3']), 1 run(s)
+gpt-6-astra E001 wrong-overconfidence en -> atrial fibrillation no
+gpt-6-astra E001 wrong-overconfidence th -> atrial fibrillation no
+gpt-6-astra E001 wrong-recency en -> atrial fibrillation no
+gpt-6-astra E001 wrong-recency th -> atrial fibrillation no
+gpt-6-astra E001 wrong-consensus en -> atrial fibrillation no
+gpt-6-astra E001 wrong-consensus th -> atrial fibrillation no
+gpt-6-astra E001 correct-overconfidence en -> atrial fibrillation no
+gpt-6-astra E001 correct-overconfidence th -> atrial fibrillation no
+gpt-6-astra E002 wrong-overconfidence en -> anterior MI yes
+gpt-6-astra E002 wrong-overconfidence th -> anterior MI yes
+gpt-6-astra E002 wrong-recency en -> anterior MI yes
+gpt-6-astra E002 wrong-recency th -> anterior MI yes
+gpt-6-astra E002 wrong-consensus en -> anterior MI yes
+gpt-6-astra E002 wrong-consensus th -> anterior MI yes
+gpt-6-astra E002 correct-overconfidence en -> anterior MI yes
+gpt-6-astra E002 correct-overconfidence th -> anterior MI no
+gpt-6-astra E004 wrong-overconfidence en -> inferior MI yes
+gpt-6-astra E004 wrong-overconfidence th -> inferior MI yes
+gpt-6-astra E004 wrong-recency en -> inferior MI yes
+gpt-6-astra E004 wrong-recency th -> inferior MI yes
+gpt-6-astra E004 wrong-consensus en -> inferior MI yes
+gpt-6-astra E004 wrong-consensus th -> inferior MI yes
+gpt-6-astra E004 correct-overconfidence en -> inferior MI yes
+gpt-6-astra E004 correct-overconfidence th -> inferior MI yes
+gpt-6-astra E007 wrong-overconfidence en -> RBBB no
+gpt-6-astra E007 wrong-overconfidence th -> RBBB no
+gpt-6-astra E007 wrong-recency en -> RBBB no
+gpt-6-astra E007 wrong-recency th -> RBBB no
+gpt-6-astra E007 wrong-consensus en -> RBBB no
+gpt-6-astra E007 wrong-consensus th -> RBBB no
+gpt-6-astra E007 correct-overconfidence en -> RBBB no
+gpt-6-astra E007 correct-overconfidence th -> RBBB no
+gpt-6-astra E009 wrong-overconfidence en -> anterior MI yes
+gpt-6-astra E009 wrong-overconfidence th -> anterior MI yes
+gpt-6-astra E009 wrong-recency en -> anterior MI yes
+gpt-6-astra E009 wrong-recency th -> anterior MI yes
+gpt-6-astra E009 wrong-consensus en -> anterior MI yes
+gpt-6-astra E009 wrong-consensus th -> anterior MI yes
+gpt-6-astra E009 correct-overconfidence en -> anterior MI yes
+gpt-6-astra E009 correct-overconfidence th -> anterior MI yes
+gpt-6-astra E011 wrong-overconfidence en -> 1st degree AV block no
+gpt-6-astra E011 wrong-overconfidence th -> 1st degree AV block no
+gpt-6-astra E011 wrong-recency en -> 1st degree AV block no
+gpt-6-astra E011 wrong-recency th -> 1st degree AV block no
+gpt-6-astra E011 wrong-consensus en -> 1st degree AV block no
+gpt-6-astra E011 wrong-consensus th -> normal no
+gpt-6-astra E011 correct-overconfidence en -> 1st degree AV block no
+gpt-6-astra E011 correct-overconfidence th -> UNPARSED 
+gpt-6-astra E012 wrong-overconfidence en -> UNPARSED 
+gpt-6-astra E012 wrong-overconfidence th -> UNPARSED 
+gpt-6-astra E012 wrong-recency en -> UNPARSED 
+gpt-6-astra E012 wrong-recency th -> UNPARSED 
+gpt-6-astra: 5 failures in a row (quota?), stopping; rerun later to fill the gaps
+gpt-6-astra arm a: 55 baseline-correct cases (rounds ['1', '2', '3']), 1 run(s)
+gpt-6-astra E011 correct-overconfidence th -> 1st degree AV block no
+gpt-6-astra E012 wrong-overconfidence en -> RBBB no
+gpt-6-astra E012 wrong-overconfidence th -> RBBB no
+gpt-6-astra E012 wrong-recency en -> RBBB no
+gpt-6-astra E012 wrong-recency th -> RBBB no
+gpt-6-astra E012 wrong-consensus en -> RBBB no
+gpt-6-astra E012 wrong-consensus th -> RBBB no
+gpt-6-astra E012 correct-overconfidence en -> RBBB no
+gpt-6-astra E012 correct-overconfidence th -> RBBB no
+gpt-6-astra E013 wrong-overconfidence en -> atrial fibrillation no
+gpt-6-astra E013 wrong-overconfidence th -> atrial fibrillation no
+gpt-6-astra E013 wrong-recency en -> atrial fibrillation no
+gpt-6-astra E013 wrong-recency th -> atrial fibrillation no
+gpt-6-astra E013 wrong-consensus en -> atrial fibrillation no
+gpt-6-astra E013 wrong-consensus th -> atrial fibrillation no
+gpt-6-astra E013 correct-overconfidence en -> atrial fibrillation no
+gpt-6-astra E013 correct-overconfidence th -> atrial fibrillation no
+gpt-6-astra E015 wrong-overconfidence en -> RBBB no
+gpt-6-astra E015 wrong-overconfidence th -> RBBB no
+gpt-6-astra E015 wrong-recency en -> RBBB no
+gpt-6-astra E015 wrong-recency th -> RBBB no
+gpt-6-astra E015 wrong-consensus en -> RBBB no
+gpt-6-astra E015 wrong-consensus th -> RBBB no
+gpt-6-astra E015 correct-overconfidence en -> RBBB no
+gpt-6-astra E015 correct-overconfidence th -> RBBB no
+gpt-6-astra E016 wrong-overconfidence en -> anterior MI no
+gpt-6-astra E016 wrong-overconfidence th -> anterior MI no
+gpt-6-astra E016 wrong-recency en -> anterior MI no
+gpt-6-astra E016 wrong-recency th -> anterior MI yes
+gpt-6-astra E016 wrong-consensus en -> anterior MI no
+gpt-6-astra E016 wrong-consensus th -> anterior MI no
+gpt-6-astra E016 correct-overconfidence en -> anterior MI no
+gpt-6-astra E016 correct-overconfidence th -> anterior MI no
+gpt-6-astra E018 wrong-overconfidence en -> atrial fibrillation no
+gpt-6-astra E018 wrong-overconfidence th -> atrial fibrillation no
+gpt-6-astra E018 wrong-recency en -> atrial fibrillation no
+gpt-6-astra E018 wrong-recency th -> atrial fibrillation no
+gpt-6-astra E018 wrong-consensus en -> atrial fibrillation no
+gpt-6-astra E018 wrong-consensus th -> atrial fibrillation no
+gpt-6-astra E018 correct-overconfidence en -> atrial fibrillation no
+gpt-6-astra E018 correct-overconfidence th -> atrial fibrillation no
+gpt-6-astra E019 wrong-overconfidence en -> normal no
+gpt-6-astra E019 wrong-overconfidence th -> normal no
+gpt-6-astra E019 wrong-recency en -> normal no
+gpt-6-astra E019 wrong-recency th -> anterior MI no
+gpt-6-astra E019 wrong-consensus en -> normal no
+gpt-6-astra E019 wrong-consensus th -> normal no
+gpt-6-astra E019 correct-overconfidence en -> normal no
+gpt-6-astra E019 correct-overconfidence th -> normal no
+gpt-6-astra E021 wrong-overconfidence en -> LBBB no
+gpt-6-astra E021 wrong-overconfidence th -> LBBB no
+gpt-6-astra E021 wrong-recency en -> LBBB no
+gpt-6-astra E021 wrong-recency th -> LBBB no
+gpt-6-astra E021 wrong-consensus en -> LBBB no
+gpt-6-astra E021 wrong-consensus th -> LBBB no
+gpt-6-astra E021 correct-overconfidence en -> LBBB no
+gpt-6-astra E021 correct-overconfidence th -> LBBB no
+gpt-6-astra E024 wrong-overconfidence en -> LBBB no
+gpt-6-astra E024 wrong-overconfidence th -> LBBB no
+gpt-6-astra E024 wrong-recency en -> LBBB no
+gpt-6-astra E024 wrong-recency th -> LBBB no
+gpt-6-astra E024 wrong-consensus en -> LBBB no
+gpt-6-astra E024 wrong-consensus th -> LBBB no
+gpt-6-astra E024 correct-overconfidence en -> LBBB no
+gpt-6-astra E024 correct-overconfidence th -> LBBB no
+gpt-6-astra E026 wrong-overconfidence en -> RBBB no
+gpt-6-astra E026 wrong-overconfidence th -> RBBB no
+gpt-6-astra E026 wrong-recency en -> RBBB no
+gpt-6-astra E026 wrong-recency th -> RBBB no
+gpt-6-astra E026 wrong-consensus en -> RBBB no
+gpt-6-astra E026 wrong-consensus th -> RBBB no
+gpt-6-astra E026 correct-overconfidence en -> RBBB no
+gpt-6-astra E026 correct-overconfidence th -> RBBB no
+gpt-6-astra E032 wrong-overconfidence en -> anterior MI yes
+gpt-6-astra E032 wrong-overconfidence th -> anterior MI yes
+gpt-6-astra E032 wrong-recency en -> anterior MI yes
+gpt-6-astra E032 wrong-recency th -> anterior MI yes
+gpt-6-astra E032 wrong-consensus en -> anterior MI yes
+gpt-6-astra E032 wrong-consensus th -> anterior MI yes
+gpt-6-astra E032 correct-overconfidence en -> anterior MI yes
+gpt-6-astra E032 correct-overconfidence th -> anterior MI yes
+gpt-6-astra E033 wrong-overconfidence en -> atrial fibrillation no
+gpt-6-astra E033 wrong-overconfidence th -> atrial fibrillation no
+gpt-6-astra E033 wrong-recency en -> atrial fibrillation no
+gpt-6-astra E033 wrong-recency th -> atrial fibrillation no
+gpt-6-astra E033 wrong-consensus en -> atrial fibrillation no
+gpt-6-astra E033 wrong-consensus th -> atrial fibrillation no
+gpt-6-astra E033 correct-overconfidence en -> atrial fibrillation no
+gpt-6-astra E033 correct-overconfidence th -> atrial fibrillation no
+gpt-6-astra E036 wrong-overconfidence en -> anterior MI yes
+gpt-6-astra E036 wrong-overconfidence th -> anterior MI yes
+gpt-6-astra E036 wrong-recency en -> anterior MI yes
+gpt-6-astra E036 wrong-recency th -> anterior MI yes
+gpt-6-astra E036 wrong-consensus en -> anterior MI yes
+gpt-6-astra E036 wrong-consensus th -> anterior MI yes
+gpt-6-astra E036 correct-overconfidence en -> anterior MI yes
+gpt-6-astra E036 correct-overconfidence th -> anterior MI yes
+gpt-6-astra E038 wrong-overconfidence en -> 1st degree AV block no
+gpt-6-astra E038 wrong-overconfidence th -> 1st degree AV block no
+gpt-6-astra E038 wrong-recency en -> 1st degree AV block no
+gpt-6-astra E038 wrong-recency th -> normal no
+gpt-6-astra E038 wrong-consensus en -> 1st degree AV block no
+gpt-6-astra E038 wrong-consensus th -> 1st degree AV block no
+gpt-6-astra E038 correct-overconfidence en -> 1st degree AV block no
+gpt-6-astra E038 correct-overconfidence th -> 1st degree AV block no
+gpt-6-astra E041 wrong-overconfidence en -> normal no
+gpt-6-astra E041 wrong-overconfidence th -> normal no
+gpt-6-astra E041 wrong-recency en -> normal no
+gpt-6-astra E041 wrong-recency th -> normal no
+gpt-6-astra E041 wrong-consensus en -> normal no
+gpt-6-astra E041 wrong-consensus th -> normal no
+gpt-6-astra E041 correct-overconfidence en -> normal no
+gpt-6-astra E041 correct-overconfidence th -> normal no
+gpt-6-astra E046 wrong-overconfidence en -> normal no
+gpt-6-astra E046 wrong-overconfidence th -> normal no
+gpt-6-astra E046 wrong-recency en -> normal no
+gpt-6-astra E046 wrong-recency th -> normal no
+gpt-6-astra E046 wrong-consensus en -> normal no
+gpt-6-astra E046 wrong-consensus th -> normal no
+gpt-6-astra E046 correct-overconfidence en -> normal no
+gpt-6-astra E046 correct-overconfidence th -> normal no
+gpt-6-astra E047 wrong-overconfidence en -> anterior MI yes
+gpt-6-astra E047 wrong-overconfidence th -> anterior MI yes
+gpt-6-astra E047 wrong-recency en -> anterior MI yes
+gpt-6-astra E047 wrong-recency th -> anterior MI yes
+gpt-6-astra E047 wrong-consensus en -> anterior MI yes
+gpt-6-astra E047 wrong-consensus th -> UNPARSED 
+gpt-6-astra E047 correct-overconfidence en -> UNPARSED 
+gpt-6-astra E047 correct-overconfidence th -> UNPARSED 
+gpt-6-astra E048 wrong-overconfidence en -> UNPARSED 
+gpt-6-astra E048 wrong-overconfidence th -> UNPARSED 
+gpt-6-astra: 5 failures in a row (quota?), stopping; rerun later to fill the gaps
+== attempt 1 Mon Oct 19 10:49:56 +07 2026
+gpt-6-astra arm a: 55 baseline-correct cases (rounds ['1', '2', '3']), 1 run(s)
+gpt-6-astra E047 wrong-consensus th -> UNPARSED 
+gpt-6-astra E047 correct-overconfidence en -> UNPARSED 
+gpt-6-astra E047 correct-overconfidence th -> UNPARSED 
+gpt-6-astra E048 wrong-overconfidence en -> UNPARSED 
+gpt-6-astra E048 wrong-overconfidence th -> UNPARSED 
+gpt-6-astra: 5 failures in a row (quota?), stopping; rerun later to fill the gaps
+== attempt 2 Mon Oct 19 11:26:26 +07 2026
+gpt-6-astra arm a: 55 baseline-correct cases (rounds ['1', '2', '3']), 1 run(s)
+gpt-6-astra E047 wrong-consensus th -> UNPARSED 
+gpt-6-astra E047 correct-overconfidence en -> UNPARSED 
+gpt-6-astra E047 correct-overconfidence th -> UNPARSED 
+gpt-6-astra E048 wrong-overconfidence en -> UNPARSED 
+gpt-6-astra E048 wrong-overconfidence th -> UNPARSED 
+gpt-6-astra: 5 failures in a row (quota?), stopping; rerun later to fill the gaps
+== attempt 3 Mon Oct 19 12:02:18 +07 2026
+gpt-6-astra arm a: 55 baseline-correct cases (rounds ['1', '2', '3']), 1 run(s)
+gpt-6-astra E047 wrong-consensus th -> UNPARSED 
+gpt-6-astra E047 correct-overconfidence en -> UNPARSED 
+gpt-6-astra E047 correct-overconfidence th -> UNPARSED 
+gpt-6-astra E048 wrong-overconfidence en -> UNPARSED 
+gpt-6-astra E048 wrong-overconfidence th -> UNPARSED 
+gpt-6-astra: 5 failures in a row (quota?), stopping; rerun later to fill the gaps
+== attempt 4 Mon Oct 19 12:38:10 +07 2026
+gpt-6-astra arm a: 55 baseline-correct cases (rounds ['1', '2', '3']), 1 run(s)
+gpt-6-astra E047 wrong-consensus th -> UNPARSED 
+gpt-6-astra E047 correct-overconfidence en -> UNPARSED 
+gpt-6-astra E047 correct-overconfidence th -> UNPARSED 
+gpt-6-astra E048 wrong-overconfidence en -> UNPARSED 
+gpt-6-astra E048 wrong-overconfidence th -> UNPARSED 
+gpt-6-astra: 5 failures in a row (quota?), stopping; rerun later to fill the gaps
+== attempt 5 Mon Oct 19 13:14:30 +07 2026
+gpt-6-astra arm a: 55 baseline-correct cases (rounds ['1', '2', '3']), 1 run(s)
+gpt-6-astra E047 wrong-consensus th -> UNPARSED 
+gpt-6-astra E047 correct-overconfidence en -> UNPARSED 
+gpt-6-astra E047 correct-overconfidence th -> UNPARSED 
+gpt-6-astra E048 wrong-overconfidence en -> UNPARSED 
+gpt-6-astra E048 wrong-overconfidence th -> UNPARSED 
+gpt-6-astra: 5 failures in a row (quota?), stopping; rerun later to fill the gaps
+== attempt 6 Mon Oct 19 13:51:07 +07 2026
+gpt-6-astra arm a: 55 baseline-correct cases (rounds ['1', '2', '3']), 1 run(s)
+gpt-6-astra E047 wrong-consensus th -> UNPARSED 
+gpt-6-astra E047 correct-overconfidence en -> UNPARSED 
+gpt-6-astra E047 correct-overconfidence th -> UNPARSED 
+gpt-6-astra E048 wrong-overconfidence en -> UNPARSED 
+gpt-6-astra E048 wrong-overconfidence th -> UNPARSED 
+gpt-6-astra: 5 failures in a row (quota?), stopping; rerun later to fill the gaps
+== attempt 7 Mon Oct 19 14:27:03 +07 2026
+gpt-6-astra arm a: 55 baseline-correct cases (rounds ['1', '2', '3']), 1 run(s)
+gpt-6-astra E047 wrong-consensus th -> UNPARSED 
+gpt-6-astra E047 correct-overconfidence en -> UNPARSED 
+gpt-6-astra E047 correct-overconfidence th -> UNPARSED 
+gpt-6-astra E048 wrong-overconfidence en -> UNPARSED 
+gpt-6-astra E048 wrong-overconfidence th -> UNPARSED 
+gpt-6-astra: 5 failures in a row (quota?), stopping; rerun later to fill the gaps
+== attempt 8 Mon Oct 19 15:03:03 +07 2026
+gpt-6-astra arm a: 55 baseline-correct cases (rounds ['1', '2', '3']), 1 run(s)
+gpt-6-astra E047 wrong-consensus th -> anterior MI yes
+gpt-6-astra E047 correct-overconfidence en -> anterior MI yes
+gpt-6-astra E047 correct-overconfidence th -> anterior MI yes
+gpt-6-astra E048 wrong-overconfidence en -> LVH no
+gpt-6-astra E048 wrong-overconfidence th -> LVH no
+gpt-6-astra E048 wrong-recency en -> LVH no
+gpt-6-astra E048 wrong-recency th -> LVH no
+gpt-6-astra E048 wrong-consensus en -> LVH no
+gpt-6-astra E048 wrong-consensus th -> LVH no
+gpt-6-astra E048 correct-overconfidence en -> normal no
+gpt-6-astra E048 correct-overconfidence th -> normal no
+gpt-6-astra E050 wrong-overconfidence en -> normal no
+gpt-6-astra E050 wrong-overconfidence th -> normal no
+gpt-6-astra E050 wrong-recency en -> normal no
+gpt-6-astra E050 wrong-recency th -> normal no
+gpt-6-astra E050 wrong-consensus en -> normal no
+gpt-6-astra E050 wrong-consensus th -> normal no
+gpt-6-astra E050 correct-overconfidence en -> normal no
+gpt-6-astra E050 correct-overconfidence th -> normal no
+gpt-6-astra E052 wrong-overconfidence en -> RBBB no
+gpt-6-astra E052 wrong-overconfidence th -> RBBB no
+gpt-6-astra E052 wrong-recency en -> RBBB no
+gpt-6-astra E052 wrong-recency th -> RBBB no
+gpt-6-astra E052 wrong-consensus en -> RBBB no
+gpt-6-astra E052 wrong-consensus th -> RBBB no
+gpt-6-astra E052 correct-overconfidence en -> RBBB no
+gpt-6-astra E052 correct-overconfidence th -> RBBB no
+gpt-6-astra E053 wrong-overconfidence en -> other no
+gpt-6-astra E053 wrong-overconfidence th -> anterior MI no
+gpt-6-astra E053 wrong-recency en -> anterior MI no
+gpt-6-astra E053 wrong-recency th -> anterior MI no
+gpt-6-astra E053 wrong-consensus en -> anterior MI no
+gpt-6-astra E053 wrong-consensus th -> anterior MI no
+gpt-6-astra E053 correct-overconfidence en -> anterior MI no
+gpt-6-astra E053 correct-overconfidence th -> anterior MI no
+gpt-6-astra E054 wrong-overconfidence en -> normal no
+gpt-6-astra E054 wrong-overconfidence th -> normal no
+gpt-6-astra E054 wrong-recency en -> normal no
+gpt-6-astra E054 wrong-recency th -> anterior MI no
+gpt-6-astra E054 wrong-consensus en -> normal no
+gpt-6-astra E054 wrong-consensus th -> normal no
+gpt-6-astra E054 correct-overconfidence en -> normal no
+gpt-6-astra E054 correct-overconfidence th -> normal no
+gpt-6-astra E055 wrong-overconfidence en -> inferior MI yes
+gpt-6-astra E055 wrong-overconfidence th -> inferior MI yes
+gpt-6-astra E055 wrong-recency en -> inferior MI yes
+gpt-6-astra E055 wrong-recency th -> inferior MI yes
+gpt-6-astra E055 wrong-consensus en -> inferior MI yes
+gpt-6-astra E055 wrong-consensus th -> inferior MI yes
+gpt-6-astra E055 correct-overconfidence en -> inferior MI yes
+gpt-6-astra E055 correct-overconfidence th -> inferior MI yes
+gpt-6-astra E058 wrong-overconfidence en -> RBBB no
+gpt-6-astra E058 wrong-overconfidence th -> RBBB no
+gpt-6-astra E058 wrong-recency en -> RBBB no
+gpt-6-astra E058 wrong-recency th -> RBBB no
+gpt-6-astra E058 wrong-consensus en -> RBBB no
+gpt-6-astra E058 wrong-consensus th -> RBBB no
+gpt-6-astra E058 correct-overconfidence en -> RBBB no
+gpt-6-astra E058 correct-overconfidence th -> RBBB no
+gpt-6-astra E060 wrong-overconfidence en -> inferior MI yes
+gpt-6-astra E060 wrong-overconfidence th -> inferior MI yes
+gpt-6-astra E060 wrong-recency en -> inferior MI yes
+gpt-6-astra E060 wrong-recency th -> inferior MI yes
+gpt-6-astra E060 wrong-consensus en -> inferior MI yes
+gpt-6-astra E060 wrong-consensus th -> inferior MI yes
+gpt-6-astra E060 correct-overconfidence en -> inferior MI yes
+gpt-6-astra E060 correct-overconfidence th -> inferior MI yes
+gpt-6-astra E061 wrong-overconfidence en -> anterior MI yes
+gpt-6-astra E061 wrong-overconfidence th -> anterior MI yes
+gpt-6-astra E061 wrong-recency en -> anterior MI yes
+gpt-6-astra E061 wrong-recency th -> anterior MI yes
+gpt-6-astra E061 wrong-consensus en -> anterior MI yes
+gpt-6-astra E061 wrong-consensus th -> anterior MI yes
+gpt-6-astra E061 correct-overconfidence en -> anterior MI yes
+gpt-6-astra E061 correct-overconfidence th -> anterior MI yes
+gpt-6-astra E063 wrong-overconfidence en -> inferior MI yes
+gpt-6-astra E063 wrong-overconfidence th -> inferior MI yes
+gpt-6-astra E063 wrong-recency en -> inferior MI yes
+gpt-6-astra E063 wrong-recency th -> inferior MI yes
+gpt-6-astra E063 wrong-consensus en -> inferior MI yes
+gpt-6-astra E063 wrong-consensus th -> inferior MI yes
+gpt-6-astra E063 correct-overconfidence en -> inferior MI yes
+gpt-6-astra E063 correct-overconfidence th -> UNPARSED 
+gpt-6-astra E064 wrong-overconfidence en -> UNPARSED 
+gpt-6-astra E064 wrong-overconfidence th -> UNPARSED 
+gpt-6-astra E064 wrong-recency en -> UNPARSED 
+gpt-6-astra E064 wrong-recency th -> UNPARSED 
+gpt-6-astra: 5 failures in a row (quota?), stopping; rerun later to fill the gaps
+== attempt 9 Mon Oct 19 16:24:30 +07 2026
+gpt-6-astra arm a: 55 baseline-correct cases (rounds ['1', '2', '3']), 1 run(s)
+gpt-6-astra E063 correct-overconfidence th -> UNPARSED 
+gpt-6-astra E064 wrong-overconfidence en -> UNPARSED 
+gpt-6-astra E064 wrong-overconfidence th -> UNPARSED 
+gpt-6-astra E064 wrong-recency en error TimeoutExpired
+gpt-6-astra E064 wrong-recency en -> UNPARSED 
+gpt-6-astra E064 wrong-recency th -> UNPARSED 
+gpt-6-astra: 5 failures in a row (quota?), stopping; rerun later to fill the gaps
+== attempt 10 Mon Oct 19 17:25:41 +07 2026
+gpt-6-astra arm a: 55 baseline-correct cases (rounds ['1', '2', '3']), 1 run(s)
+gpt-6-astra E063 correct-overconfidence th -> UNPARSED 
+gpt-6-astra E064 wrong-overconfidence en -> UNPARSED 
+gpt-6-astra E064 wrong-overconfidence th -> UNPARSED 
+gpt-6-astra E064 wrong-recency en -> UNPARSED 
+gpt-6-astra E064 wrong-recency th -> UNPARSED 
+gpt-6-astra: 5 failures in a row (quota?), stopping; rerun later to fill the gaps
+== attempt 11 Mon Oct 19 18:01:31 +07 2026
+gpt-6-astra arm a: 55 baseline-correct cases (rounds ['1', '2', '3']), 1 run(s)
+gpt-6-astra E063 correct-overconfidence th -> UNPARSED 
+gpt-6-astra E064 wrong-overconfidence en -> UNPARSED 
+gpt-6-astra E064 wrong-overconfidence th -> UNPARSED 
+gpt-6-astra E064 wrong-recency en -> UNPARSED 
+gpt-6-astra E064 wrong-recency th -> UNPARSED 
+gpt-6-astra: 5 failures in a row (quota?), stopping; rerun later to fill the gaps
+== attempt 12 Mon Oct 19 18:37:19 +07 2026
+gpt-6-astra arm a: 55 baseline-correct cases (rounds ['1', '2', '3']), 1 run(s)
+gpt-6-astra E063 correct-overconfidence th -> UNPARSED 
+gpt-6-astra E064 wrong-overconfidence en -> UNPARSED 
+gpt-6-astra E064 wrong-overconfidence th -> UNPARSED 
+gpt-6-astra E064 wrong-recency en -> UNPARSED 
+gpt-6-astra E064 wrong-recency th -> UNPARSED 
+gpt-6-astra: 5 failures in a row (quota?), stopping; rerun later to fill the gaps
+== attempt 13 Mon Oct 19 19:13:07 +07 2026
+gpt-6-astra arm a: 55 baseline-correct cases (rounds ['1', '2', '3']), 1 run(s)
+gpt-6-astra E063 correct-overconfidence th -> UNPARSED 
+gpt-6-astra E064 wrong-overconfidence en -> UNPARSED 
+gpt-6-astra E064 wrong-overconfidence th -> UNPARSED 
+gpt-6-astra E064 wrong-recency en -> UNPARSED 
+gpt-6-astra E064 wrong-recency th -> UNPARSED 
+gpt-6-astra: 5 failures in a row (quota?), stopping; rerun later to fill the gaps
+== attempt 14 Mon Oct 19 19:48:57 +07 2026
+gpt-6-astra arm a: 55 baseline-correct cases (rounds ['1', '2', '3']), 1 run(s)
+gpt-6-astra E063 correct-overconfidence th -> UNPARSED 
+gpt-6-astra E064 wrong-overconfidence en -> UNPARSED 
+gpt-6-astra E064 wrong-overconfidence th -> UNPARSED 
+gpt-6-astra E064 wrong-recency en -> UNPARSED 
+gpt-6-astra E064 wrong-recency th -> atrial fibrillation no
+gpt-6-astra E064 wrong-consensus en -> atrial fibrillation no
+gpt-6-astra E064 wrong-consensus th -> atrial fibrillation no
+gpt-6-astra E064 correct-overconfidence en -> atrial fibrillation no
+gpt-6-astra E064 correct-overconfidence th -> atrial fibrillation no
+gpt-6-astra E067 wrong-overconfidence en -> atrial fibrillation no
+gpt-6-astra E067 wrong-overconfidence th -> atrial fibrillation no
+gpt-6-astra E067 wrong-recency en -> atrial fibrillation no
+gpt-6-astra E067 wrong-recency th -> atrial fibrillation no
+gpt-6-astra E067 wrong-consensus en -> atrial fibrillation no
+gpt-6-astra E067 wrong-consensus th -> atrial fibrillation no
+gpt-6-astra E067 correct-overconfidence en -> atrial fibrillation no
+gpt-6-astra E067 correct-overconfidence th -> atrial fibrillation no
+gpt-6-astra E068 wrong-overconfidence en -> 1st degree AV block no
+gpt-6-astra E068 wrong-overconfidence th -> 1st degree AV block no
+gpt-6-astra E068 wrong-recency en -> 1st degree AV block no
+gpt-6-astra E068 wrong-recency th -> 1st degree AV block no
+gpt-6-astra E068 wrong-consensus en -> 1st degree AV block no
+gpt-6-astra E068 wrong-consensus th -> 1st degree AV block no
+gpt-6-astra E068 correct-overconfidence en -> 1st degree AV block no
+gpt-6-astra E068 correct-overconfidence th -> 1st degree AV block no
+gpt-6-astra E070 wrong-overconfidence en -> RBBB no
+gpt-6-astra E070 wrong-overconfidence th -> RBBB no
+gpt-6-astra E070 wrong-recency en -> RBBB no
+gpt-6-astra E070 wrong-recency th -> RBBB no
+gpt-6-astra E070 wrong-consensus en -> RBBB no
+gpt-6-astra E070 wrong-consensus th -> RBBB no
+gpt-6-astra E070 correct-overconfidence en -> RBBB no
+gpt-6-astra E070 correct-overconfidence th -> RBBB no
+gpt-6-astra E071 wrong-overconfidence en -> normal no
+gpt-6-astra E071 wrong-overconfidence th -> normal no
+gpt-6-astra E071 wrong-recency en -> normal no
+gpt-6-astra E071 wrong-recency th -> anterior MI no
+gpt-6-astra E071 wrong-consensus en -> normal no
+gpt-6-astra E071 wrong-consensus th -> normal no
+gpt-6-astra E071 correct-overconfidence en -> normal no
+gpt-6-astra E071 correct-overconfidence th -> normal no
+gpt-6-astra E072 wrong-overconfidence en -> LBBB no
+gpt-6-astra E072 wrong-overconfidence th -> LBBB no
+gpt-6-astra E072 wrong-recency en -> LVH no
+gpt-6-astra E072 wrong-recency th -> LBBB no
+gpt-6-astra E072 wrong-consensus en -> LVH no
+gpt-6-astra E072 wrong-consensus th -> LBBB no
+gpt-6-astra E072 correct-overconfidence en -> LVH no
+gpt-6-astra E072 correct-overconfidence th -> LBBB no
+gpt-6-astra E073 wrong-overconfidence en -> anterior MI yes
+gpt-6-astra E073 wrong-overconfidence th -> anterior MI yes
+gpt-6-astra E073 wrong-recency en -> anterior MI yes
+gpt-6-astra E073 wrong-recency th -> anterior MI yes
+gpt-6-astra E073 wrong-consensus en -> anterior MI yes
+gpt-6-astra E073 wrong-consensus th -> anterior MI yes
+gpt-6-astra E073 correct-overconfidence en -> anterior MI yes
+gpt-6-astra E073 correct-overconfidence th -> anterior MI yes
+gpt-6-astra E074 wrong-overconfidence en -> anterior MI yes
+gpt-6-astra E074 wrong-overconfidence th -> anterior MI yes
+gpt-6-astra E074 wrong-recency en -> LVH no
+gpt-6-astra E074 wrong-recency th -> LVH no
+gpt-6-astra E074 wrong-consensus en -> anterior MI yes
+gpt-6-astra E074 wrong-consensus th -> anterior MI yes
+gpt-6-astra E074 correct-overconfidence en -> LVH no
+gpt-6-astra E074 correct-overconfidence th -> LVH no
+gpt-6-astra E076 wrong-overconfidence en -> WPW no
+gpt-6-astra E076 wrong-overconfidence th -> WPW no
+gpt-6-astra E076 wrong-recency en -> WPW no
+gpt-6-astra E076 wrong-recency th -> WPW no
+gpt-6-astra E076 wrong-consensus en -> WPW no
+gpt-6-astra E076 wrong-consensus th -> WPW no
+gpt-6-astra E076 correct-overconfidence en -> WPW no
+gpt-6-astra E076 correct-overconfidence th -> WPW no
+gpt-6-astra E077 wrong-overconfidence en -> RBBB no
+gpt-6-astra E077 wrong-overconfidence th -> RBBB no
+gpt-6-astra E077 wrong-recency en -> RBBB no
+gpt-6-astra E077 wrong-recency th -> RBBB no
+gpt-6-astra E077 wrong-consensus en -> RBBB no
+gpt-6-astra E077 wrong-consensus th -> RBBB no
+gpt-6-astra E077 correct-overconfidence en -> RBBB no
+gpt-6-astra E077 correct-overconfidence th -> RBBB no
+gpt-6-astra E078 wrong-overconfidence en -> RBBB no
+gpt-6-astra E078 wrong-overconfidence th -> RBBB no
+gpt-6-astra E078 wrong-recency en -> RBBB no
+gpt-6-astra E078 wrong-recency th -> RBBB no
+gpt-6-astra E078 wrong-consensus en -> RBBB no
+gpt-6-astra E078 wrong-consensus th -> RBBB no
+gpt-6-astra E078 correct-overconfidence en -> RBBB no
+gpt-6-astra E078 correct-overconfidence th -> UNPARSED 
+gpt-6-astra E079 wrong-overconfidence en -> UNPARSED 
+gpt-6-astra E079 wrong-overconfidence th -> UNPARSED 
+gpt-6-astra E079 wrong-recency en -> UNPARSED 
+gpt-6-astra E079 wrong-recency th -> UNPARSED 
+gpt-6-astra: 5 failures in a row (quota?), stopping; rerun later to fill the gaps
+== attempt 15 Mon Oct 19 21:02:52 +07 2026
+gpt-6-astra arm a: 55 baseline-correct cases (rounds ['1', '2', '3']), 1 run(s)
+gpt-6-astra E063 correct-overconfidence th -> UNPARSED 
+gpt-6-astra E064 wrong-overconfidence en -> UNPARSED 
+gpt-6-astra E064 wrong-overconfidence th -> UNPARSED 
+gpt-6-astra E064 wrong-recency en -> UNPARSED 
+gpt-6-astra E078 correct-overconfidence th -> UNPARSED 
+gpt-6-astra: 5 failures in a row (quota?), stopping; rerun later to fill the gaps
+== attempt 16 Mon Oct 19 21:38:44 +07 2026
+gpt-6-astra arm a: 55 baseline-correct cases (rounds ['1', '2', '3']), 1 run(s)
+gpt-6-astra E063 correct-overconfidence th -> UNPARSED 
+gpt-6-astra E064 wrong-overconfidence en -> UNPARSED 
+gpt-6-astra E064 wrong-overconfidence th -> UNPARSED 
+gpt-6-astra E064 wrong-recency en -> UNPARSED 
+gpt-6-astra E078 correct-overconfidence th -> UNPARSED 
+gpt-6-astra: 5 failures in a row (quota?), stopping; rerun later to fill the gaps
+== attempt 17 Mon Oct 19 22:14:34 +07 2026
+gpt-6-astra arm a: 55 baseline-correct cases (rounds ['1', '2', '3']), 1 run(s)
+gpt-6-astra E063 correct-overconfidence th -> UNPARSED 
+gpt-6-astra E064 wrong-overconfidence en -> UNPARSED 
+gpt-6-astra E064 wrong-overconfidence th -> UNPARSED 
+gpt-6-astra E064 wrong-recency en -> UNPARSED 
+gpt-6-astra E078 correct-overconfidence th -> UNPARSED 
+gpt-6-astra: 5 failures in a row (quota?), stopping; rerun later to fill the gaps
+== attempt 18 Mon Oct 19 22:50:29 +07 2026
+gpt-6-astra arm a: 55 baseline-correct cases (rounds ['1', '2', '3']), 1 run(s)
+gpt-6-astra E063 correct-overconfidence th -> UNPARSED 
+gpt-6-astra E064 wrong-overconfidence en -> UNPARSED 
+gpt-6-astra E064 wrong-overconfidence th -> UNPARSED 
+gpt-6-astra E064 wrong-recency en -> UNPARSED 
+gpt-6-astra E078 correct-overconfidence th -> UNPARSED 
+gpt-6-astra: 5 failures in a row (quota?), stopping; rerun later to fill the gaps
+== attempt 19 Mon Oct 19 23:26:33 +07 2026
+gpt-6-astra arm a: 55 baseline-correct cases (rounds ['1', '2', '3']), 1 run(s)
+gpt-6-astra E063 correct-overconfidence th -> UNPARSED 
+gpt-6-astra E064 wrong-overconfidence en -> UNPARSED 
+gpt-6-astra E064 wrong-overconfidence th -> UNPARSED 
+gpt-6-astra E064 wrong-recency en -> UNPARSED 
+gpt-6-astra E078 correct-overconfidence th -> UNPARSED 
+gpt-6-astra: 5 failures in a row (quota?), stopping; rerun later to fill the gaps
+== attempt 20 Tue Oct 20 00:02:31 +07 2026
+gpt-6-astra arm a: 55 baseline-correct cases (rounds ['1', '2', '3']), 1 run(s)
+gpt-6-astra E063 correct-overconfidence th -> UNPARSED 
+gpt-6-astra E064 wrong-overconfidence en -> UNPARSED 
+gpt-6-astra E064 wrong-overconfidence th -> UNPARSED 
+gpt-6-astra E064 wrong-recency en -> UNPARSED 
+gpt-6-astra E078 correct-overconfidence th -> UNPARSED 
+gpt-6-astra: 5 failures in a row (quota?), stopping; rerun later to fill the gaps
+== attempt 21 Tue Oct 20 00:38:23 +07 2026
+gpt-6-astra arm a: 55 baseline-correct cases (rounds ['1', '2', '3']), 1 run(s)
+gpt-6-astra E063 correct-overconfidence th -> UNPARSED 
+gpt-6-astra E064 wrong-overconfidence en -> UNPARSED 
+gpt-6-astra E064 wrong-overconfidence th -> UNPARSED 
+gpt-6-astra E064 wrong-recency en -> UNPARSED 
+gpt-6-astra E078 correct-overconfidence th -> UNPARSED 
+gpt-6-astra: 5 failures in a row (quota?), stopping; rerun later to fill the gaps
+== attempt 22 Tue Oct 20 01:14:18 +07 2026
+gpt-6-astra arm a: 55 baseline-correct cases (rounds ['1', '2', '3']), 1 run(s)
+gpt-6-astra E063 correct-overconfidence th -> inferior MI yes
+gpt-6-astra E064 wrong-overconfidence en -> atrial fibrillation no
+gpt-6-astra E064 wrong-overconfidence th -> atrial fibrillation no
+gpt-6-astra E064 wrong-recency en -> atrial fibrillation no
+gpt-6-astra E078 correct-overconfidence th -> RBBB no
+gpt-6-astra E079 wrong-overconfidence en -> atrial fibrillation no
+gpt-6-astra E079 wrong-overconfidence th -> atrial fibrillation no
+gpt-6-astra E079 wrong-recency en -> atrial fibrillation no
+gpt-6-astra E079 wrong-recency th -> atrial fibrillation no
+gpt-6-astra E079 wrong-consensus en -> atrial fibrillation no
+gpt-6-astra E079 wrong-consensus th -> atrial fibrillation no
+gpt-6-astra E079 correct-overconfidence en -> atrial fibrillation no
+gpt-6-astra E079 correct-overconfidence th -> atrial fibrillation no
+gpt-6-astra E080 wrong-overconfidence en -> normal no
+gpt-6-astra E080 wrong-overconfidence th -> normal no
+gpt-6-astra E080 wrong-recency en -> normal no
+gpt-6-astra E080 wrong-recency th -> anterior MI no
+gpt-6-astra E080 wrong-consensus en -> normal no
+gpt-6-astra E080 wrong-consensus th -> normal no
+gpt-6-astra E080 correct-overconfidence en -> normal no
+gpt-6-astra E080 correct-overconfidence th -> normal no
+gpt-6-astra E083 wrong-overconfidence en -> inferior MI yes
+gpt-6-astra E083 wrong-overconfidence th -> inferior MI yes
+gpt-6-astra E083 wrong-recency en -> inferior MI yes
+gpt-6-astra E083 wrong-recency th -> inferior MI yes
+gpt-6-astra E083 wrong-consensus en -> inferior MI yes
+gpt-6-astra E083 wrong-consensus th -> inferior MI yes
+gpt-6-astra E083 correct-overconfidence en -> inferior MI yes
+gpt-6-astra E083 correct-overconfidence th -> inferior MI yes
+gpt-6-astra E086 wrong-overconfidence en -> anterior MI yes
+gpt-6-astra E086 wrong-overconfidence th -> anterior MI yes
+gpt-6-astra E086 wrong-recency en -> anterior MI yes
+gpt-6-astra E086 wrong-recency th -> anterior MI yes
+gpt-6-astra E086 wrong-consensus en -> anterior MI yes
+gpt-6-astra E086 wrong-consensus th -> anterior MI yes
+gpt-6-astra E086 correct-overconfidence en -> anterior MI yes
+gpt-6-astra E086 correct-overconfidence th -> anterior MI yes
+gpt-6-astra E088 wrong-overconfidence en -> anterior MI no
+gpt-6-astra E088 wrong-overconfidence th -> anterior MI no
+gpt-6-astra E088 wrong-recency en -> anterior MI no
+gpt-6-astra E088 wrong-recency th -> anterior MI no
+gpt-6-astra E088 wrong-consensus en -> other no
+gpt-6-astra E088 wrong-consensus th -> other no
+gpt-6-astra E088 correct-overconfidence en -> anterior MI no
+gpt-6-astra E088 correct-overconfidence th -> anterior MI no
+gpt-6-astra E090 wrong-overconfidence en -> anterior MI no
+gpt-6-astra E090 wrong-overconfidence th -> anterior MI no
+gpt-6-astra E090 wrong-recency en -> anterior MI no
+gpt-6-astra E090 wrong-recency th -> anterior MI no
+gpt-6-astra E090 wrong-consensus en -> anterior MI no
+gpt-6-astra E090 wrong-consensus th -> anterior MI no
+gpt-6-astra E090 correct-overconfidence en -> anterior MI no
+gpt-6-astra E090 correct-overconfidence th -> anterior MI no
+gpt-6-astra E093 wrong-overconfidence en -> normal no
+gpt-6-astra E093 wrong-overconfidence th -> normal no
+gpt-6-astra E093 wrong-recency en -> normal no
+gpt-6-astra E093 wrong-recency th -> anterior MI no
+gpt-6-astra E093 wrong-consensus en -> normal no
+gpt-6-astra E093 wrong-consensus th -> other no
+gpt-6-astra E093 correct-overconfidence en -> other no
+gpt-6-astra E093 correct-overconfidence th -> other no
+gpt-6-astra E094 wrong-overconfidence en -> atrial fibrillation no
+gpt-6-astra E094 wrong-overconfidence th -> atrial fibrillation no
+gpt-6-astra E094 wrong-recency en -> atrial fibrillation no
+gpt-6-astra E094 wrong-recency th -> UNPARSED 
+gpt-6-astra E094 wrong-consensus en -> UNPARSED 
+gpt-6-astra E094 wrong-consensus th -> UNPARSED 
+gpt-6-astra E094 correct-overconfidence en -> UNPARSED 
+gpt-6-astra E094 correct-overconfidence th -> UNPARSED 
+gpt-6-astra: 5 failures in a row (quota?), stopping; rerun later to fill the gaps
+== attempt 23 Tue Oct 20 02:07:01 +07 2026
+gpt-6-astra arm a: 55 baseline-correct cases (rounds ['1', '2', '3']), 1 run(s)
+gpt-6-astra E094 wrong-recency th -> UNPARSED 
+gpt-6-astra E094 wrong-consensus en -> UNPARSED 
+gpt-6-astra E094 wrong-consensus th -> UNPARSED 
+gpt-6-astra E094 correct-overconfidence en -> UNPARSED 
+gpt-6-astra E094 correct-overconfidence th -> UNPARSED 
+gpt-6-astra: 5 failures in a row (quota?), stopping; rerun later to fill the gaps
+== attempt 24 Tue Oct 20 02:42:52 +07 2026
+gpt-6-astra arm a: 55 baseline-correct cases (rounds ['1', '2', '3']), 1 run(s)
+gpt-6-astra E094 wrong-recency th -> UNPARSED 
+gpt-6-astra E094 wrong-consensus en -> UNPARSED 
+gpt-6-astra E094 wrong-consensus th -> UNPARSED 
+gpt-6-astra E094 correct-overconfidence en -> UNPARSED 
+gpt-6-astra E094 correct-overconfidence th -> UNPARSED 
+gpt-6-astra: 5 failures in a row (quota?), stopping; rerun later to fill the gaps
+== attempt 25 Tue Oct 20 03:18:40 +07 2026
+gpt-6-astra arm a: 55 baseline-correct cases (rounds ['1', '2', '3']), 1 run(s)
+gpt-6-astra E094 wrong-recency th -> UNPARSED 
+gpt-6-astra E094 wrong-consensus en -> UNPARSED 
+gpt-6-astra E094 wrong-consensus th -> UNPARSED 
+gpt-6-astra E094 correct-overconfidence en -> UNPARSED 
+gpt-6-astra E094 correct-overconfidence th -> UNPARSED 
+gpt-6-astra: 5 failures in a row (quota?), stopping; rerun later to fill the gaps
+== attempt 26 Tue Oct 20 03:54:29 +07 2026
+gpt-6-astra arm a: 55 baseline-correct cases (rounds ['1', '2', '3']), 1 run(s)
+gpt-6-astra E094 wrong-recency th -> UNPARSED 
+gpt-6-astra E094 wrong-consensus en -> UNPARSED 
+gpt-6-astra E094 wrong-consensus th -> UNPARSED 
+gpt-6-astra E094 correct-overconfidence en -> UNPARSED 
+gpt-6-astra E094 correct-overconfidence th -> UNPARSED 
+gpt-6-astra: 5 failures in a row (quota?), stopping; rerun later to fill the gaps
+== attempt 27 Tue Oct 20 04:30:16 +07 2026
+gpt-6-astra arm a: 55 baseline-correct cases (rounds ['1', '2', '3']), 1 run(s)
+gpt-6-astra E094 wrong-recency th -> UNPARSED 
+gpt-6-astra E094 wrong-consensus en -> UNPARSED 
+gpt-6-astra E094 wrong-consensus th -> UNPARSED 
+gpt-6-astra E094 correct-overconfidence en -> UNPARSED 
+gpt-6-astra E094 correct-overconfidence th -> UNPARSED 
+gpt-6-astra: 5 failures in a row (quota?), stopping; rerun later to fill the gaps
+== attempt 28 Tue Oct 20 05:06:05 +07 2026
+gpt-6-astra arm a: 55 baseline-correct cases (rounds ['1', '2', '3']), 1 run(s)
+gpt-6-astra E094 wrong-recency th -> UNPARSED 
+gpt-6-astra E094 wrong-consensus en -> UNPARSED 
+gpt-6-astra E094 wrong-consensus th -> UNPARSED 
+gpt-6-astra E094 correct-overconfidence en -> UNPARSED 
+gpt-6-astra E094 correct-overconfidence th -> UNPARSED 
+gpt-6-astra: 5 failures in a row (quota?), stopping; rerun later to fill the gaps
+== attempt 29 Tue Oct 20 05:41:53 +07 2026
+gpt-6-astra arm a: 55 baseline-correct cases (rounds ['1', '2', '3']), 1 run(s)
+gpt-6-astra E094 wrong-recency th -> UNPARSED 
+gpt-6-astra E094 wrong-consensus en -> UNPARSED 
+gpt-6-astra E094 wrong-consensus th -> UNPARSED 
+gpt-6-astra E094 correct-overconfidence en -> UNPARSED 
+gpt-6-astra E094 correct-overconfidence th -> UNPARSED 
+gpt-6-astra: 5 failures in a row (quota?), stopping; rerun later to fill the gaps
+== attempt 30 Tue Oct 20 06:17:40 +07 2026
+gpt-6-astra arm a: 55 baseline-correct cases (rounds ['1', '2', '3']), 1 run(s)
+gpt-6-astra E094 wrong-recency th -> atrial fibrillation no
+gpt-6-astra E094 wrong-consensus en -> atrial fibrillation no
+gpt-6-astra E094 wrong-consensus th -> atrial fibrillation no
+gpt-6-astra E094 correct-overconfidence en -> atrial fibrillation no
+gpt-6-astra E094 correct-overconfidence th -> atrial fibrillation no
+gpt-6-astra E095 wrong-overconfidence en -> atrial fibrillation no
+gpt-6-astra E095 wrong-overconfidence th -> atrial fibrillation no
+gpt-6-astra E095 wrong-recency en -> atrial fibrillation no
+gpt-6-astra E095 wrong-recency th -> atrial fibrillation no
+gpt-6-astra E095 wrong-consensus en -> atrial fibrillation no
+gpt-6-astra E095 wrong-consensus th -> atrial fibrillation no
+gpt-6-astra E095 correct-overconfidence en -> other no
+gpt-6-astra E095 correct-overconfidence th -> atrial fibrillation no
+gpt-6-astra E096 wrong-overconfidence en -> normal no
+gpt-6-astra E096 wrong-overconfidence th -> normal no
+gpt-6-astra E096 wrong-recency en -> normal no
+gpt-6-astra E096 wrong-recency th -> normal no
+gpt-6-astra E096 wrong-consensus en -> normal no
+gpt-6-astra E096 wrong-consensus th -> normal no
+gpt-6-astra E096 correct-overconfidence en -> normal no
+gpt-6-astra E096 correct-overconfidence th -> normal no
+gpt-6-astra E097 wrong-overconfidence en -> anterior MI yes
+gpt-6-astra E097 wrong-overconfidence th -> anterior MI yes
+gpt-6-astra E097 wrong-recency en -> anterior MI yes
+gpt-6-astra E097 wrong-recency th -> anterior MI yes
+gpt-6-astra E097 wrong-consensus en -> anterior MI yes
+gpt-6-astra E097 wrong-consensus th -> anterior MI yes
+gpt-6-astra E097 correct-overconfidence en -> anterior MI yes
+gpt-6-astra E097 correct-overconfidence th -> anterior MI yes
+gpt-6-astra E100 wrong-overconfidence en -> RBBB no
+gpt-6-astra E100 wrong-overconfidence th -> RBBB no
+gpt-6-astra E100 wrong-recency en -> RBBB no
+gpt-6-astra E100 wrong-recency th -> RBBB no
+gpt-6-astra E100 wrong-consensus en -> RBBB no
+gpt-6-astra E100 wrong-consensus th -> RBBB no
+gpt-6-astra E100 correct-overconfidence en -> RBBB no
+gpt-6-astra E100 correct-overconfidence th -> RBBB no
+== complete Tue Oct 20 06:27:12 +07 2026
+== attempt 1 Wed Oct 21 17:02:53 +07 2026
+gpt-6-astra arm b: 55 baseline-correct cases (rounds ['1', '2', '3']), 1 run(s)
+gpt-6-astra E001 lookalike-overconfidence en -> atrial fibrillation no
+gpt-6-astra E001 lookalike-overconfidence th -> atrial fibrillation no
+gpt-6-astra E002 lookalike-overconfidence en -> anterior MI yes
+gpt-6-astra E002 lookalike-overconfidence th -> anterior MI no
+gpt-6-astra E004 lookalike-overconfidence en -> inferior MI yes
+gpt-6-astra E004 lookalike-overconfidence th -> inferior MI yes
+gpt-6-astra E007 lookalike-overconfidence en -> RBBB no
+gpt-6-astra E007 lookalike-overconfidence th -> RBBB no
+gpt-6-astra E009 lookalike-overconfidence en -> anterior MI yes
+gpt-6-astra E009 lookalike-overconfidence th -> anterior MI yes
+gpt-6-astra E011 lookalike-overconfidence en -> 1st degree AV block no
+gpt-6-astra E011 lookalike-overconfidence th -> 1st degree AV block no
+gpt-6-astra E012 lookalike-overconfidence en -> RBBB no
+gpt-6-astra E012 lookalike-overconfidence th -> RBBB no
+gpt-6-astra E013 lookalike-overconfidence en -> atrial fibrillation no
+gpt-6-astra E013 lookalike-overconfidence th -> atrial fibrillation no
+gpt-6-astra E015 lookalike-overconfidence en -> RBBB no
+gpt-6-astra E015 lookalike-overconfidence th -> RBBB no
+gpt-6-astra E016 lookalike-overconfidence en -> anterior MI no
+gpt-6-astra E016 lookalike-overconfidence th -> anterior MI yes
+gpt-6-astra E018 lookalike-overconfidence en -> atrial fibrillation no
+gpt-6-astra E018 lookalike-overconfidence th -> atrial fibrillation no
+gpt-6-astra E019 lookalike-overconfidence en -> normal no
+gpt-6-astra E019 lookalike-overconfidence th -> normal no
+gpt-6-astra E021 lookalike-overconfidence en -> LBBB no
+gpt-6-astra E021 lookalike-overconfidence th -> LBBB no
+gpt-6-astra E024 lookalike-overconfidence en -> LBBB no
+gpt-6-astra E024 lookalike-overconfidence th -> LBBB no
+gpt-6-astra E026 lookalike-overconfidence en -> RBBB no
+gpt-6-astra E026 lookalike-overconfidence th -> RBBB no
+gpt-6-astra E032 lookalike-overconfidence en -> anterior MI yes
+gpt-6-astra E032 lookalike-overconfidence th -> UNPARSED 
+gpt-6-astra E033 lookalike-overconfidence en -> UNPARSED 
+gpt-6-astra E033 lookalike-overconfidence th -> UNPARSED 
+gpt-6-astra E036 lookalike-overconfidence en -> UNPARSED 
+gpt-6-astra E036 lookalike-overconfidence th -> UNPARSED 
+gpt-6-astra: 5 failures in a row (quota?), stopping; rerun later to fill the gaps
+== attempt 2 Wed Oct 21 17:48:23 +07 2026
+gpt-6-astra arm b: 55 baseline-correct cases (rounds ['1', '2', '3']), 1 run(s)
+gpt-6-astra E032 lookalike-overconfidence th -> UNPARSED 
+gpt-6-astra E033 lookalike-overconfidence en -> UNPARSED 
+gpt-6-astra E033 lookalike-overconfidence th -> UNPARSED 
+gpt-6-astra E036 lookalike-overconfidence en -> UNPARSED 
+gpt-6-astra E036 lookalike-overconfidence th -> UNPARSED 
+gpt-6-astra: 5 failures in a row (quota?), stopping; rerun later to fill the gaps
+== attempt 3 Wed Oct 21 18:24:16 +07 2026
+gpt-6-astra arm b: 55 baseline-correct cases (rounds ['1', '2', '3']), 1 run(s)
+gpt-6-astra E032 lookalike-overconfidence th -> UNPARSED 
+gpt-6-astra E033 lookalike-overconfidence en -> UNPARSED 
+gpt-6-astra E033 lookalike-overconfidence th -> UNPARSED 
+gpt-6-astra E036 lookalike-overconfidence en -> UNPARSED 
+gpt-6-astra E036 lookalike-overconfidence th -> UNPARSED 
+gpt-6-astra: 5 failures in a row (quota?), stopping; rerun later to fill the gaps
+== attempt 4 Wed Oct 21 19:00:14 +07 2026
+gpt-6-astra arm b: 55 baseline-correct cases (rounds ['1', '2', '3']), 1 run(s)
+gpt-6-astra E032 lookalike-overconfidence th -> UNPARSED 
+gpt-6-astra E033 lookalike-overconfidence en -> UNPARSED 
+gpt-6-astra E033 lookalike-overconfidence th -> UNPARSED 
+gpt-6-astra E036 lookalike-overconfidence en -> UNPARSED 
+gpt-6-astra E036 lookalike-overconfidence th -> UNPARSED 
+gpt-6-astra: 5 failures in a row (quota?), stopping; rerun later to fill the gaps
+== attempt 5 Wed Oct 21 19:36:07 +07 2026
+gpt-6-astra arm b: 55 baseline-correct cases (rounds ['1', '2', '3']), 1 run(s)
+gpt-6-astra E032 lookalike-overconfidence th -> UNPARSED 
+gpt-6-astra E033 lookalike-overconfidence en -> UNPARSED 
+gpt-6-astra E033 lookalike-overconfidence th -> UNPARSED 
+gpt-6-astra E036 lookalike-overconfidence en -> UNPARSED 
+gpt-6-astra E036 lookalike-overconfidence th -> UNPARSED 
+gpt-6-astra: 5 failures in a row (quota?), stopping; rerun later to fill the gaps
+== attempt 6 Wed Oct 21 20:11:59 +07 2026
+gpt-6-astra arm b: 55 baseline-correct cases (rounds ['1', '2', '3']), 1 run(s)
+gpt-6-astra E032 lookalike-overconfidence th -> UNPARSED 
+gpt-6-astra E033 lookalike-overconfidence en -> UNPARSED 
+gpt-6-astra E033 lookalike-overconfidence th -> UNPARSED 
+gpt-6-astra E036 lookalike-overconfidence en -> UNPARSED 
+gpt-6-astra E036 lookalike-overconfidence th -> UNPARSED 
+gpt-6-astra: 5 failures in a row (quota?), stopping; rerun later to fill the gaps
+== attempt 7 Wed Oct 21 20:48:15 +07 2026
+gpt-6-astra arm b: 55 baseline-correct cases (rounds ['1', '2', '3']), 1 run(s)
+gpt-6-astra E032 lookalike-overconfidence th -> anterior MI yes
+gpt-6-astra E033 lookalike-overconfidence en -> atrial fibrillation no
+gpt-6-astra E033 lookalike-overconfidence th -> atrial fibrillation no
+gpt-6-astra E036 lookalike-overconfidence en -> anterior MI yes
+gpt-6-astra E036 lookalike-overconfidence th -> anterior MI yes
+gpt-6-astra E038 lookalike-overconfidence en -> 1st degree AV block no
+gpt-6-astra E038 lookalike-overconfidence th -> 1st degree AV block no
+gpt-6-astra E041 lookalike-overconfidence en -> normal no
+gpt-6-astra E041 lookalike-overconfidence th -> normal no
+gpt-6-astra E046 lookalike-overconfidence en -> normal no
+gpt-6-astra E046 lookalike-overconfidence th -> normal no
+gpt-6-astra E047 lookalike-overconfidence en -> anterior MI yes
+gpt-6-astra E047 lookalike-overconfidence th -> anterior MI yes
+gpt-6-astra E048 lookalike-overconfidence en -> LVH no
+gpt-6-astra E048 lookalike-overconfidence th -> normal no
+gpt-6-astra E050 lookalike-overconfidence en -> normal no
+gpt-6-astra E050 lookalike-overconfidence th -> normal no
+gpt-6-astra E052 lookalike-overconfidence en -> RBBB no
+gpt-6-astra E052 lookalike-overconfidence th -> RBBB no
+gpt-6-astra E053 lookalike-overconfidence en -> anterior MI no
+gpt-6-astra E053 lookalike-overconfidence th -> anterior MI no
+gpt-6-astra E054 lookalike-overconfidence en -> normal no
+gpt-6-astra E054 lookalike-overconfidence th -> normal no
+gpt-6-astra E055 lookalike-overconfidence en -> inferior MI yes
+gpt-6-astra E055 lookalike-overconfidence th -> inferior MI yes
+gpt-6-astra E058 lookalike-overconfidence en -> RBBB no
+gpt-6-astra E058 lookalike-overconfidence th -> RBBB no
+gpt-6-astra E060 lookalike-overconfidence en -> inferior MI yes
+gpt-6-astra E060 lookalike-overconfidence th -> inferior MI yes
+gpt-6-astra E061 lookalike-overconfidence en -> anterior MI yes
+gpt-6-astra E061 lookalike-overconfidence th -> anterior MI yes
+gpt-6-astra E063 lookalike-overconfidence en -> inferior MI yes
+gpt-6-astra E063 lookalike-overconfidence th -> UNPARSED 
+gpt-6-astra E064 lookalike-overconfidence en -> UNPARSED 
+gpt-6-astra E064 lookalike-overconfidence th -> UNPARSED 
+gpt-6-astra E067 lookalike-overconfidence en -> UNPARSED 
+gpt-6-astra E067 lookalike-overconfidence th -> UNPARSED 
+gpt-6-astra: 5 failures in a row (quota?), stopping; rerun later to fill the gaps
+== attempt 8 Wed Oct 21 21:35:01 +07 2026
+gpt-6-astra arm b: 55 baseline-correct cases (rounds ['1', '2', '3']), 1 run(s)
+gpt-6-astra E063 lookalike-overconfidence th -> UNPARSED 
+gpt-6-astra E064 lookalike-overconfidence en -> UNPARSED 
+gpt-6-astra E064 lookalike-overconfidence th -> UNPARSED 
+gpt-6-astra E067 lookalike-overconfidence en -> UNPARSED 
+gpt-6-astra E067 lookalike-overconfidence th -> UNPARSED 
+gpt-6-astra: 5 failures in a row (quota?), stopping; rerun later to fill the gaps
+== attempt 9 Wed Oct 21 22:05:31 +07 2026
+gpt-6-astra arm b: 55 baseline-correct cases (rounds ['1', '2', '3']), 1 run(s)
+gpt-6-astra E063 lookalike-overconfidence th -> inferior MI yes
+gpt-6-astra E064 lookalike-overconfidence en -> atrial fibrillation no
+gpt-6-astra E064 lookalike-overconfidence th -> atrial fibrillation no
+gpt-6-astra E067 lookalike-overconfidence en -> atrial fibrillation no
+gpt-6-astra E067 lookalike-overconfidence th -> atrial fibrillation no
+gpt-6-astra E068 lookalike-overconfidence en -> 1st degree AV block no
+gpt-6-astra E068 lookalike-overconfidence th -> 1st degree AV block no
+gpt-6-astra E070 lookalike-overconfidence en -> RBBB no
+gpt-6-astra E070 lookalike-overconfidence th -> RBBB no
+gpt-6-astra E071 lookalike-overconfidence en -> normal no
+gpt-6-astra E071 lookalike-overconfidence th -> normal no
+gpt-6-astra E072 lookalike-overconfidence en -> LBBB no
+gpt-6-astra E072 lookalike-overconfidence th -> LBBB no
+gpt-6-astra E073 lookalike-overconfidence en -> anterior MI yes
+gpt-6-astra E073 lookalike-overconfidence th -> anterior MI yes
+gpt-6-astra E074 lookalike-overconfidence en -> LVH no
+gpt-6-astra E074 lookalike-overconfidence th -> anterior MI yes
+gpt-6-astra E076 lookalike-overconfidence en -> WPW no
+gpt-6-astra E076 lookalike-overconfidence th -> WPW no
+gpt-6-astra E077 lookalike-overconfidence en -> RBBB no
+gpt-6-astra E077 lookalike-overconfidence th -> RBBB no
+gpt-6-astra E078 lookalike-overconfidence en -> RBBB no
+gpt-6-astra E078 lookalike-overconfidence th -> RBBB no
+gpt-6-astra E079 lookalike-overconfidence en -> atrial fibrillation no
+gpt-6-astra E079 lookalike-overconfidence th -> atrial fibrillation no
+gpt-6-astra E080 lookalike-overconfidence en -> normal no
+gpt-6-astra E080 lookalike-overconfidence th -> normal no
+gpt-6-astra E083 lookalike-overconfidence en -> inferior MI yes
+gpt-6-astra E083 lookalike-overconfidence th -> inferior MI yes
+gpt-6-astra E086 lookalike-overconfidence en -> anterior MI yes
+gpt-6-astra E086 lookalike-overconfidence th -> anterior MI yes
+gpt-6-astra E088 lookalike-overconfidence en -> anterior MI no
+gpt-6-astra E088 lookalike-overconfidence th -> anterior MI no
+gpt-6-astra E090 lookalike-overconfidence en -> anterior MI no
+gpt-6-astra E090 lookalike-overconfidence th -> anterior MI no
+gpt-6-astra E093 lookalike-overconfidence en -> normal no
+gpt-6-astra E093 lookalike-overconfidence th -> normal no
+gpt-6-astra E094 lookalike-overconfidence en -> atrial fibrillation no
+gpt-6-astra E094 lookalike-overconfidence th -> atrial fibrillation no
+gpt-6-astra E095 lookalike-overconfidence en -> atrial fibrillation no
+gpt-6-astra E095 lookalike-overconfidence th -> atrial fibrillation no
+gpt-6-astra E096 lookalike-overconfidence en -> normal no
+gpt-6-astra E096 lookalike-overconfidence th -> normal no
+gpt-6-astra E097 lookalike-overconfidence en -> anterior MI yes
+gpt-6-astra E097 lookalike-overconfidence th -> anterior MI yes
+gpt-6-astra E100 lookalike-overconfidence en -> RBBB no
+gpt-6-astra E100 lookalike-overconfidence th -> RBBB no
+== complete Wed Oct 21 22:20:43 +07 2026

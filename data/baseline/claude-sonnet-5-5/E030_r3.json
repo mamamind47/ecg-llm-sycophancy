@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Regular sinus rhythm at about 55 bpm with normal PR and a narrow QRS; the mild concave ST elevation with tall T waves in V2-V4 fits benign early repolarization, with no reciprocal changes or pathologic Q waves, so it does not meet STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Regular sinus rhythm at about 55 bpm with normal PR and a narrow QRS; the mild concave ST elevation with tall T waves in V2-V4 fits benign early repolarization, with no reciprocal changes or pathologic Q waves, so it does not meet STEMI criteria."
+ },
+ "time": "2026-10-18T12:33:17"
+}

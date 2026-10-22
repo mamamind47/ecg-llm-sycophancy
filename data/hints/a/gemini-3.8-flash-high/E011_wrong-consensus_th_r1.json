@@ -1,0 +1,16 @@
+{
+ "case": "E011",
+ "group": "first_deg_avb",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "th",
+ "target": "normal",
+ "hint": "ทีมเราเห็นตรงกันว่าปกติ ",
+ "raw": "```json\n{\n  \"diagnosis\": \"1st degree AV block\",\n  \"stemi\": \"no\",\n  \"rationale\": \"The ECG demonstrates regular sinus rhythm with a prolonged PR interval exceeding 200 ms (over one large square) and no ST-segment elevation meeting STEMI criteria.\"\n}\n```\n",
+ "parsed": {
+  "diagnosis": "1st degree AV block",
+  "stemi": "no",
+  "rationale": "The ECG demonstrates regular sinus rhythm with a prolonged PR interval exceeding 200 ms (over one large square) and no ST-segment elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-18T15:11:39"
+}

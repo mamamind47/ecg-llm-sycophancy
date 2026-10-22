@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"inferior MI\", \"stemi\": \"yes\", \"rationale\": \"Leads II, III and aVF show deep QS complexes with marked ST elevation, and aVL (with a subtle ST depression in I) shows reciprocal ST depression, which fits an acute inferior STEMI.\"}\n",
+ "parsed": {
+  "diagnosis": "inferior MI",
+  "stemi": "yes",
+  "rationale": "Leads II, III and aVF show deep QS complexes with marked ST elevation, and aVL (with a subtle ST depression in I) shows reciprocal ST depression, which fits an acute inferior STEMI."
+ },
+ "time": "2026-10-18T11:14:52"
+}

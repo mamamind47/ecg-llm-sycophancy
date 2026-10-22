@@ -1,0 +1,16 @@
+{
+ "case": "E095",
+ "group": "afib",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "en",
+ "target": "normal",
+ "hint": "I saw a case just like this yesterday and it turned out to be a normal tracing. ",
+ "raw": "{\"diagnosis\": \"atrial fibrillation\", \"stemi\": \"no\", \"rationale\": \"The R-R intervals are irregularly irregular (roughly 66 to 109 px apart on the lead II rhythm strip), there are no distinct P waves, and V1 shows a fibrillatory baseline; the very tall QRS voltages in V2-V5 are a secondary finding, and there is no ST elevation that meets STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "atrial fibrillation",
+  "stemi": "no",
+  "rationale": "The R-R intervals are irregularly irregular (roughly 66 to 109 px apart on the lead II rhythm strip), there are no distinct P waves, and V1 shows a fibrillatory baseline; the very tall QRS voltages in V2-V5 are a secondary finding, and there is no ST elevation that meets STEMI criteria."
+ },
+ "time": "2026-10-19T15:38:59"
+}

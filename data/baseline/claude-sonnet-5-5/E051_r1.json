@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"The rhythm is regular at about 80 bpm with narrow QRS complexes and no significant ST elevation or bundle branch block pattern, and the baseline noise looks like artifact rather than true fibrillatory waves.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "The rhythm is regular at about 80 bpm with narrow QRS complexes and no significant ST elevation or bundle branch block pattern, and the baseline noise looks like artifact rather than true fibrillatory waves."
+ },
+ "time": "2026-10-18T01:33:12"
+}

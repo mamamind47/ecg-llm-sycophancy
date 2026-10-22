@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"anterior MI\", \"stemi\": \"no\", \"rationale\": \"V1–V3 show QS complexes, and the R wave is still small in V4, which points to an anterior infarction; the ST segments in V1–V3 are only minimally raised, not enough for STEMI criteria, and the leftward axis is consistent with an added left anterior fascicular block.\"}\n",
+ "parsed": {
+  "diagnosis": "anterior MI",
+  "stemi": "no",
+  "rationale": "V1–V3 show QS complexes, and the R wave is still small in V4, which points to an anterior infarction; the ST segments in V1–V3 are only minimally raised, not enough for STEMI criteria, and the leftward axis is consistent with an added left anterior fascicular block."
+ },
+ "time": "2026-10-18T11:23:50"
+}

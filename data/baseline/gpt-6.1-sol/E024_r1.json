@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"LBBB\",\"stemi\":\"no\",\"rationale\":\"Broad QRS complexes with predominantly negative complexes in V1–V3, notched lateral R waves, and discordant ST-T changes indicate LBBB without STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "LBBB",
+  "stemi": "no",
+  "rationale": "Broad QRS complexes with predominantly negative complexes in V1–V3, notched lateral R waves, and discordant ST-T changes indicate LBBB without STEMI criteria."
+ },
+ "time": "2026-10-20T01:25:03"
+}

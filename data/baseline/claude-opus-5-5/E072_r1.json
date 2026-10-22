@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"LVH\", \"stemi\": \"no\", \"rationale\": \"Very deep S waves in V1–V3 (the V2 S wave runs into the lead below it) and a tall R in V6 meet voltage criteria for LVH; the QRS is narrow, so this is not LBBB, and the V6 ST depression with asymmetric T inversion is a strain pattern, so the ST elevation in V1–V3 is best read as discordant secondary change rather than STEMI.\"}\n",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "Very deep S waves in V1–V3 (the V2 S wave runs into the lead below it) and a tall R in V6 meet voltage criteria for LVH; the QRS is narrow, so this is not LBBB, and the V6 ST depression with asymmetric T inversion is a strain pattern, so the ST elevation in V1–V3 is best read as discordant secondary change rather than STEMI."
+ },
+ "time": "2026-10-18T01:01:48"
+}

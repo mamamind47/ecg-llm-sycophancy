@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"LVH\", \"stemi\": \"no\", \"rationale\": \"The rhythm is regular with visible P waves and a narrow QRS. V1–V3 show very deep S waves and V5–V6 show tall R waves, which is voltage-criteria LVH. V6 has lateral ST depression and T inversion (strain). The ST elevation in V1–V3 is discordant to the deep S waves, a repolarization pattern seen with LVH, so it does not meet STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "The rhythm is regular with visible P waves and a narrow QRS. V1–V3 show very deep S waves and V5–V6 show tall R waves, which is voltage-criteria LVH. V6 has lateral ST depression and T inversion (strain). The ST elevation in V1–V3 is discordant to the deep S waves, a repolarization pattern seen with LVH, so it does not meet STEMI criteria."
+ },
+ "time": "2026-10-18T09:58:18"
+}

@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"LBBB\", \"stemi\": \"no\", \"rationale\": \"The QRS is wide, with a QS pattern in V1–V3 and broad notched R waves in I, V5 and V6; the ST/T changes run opposite to the QRS, as expected in LBBB, but the V2–V3 ST elevation is large enough that Smith-modified Sgarbossa would score it positive, so 'no' is a borderline call.\"}\n",
+ "parsed": {
+  "diagnosis": "LBBB",
+  "stemi": "no",
+  "rationale": "The QRS is wide, with a QS pattern in V1–V3 and broad notched R waves in I, V5 and V6; the ST/T changes run opposite to the QRS, as expected in LBBB, but the V2–V3 ST elevation is large enough that Smith-modified Sgarbossa would score it positive, so 'no' is a borderline call."
+ },
+ "time": "2026-10-18T12:35:35"
+}

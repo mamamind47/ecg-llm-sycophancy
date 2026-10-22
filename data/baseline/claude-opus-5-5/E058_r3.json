@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"RBBB\", \"stemi\": \"no\", \"rationale\": \"V1–V3 show an rsR′ (M-shaped) QRS with a dominant late R′ and secondary T-wave changes, while I and V5–V6 show a broad, slurred terminal S wave, which together indicate right bundle branch block without ST elevation that meets STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "RBBB",
+  "stemi": "no",
+  "rationale": "V1–V3 show an rsR′ (M-shaped) QRS with a dominant late R′ and secondary T-wave changes, while I and V5–V6 show a broad, slurred terminal S wave, which together indicate right bundle branch block without ST elevation that meets STEMI criteria."
+ },
+ "time": "2026-10-18T11:17:50"
+}

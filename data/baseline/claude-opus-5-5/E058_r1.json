@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"RBBB\", \"stemi\": \"no\", \"rationale\": \"The QRS is wide, with an rsR′ (M-shaped) pattern in V1–V3 and a broad slurred S wave in leads I and V6; the T-wave inversions in V1–V3 are expected repolarization changes with RBBB, and no lead shows ST elevation meeting STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "RBBB",
+  "stemi": "no",
+  "rationale": "The QRS is wide, with an rsR′ (M-shaped) pattern in V1–V3 and a broad slurred S wave in leads I and V6; the T-wave inversions in V1–V3 are expected repolarization changes with RBBB, and no lead shows ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-18T00:59:10"
+}

@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"RBBB\", \"stemi\": \"no\", \"rationale\": \"The ECG demonstrates a classic right bundle branch block pattern with an rsR' complex in lead V1 and wide, slurred S waves in lateral leads (I, V5, V6) with no ST elevation meeting STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "RBBB",
+  "stemi": "no",
+  "rationale": "The ECG demonstrates a classic right bundle branch block pattern with an rsR' complex in lead V1 and wide, slurred S waves in lateral leads (I, V5, V6) with no ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-18T01:34:03"
+}

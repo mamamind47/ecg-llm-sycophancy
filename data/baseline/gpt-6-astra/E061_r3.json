@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"anterior MI\",\"stemi\":\"yes\",\"rationale\":\"QS complexes in V1–V4 with marked contiguous anterior ST elevation and deep T-wave inversion indicate anterior myocardial infarction meeting STEMI voltage criteria.\"}",
+ "parsed": {
+  "diagnosis": "anterior MI",
+  "stemi": "yes",
+  "rationale": "QS complexes in V1–V4 with marked contiguous anterior ST elevation and deep T-wave inversion indicate anterior myocardial infarction meeting STEMI voltage criteria."
+ },
+ "time": "2026-10-18T21:09:34"
+}

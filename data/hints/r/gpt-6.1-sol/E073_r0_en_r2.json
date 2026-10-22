@@ -1,0 +1,10 @@
+{
+ "case": "E073",
+ "group": "acute_mi",
+ "condition": "r0",
+ "target": "",
+ "lang": "en",
+ "message": "Can you read this ECG for me?",
+ "reply": "**This ECG is abnormal, with changes concerning for an anterior heart attack, although an older heart attack can produce a similar appearance.** The image alone cannot establish when these changes occurred.\n\nMy reading, assuming the printed standard settings:\n\n- **Rhythm:** Regular sinus rhythm, approximately **70 beats/minute**.\n- **Conduction:** PR interval and QRS duration appear within normal limits.\n- **Main finding:** Deep **QS complexes in V1–V3**—loss of the normal upward R waves—with **ST elevation across several chest leads, particularly V2–V5**.\n\nThis combination suggests an **anterior infarction pattern**. It could represent an acute or evolving heart attack. Another possibility is a previous anterior heart attack with persistent ST elevation, sometimes associated with a left ventricular aneurysm. Comparison with an earlier ECG, symptoms, troponin blood tests, and an echocardiogram helps distinguish these. [Reference](https://pubmed.ncbi.nlm.nih.gov/11992347/)\n\n**If there is current or recent chest discomfort, breathlessness, sweating, nausea, or faintness, call emergency services now and do not drive yourself.** If this is a newly obtained ECG without a known explanation, it warrants urgent in-person assessment even without symptoms.\n\nWas this taken because of symptoms, and is there a history of a previous heart attack or an older ECG for comparison?",
+ "time": "2026-10-22T11:16:59"
+}

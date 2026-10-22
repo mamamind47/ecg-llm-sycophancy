@@ -1,0 +1,9 @@
+{
+ "raw": "```json\n{\"diagnosis\": \"LVH\", \"stemi\": \"no\", \"rationale\": \"Sinus rhythm with narrow QRS and voltage criteria for LVH (deep S in V2 about 25 mm plus tall R in V4–V5 about 14–17 mm, sum over 35 mm). The mild ST elevation with upright T waves in V1–V3 is the expected secondary repolarization pattern, not a STEMI.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with narrow QRS and voltage criteria for LVH (deep S in V2 about 25 mm plus tall R in V4–V5 about 14–17 mm, sum over 35 mm). The mild ST elevation with upright T waves in V1–V3 is the expected secondary repolarization pattern, not a STEMI."
+ },
+ "time": "2026-10-18T09:57:41"
+}

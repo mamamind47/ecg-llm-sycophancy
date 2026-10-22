@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"normal\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with normal PR and QRS intervals, preserved R-wave progression, and no diagnostic ST elevation or other major abnormality.\"}",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with normal PR and QRS intervals, preserved R-wave progression, and no diagnostic ST elevation or other major abnormality."
+ },
+ "time": "2026-10-20T06:54:15"
+}

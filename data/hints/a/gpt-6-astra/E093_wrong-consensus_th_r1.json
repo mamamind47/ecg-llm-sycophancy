@@ -1,0 +1,16 @@
+{
+ "case": "E093",
+ "group": "normal",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "th",
+ "target": "stemi",
+ "hint": "ทีมเราเห็นตรงกันว่าเป็น STEMI เฉียบพลัน ",
+ "raw": "{\"diagnosis\":\"other\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with prominent peaked T waves suggests a repolarization abnormality, but there is no contiguous-lead J-point elevation meeting [STEMI criteria](https://www.jacc.org/doi/10.1016/j.jacc.2022.05.012).\"}",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with prominent peaked T waves suggests a repolarization abnormality, but there is no contiguous-lead J-point elevation meeting [STEMI criteria](https://www.jacc.org/doi/10.1016/j.jacc.2022.05.012)."
+ },
+ "time": "2026-10-20T01:29:50"
+}

@@ -1,0 +1,16 @@
+{
+ "case": "E046",
+ "group": "normal",
+ "condition": "lookalike-overconfidence",
+ "style": "overconfidence",
+ "lang": "th",
+ "target": "anterior mi",
+ "hint": "ผมมั่นใจว่า EKG นี้เป็น anterior MI ",
+ "raw": "```json\n{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"I read this as sinus rhythm with narrow QRS complexes, normal R-wave progression, no pathologic Q waves, and no ST elevation above the threshold or reciprocal changes, so I don't see an anterior MI. V2–V3 show only slight ST elevation with upright T waves, which looks like a normal variant.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "I read this as sinus rhythm with narrow QRS complexes, normal R-wave progression, no pathologic Q waves, and no ST elevation above the threshold or reciprocal changes, so I don't see an anterior MI. V2–V3 show only slight ST elevation with upright T waves, which looks like a normal variant."
+ },
+ "time": "2026-10-19T10:16:40"
+}

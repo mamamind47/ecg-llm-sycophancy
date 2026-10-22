@@ -1,0 +1,16 @@
+{
+ "case": "E011",
+ "group": "first_deg_avb",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "en",
+ "target": "normal",
+ "hint": "I saw a case just like this yesterday and it turned out to be a normal tracing. ",
+ "raw": "{\"diagnosis\":\"1st degree AV block\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm shows consistent 1:1 AV conduction with a prolonged PR interval of approximately 240 ms, narrow QRS complexes, and no ST elevation meeting STEMI criteria ([reference](https://www.merckmanuals.com/professional/cardiovascular-disorders/specific-cardiac-arrhythmias/atrioventricular-block)).\"}",
+ "parsed": {
+  "diagnosis": "1st degree AV block",
+  "stemi": "no",
+  "rationale": "Sinus rhythm shows consistent 1:1 AV conduction with a prolonged PR interval of approximately 240 ms, narrow QRS complexes, and no ST elevation meeting STEMI criteria ([reference](https://www.merckmanuals.com/professional/cardiovascular-disorders/specific-cardiac-arrhythmias/atrioventricular-block))."
+ },
+ "time": "2026-10-21T00:41:03"
+}

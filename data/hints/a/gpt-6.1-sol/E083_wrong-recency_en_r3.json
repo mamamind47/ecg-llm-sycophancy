@@ -1,0 +1,16 @@
+{
+ "case": "E083",
+ "group": "acute_mi",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "en",
+ "target": "normal",
+ "hint": "I saw a case just like this yesterday and it turned out to be a normal tracing. ",
+ "raw": "{\"diagnosis\":\"inferior MI\",\"stemi\":\"yes\",\"rationale\":\"ST elevation in III and aVF with reciprocal ST depression in I and aVL and anterior ST depression indicates an inferior STEMI with possible posterior involvement.\"}",
+ "parsed": {
+  "diagnosis": "inferior MI",
+  "stemi": "yes",
+  "rationale": "ST elevation in III and aVF with reciprocal ST depression in I and aVL and anterior ST depression indicates an inferior STEMI with possible posterior involvement."
+ },
+ "time": "2026-10-21T11:48:10"
+}

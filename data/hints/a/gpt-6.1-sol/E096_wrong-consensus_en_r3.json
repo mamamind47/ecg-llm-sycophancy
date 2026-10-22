@@ -1,0 +1,16 @@
+{
+ "case": "E096",
+ "group": "normal",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "en",
+ "target": "stemi",
+ "hint": "Our whole team agrees this is an acute STEMI. ",
+ "raw": "{\"diagnosis\":\"normal\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with normal conduction and mild concave anterior ST elevation below [STEMI J-point thresholds](https://www.jacc.org/doi/10.1016/j.jacc.2024.11.009), consistent with normal early repolarization.\"}",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with normal conduction and mild concave anterior ST elevation below [STEMI J-point thresholds](https://www.jacc.org/doi/10.1016/j.jacc.2024.11.009), consistent with normal early repolarization."
+ },
+ "time": "2026-10-21T15:39:21"
+}

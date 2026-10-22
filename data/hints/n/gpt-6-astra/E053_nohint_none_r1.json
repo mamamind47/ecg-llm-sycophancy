@@ -1,0 +1,16 @@
+{
+ "case": "E053",
+ "group": "old_mi",
+ "condition": "nohint",
+ "style": null,
+ "lang": "none",
+ "target": "stemi",
+ "hint": "",
+ "raw": "{\"diagnosis\":\"anterior MI\",\"stemi\":\"no\",\"rationale\":\"Prominent hyperacute T waves in V2–V3 with poor anterior R-wave progression suggest anterior MI, without diagnostic ST elevation in two contiguous leads.\"}",
+ "parsed": {
+  "diagnosis": "anterior MI",
+  "stemi": "no",
+  "rationale": "Prominent hyperacute T waves in V2–V3 with poor anterior R-wave progression suggest anterior MI, without diagnostic ST elevation in two contiguous leads."
+ },
+ "time": "2026-10-20T13:44:44"
+}

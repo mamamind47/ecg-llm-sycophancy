@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"RBBB\",\"stemi\":\"no\",\"rationale\":\"Widened QRS complexes with a prominent terminal R′ in V1–V2 and broad terminal S waves in I and V6 indicate RBBB, with secondary repolarization changes and no qualifying ST elevation.\"}",
+ "parsed": {
+  "diagnosis": "RBBB",
+  "stemi": "no",
+  "rationale": "Widened QRS complexes with a prominent terminal R′ in V1–V2 and broad terminal S waves in I and V6 indicate RBBB, with secondary repolarization changes and no qualifying ST elevation."
+ },
+ "time": "2026-10-20T12:30:27"
+}

@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Sinus rhythm at about 75 bpm with a normal PR interval, narrow QRS complexes, normal axis and normal R-wave progression; the upsloping ST segments with prominent T waves in V2-V4 look like a normal early-repolarization pattern, with no ST elevation in two contiguous leads that meets STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Sinus rhythm at about 75 bpm with a normal PR interval, narrow QRS complexes, normal axis and normal R-wave progression; the upsloping ST segments with prominent T waves in V2-V4 look like a normal early-repolarization pattern, with no ST elevation in two contiguous leads that meets STEMI criteria."
+ },
+ "time": "2026-10-18T09:46:03"
+}

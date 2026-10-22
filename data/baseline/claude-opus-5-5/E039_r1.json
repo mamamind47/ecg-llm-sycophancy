@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"LVH\", \"stemi\": \"no\", \"rationale\": \"The R wave in aVL is about 12–13 mm (over 11 mm) and the S wave in V2 is about 29 mm deep, with left axis deviation and strain-type ST depression with T inversion in I and aVL; the ST elevation in V1–V3 runs opposite to the deep S waves, which fits a secondary LVH repolarization pattern rather than STEMI.\"}\n",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "The R wave in aVL is about 12–13 mm (over 11 mm) and the S wave in V2 is about 29 mm deep, with left axis deviation and strain-type ST depression with T inversion in I and aVL; the ST elevation in V1–V3 runs opposite to the deep S waves, which fits a secondary LVH repolarization pattern rather than STEMI."
+ },
+ "time": "2026-10-18T00:55:31"
+}

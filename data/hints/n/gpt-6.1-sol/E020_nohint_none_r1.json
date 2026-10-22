@@ -1,0 +1,16 @@
+{
+ "case": "E020",
+ "group": "lbbb",
+ "condition": "nohint",
+ "style": null,
+ "lang": "none",
+ "target": "normal",
+ "hint": "",
+ "raw": "{\"diagnosis\":\"LBBB\",\"stemi\":\"no\",\"rationale\":\"Broad QRS complexes with predominantly negative right precordial complexes, broad lateral R waves, and discordant ST-T changes indicate LBBB without STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "LBBB",
+  "stemi": "no",
+  "rationale": "Broad QRS complexes with predominantly negative right precordial complexes, broad lateral R waves, and discordant ST-T changes indicate LBBB without STEMI criteria."
+ },
+ "time": "2026-10-20T12:34:11"
+}

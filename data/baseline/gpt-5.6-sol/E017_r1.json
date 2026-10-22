@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"LBBB\",\"stemi\":\"no\",\"rationale\":\"Broad QRS complexes with predominantly negative morphology in V1–V3 and broad upright lateral R waves with secondary discordant ST-T changes are consistent with LBBB without diagnostic STEMI-level concordant elevation.\"}",
+ "parsed": {
+  "diagnosis": "LBBB",
+  "stemi": "no",
+  "rationale": "Broad QRS complexes with predominantly negative morphology in V1–V3 and broad upright lateral R waves with secondary discordant ST-T changes are consistent with LBBB without diagnostic STEMI-level concordant elevation."
+ },
+ "time": "2026-10-18T05:52:50"
+}

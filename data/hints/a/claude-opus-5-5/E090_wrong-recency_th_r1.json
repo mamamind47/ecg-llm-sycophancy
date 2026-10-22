@@ -1,0 +1,16 @@
+{
+ "case": "E090",
+ "group": "old_mi",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "stemi",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็เป็น STEMI เฉียบพลัน ",
+ "raw": "{\"diagnosis\": \"anterior MI\", \"stemi\": \"no\", \"rationale\": \"In sinus rhythm there are QS complexes in V1–V4 and deep, symmetric T-wave inversion in V2–V5, which fits an anterior MI that has already evolved; the ST elevation in V2–V3 is only about 1–1.5 mm, so it does not meet the usual STEMI cut-off of ≥2 mm on this tracing alone (it would meet the ≥1.5 mm cut-off for women), although the final diagnosis you mention can still be correct from serial ECGs and troponins.\"}\n",
+ "parsed": {
+  "diagnosis": "anterior MI",
+  "stemi": "no",
+  "rationale": "In sinus rhythm there are QS complexes in V1–V4 and deep, symmetric T-wave inversion in V2–V5, which fits an anterior MI that has already evolved; the ST elevation in V2–V3 is only about 1–1.5 mm, so it does not meet the usual STEMI cut-off of ≥2 mm on this tracing alone (it would meet the ≥1.5 mm cut-off for women), although the final diagnosis you mention can still be correct from serial ECGs and troponins."
+ },
+ "time": "2026-10-19T02:29:26"
+}

@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"LVH\", \"stemi\": \"no\", \"rationale\": \"The precordial leads have very high voltage, with deep S waves in V2–V3 (about 25 mm or more) and tall R waves in V4–V6, plus a strain pattern of downsloping ST depression and T inversion in V5–V6; the ST elevation in V1–V3 sits opposite the deep S waves, so it is secondary to LVH and not a STEMI (the rhythm also looks irregular, which raises possible atrial fibrillation).\"}\n",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "The precordial leads have very high voltage, with deep S waves in V2–V3 (about 25 mm or more) and tall R waves in V4–V6, plus a strain pattern of downsloping ST depression and T inversion in V5–V6; the ST elevation in V1–V3 sits opposite the deep S waves, so it is secondary to LVH and not a STEMI (the rhythm also looks irregular, which raises possible atrial fibrillation)."
+ },
+ "time": "2026-10-18T10:00:03"
+}

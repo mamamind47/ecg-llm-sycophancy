@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"LVH\", \"stemi\": \"no\", \"rationale\": \"Sinus rhythm with very high precordial voltages (deep S in V2-V3 and tall R in V4-V5, with S in V3 plus R in aVL over 28 mm) and a normal QRS width; the concave ST elevation in V2-V3 is secondary repolarization change rather than STEMI.\"}\n",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with very high precordial voltages (deep S in V2-V3 and tall R in V4-V5, with S in V3 plus R in aVL over 28 mm) and a normal QRS width; the concave ST elevation in V2-V3 is secondary repolarization change rather than STEMI."
+ },
+ "time": "2026-10-18T11:21:12"
+}

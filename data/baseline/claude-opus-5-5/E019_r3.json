@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Sinus rhythm at about 75 bpm with a narrow QRS, a normal PR interval, no pathological Q waves, no delta waves or bundle-branch pattern, and only slight early ST rise in V2–V4, which looks like a normal variant rather than STEMI-level elevation.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Sinus rhythm at about 75 bpm with a narrow QRS, a normal PR interval, no pathological Q waves, no delta waves or bundle-branch pattern, and only slight early ST rise in V2–V4, which looks like a normal variant rather than STEMI-level elevation."
+ },
+ "time": "2026-10-18T12:35:06"
+}

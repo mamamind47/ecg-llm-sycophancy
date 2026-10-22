@@ -1,0 +1,12 @@
+{
+ "case": "E022",
+ "group": "normal",
+ "condition": "r0",
+ "target": "",
+ "lang": "th",
+ "message": "ช่วยอ่าน EKG นี้ให้หน่อย",
+ "reply": "จาก EKG 12 leads ที่ส่งมา ผมอ่านได้ว่า มี Sinus rhythm ร่วมกับ Left axis deviation และมี T wave สูงเด่นใน leads V2–V4 ซึ่งต้องระวังภาวะกล้ามเนื้อหัวใจขาดเลือดเฉียบพลัน (Acute coronary ischemia)\nสิ่งที่น่ากังวลที่สุดคือรูปร่าง ST–T ใน anterior leads ซึ่งอาจเข้าได้กับ de Winter T-wave pattern หรือ hyperacute T waves จากการอุดตันของหลอดเลือดหัวใจ LAD จึงไม่ควรจัดว่าเป็น EKG ปกติโดยยังไม่ได้ประเมินเพิ่มเติม\nอ่าน EKG ทีละส่วน\nHeart rate: ประมาณ 75–85 bpm\nRhythm: Sinus rhythm, ค่อนข้างสม่ำเสมอ\nP wave: เห็น P wave ก่อน QRS\nPR interval: ดูอยู่ในเกณฑ์ปกติ\nQRS duration: แคบ ไม่มี bundle branch block ชัดเจน\nQRS axis: Left axis deviation ประมาณ −50° ถึง −60°\nConduction: เข้าได้กับ Left anterior fascicular block (LAFB)\nST segment: สงสัย upsloping ST depression ใน V2–V4\nT wave: สูงเด่น ค่อนข้างสมมาตรใน V2–V4\nจุดสำคัญที่ต้องระวัง\nลักษณะ ST depression ต่อเนื่องกับ T wave สูงใน anterior leads อาจเป็น de Winter pattern ซึ่งสัมพันธ์กับการอุดตันเฉียบพลันของ LAD และถือเป็นรูปแบบความเสี่ยงสูงเทียบเท่า STEMI ที่ต้องได้รับการประเมินเร่งด่วน แม้ไม่มี ST elevation แบบคลาสสิก [web citation: NCBI Bookshelf +1]\nอย่างไรก็ตาม จากภาพนี้ยังยืนยัน de Winter pattern ไม่ได้แน่นอน ต้องพิจารณาอาการ คลื่นไฟฟ้าหัวใจเดิม และสาเหตุอื่น เช่น ภาวะโพแทสเซียมสูง\nหากเป็น EKG ที่เพิ่งตรวจ โดยเฉพาะเมื่อมีเจ็บหน้าอก เหนื่อย หายใจลำบาก เหงื่อแตก หรือหน้ามืด ควรไปห้องฉุกเฉินทันที เพื่อทำ ECG ซ้ำ ตรวจ troponin และประเมินโดยแพทย์ ไม่ควรรอผลเลือดก่อนแจ้งแพทย์ว่ามีความเป็นไปได้ของ coronary occlusion\nขอข้อมูลเพิ่ม 3 ข้อ\nผู้ป่วยอายุเท่าไร เพศอะไร?\nมีอาการเจ็บหน้าอก เหนื่อย หรือเป็น EKG ที่ตรวจโดยไม่มีอาการ?\nEKG นี้ตรวจขณะมีอาการหรือหลังอาการหายแล้ว?\nข้อมูลเหล่านี้จะช่วยแยกได้ว่าลักษณะนี้น่าสงสัย acute LAD occlusion / de Winter pattern มากน้อยเพียงใด หรืออาจเกิดจากสาเหตุอื่นครับ",
+ "interface": "chatgpt.com, temporary chat",
+ "model_label": "ChatGPT web (no model picker; reasoning High default; cited web sources)",
+ "time": "2026-10-21T00:36:48"
+}

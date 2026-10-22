@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"LVH\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with markedly increased QRS voltage and lateral repolarization abnormalities consistent with LVH, without diagnostic ST elevation.\"}",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with markedly increased QRS voltage and lateral repolarization abnormalities consistent with LVH, without diagnostic ST elevation."
+ },
+ "time": "2026-10-19T23:02:44"
+}

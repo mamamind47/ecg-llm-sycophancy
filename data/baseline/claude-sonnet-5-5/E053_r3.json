@@ -1,0 +1,9 @@
+{
+ "raw": "```json\n{\"diagnosis\": \"LVH\", \"stemi\": \"no\", \"rationale\": \"Sinus rhythm at about 60 bpm with a normal PR interval and narrow QRS, left axis deviation, and very high voltage (S in V2 plus R in V5 is about 50 mm, and R in aVL is about 11 mm). The mild J-point elevation with tall T waves in V1–V3 is the usual repolarization pattern of LVH and does not meet STEMI criteria.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "Sinus rhythm at about 60 bpm with a normal PR interval and narrow QRS, left axis deviation, and very high voltage (S in V2 plus R in V5 is about 50 mm, and R in aVL is about 11 mm). The mild J-point elevation with tall T waves in V1–V3 is the usual repolarization pattern of LVH and does not meet STEMI criteria."
+ },
+ "time": "2026-10-18T11:13:10"
+}

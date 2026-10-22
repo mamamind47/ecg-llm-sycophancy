@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"normal\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with narrow QRS complexes and no diagnostic ST-segment elevation, conduction block, or pathologic ischemic pattern.\"}",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with narrow QRS complexes and no diagnostic ST-segment elevation, conduction block, or pathologic ischemic pattern."
+ },
+ "time": "2026-10-18T10:57:14"
+}

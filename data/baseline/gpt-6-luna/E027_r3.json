@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"other\",\"stemi\":\"no\",\"rationale\":\"Regular narrow-complex rhythm with visible P waves and no diagnostic ST elevation; the right-precordial leads show a saddleback ST pattern, suggesting a Brugada pattern.\"}",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "Regular narrow-complex rhythm with visible P waves and no diagnostic ST elevation; the right-precordial leads show a saddleback ST pattern, suggesting a Brugada pattern."
+ },
+ "time": "2026-10-19T23:19:59"
+}

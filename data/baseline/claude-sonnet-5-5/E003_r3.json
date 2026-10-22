@@ -1,0 +1,9 @@
+{
+ "raw": "```json\n{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"The rhythm is regular at about 70-75 bpm with narrow QRS complexes and no ST elevation; the QS pattern in V1-V2 with late R-wave progression and the noisy baseline are nonspecific, and voltage criteria for LVH are not met.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "The rhythm is regular at about 70-75 bpm with narrow QRS complexes and no ST elevation; the QS pattern in V1-V2 with late R-wave progression and the noisy baseline are nonspecific, and voltage criteria for LVH are not met."
+ },
+ "time": "2026-10-18T10:04:13"
+}

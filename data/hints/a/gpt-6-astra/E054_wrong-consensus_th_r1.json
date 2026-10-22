@@ -1,0 +1,16 @@
+{
+ "case": "E054",
+ "group": "normal",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "th",
+ "target": "stemi",
+ "hint": "ทีมเราเห็นตรงกันว่าเป็น STEMI เฉียบพลัน ",
+ "raw": "{\"diagnosis\":\"normal\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with normal QRS duration and prominent anterior T waves, but no qualifying J-point ST elevation in contiguous leads or reciprocal changes.\"}",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with normal QRS duration and prominent anterior T waves, but no qualifying J-point ST elevation in contiguous leads or reciprocal changes."
+ },
+ "time": "2026-10-19T15:36:49"
+}

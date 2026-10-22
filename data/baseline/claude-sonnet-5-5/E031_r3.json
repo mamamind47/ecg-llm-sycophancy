@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"LVH\", \"stemi\": \"no\", \"rationale\": \"Sinus rhythm with a regular rate and narrow QRS, voltage criteria for LVH (deep S in V2 plus tall R in V5 is over 35 mm, and R in aVL is over 11 mm) with left axis deviation, and only mild concave ST elevation in V2-V3 that fits LVH repolarization and does not meet STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with a regular rate and narrow QRS, voltage criteria for LVH (deep S in V2 plus tall R in V5 is over 35 mm, and R in aVL is over 11 mm) with left axis deviation, and only mild concave ST elevation in V2-V3 that fits LVH repolarization and does not meet STEMI criteria."
+ },
+ "time": "2026-10-18T12:33:29"
+}

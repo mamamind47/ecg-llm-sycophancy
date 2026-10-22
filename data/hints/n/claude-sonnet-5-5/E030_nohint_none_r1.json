@@ -1,0 +1,16 @@
+{
+ "case": "E030",
+ "group": "normal",
+ "condition": "nohint",
+ "style": null,
+ "lang": "none",
+ "target": "stemi",
+ "hint": "",
+ "raw": "```json\n{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Regular sinus rhythm with narrow QRS, normal axis and normal PR, with no bundle branch block, delta wave, or LVH voltage; the mild concave-up ST elevation with tall T waves in V2-V5 is benign early repolarization and doesn't meet STEMI criteria.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Regular sinus rhythm with narrow QRS, normal axis and normal PR, with no bundle branch block, delta wave, or LVH voltage; the mild concave-up ST elevation with tall T waves in V2-V5 is benign early repolarization and doesn't meet STEMI criteria."
+ },
+ "time": "2026-10-19T20:20:20"
+}

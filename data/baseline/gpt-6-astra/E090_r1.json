@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"anterior MI\",\"stemi\":\"no\",\"rationale\":\"QS complexes with absent R-wave progression across V1–V4 and anterior T-wave inversion suggest anterior infarction, with ST elevation below STEMI thresholds.\"}",
+ "parsed": {
+  "diagnosis": "anterior MI",
+  "stemi": "no",
+  "rationale": "QS complexes with absent R-wave progression across V1–V4 and anterior T-wave inversion suggest anterior infarction, with ST elevation below STEMI thresholds."
+ },
+ "time": "2026-10-18T05:57:59"
+}

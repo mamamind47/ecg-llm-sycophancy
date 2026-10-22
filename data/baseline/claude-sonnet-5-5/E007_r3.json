@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"other\", \"stemi\": \"no\", \"rationale\": \"Regular narrow-complex rhythm with left axis deviation and prominent R waves in V1-V3 with T-wave inversion in V1 (a pattern that could reflect posterior involvement or RV forces), but no BBB, AF, AV block, convincing pre-excitation, or ST elevation meeting STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "Regular narrow-complex rhythm with left axis deviation and prominent R waves in V1-V3 with T-wave inversion in V1 (a pattern that could reflect posterior involvement or RV forces), but no BBB, AF, AV block, convincing pre-excitation, or ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-18T10:05:01"
+}

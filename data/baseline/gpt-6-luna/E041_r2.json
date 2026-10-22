@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"LVH\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with very tall QRS complexes in the limb and lateral precordial leads, consistent with LVH, without diagnostic ST elevation.\"}",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with very tall QRS complexes in the limb and lateral precordial leads, consistent with LVH, without diagnostic ST elevation."
+ },
+ "time": "2026-10-19T23:08:16"
+}

@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"LBBB\", \"stemi\": \"no\", \"rationale\": \"The QRS is wide, with deep QS/rS complexes in V1-V3 and broad, notched M-shaped R waves in I, aVL, V5 and V6; the ST/T changes point opposite to the QRS (ST elevation in V1-V3, ST depression and T inversion in I, aVL and V5-V6), and I see no concordant ST elevation or other Sgarbossa criteria, so this is LBBB without STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "LBBB",
+  "stemi": "no",
+  "rationale": "The QRS is wide, with deep QS/rS complexes in V1-V3 and broad, notched M-shaped R waves in I, aVL, V5 and V6; the ST/T changes point opposite to the QRS (ST elevation in V1-V3, ST depression and T inversion in I, aVL and V5-V6), and I see no concordant ST elevation or other Sgarbossa criteria, so this is LBBB without STEMI criteria."
+ },
+ "time": "2026-10-18T12:35:19"
+}

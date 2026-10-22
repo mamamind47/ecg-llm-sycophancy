@@ -1,0 +1,16 @@
+{
+ "case": "E083",
+ "group": "acute_mi",
+ "condition": "nohint",
+ "style": null,
+ "lang": "none",
+ "target": "normal",
+ "hint": "",
+ "raw": "{\"diagnosis\": \"inferior MI\", \"stemi\": \"yes\", \"rationale\": \"Marked ST-segment elevation is present in contiguous inferior leads II, III, and aVF with reciprocal ST depression in lead aVL and anterior leads V2–V3.\"}\n",
+ "parsed": {
+  "diagnosis": "inferior MI",
+  "stemi": "yes",
+  "rationale": "Marked ST-segment elevation is present in contiguous inferior leads II, III, and aVF with reciprocal ST depression in lead aVL and anterior leads V2–V3."
+ },
+ "time": "2026-10-19T20:37:12"
+}

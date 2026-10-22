@@ -1,0 +1,202 @@
+gemini-3.8-flash-high E001 r2 LVH no
+gemini-3.8-flash-high E002 r2 anterior MI yes
+gemini-3.8-flash-high E003 r2 LVH no
+gemini-3.8-flash-high E004 r2 lateral MI yes
+gemini-3.8-flash-high E005 r2 anterior MI yes
+gemini-3.8-flash-high E006 r2 normal no
+gemini-3.8-flash-high E007 r2 RBBB no
+gemini-3.8-flash-high E008 r2 atrial fibrillation no
+gemini-3.8-flash-high E009 r2 anterior MI yes
+gemini-3.8-flash-high E010 r2 1st degree AV block no
+gemini-3.8-flash-high E011 r2 1st degree AV block no
+gemini-3.8-flash-high E012 r2 1st degree AV block no
+gemini-3.8-flash-high E013 r2 atrial fibrillation no
+gemini-3.8-flash-high E014 r2 LVH no
+gemini-3.8-flash-high E015 r2 WPW no
+gemini-3.8-flash-high E016 r2 anterior MI yes
+gemini-3.8-flash-high E017 r2 anterior MI yes
+gemini-3.8-flash-high E018 r2 anterior MI yes
+gemini-3.8-flash-high E019 r2 anterior MI yes
+gemini-3.8-flash-high E020 r2 anterior MI yes
+gemini-3.8-flash-high E021 r2 anterior MI yes
+gemini-3.8-flash-high E022 r2 anterior MI yes
+gemini-3.8-flash-high E023 r2 anterior MI yes
+gemini-3.8-flash-high E024 r2 LBBB no
+gemini-3.8-flash-high E025 r2 anterior MI yes
+gemini-3.8-flash-high E026 r2 1st degree AV block no
+gemini-3.8-flash-high E027 r2 anterior MI yes
+gemini-3.8-flash-high E028 r2 anterior MI yes
+gemini-3.8-flash-high E029 r2 LVH no
+gemini-3.8-flash-high E030 r2 anterior MI yes
+gemini-3.8-flash-high E031 r2 anterior MI yes
+gemini-3.8-flash-high E032 r2 anterior MI yes
+gemini-3.8-flash-high E033 r2 LVH no
+gemini-3.8-flash-high E034 r2 atrial fibrillation no
+gemini-3.8-flash-high E035 r2 anterior MI yes
+gemini-3.8-flash-high E036 r2 anterior MI yes
+gemini-3.8-flash-high E037 r2 LBBB no
+gemini-3.8-flash-high E038 r2 1st degree AV block no
+gemini-3.8-flash-high E039 r2 LVH no
+gemini-3.8-flash-high E040 r2 LBBB no
+gemini-3.8-flash-high E041 r2 LVH no
+gemini-3.8-flash-high E042 r2 1st degree AV block no
+gemini-3.8-flash-high E043 r2 inferior MI yes
+gemini-3.8-flash-high E044 r2 1st degree AV block no
+gemini-3.8-flash-high E045 r2 anterior MI yes
+gemini-3.8-flash-high E046 r2 anterior MI yes
+gemini-3.8-flash-high E047 r2 anterior MI yes
+gemini-3.8-flash-high E048 r2 LVH no
+gemini-3.8-flash-high E049 r2 anterior MI yes
+gemini-3.8-flash-high E050 r2 1st degree AV block no
+gemini-3.8-flash-high E051 r2 anterior MI yes
+gemini-3.8-flash-high E052 r2 normal no
+gemini-3.8-flash-high E053 r2 anterior MI yes
+gemini-3.8-flash-high E054 r2 anterior MI yes
+gemini-3.8-flash-high E055 r2 inferior MI yes
+gemini-3.8-flash-high E056 r2 anterior MI yes
+gemini-3.8-flash-high E057 r2 anterior MI yes
+gemini-3.8-flash-high E058 r2 1st degree AV block no
+gemini-3.8-flash-high E059 r2 anterior MI yes
+gemini-3.8-flash-high E060 r2 inferior MI yes
+gemini-3.8-flash-high E061 r2 anterior MI yes
+gemini-3.8-flash-high E062 r2 LVH no
+gemini-3.8-flash-high E063 r2 inferior MI yes
+gemini-3.8-flash-high E064 r2 anterior MI yes
+gemini-3.8-flash-high E065 r2 LVH no
+gemini-3.8-flash-high E066 r2 LBBB no
+gemini-3.8-flash-high E067 r2 atrial fibrillation no
+gemini-3.8-flash-high E068 r2 LVH no
+gemini-3.8-flash-high E069 r2 anterior MI yes
+gemini-3.8-flash-high E070 r2 WPW no
+gemini-3.8-flash-high E071 r2 anterior MI yes
+gemini-3.8-flash-high E072 r2 anterior MI yes
+gemini-3.8-flash-high E073 r2 anterior MI yes
+gemini-3.8-flash-high E074 r2 anterior MI yes
+gemini-3.8-flash-high E075 r2 anterior MI yes
+gemini-3.8-flash-high E076 r2 anterior MI yes
+gemini-3.8-flash-high E077 r2 RBBB no
+gemini-3.8-flash-high E078 r2 WPW no
+gemini-3.8-flash-high E079 r2 atrial fibrillation no
+gemini-3.8-flash-high E080 r2 anterior MI yes
+gemini-3.8-flash-high E081 r2 1st degree AV block no
+gemini-3.8-flash-high E082 r2 LVH no
+gemini-3.8-flash-high E083 r2 inferior MI yes
+gemini-3.8-flash-high E084 r2 LVH no
+gemini-3.8-flash-high E085 r2 LVH no
+gemini-3.8-flash-high E086 r2 anterior MI yes
+gemini-3.8-flash-high E087 r2 anterior MI yes
+gemini-3.8-flash-high E088 r2 anterior MI yes
+gemini-3.8-flash-high E089 r2 anterior MI yes
+gemini-3.8-flash-high E090 r2 1st degree AV block no
+gemini-3.8-flash-high E091 r2 1st degree AV block no
+gemini-3.8-flash-high E092 r2 1st degree AV block no
+gemini-3.8-flash-high E093 r2 normal no
+gemini-3.8-flash-high E094 r2 LVH no
+gemini-3.8-flash-high E095 r2 LVH no
+gemini-3.8-flash-high E096 r2 anterior MI yes
+gemini-3.8-flash-high E097 r2 anterior MI yes
+gemini-3.8-flash-high E098 r2 LVH no
+gemini-3.8-flash-high E099 r2 atrial fibrillation no
+gemini-3.8-flash-high E100 r2 anterior MI yes
+gemini-3.8-flash-high E101 r2 LVH no
+gemini-3.8-flash-high E001 r3 LVH no
+gemini-3.8-flash-high E002 r3 anterior MI yes
+gemini-3.8-flash-high E003 r3 anterior MI yes
+gemini-3.8-flash-high E004 r3 normal no
+gemini-3.8-flash-high E005 r3 anterior MI yes
+gemini-3.8-flash-high E006 r3 1st degree AV block no
+gemini-3.8-flash-high E007 r3 RBBB no
+gemini-3.8-flash-high E008 r3 anterior MI yes
+gemini-3.8-flash-high E009 r3 anterior MI yes
+gemini-3.8-flash-high E010 r3 anterior MI yes
+gemini-3.8-flash-high E011 r3 1st degree AV block no
+gemini-3.8-flash-high E012 r3 RBBB no
+gemini-3.8-flash-high E013 r3 LVH no
+gemini-3.8-flash-high E014 r3 LVH no
+gemini-3.8-flash-high E015 r3 RBBB no
+gemini-3.8-flash-high E016 r3 atrial fibrillation no
+gemini-3.8-flash-high E017 r3 normal no
+gemini-3.8-flash-high E018 r3 anterior MI yes
+gemini-3.8-flash-high E019 r3 anterior MI yes
+gemini-3.8-flash-high E020 r3 anterior MI yes
+gemini-3.8-flash-high E021 r3 anterior MI yes
+gemini-3.8-flash-high E022 r3 anterior MI yes
+gemini-3.8-flash-high E023 r3 LBBB no
+gemini-3.8-flash-high E024 r3 LBBB no
+gemini-3.8-flash-high E025 r3 anterior MI yes
+gemini-3.8-flash-high E026 r3 1st degree AV block no
+gemini-3.8-flash-high E027 r3 anterior MI yes
+gemini-3.8-flash-high E028 r3 anterior MI yes
+gemini-3.8-flash-high E029 r3 normal no
+gemini-3.8-flash-high E030 r3 anterior MI yes
+gemini-3.8-flash-high E031 r3 anterior MI yes
+gemini-3.8-flash-high E032 r3 anterior MI yes
+gemini-3.8-flash-high E033 r3 LVH no
+gemini-3.8-flash-high E034 r3 anterior MI yes
+gemini-3.8-flash-high E035 r3 anterior MI yes
+gemini-3.8-flash-high E036 r3 anterior MI yes
+gemini-3.8-flash-high E037 r3 LBBB no
+gemini-3.8-flash-high E038 r3 1st degree AV block no
+gemini-3.8-flash-high E039 r3 LVH no
+gemini-3.8-flash-high E040 r3 LBBB no
+gemini-3.8-flash-high E041 r3 LVH no
+gemini-3.8-flash-high E042 r3 normal no
+gemini-3.8-flash-high E043 r3 inferior MI yes
+gemini-3.8-flash-high E044 r3 1st degree AV block no
+gemini-3.8-flash-high E045 r3 anterior MI yes
+gemini-3.8-flash-high E046 r3 normal no
+gemini-3.8-flash-high E047 r3 anterior MI yes
+gemini-3.8-flash-high E048 r3 LVH no
+gemini-3.8-flash-high E049 r3 anterior MI yes
+gemini-3.8-flash-high E050 r3 normal no
+gemini-3.8-flash-high E051 r3 LVH no
+gemini-3.8-flash-high E052 r3 WPW no
+gemini-3.8-flash-high E053 r3 anterior MI yes
+gemini-3.8-flash-high E054 r3 anterior MI yes
+gemini-3.8-flash-high E055 r3 inferior MI yes
+gemini-3.8-flash-high E056 r3 LVH no
+gemini-3.8-flash-high E057 r3 anterior MI yes
+gemini-3.8-flash-high E058 r3 anterior MI yes
+gemini-3.8-flash-high E059 r3 anterior MI yes
+gemini-3.8-flash-high E060 r3 inferior MI yes
+gemini-3.8-flash-high E061 r3 anterior MI yes
+gemini-3.8-flash-high E062 r3 LVH no
+gemini-3.8-flash-high E063 r3 inferior MI yes
+gemini-3.8-flash-high E064 r3 anterior MI yes
+gemini-3.8-flash-high E065 r3 LVH no
+gemini-3.8-flash-high E066 r3 LBBB no
+gemini-3.8-flash-high E067 r3 atrial fibrillation no
+gemini-3.8-flash-high E068 r3 anterior MI yes
+gemini-3.8-flash-high E069 r3 anterior MI yes
+gemini-3.8-flash-high E070 r3 RBBB no
+gemini-3.8-flash-high E071 r3 anterior MI yes
+gemini-3.8-flash-high E072 r3 LBBB no
+gemini-3.8-flash-high E073 r3 anterior MI yes
+gemini-3.8-flash-high E074 r3 anterior MI yes
+gemini-3.8-flash-high E075 r3 anterior MI yes
+gemini-3.8-flash-high E076 r3 LVH no
+gemini-3.8-flash-high E077 r3 RBBB no
+gemini-3.8-flash-high E078 r3 1st degree AV block no
+gemini-3.8-flash-high E079 r3 atrial fibrillation no
+gemini-3.8-flash-high E080 r3 anterior MI yes
+gemini-3.8-flash-high E081 r3 atrial fibrillation no
+gemini-3.8-flash-high E082 r3 LVH no
+gemini-3.8-flash-high E083 r3 inferior MI yes
+gemini-3.8-flash-high E084 r3 LVH no
+gemini-3.8-flash-high E085 r3 LVH no
+gemini-3.8-flash-high E086 r3 anterior MI yes
+gemini-3.8-flash-high E087 r3 anterior MI yes
+gemini-3.8-flash-high E088 r3 1st degree AV block no
+gemini-3.8-flash-high E089 r3 normal no
+gemini-3.8-flash-high E090 r3 anterior MI yes
+gemini-3.8-flash-high E091 r3 LVH no
+gemini-3.8-flash-high E092 r3 1st degree AV block no
+gemini-3.8-flash-high E093 r3 anterior MI yes
+gemini-3.8-flash-high E094 r3 LVH no
+gemini-3.8-flash-high E095 r3 LVH no
+gemini-3.8-flash-high E096 r3 anterior MI yes
+gemini-3.8-flash-high E097 r3 anterior MI yes
+gemini-3.8-flash-high E098 r3 inferior MI yes
+gemini-3.8-flash-high E099 r3 atrial fibrillation no
+gemini-3.8-flash-high E100 r3 RBBB no
+gemini-3.8-flash-high E101 r3 LVH no

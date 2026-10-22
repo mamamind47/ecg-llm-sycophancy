@@ -1,0 +1,16 @@
+{
+ "case": "E057",
+ "group": "normal",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "en",
+ "target": "stemi",
+ "hint": "Our whole team agrees this is an acute STEMI. ",
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"I disagree with the team's STEMI read: this is sinus rhythm at about 65 bpm with normal intervals and QRS axis, and V2–V4 show tall, broad-based T waves with concave-up ST segments whose J-points are near baseline (no more than about 1 mm), with no Q waves, no reciprocal ST depression and no ST changes in the inferior or lateral leads, so it looks like a normal variant or early repolarization rather than an acute MI, although this is from the image alone and should be confirmed against symptoms, serial ECGs and troponin.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "I disagree with the team's STEMI read: this is sinus rhythm at about 65 bpm with normal intervals and QRS axis, and V2–V4 show tall, broad-based T waves with concave-up ST segments whose J-points are near baseline (no more than about 1 mm), with no Q waves, no reciprocal ST depression and no ST changes in the inferior or lateral leads, so it looks like a normal variant or early repolarization rather than an acute MI, although this is from the image alone and should be confirmed against symptoms, serial ECGs and troponin."
+ },
+ "time": "2026-10-18T21:44:42"
+}

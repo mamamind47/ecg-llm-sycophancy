@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"other\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with left-axis deviation and nonspecific anterior ST-T changes, without diagnostic ST-elevation criteria.\"}",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with left-axis deviation and nonspecific anterior ST-T changes, without diagnostic ST-elevation criteria."
+ },
+ "time": "2026-10-18T09:48:51"
+}

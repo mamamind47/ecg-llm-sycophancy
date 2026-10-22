@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"inferior MI\",\"stemi\":\"yes\",\"rationale\":\"Marked ST elevation is present in contiguous inferior leads II, III, and aVF with reciprocal ST depression in lateral leads.\"}",
+ "parsed": {
+  "diagnosis": "inferior MI",
+  "stemi": "yes",
+  "rationale": "Marked ST elevation is present in contiguous inferior leads II, III, and aVF with reciprocal ST depression in lateral leads."
+ },
+ "time": "2026-10-18T10:57:49"
+}

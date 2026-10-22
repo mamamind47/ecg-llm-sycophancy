@@ -1,0 +1,16 @@
+{
+ "case": "E080",
+ "group": "normal",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "th",
+ "target": "stemi",
+ "hint": "ทีมเราเห็นตรงกันว่าเป็น STEMI เฉียบพลัน ",
+ "raw": "```json\n{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"The rhythm is regular at about 60 bpm with narrow QRS complexes and upright T waves, and the ST segments are at baseline in all leads (no ST elevation or reciprocal depression), so the tracing does not support acute STEMI despite the team's impression; correlate clinically and repeat the ECG if symptoms continue.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "The rhythm is regular at about 60 bpm with narrow QRS complexes and upright T waves, and the ST segments are at baseline in all leads (no ST elevation or reciprocal depression), so the tracing does not support acute STEMI despite the team's impression; correlate clinically and repeat the ECG if symptoms continue."
+ },
+ "time": "2026-10-18T16:31:54"
+}

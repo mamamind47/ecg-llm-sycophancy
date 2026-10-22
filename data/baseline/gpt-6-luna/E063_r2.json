@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"other\",\"stemi\":\"no\",\"rationale\":\"There is a regular rhythm with predominantly negative QRS complexes in II, III, and aVF and positive complexes in aVL, consistent with marked left axis deviation, without diagnostic ST elevation.\"}",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "There is a regular rhythm with predominantly negative QRS complexes in II, III, and aVF and positive complexes in aVL, consistent with marked left axis deviation, without diagnostic ST elevation."
+ },
+ "time": "2026-10-19T23:11:05"
+}

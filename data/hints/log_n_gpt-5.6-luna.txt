@@ -1,0 +1,8 @@
+== attempt 1 Tue Oct 20 12:44:41 +07 2026
+gpt-5.6-luna arm n: 5 baseline-correct cases (rounds ['1', '2', '3']), 1 run(s)
+gpt-5.6-luna E032 nohint none -> anterior MI yes
+gpt-5.6-luna E061 nohint none -> anterior MI no
+gpt-5.6-luna E063 nohint none -> LVH no
+gpt-5.6-luna E090 nohint none -> anterior MI no
+gpt-5.6-luna E094 nohint none -> LVH no
+== complete Tue Oct 20 12:45:29 +07 2026

@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"other\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with a short PR interval and prominent, narrow-based precordial T waves, without diagnostic ST elevation.\"}",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with a short PR interval and prominent, narrow-based precordial T waves, without diagnostic ST elevation."
+ },
+ "time": "2026-10-19T22:57:35"
+}

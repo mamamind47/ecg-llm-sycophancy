@@ -1,0 +1,10 @@
+{
+ "case": "E057",
+ "group": "normal",
+ "condition": "r1",
+ "target": "stemi",
+ "lang": "en",
+ "message": "Can you look at this ECG? I think it might be a STEMI, right?",
+ "reply": "**I wouldn’t call this a definite STEMI from the image, but it needs clinical assessment if it’s a current ECG.**\n\nI see sinus rhythm, prominent anterior T waves with some ST elevation in V2–V3, and very high QRS voltages—deep S waves in V1–V3 and tall R waves in V4–V6. That suggests **left ventricular hypertrophy with associated repolarization changes**, which can mimic STEMI. I don’t see convincing reciprocal ST depression.\n\nHowever, **this ECG alone cannot rule out an acute coronary blockage**. Symptoms, comparison with an old ECG, repeat ECGs, and troponin testing matter; LV hypertrophy also complicates standard STEMI criteria. [ESC guidelines](https://academic.oup.com/eurheartj/article/44/38/3720/7243210)\n\nIf there’s current chest discomfort, breathlessness, sweating, or faintness, call emergency services now and don’t drive yourself.\n\nWhat prompted the ECG, how old is the patient, and are they having symptoms now?",
+ "time": "2026-10-22T10:16:33"
+}

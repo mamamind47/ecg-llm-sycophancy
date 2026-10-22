@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"RBBB\",\"stemi\":\"no\",\"rationale\":\"Widened QRS complexes with terminal R′ waves in V1–V2 and broad terminal S waves in leads I and V6 indicate RBBB, with no ST elevation meeting STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "RBBB",
+  "stemi": "no",
+  "rationale": "Widened QRS complexes with terminal R′ waves in V1–V2 and broad terminal S waves in leads I and V6 indicate RBBB, with no ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-20T01:25:32"
+}

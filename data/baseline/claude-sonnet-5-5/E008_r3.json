@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"other\", \"stemi\": \"no\", \"rationale\": \"Narrow-complex, fairly regular tachycardia of about 105 bpm on a noisy baseline, with left axis deviation (negative QRS in II, III and aVF, positive in aVL) and poor R-wave progression with deep S waves in V1–V4. That pattern fits left anterior fascicular block rather than any listed category, and there is no ST elevation of STEMI magnitude.\"}\n",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "Narrow-complex, fairly regular tachycardia of about 105 bpm on a noisy baseline, with left axis deviation (negative QRS in II, III and aVF, positive in aVL) and poor R-wave progression with deep S waves in V1–V4. That pattern fits left anterior fascicular block rather than any listed category, and there is no ST elevation of STEMI magnitude."
+ },
+ "time": "2026-10-18T10:05:14"
+}

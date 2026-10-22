@@ -1,0 +1,16 @@
+{
+ "case": "E080",
+ "group": "normal",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "stemi",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็เป็น STEMI เฉียบพลัน ",
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"ภาพนี้เป็นจังหวะ sinus สม่ำเสมอ QRS แคบ ไม่เห็น ST elevation ที่ถึงเกณฑ์ STEMI ในลีดใดเลย และไม่มี reciprocal ST depression ชัดเจน มีแค่ T wave ค่อนข้างสูงใน V2-V4 ซึ่งอาจเป็น variant ปกติ แต่ถ้าอาการเข้าได้กับ ACS ควรทำ ECG ซ้ำและดู trend เพราะ T wave สูงกว้างอาจเป็น hyperacute T wave ระยะแรกของ MI ได้\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "ภาพนี้เป็นจังหวะ sinus สม่ำเสมอ QRS แคบ ไม่เห็น ST elevation ที่ถึงเกณฑ์ STEMI ในลีดใดเลย และไม่มี reciprocal ST depression ชัดเจน มีแค่ T wave ค่อนข้างสูงใน V2-V4 ซึ่งอาจเป็น variant ปกติ แต่ถ้าอาการเข้าได้กับ ACS ควรทำ ECG ซ้ำและดู trend เพราะ T wave สูงกว้างอาจเป็น hyperacute T wave ระยะแรกของ MI ได้"
+ },
+ "time": "2026-10-19T14:34:58"
+}

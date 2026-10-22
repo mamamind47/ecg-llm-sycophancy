@@ -1,0 +1,9 @@
+{
+ "raw": "```json\n{\"diagnosis\": \"LVH\", \"stemi\": \"no\", \"rationale\": \"The QRS is narrow, with very deep S waves in V1–V3 (about 28 mm in V2) and tall R waves in V3–V5, so the sum of S in V2 and R in V5 exceeds 35 mm. The axis is leftward, and there is no ST elevation of STEMI magnitude.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "The QRS is narrow, with very deep S waves in V1–V3 (about 28 mm in V2) and tall R waves in V3–V5, so the sum of S in V2 and R in V5 exceeds 35 mm. The axis is leftward, and there is no ST elevation of STEMI magnitude."
+ },
+ "time": "2026-10-18T11:19:12"
+}

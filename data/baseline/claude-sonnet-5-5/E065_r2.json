@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"LVH\", \"stemi\": \"no\", \"rationale\": \"Sinus rhythm with narrow QRS and very deep S waves in V1-V3 (V2 about 30 mm) plus tall R waves in V4-V6, so S in V2 plus R in V5 is well over 35 mm; the concave ST elevation with tall T waves in V2-V3 fits LVH repolarization rather than STEMI.\"}\n",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with narrow QRS and very deep S waves in V1-V3 (V2 about 30 mm) plus tall R waves in V4-V6, so S in V2 plus R in V5 is well over 35 mm; the concave ST elevation with tall T waves in V2-V3 fits LVH repolarization rather than STEMI."
+ },
+ "time": "2026-10-18T09:57:04"
+}

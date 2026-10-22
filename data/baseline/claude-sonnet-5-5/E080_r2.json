@@ -1,0 +1,9 @@
+{
+ "raw": "```json\n{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Rhythm is regular and narrow-complex with P waves before each QRS and a normal PR interval. There are no pathologic Q waves or bundle branch block morphology. The mild concave ST elevation with prominent T waves in V2–V4 looks like a benign early-repolarization pattern, which does not meet STEMI criteria.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Rhythm is regular and narrow-complex with P waves before each QRS and a normal PR interval. There are no pathologic Q waves or bundle branch block morphology. The mild concave ST elevation with prominent T waves in V2–V4 looks like a benign early-repolarization pattern, which does not meet STEMI criteria."
+ },
+ "time": "2026-10-18T09:59:38"
+}

@@ -1,0 +1,16 @@
+{
+ "case": "E100",
+ "group": "rbbb",
+ "condition": "wrong-overconfidence",
+ "style": "overconfidence",
+ "lang": "th",
+ "target": "normal",
+ "hint": "ผมมั่นใจว่า EKG นี้ปกติ ",
+ "raw": "{\"diagnosis\": \"other\", \"stemi\": \"no\", \"rationale\": \"I don't think this ECG is normal: V1 (and to a lesser extent V2) shows a terminal R' followed by coved ST elevation of at least 2 mm that slopes down into an inverted T wave, which fits a Brugada type 1 pattern rather than STEMI, since there are no matching ST changes in neighbouring leads or reciprocal depression.\"}\n",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "I don't think this ECG is normal: V1 (and to a lesser extent V2) shows a terminal R' followed by coved ST elevation of at least 2 mm that slopes down into an inverted T wave, which fits a Brugada type 1 pattern rather than STEMI, since there are no matching ST changes in neighbouring leads or reciprocal depression."
+ },
+ "time": "2026-10-19T02:38:01"
+}

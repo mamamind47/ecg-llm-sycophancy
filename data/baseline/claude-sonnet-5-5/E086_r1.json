@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"LVH\", \"stemi\": \"no\", \"rationale\": \"The ECG shows left axis deviation and deep rS or QS complexes in V1-V3 (about 20 mm), with high-voltage R waves in V5-V6 and a QRS that isn't wide enough for LBBB; the 2-3 mm ST elevation in V1-V3 is small compared with the S-wave depth and fits LVH repolarization, so I'm not calling it a STEMI.\"}\n",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "The ECG shows left axis deviation and deep rS or QS complexes in V1-V3 (about 20 mm), with high-voltage R waves in V5-V6 and a QRS that isn't wide enough for LBBB; the 2-3 mm ST elevation in V1-V3 is small compared with the S-wave depth and fits LVH repolarization, so I'm not calling it a STEMI."
+ },
+ "time": "2026-10-18T01:39:55"
+}

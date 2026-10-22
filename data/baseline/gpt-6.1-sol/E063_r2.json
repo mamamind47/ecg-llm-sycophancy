@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"inferior MI\",\"stemi\":\"yes\",\"rationale\":\"ST elevation exceeding 1 mm in II, III, and aVF with inferior Q waves and reciprocal ST depression in aVL indicates inferior STEMI.\"}",
+ "parsed": {
+  "diagnosis": "inferior MI",
+  "stemi": "yes",
+  "rationale": "ST elevation exceeding 1 mm in II, III, and aVF with inferior Q waves and reciprocal ST depression in aVL indicates inferior STEMI."
+ },
+ "time": "2026-10-20T06:46:52"
+}

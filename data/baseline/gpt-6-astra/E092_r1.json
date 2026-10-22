@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"LVH\",\"stemi\":\"no\",\"rationale\":\"Increased R-wave voltage in aVL with lateral ST depression and repolarization abnormalities supports LVH, without ST elevation meeting STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "Increased R-wave voltage in aVL with lateral ST depression and repolarization abnormalities supports LVH, without ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-18T05:59:19"
+}

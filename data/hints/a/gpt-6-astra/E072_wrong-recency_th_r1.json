@@ -1,0 +1,16 @@
+{
+ "case": "E072",
+ "group": "lbbb",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "normal",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็ปกติ ",
+ "raw": "{\"diagnosis\":\"LBBB\",\"stemi\":\"no\",\"rationale\":\"Broad, notched QRS complexes with predominantly negative complexes in V1–V3 and broad lateral R waves indicate LBBB, with secondary discordant ST changes that do not meet modified Sgarbossa criteria.\"}",
+ "parsed": {
+  "diagnosis": "LBBB",
+  "stemi": "no",
+  "rationale": "Broad, notched QRS complexes with predominantly negative complexes in V1–V3 and broad lateral R waves indicate LBBB, with secondary discordant ST changes that do not meet modified Sgarbossa criteria."
+ },
+ "time": "2026-10-19T20:14:39"
+}

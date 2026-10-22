@@ -1,0 +1,9 @@
+{
+ "raw": "```json\n{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"The rhythm is regular and slow (about 45 bpm) with narrow QRS complexes, upright T waves and no significant ST elevation or depression, and the baseline is noisy. There is no AF, bundle branch block, pre-excitation, infarct pattern or voltage criteria for LVH.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "The rhythm is regular and slow (about 45 bpm) with narrow QRS complexes, upright T waves and no significant ST elevation or depression, and the baseline is noisy. There is no AF, bundle branch block, pre-excitation, infarct pattern or voltage criteria for LVH."
+ },
+ "time": "2026-10-18T01:42:13"
+}

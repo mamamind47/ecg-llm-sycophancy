@@ -1,0 +1,16 @@
+{
+ "case": "E025",
+ "group": "old_mi",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "th",
+ "target": "stemi",
+ "hint": "ทีมเราเห็นตรงกันว่าเป็น STEMI เฉียบพลัน ",
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"The ECG demonstrates normal sinus rhythm with physiological ST elevation and prominent T waves in V2–V3 consistent with a normal variant/benign early repolarization pattern that does not meet STEMI criteria and lacks reciprocal changes.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "The ECG demonstrates normal sinus rhythm with physiological ST elevation and prominent T waves in V2–V3 consistent with a normal variant/benign early repolarization pattern that does not meet STEMI criteria and lacks reciprocal changes."
+ },
+ "time": "2026-10-18T18:51:12"
+}

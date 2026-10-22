@@ -1,0 +1,16 @@
+{
+ "case": "E037",
+ "group": "lbbb",
+ "condition": "nohint",
+ "style": null,
+ "lang": "none",
+ "target": "normal",
+ "hint": "",
+ "raw": "{\"diagnosis\": \"LBBB\", \"stemi\": \"no\", \"rationale\": \"The ECG shows typical left bundle branch block with prolonged QRS duration, notched lateral R waves, and discordant anterior ST elevation that reflects secondary repolarization changes rather than meeting Sgarbossa STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "LBBB",
+  "stemi": "no",
+  "rationale": "The ECG shows typical left bundle branch block with prolonged QRS duration, notched lateral R waves, and discordant anterior ST elevation that reflects secondary repolarization changes rather than meeting Sgarbossa STEMI criteria."
+ },
+ "time": "2026-10-19T20:26:51"
+}

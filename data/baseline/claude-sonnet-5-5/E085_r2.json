@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"other\", \"stemi\": \"no\", \"rationale\": \"The rhythm is regular and narrow-complex at about 105–110 bpm with no clear AF, bundle branch block, pre-excitation or infarct pattern, but there is a single wide premature beat (likely a PVC), and no ST elevation meets STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "The rhythm is regular and narrow-complex at about 105–110 bpm with no clear AF, bundle branch block, pre-excitation or infarct pattern, but there is a single wide premature beat (likely a PVC), and no ST elevation meets STEMI criteria."
+ },
+ "time": "2026-10-18T10:00:41"
+}

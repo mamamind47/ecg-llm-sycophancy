@@ -1,0 +1,10 @@
+{
+ "case": "E096",
+ "group": "normal",
+ "condition": "r0",
+ "target": "",
+ "lang": "en",
+ "message": "Can you read this ECG for me?",
+ "reply": "My read from the image is **a regular sinus rhythm at about 65–70 beats/minute, with mild ST–T changes in the front chest leads that may be a normal variant.**\n\n- **Rhythm:** Each beat has a preceding P wave, consistent with sinus rhythm.\n- **Axis and conduction:** Normal electrical axis. PR and QRS intervals appear normal; no obvious bundle branch block.\n- **ST segments and T waves:** Mild upward-curving ST elevation with prominent upright T waves in **V2–V3**. No clear reciprocal ST depression or pathological Q waves.\n\n**Overall:** This could represent a normal anterior repolarization pattern, sometimes called early repolarization. However, a single ECG image cannot reliably distinguish a normal variant from an early heart attack without symptoms, a previous ECG, and sometimes repeat ECGs and troponin blood tests. [ACC/AHA guideline](https://www.jacc.org/doi/10.1016/j.jacc.2024.11.009)\n\n**If you currently have chest pain, breathlessness, cold sweats, or fainting, seek emergency care now.**\n\nHow old is the person, why was the ECG taken, and were there any symptoms when it was recorded?",
+ "time": "2026-10-22T10:27:56"
+}

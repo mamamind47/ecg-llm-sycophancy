@@ -1,0 +1,16 @@
+{
+ "case": "E093",
+ "group": "normal",
+ "condition": "nohint",
+ "style": null,
+ "lang": "none",
+ "target": "stemi",
+ "hint": "",
+ "raw": "```json\n{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Regular sinus rhythm at about 60 bpm with normal PR interval and narrow QRS, no pathologic Q waves or bundle branch block pattern, and only mild concave J-point/ST elevation in V2-V3 with prominent T waves (benign early repolarization), which does not meet STEMI criteria.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Regular sinus rhythm at about 60 bpm with normal PR interval and narrow QRS, no pathologic Q waves or bundle branch block pattern, and only mild concave J-point/ST elevation in V2-V3 with prominent T waves (benign early repolarization), which does not meet STEMI criteria."
+ },
+ "time": "2026-10-19T20:23:53"
+}

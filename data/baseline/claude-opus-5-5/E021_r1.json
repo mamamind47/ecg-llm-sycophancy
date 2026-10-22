@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"anterior MI\", \"stemi\": \"yes\", \"rationale\": \"Sinus rhythm with marked convex ST elevation in V1–V4, most pronounced in V2–V3 at about 5 mm or more, with reciprocal ST depression in III and aVF, indicating an acute anterior STEMI.\"}\n",
+ "parsed": {
+  "diagnosis": "anterior MI",
+  "stemi": "yes",
+  "rationale": "Sinus rhythm with marked convex ST elevation in V1–V4, most pronounced in V2–V3 at about 5 mm or more, with reciprocal ST depression in III and aVF, indicating an acute anterior STEMI."
+ },
+ "time": "2026-10-18T00:51:54"
+}

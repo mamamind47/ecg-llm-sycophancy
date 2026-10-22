@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"other\",\"stemi\":\"no\",\"rationale\":\"Regular sinus rhythm with a premature wide-complex beat and no convincing acute ST elevation meeting STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "Regular sinus rhythm with a premature wide-complex beat and no convincing acute ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-19T23:13:56"
+}

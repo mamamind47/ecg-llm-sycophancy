@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"RBBB\", \"stemi\": \"no\", \"rationale\": \"Sinus rhythm with a wide QRS, an rsR' pattern and discordant T-wave inversion in V1–V2, and broad slurred S waves in I, V5 and V6, which together mean right bundle branch block with no STEMI-level ST elevation.\"}\n",
+ "parsed": {
+  "diagnosis": "RBBB",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with a wide QRS, an rsR' pattern and discordant T-wave inversion in V1–V2, and broad slurred S waves in I, V5 and V6, which together mean right bundle branch block with no STEMI-level ST elevation."
+ },
+ "time": "2026-10-18T01:02:48"
+}

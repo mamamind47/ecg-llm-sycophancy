@@ -1,0 +1,16 @@
+{
+ "case": "E079",
+ "group": "afib",
+ "condition": "nohint",
+ "style": null,
+ "lang": "none",
+ "target": "normal",
+ "hint": "",
+ "raw": "{\"diagnosis\":\"atrial fibrillation\",\"stemi\":\"no\",\"rationale\":\"Irregularly irregular narrow-complex rhythm without discrete P waves indicates atrial fibrillation, with high-voltage LVH-type secondary repolarization changes rather than diagnostic STEMI.\"}",
+ "parsed": {
+  "diagnosis": "atrial fibrillation",
+  "stemi": "no",
+  "rationale": "Irregularly irregular narrow-complex rhythm without discrete P waves indicates atrial fibrillation, with high-voltage LVH-type secondary repolarization changes rather than diagnostic STEMI."
+ },
+ "time": "2026-10-20T12:55:53"
+}

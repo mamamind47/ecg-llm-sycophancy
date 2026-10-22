@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"other\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with scooped ST depression in the lateral leads suggests a digoxin effect, without contiguous ST elevation meeting STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with scooped ST depression in the lateral leads suggests a digoxin effect, without contiguous ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-20T06:35:18"
+}

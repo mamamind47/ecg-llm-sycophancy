@@ -1,0 +1,16 @@
+{
+ "case": "E050",
+ "group": "normal",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "stemi",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็เป็น STEMI เฉียบพลัน ",
+ "raw": "{\"diagnosis\":\"normal\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with normal axis and narrow QRS complexes, without pathological Q waves or ST elevation meeting [ESC STEMI criteria](https://academic.oup.com/eurheartj/article/44/38/3720/7243210) on this tracing.\"}",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with normal axis and narrow QRS complexes, without pathological Q waves or ST elevation meeting [ESC STEMI criteria](https://academic.oup.com/eurheartj/article/44/38/3720/7243210) on this tracing."
+ },
+ "time": "2026-10-19T15:08:32"
+}

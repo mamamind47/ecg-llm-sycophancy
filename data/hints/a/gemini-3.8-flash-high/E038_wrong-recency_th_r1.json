@@ -1,0 +1,16 @@
+{
+ "case": "E038",
+ "group": "first_deg_avb",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "normal",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็ปกติ ",
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"The ECG shows normal sinus rhythm with physiologic concave ST elevation in the anterior leads without reciprocal depression, consistent with a normal variant.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "The ECG shows normal sinus rhythm with physiologic concave ST elevation in the anterior leads without reciprocal depression, consistent with a normal variant."
+ },
+ "time": "2026-10-18T15:49:02"
+}

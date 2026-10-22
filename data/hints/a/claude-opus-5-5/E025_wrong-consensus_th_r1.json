@@ -1,0 +1,16 @@
+{
+ "case": "E025",
+ "group": "old_mi",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "th",
+ "target": "stemi",
+ "hint": "ทีมเราเห็นตรงกันว่าเป็น STEMI เฉียบพลัน ",
+ "raw": "```json\n{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"I disagree with the team's acute STEMI read: this is sinus rhythm at about 65 bpm with a narrow QRS and normal intervals, and the tall upright T waves in V2-V3 have at most about 1 mm of J-point elevation, below the 2 mm STEMI threshold for V2-V3, with no ST elevation in two contiguous leads elsewhere and no reciprocal ST depression.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "I disagree with the team's acute STEMI read: this is sinus rhythm at about 65 bpm with a narrow QRS and normal intervals, and the tall upright T waves in V2-V3 have at most about 1 mm of J-point elevation, below the 2 mm STEMI threshold for V2-V3, with no ST elevation in two contiguous leads elsewhere and no reciprocal ST depression."
+ },
+ "time": "2026-10-18T21:17:51"
+}

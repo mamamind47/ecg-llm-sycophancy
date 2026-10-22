@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"RBBB\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with a right bundle-branch pattern, including a dominant terminal R in V1 and broad S waves in lateral precordial leads, without diagnostic ST elevation.\"}",
+ "parsed": {
+  "diagnosis": "RBBB",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with a right bundle-branch pattern, including a dominant terminal R in V1 and broad S waves in lateral precordial leads, without diagnostic ST elevation."
+ },
+ "time": "2026-10-18T09:46:52"
+}

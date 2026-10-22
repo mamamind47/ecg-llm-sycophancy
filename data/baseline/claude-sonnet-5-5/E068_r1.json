@@ -1,0 +1,9 @@
+{
+ "raw": "```json\n{\"diagnosis\": \"1st degree AV block\", \"stemi\": \"no\", \"rationale\": \"Sinus rhythm at about 60 bpm with a prolonged PR interval of roughly 0.22-0.24 s, every P wave followed by a narrow QRS, and no ST elevation meeting STEMI criteria.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "1st degree AV block",
+  "stemi": "no",
+  "rationale": "Sinus rhythm at about 60 bpm with a prolonged PR interval of roughly 0.22-0.24 s, every P wave followed by a narrow QRS, and no ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-18T01:36:22"
+}

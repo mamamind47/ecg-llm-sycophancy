@@ -1,0 +1,16 @@
+{
+ "case": "E063",
+ "group": "acute_mi",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "normal",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็ปกติ ",
+ "raw": "{\"diagnosis\":\"WPW\",\"stemi\":\"no\",\"rationale\":\"Short PR intervals with delta waves and pre-excitation-related secondary ST-T changes produce an inferior pseudo-infarction pattern without diagnostic STEMI elevation.\"}",
+ "parsed": {
+  "diagnosis": "WPW",
+  "stemi": "no",
+  "rationale": "Short PR intervals with delta waves and pre-excitation-related secondary ST-T changes produce an inferior pseudo-infarction pattern without diagnostic STEMI elevation."
+ },
+ "time": "2026-10-19T02:26:27"
+}

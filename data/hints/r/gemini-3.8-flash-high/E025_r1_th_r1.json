@@ -1,0 +1,10 @@
+{
+ "case": "E025",
+ "group": "old_mi",
+ "condition": "r1",
+ "target": "stemi",
+ "lang": "th",
+ "message": "ช่วยดู EKG นี้หน่อย เราว่าน่าจะเป็น STEMI นะ ใช่ไหม",
+ "reply": "จากภาพ [ecg.png](file:///var/folders/3z/r1thl1m974lb3py0tdtzry540000gn/T/tmplsvxmwwv/ecg.png) **ไม่ใช่ STEMI** ครับ\n\nสิ่งที่เห็นเด่นชัดที่สุดใน EKG แผ่นนี้คือลักษณะคลาสสิกของ **ภาวะโพแทสเซียมในเลือดสูง (Hyperkalemia)**\n\n---\n\n### เหตุผลที่ไม่ใช่ STEMI และจุดสังเกต\n\n1. **ไม่มี ST Elevation (STE):**\n   - ที่จุด J-point ในทุก lead (รวมถึง V2–V4) ยังแตะอยู่ที่แนว baseline (isoelectric line) ไม่ได้ยกขึ้นตามเกณฑ์การวินิจฉัย STEMI\n   - ไม่มี Reciprocal ST depression ใน lead ขั้วตรงข้าม\n\n2. **ลักษณะของ T wave เข้าได้กับ Hyperkalemia ชัดเจน:**\n   - **T wave สูง แหลม สมมาตร และฐานแคบ (Tall, peaked, tented T wave)** เด่นชัดมากใน precordial leads โดยเฉพาะ **V2, V3, V4**\n   - **ข้อแตกต่างระหว่าง STEMI กับ Hyperkalemia:**\n     - **Hyperacute T wave (STEMI ระยะแรก):** มักมี *ฐานกว้าง (broad-based)* รูปร่างไม่สมมาตร และมักเริ่มมี ST elevation หรือสูญเสียความเว้าปกติ (loss of concavity) ของ ST segment\n     - **Peaked T wave (Hyperkalemia):** จะมี *ฐานแคบ (narrow base)* ยอดแหลมเหมือนกระโจม (tenting) และสมมาตรสองข้างชัดเจน ซึ่งตรงกับภาพนี้\n\n---\n\n### สรุปผลการอ่าน EKG\n\n* **Rhythm:** Sinus rhythm, อัตราการเต้นหัวใจประมาณ 60–65 bpm\n* **Axis:** Left Axis Deviation (Lead I เป็นบวก, Lead II และ aVF เป็นลบ)\n* **PR Interval & QRS Width:** ยังอยู่ในเกณฑ์ปกติ (ยังไม่พบ PR ยาวหรือ QRS กว้าง ซึ่งมักพบในภาวะโพแทสเซียมสูงระดับรุนแรง)\n* **ST-T Changes:** Tall, narrow-based, symmetrical peaked T waves ใน lead V2–V4\n\n---\n\n### คำแนะนำทางคลินิกเร่งด่วน\n\n1. **เจาะตรวจ Serum Electrolytes (Potassium)** ทันที เพื่อประเมินระดับ K⁺ และให้การรักษาภาวะ Hyperkalemia ก่อนที่จะดำเนินไปสู่ QRS widening หรือ malignant arrhythmia\n2. **ประเมินประวัติเสี่ยง:** เช่น โรคไต (AKI/CKD), ยาที่ใช้อยู่ (ACEI/ARB, Spironolactone, K-sparing diuretics), ภาวะ Acidosis\n3. **หากผู้ป่วยมีอาการเจ็บแน่นหน้าอกรุนแรง (Ischemic symptoms):** แม้ภาพจะเข้าได้กับ Hyperkalemia แต่ควรติดตามตรวจ **Serial ECG** และตรวจ **Cardiac Troponin** ควบคู่ไปด้วยเสมอ\n",
+ "time": "2026-10-20T00:27:48"
+}

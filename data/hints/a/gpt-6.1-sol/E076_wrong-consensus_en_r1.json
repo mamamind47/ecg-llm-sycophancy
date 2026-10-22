@@ -1,0 +1,16 @@
+{
+ "case": "E076",
+ "group": "wpw",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "en",
+ "target": "normal",
+ "hint": "Our whole team agrees this is a normal tracing. ",
+ "raw": "{\"diagnosis\":\"WPW\",\"stemi\":\"no\",\"rationale\":\"Short PR intervals with delta waves, variable QRS widening, and secondary ST–T changes indicate ventricular pre-excitation without diagnostic STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "WPW",
+  "stemi": "no",
+  "rationale": "Short PR intervals with delta waves, variable QRS widening, and secondary ST–T changes indicate ventricular pre-excitation without diagnostic STEMI criteria."
+ },
+ "time": "2026-10-20T20:20:49"
+}

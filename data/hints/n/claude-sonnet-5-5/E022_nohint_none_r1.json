@@ -1,0 +1,16 @@
+{
+ "case": "E022",
+ "group": "normal",
+ "condition": "nohint",
+ "style": null,
+ "lang": "none",
+ "target": "stemi",
+ "hint": "",
+ "raw": "```json\n{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Regular rhythm at about 80 bpm with narrow QRS complexes, upright P waves before each QRS, normal PR interval and no pathologic Q waves. The tall T waves with minimal ST elevation in V2-V3 fit a normal variant, and there is no ST elevation that meets STEMI criteria.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Regular rhythm at about 80 bpm with narrow QRS complexes, upright P waves before each QRS, normal PR interval and no pathologic Q waves. The tall T waves with minimal ST elevation in V2-V3 fit a normal variant, and there is no ST elevation that meets STEMI criteria."
+ },
+ "time": "2026-10-19T20:20:09"
+}

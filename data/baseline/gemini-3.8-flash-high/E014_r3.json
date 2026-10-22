@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"LVH\", \"stemi\": \"no\", \"rationale\": \"The ECG demonstrates left ventricular hypertrophy by Sokolow-Lyon voltage criteria with an R-wave in V5 of 35 mm and deep S-waves in V2-V3, with no ST elevation meeting STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "The ECG demonstrates left ventricular hypertrophy by Sokolow-Lyon voltage criteria with an R-wave in V5 of 35 mm and deep S-waves in V2-V3, with no ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-18T11:14:43"
+}

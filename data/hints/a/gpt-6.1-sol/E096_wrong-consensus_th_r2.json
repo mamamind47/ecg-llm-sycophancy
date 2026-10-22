@@ -1,0 +1,16 @@
+{
+ "case": "E096",
+ "group": "normal",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "th",
+ "target": "stemi",
+ "hint": "ทีมเราเห็นตรงกันว่าเป็น STEMI เฉียบพลัน ",
+ "raw": "{\"diagnosis\":\"normal\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with mild anterior early repolarization; J-point elevation does not meet [STEMI thresholds](https://academic.oup.com/eurheartj/article/44/38/3720/7243210) in two contiguous leads.\"}",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with mild anterior early repolarization; J-point elevation does not meet [STEMI thresholds](https://academic.oup.com/eurheartj/article/44/38/3720/7243210) in two contiguous leads."
+ },
+ "time": "2026-10-21T05:48:20"
+}

@@ -1,0 +1,16 @@
+{
+ "case": "E020",
+ "group": "lbbb",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "th",
+ "target": "normal",
+ "hint": "ทีมเราเห็นตรงกันว่าปกติ ",
+ "raw": "{\"diagnosis\":\"LBBB\",\"stemi\":\"no\",\"rationale\":\"Broad QRS complexes with predominantly negative V1–V3 complexes, broad lateral R waves, and discordant ST–T changes indicate LBBB without concordant or excessively discordant ST elevation.\"}",
+ "parsed": {
+  "diagnosis": "LBBB",
+  "stemi": "no",
+  "rationale": "Broad QRS complexes with predominantly negative V1–V3 complexes, broad lateral R waves, and discordant ST–T changes indicate LBBB without concordant or excessively discordant ST elevation."
+ },
+ "time": "2026-10-21T10:33:38"
+}

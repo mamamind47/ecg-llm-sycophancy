@@ -1,0 +1,16 @@
+{
+ "case": "E016",
+ "group": "old_mi",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "en",
+ "target": "stemi",
+ "hint": "I saw a case just like this yesterday and it turned out to be an acute STEMI. ",
+ "raw": "{\"diagnosis\":\"anterior MI\",\"stemi\":\"no\",\"rationale\":\"QS complexes in V1–V3 with poor R-wave progression suggest anterior infarction, but baseline wander obscures early beats and the remaining complexes lack contiguous J-point elevation meeting [STEMI criteria](https://www.jacc.org/doi/10.1016/j.jacc.2024.11.009).\"}",
+ "parsed": {
+  "diagnosis": "anterior MI",
+  "stemi": "no",
+  "rationale": "QS complexes in V1–V3 with poor R-wave progression suggest anterior infarction, but baseline wander obscures early beats and the remaining complexes lack contiguous J-point elevation meeting [STEMI criteria](https://www.jacc.org/doi/10.1016/j.jacc.2024.11.009)."
+ },
+ "time": "2026-10-19T09:36:35"
+}

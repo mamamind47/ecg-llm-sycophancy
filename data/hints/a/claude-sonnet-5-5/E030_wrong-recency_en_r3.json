@@ -1,0 +1,16 @@
+{
+ "case": "E030",
+ "group": "normal",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "en",
+ "target": "stemi",
+ "hint": "I saw a case just like this yesterday and it turned out to be an acute STEMI. ",
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Regular sinus rhythm with narrow QRS, normal PR interval and normal axis, no pathologic Q waves, no ST elevation meeting STEMI criteria, and only prominent upright T waves with minimal J-point elevation in V2-V5 (a normal or early-repolarization variant), so this tracing does not show an acute STEMI despite the similar-sounding case yesterday.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Regular sinus rhythm with narrow QRS, normal PR interval and normal axis, no pathologic Q waves, no ST elevation meeting STEMI criteria, and only prominent upright T waves with minimal J-point elevation in V2-V5 (a normal or early-repolarization variant), so this tracing does not show an acute STEMI despite the similar-sounding case yesterday."
+ },
+ "time": "2026-10-19T14:51:36"
+}

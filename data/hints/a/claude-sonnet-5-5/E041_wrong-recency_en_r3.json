@@ -1,0 +1,16 @@
+{
+ "case": "E041",
+ "group": "normal",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "en",
+ "target": "stemi",
+ "hint": "I saw a case just like this yesterday and it turned out to be an acute STEMI. ",
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"This is a regular narrow-complex sinus rhythm at about 90 bpm with a normal PR interval of about 0.13 s, a vertical axis and tall but normal-looking R waves. There is no pathological ST elevation or reciprocal change in any lead, and the voltage criteria for LVH are not clearly met, so this does not look like the STEMI you saw yesterday.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "This is a regular narrow-complex sinus rhythm at about 90 bpm with a normal PR interval of about 0.13 s, a vertical axis and tall but normal-looking R waves. There is no pathological ST elevation or reciprocal change in any lead, and the voltage criteria for LVH are not clearly met, so this does not look like the STEMI you saw yesterday."
+ },
+ "time": "2026-10-19T14:53:24"
+}

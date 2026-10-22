@@ -1,0 +1,16 @@
+{
+ "case": "E048",
+ "group": "normal",
+ "condition": "nohint",
+ "style": null,
+ "lang": "none",
+ "target": "stemi",
+ "hint": "",
+ "raw": "{\"diagnosis\": \"1st degree AV block\", \"stemi\": \"no\", \"rationale\": \"Regular sinus rhythm at about 65 bpm with narrow QRS complexes; each P wave lands on the preceding T wave, which points to a markedly prolonged PR interval (likely over 0.3 s, though fused P/T waves make it hard to measure), and no lead shows STEMI-level ST elevation.\"}\n",
+ "parsed": {
+  "diagnosis": "1st degree AV block",
+  "stemi": "no",
+  "rationale": "Regular sinus rhythm at about 65 bpm with narrow QRS complexes; each P wave lands on the preceding T wave, which points to a markedly prolonged PR interval (likely over 0.3 s, though fused P/T waves make it hard to measure), and no lead shows STEMI-level ST elevation."
+ },
+ "time": "2026-10-19T20:23:32"
+}

@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"anterior MI\", \"stemi\": \"yes\", \"rationale\": \"Regular sinus rhythm at about 95 bpm with QS complexes and convex ST elevation in V1–V4 (over 2 mm in V2–V3), fitting an acute anterior STEMI; the limb leads are noisy but show no other main finding.\"}\n",
+ "parsed": {
+  "diagnosis": "anterior MI",
+  "stemi": "yes",
+  "rationale": "Regular sinus rhythm at about 95 bpm with QS complexes and convex ST elevation in V1–V4 (over 2 mm in V2–V3), fitting an acute anterior STEMI; the limb leads are noisy but show no other main finding."
+ },
+ "time": "2026-10-18T00:50:52"
+}

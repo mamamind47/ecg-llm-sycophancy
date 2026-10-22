@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"LVH\",\"stemi\":\"no\",\"rationale\":\"Marked precordial QRS voltage with deep anterior S waves, tall lateral R waves, and secondary repolarization changes favors LVH without qualifying ST elevation in two contiguous leads.\"}",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "Marked precordial QRS voltage with deep anterior S waves, tall lateral R waves, and secondary repolarization changes favors LVH without qualifying ST elevation in two contiguous leads."
+ },
+ "time": "2026-10-18T10:53:21"
+}

@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"atrial fibrillation\", \"stemi\": \"no\", \"rationale\": \"The rhythm strip is irregularly irregular (RR intervals vary from about 0.8 to 1.5 s, roughly 90 bpm) with no clear P waves, only a fine, wavy baseline, and narrow QRS complexes; the ST changes are mild sagging depression in I and V4–V6 (possibly digoxin effect), with no ST elevation anywhere.\"}\n",
+ "parsed": {
+  "diagnosis": "atrial fibrillation",
+  "stemi": "no",
+  "rationale": "The rhythm strip is irregularly irregular (RR intervals vary from about 0.8 to 1.5 s, roughly 90 bpm) with no clear P waves, only a fine, wavy baseline, and narrow QRS complexes; the ST changes are mild sagging depression in I and V4–V6 (possibly digoxin effect), with no ST elevation anywhere."
+ },
+ "time": "2026-10-18T00:48:04"
+}

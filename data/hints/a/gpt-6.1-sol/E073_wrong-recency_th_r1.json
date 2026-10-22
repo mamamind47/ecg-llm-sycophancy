@@ -1,0 +1,16 @@
+{
+ "case": "E073",
+ "group": "acute_mi",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "normal",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็ปกติ ",
+ "raw": "{\"diagnosis\":\"anterior MI\",\"stemi\":\"yes\",\"rationale\":\"Anterior QS complexes with ST elevation extending through V4–V5 indicate anterior MI and meet contiguous-lead [STEMI criteria](https://doi.org/10.1016/j.jacc.2024.11.009).\"}",
+ "parsed": {
+  "diagnosis": "anterior MI",
+  "stemi": "yes",
+  "rationale": "Anterior QS complexes with ST elevation extending through V4–V5 indicate anterior MI and meet contiguous-lead [STEMI criteria](https://doi.org/10.1016/j.jacc.2024.11.009)."
+ },
+ "time": "2026-10-20T20:17:26"
+}

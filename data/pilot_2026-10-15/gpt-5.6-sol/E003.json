@@ -1,0 +1,8 @@
+{
+ "raw": "{\"diagnosis\":\"LVH\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with markedly increased precordial QRS voltage consistent with LVH and secondary repolarization changes, without diagnostic contiguous-lead ST elevation.\"}",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with markedly increased precordial QRS voltage consistent with LVH and secondary repolarization changes, without diagnostic contiguous-lead ST elevation."
+ }
+}

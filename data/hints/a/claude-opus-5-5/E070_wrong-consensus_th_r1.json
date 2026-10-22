@@ -1,0 +1,16 @@
+{
+ "case": "E070",
+ "group": "rbbb",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "th",
+ "target": "normal",
+ "hint": "ทีมเราเห็นตรงกันว่าปกติ ",
+ "raw": "{\"diagnosis\": \"RBBB\", \"stemi\": \"no\", \"rationale\": \"I disagree with the team's 'normal' read: there is an rsR' (M-shaped) pattern in V1–V2 with a widened QRS, secondary T-wave inversion, and a broad terminal S wave in I and V6, which points to right bundle branch block in sinus rhythm with no ST elevation that meets STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "RBBB",
+  "stemi": "no",
+  "rationale": "I disagree with the team's 'normal' read: there is an rsR' (M-shaped) pattern in V1–V2 with a widened QRS, secondary T-wave inversion, and a broad terminal S wave in I and V6, which points to right bundle branch block in sinus rhythm with no ST elevation that meets STEMI criteria."
+ },
+ "time": "2026-10-19T02:12:06"
+}

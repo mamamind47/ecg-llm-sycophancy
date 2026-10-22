@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"anterior MI\", \"stemi\": \"no\", \"rationale\": \"Sinus rhythm with QS complexes in V1–V3 and deep symmetric T-wave inversions across V1–V6, I and aVL fit an evolving or recent anterior MI; the coved ST segments in V1–V3 rise only about 1–1.5 mm, which is below the ≥2 mm STEMI threshold in V2–V3.\"}\n",
+ "parsed": {
+  "diagnosis": "anterior MI",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with QS complexes in V1–V3 and deep symmetric T-wave inversions across V1–V6, I and aVL fit an evolving or recent anterior MI; the coved ST segments in V1–V3 rise only about 1–1.5 mm, which is below the ≥2 mm STEMI threshold in V2–V3."
+ },
+ "time": "2026-10-18T09:45:27"
+}

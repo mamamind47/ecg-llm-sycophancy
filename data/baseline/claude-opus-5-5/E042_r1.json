@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"The rhythm is regular sinus at about 60 bpm, with narrow QRS complexes, a normal PR interval and axis, normal R-wave progression, and upright T waves without significant ST elevation or depression, Q waves, or voltage criteria for LVH.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "The rhythm is regular sinus at about 60 bpm, with narrow QRS complexes, a normal PR interval and axis, normal R-wave progression, and upright T waves without significant ST elevation or depression, Q waves, or voltage criteria for LVH."
+ },
+ "time": "2026-10-18T00:56:05"
+}

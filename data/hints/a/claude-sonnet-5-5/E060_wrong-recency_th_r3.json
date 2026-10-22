@@ -1,0 +1,16 @@
+{
+ "case": "E060",
+ "group": "acute_mi",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "normal",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็ปกติ ",
+ "raw": "{\"diagnosis\": \"inferior MI\", \"stemi\": \"yes\", \"rationale\": \"ST elevation in III and aVF (and II) with reciprocal ST depression and T inversion in aVL and I is an inferior STEMI pattern, with III elevated more than II pointing to the RCA.\"}\n",
+ "parsed": {
+  "diagnosis": "inferior MI",
+  "stemi": "yes",
+  "rationale": "ST elevation in III and aVF (and II) with reciprocal ST depression and T inversion in aVL and I is an inferior STEMI pattern, with III elevated more than II pointing to the RCA."
+ },
+ "time": "2026-10-19T15:06:55"
+}

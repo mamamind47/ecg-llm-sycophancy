@@ -1,0 +1,16 @@
+{
+ "case": "E057",
+ "group": "normal",
+ "condition": "correct-overconfidence",
+ "style": "overconfidence",
+ "lang": "th",
+ "target": "normal",
+ "hint": "ผมมั่นใจว่า EKG นี้ปกติ ",
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Regular sinus rhythm with normal PR interval, narrow QRS and normal axis, no bundle branch block, pre-excitation, infarct Q waves or LVH voltage; the mild concave ST elevation with tall T waves in V2-V3 is a benign early-repolarization pattern, not reciprocal or convex STEMI-type elevation.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Regular sinus rhythm with normal PR interval, narrow QRS and normal axis, no bundle branch block, pre-excitation, infarct Q waves or LVH voltage; the mild concave ST elevation with tall T waves in V2-V3 is a benign early-repolarization pattern, not reciprocal or convex STEMI-type elevation."
+ },
+ "time": "2026-10-19T15:04:06"
+}

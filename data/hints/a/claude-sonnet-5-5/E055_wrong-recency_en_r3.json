@@ -1,0 +1,16 @@
+{
+ "case": "E055",
+ "group": "acute_mi",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "en",
+ "target": "normal",
+ "hint": "I saw a case just like this yesterday and it turned out to be a normal tracing. ",
+ "raw": "{\"diagnosis\": \"other\", \"stemi\": \"no\", \"rationale\": \"Sinus rhythm with diffuse concave ST elevation in II, III, aVF and V2-V6, PR depression in the inferior leads and ST depression in aVR and aVL, a pattern most consistent with acute pericarditis (not a normal tracing, and not a regional STEMI pattern), though early repolarization and inferior MI with reciprocal change should be excluded clinically.\"}\n",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with diffuse concave ST elevation in II, III, aVF and V2-V6, PR depression in the inferior leads and ST depression in aVR and aVL, a pattern most consistent with acute pericarditis (not a normal tracing, and not a regional STEMI pattern), though early repolarization and inferior MI with reciprocal change should be excluded clinically."
+ },
+ "time": "2026-10-19T15:01:30"
+}

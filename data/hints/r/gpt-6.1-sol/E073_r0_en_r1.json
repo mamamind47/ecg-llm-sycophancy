@@ -1,0 +1,10 @@
+{
+ "case": "E073",
+ "group": "acute_mi",
+ "condition": "r0",
+ "target": "",
+ "lang": "en",
+ "message": "Can you read this ECG for me?",
+ "reply": "**This ECG is abnormal and concerning for an anterior heart attack, although an old heart attack with persistent changes can look similar.** If this is a recent tracing and you have chest discomfort, shortness of breath, sweating, nausea, or faintness, **call emergency services now and do not drive yourself.**\n\nMy reading from the image:\n\n- **Rhythm:** Regular sinus rhythm, approximately **70 beats/minute**.\n- **Conduction:** QRS complexes appear narrow; the electrical axis is somewhat leftward.\n- **Main abnormality:** Deep Q/QS complexes and loss of normal R-wave progression in **V1–V4**, with **ST elevation across the anterior chest leads**, most evident in V2–V4 and extending toward V5–V6.\n\nThese findings suggest substantial injury to the front wall of the heart. **An acute or evolving anterior ST-elevation myocardial infarction (STEMI) needs to be excluded urgently.** An older anterior infarction with persistent ST elevation, sometimes from a ventricular aneurysm, is another possibility. The photograph alone cannot establish when the damage occurred. [ACC guidance](https://pmc.ncbi.nlm.nih.gov/articles/PMC10691881/)\n\nIf this ECG was taken recently and has not already been assessed, seek urgent medical evaluation even if you feel well. Comparison with a previous ECG, repeat ECGs, troponin blood tests, and an echocardiogram help distinguish these possibilities.\n\n**When was this recorded, what symptoms prompted it, and is there a history of a previous heart attack?**",
+ "time": "2026-10-22T10:21:54"
+}

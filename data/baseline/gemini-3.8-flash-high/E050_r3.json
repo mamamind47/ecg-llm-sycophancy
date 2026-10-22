@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Normal sinus rhythm with normal intervals, preserved R-wave progression, and physiologic concave ST elevation in the right precordial leads that does not meet STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Normal sinus rhythm with normal intervals, preserved R-wave progression, and physiologic concave ST elevation in the right precordial leads that does not meet STEMI criteria."
+ },
+ "time": "2026-10-18T11:46:39"
+}

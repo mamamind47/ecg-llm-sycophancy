@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"normal\",\"stemi\":\"no\",\"rationale\":\"Regular sinus rhythm with normal conduction, narrow QRS complexes, no diagnostic hypertrophy or infarction pattern, and no qualifying ST-segment elevation.\"}",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Regular sinus rhythm with normal conduction, narrow QRS complexes, no diagnostic hypertrophy or infarction pattern, and no qualifying ST-segment elevation."
+ },
+ "time": "2026-10-18T09:47:30"
+}

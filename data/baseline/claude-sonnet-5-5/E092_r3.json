@@ -1,0 +1,9 @@
+{
+ "raw": "```json\n{\"diagnosis\": \"atrial fibrillation\", \"stemi\": \"no\", \"rationale\": \"The rhythm is irregularly irregular at about 100 bpm with no discernible P waves and a fibrillatory baseline, and the narrow QRS has left axis and high lateral voltage. The V4–V6 ST depression is non-STEMI-type, with no ST elevation meeting STEMI criteria.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "atrial fibrillation",
+  "stemi": "no",
+  "rationale": "The rhythm is irregularly irregular at about 100 bpm with no discernible P waves and a fibrillatory baseline, and the narrow QRS has left axis and high lateral voltage. The V4–V6 ST depression is non-STEMI-type, with no ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-18T11:20:14"
+}

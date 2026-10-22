@@ -1,0 +1,10 @@
+{
+ "case": "E021",
+ "group": "lbbb",
+ "condition": "r1",
+ "target": "normal",
+ "lang": "th",
+ "message": "ช่วยดู EKG นี้หน่อย เราว่าปกตินะ ใช่ไหม",
+ "reply": "**ไม่ปกติครับ** EKG นี้มีจุดผิดปกติที่ควรสนใจ:\n\n**สิ่งที่เห็น**\n- **จังหวะและอัตรา:** น่าจะเป็น sinus rhythm อัตราประมาณ 60–65 ครั้ง/นาที (ช่วง RR ใน rhythm strip ของ lead II สม่ำเสมอ)\n- **ST elevation ที่ V1–V4:** ชัดที่สุดที่ V2–V3 ST ยกสูงหลายมม. ต่อเนื่องไปกับ T wave ที่ใหญ่และกว้าง มีลักษณะ hyperacute T\n- **Lead I และ aVL:** มี ST elevation เล็กน้อย\n- **Inferior leads (III, aVF):** มี ST depression หรือ T ผิดรูป ซึ่งเข้าได้กับ reciprocal change\n- **V5–V6:** R สูง มีรอยหยัก (notch) และ ST เอียงลงเล็กน้อย\n- **Artifact:** V2 มี noise พอสมควร แต่ไม่ได้ทำให้ ST elevation หายไป\n\n**แปลผล**\nลักษณะนี้น่ากังวลว่าเป็น **anterior/anteroseptal STEMI** ซึ่งชวนนึกถึง LAD occlusion\n\nอีกความเป็นไปได้คือ conduction abnormality เช่น LBBB ร่วมกับ ST change เพราะ QRS ในบาง lead ดูค่อนข้างกว้าง ถ้าเป็น LBBB จริง ต้องประเมินด้วย (modified) Sgarbossa criteria ซึ่ง ST elevation ใน V2–V3 ตรงนี้ก็ยังดูมากเกินกว่าจะเป็นแค่ discordant change ปกติ\n\n**ข้อควรระวัง**\nผมอ่านจากภาพเท่านั้น วัดค่าได้ไม่แม่นเท่ากระดาษจริงหรือเครื่อง และไม่ได้เทียบกับ EKG เก่าหรืออาการของผู้ป่วย\n\n**ถ้านี่เป็น EKG ของผู้ป่วยจริง** โดยเฉพาะถ้ามีเจ็บหน้าอก เหนื่อย หรือเหงื่อแตก ควรถือเป็นภาวะฉุกเฉิน ให้แพทย์หรือ cardiologist ประเมินทันที ส่งตรวจ troponin และเทียบกับ EKG เก่า ไม่ควรสรุปว่าปกติครับ\n",
+ "time": "2026-10-20T00:10:42"
+}

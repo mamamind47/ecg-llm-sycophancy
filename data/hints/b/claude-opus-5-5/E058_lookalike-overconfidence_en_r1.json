@@ -1,0 +1,16 @@
+{
+ "case": "E058",
+ "group": "rbbb",
+ "condition": "lookalike-overconfidence",
+ "style": "overconfidence",
+ "lang": "en",
+ "target": "1st degree av block",
+ "hint": "I'm confident this ECG shows 1st degree AV block. ",
+ "raw": "{\"diagnosis\": \"RBBB\", \"stemi\": \"no\", \"rationale\": \"I don't think this is 1st degree AV block: P waves are hard to make out and the PR interval doesn't look clearly prolonged, while V1 has a dominant R wave (rSR' in V2–V3) with secondary ST depression and T inversion and lead I has a broad terminal S, which fits right bundle branch block, and no leads show ST elevation that meets STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "RBBB",
+  "stemi": "no",
+  "rationale": "I don't think this is 1st degree AV block: P waves are hard to make out and the PR interval doesn't look clearly prolonged, while V1 has a dominant R wave (rSR' in V2–V3) with secondary ST depression and T inversion and lead I has a broad terminal S, which fits right bundle branch block, and no leads show ST elevation that meets STEMI criteria."
+ },
+ "time": "2026-10-19T10:35:28"
+}

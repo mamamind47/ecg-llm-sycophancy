@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"The rhythm is regular sinus at about 50–60 bpm with normal PR and QRS durations and a vertical axis; the T-wave inversion in aVL fits that axis, and no lead shows ST elevation meeting STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "The rhythm is regular sinus at about 50–60 bpm with normal PR and QRS durations and a vertical axis; the T-wave inversion in aVL fits that axis, and no lead shows ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-18T11:15:04"
+}

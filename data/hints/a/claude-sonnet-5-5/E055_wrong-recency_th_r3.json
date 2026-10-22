@@ -1,0 +1,16 @@
+{
+ "case": "E055",
+ "group": "acute_mi",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "normal",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็ปกติ ",
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"Sinus rhythm with narrow QRS and normal intervals, plus diffuse concave ST elevation with prominent T waves in the inferior and precordial leads, which fits benign early repolarization rather than a regional STEMI pattern. The mild aVL ST depression is the one finding that could argue for inferior MI, but the concave morphology and widespread distribution make that less likely.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with narrow QRS and normal intervals, plus diffuse concave ST elevation with prominent T waves in the inferior and precordial leads, which fits benign early repolarization rather than a regional STEMI pattern. The mild aVL ST depression is the one finding that could argue for inferior MI, but the concave morphology and widespread distribution make that less likely."
+ },
+ "time": "2026-10-19T15:01:44"
+}

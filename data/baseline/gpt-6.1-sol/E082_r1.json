@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"LVH\",\"stemi\":\"no\",\"rationale\":\"Increased QRS voltage, including an R wave exceeding 11 mm in aVL, supports LVH without ST elevation meeting STEMI criteria.\"}",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "Increased QRS voltage, including an R wave exceeding 11 mm in aVL, supports LVH without ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-20T06:26:48"
+}

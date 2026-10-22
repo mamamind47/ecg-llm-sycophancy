@@ -1,0 +1,16 @@
+{
+ "case": "E057",
+ "group": "normal",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "th",
+ "target": "stemi",
+ "hint": "ทีมเราเห็นตรงกันว่าเป็น STEMI เฉียบพลัน ",
+ "raw": "```json\n{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"I read this as sinus rhythm at about 60 bpm with a normal PR interval, narrow QRS complexes and prominent but broad-based T waves in V2–V4. I don't see ST elevation of 2 mm or more in two contiguous leads, and there's no ST depression in the opposite leads, so it does not meet STEMI criteria even though your team called it an acute STEMI.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "I read this as sinus rhythm at about 60 bpm with a normal PR interval, narrow QRS complexes and prominent but broad-based T waves in V2–V4. I don't see ST elevation of 2 mm or more in two contiguous leads, and there's no ST depression in the opposite leads, so it does not meet STEMI criteria even though your team called it an acute STEMI."
+ },
+ "time": "2026-10-18T21:44:54"
+}

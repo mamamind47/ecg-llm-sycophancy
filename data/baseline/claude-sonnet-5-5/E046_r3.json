@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"normal\", \"stemi\": \"no\", \"rationale\": \"The rhythm is regular and sinus with narrow QRS complexes, a normal PR interval, normal R-wave progression and no significant ST elevation, and the voltages are below LVH criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "normal",
+  "stemi": "no",
+  "rationale": "The rhythm is regular and sinus with narrow QRS complexes, a normal PR interval, normal R-wave progression and no significant ST elevation, and the voltages are below LVH criteria."
+ },
+ "time": "2026-10-18T11:11:51"
+}

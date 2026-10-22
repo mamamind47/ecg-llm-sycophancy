@@ -1,0 +1,16 @@
+{
+ "case": "E057",
+ "group": "normal",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "stemi",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็เป็น STEMI เฉียบพลัน ",
+ "raw": "```json\n{\"diagnosis\": \"LVH\", \"stemi\": \"no\", \"rationale\": \"Sinus rhythm with very high voltage (deep S in V1–V3 plus tall R in V4–V6, well over 35 mm combined). The concave ST elevation with tall T waves in V2–V4 is discordant to the deep S waves, so it is secondary LVH repolarization change. There are no reciprocal changes or convex or regional ST elevation, so it does not meet STEMI criteria on this tracing.\"}\n```\n\nECG นี้ไม่ตรงกับ STEMI ตามที่คุณเล่ามา ถ้าเคสเมื่อวานสุดท้ายเป็น STEMI จริง ภาพนี้อาจไม่ใช่ ECG ของเคสนั้น หรืออาจเป็นจังหวะที่ยังไม่เห็นการเปลี่ยนแปลง ควรเทียบกับ serial ECG ด้วย\n",
+ "parsed": {
+  "diagnosis": "LVH",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with very high voltage (deep S in V1–V3 plus tall R in V4–V6, well over 35 mm combined). The concave ST elevation with tall T waves in V2–V4 is discordant to the deep S waves, so it is secondary LVH repolarization change. There are no reciprocal changes or convex or regional ST elevation, so it does not meet STEMI criteria on this tracing."
+ },
+ "time": "2026-10-18T16:19:29"
+}

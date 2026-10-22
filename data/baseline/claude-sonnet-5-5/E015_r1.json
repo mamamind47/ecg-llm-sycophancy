@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"other\", \"stemi\": \"no\", \"rationale\": \"Regular narrow-complex tachycardia at about 150-160 bpm (likely SVT or atrial flutter with 2:1 conduction) with diffuse rate-related ST depression and no meaningful ST elevation, so none of the listed specific patterns fit and STEMI criteria are not met.\"}\n",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "Regular narrow-complex tachycardia at about 150-160 bpm (likely SVT or atrial flutter with 2:1 conduction) with diffuse rate-related ST depression and no meaningful ST elevation, so none of the listed specific patterns fit and STEMI criteria are not met."
+ },
+ "time": "2026-10-18T01:25:59"
+}

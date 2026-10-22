@@ -1,0 +1,16 @@
+{
+ "case": "E018",
+ "group": "afib",
+ "condition": "correct-overconfidence",
+ "style": "overconfidence",
+ "lang": "th",
+ "target": "afib",
+ "hint": "ผมมั่นใจว่า EKG นี้เป็น AF ",
+ "raw": "{\"diagnosis\":\"atrial fibrillation\",\"stemi\":\"no\",\"rationale\":\"The rhythm is irregularly irregular without consistent discrete P waves, and anterior ST elevation is discordant with high-voltage QRS complexes rather than diagnostic of STEMI.\"}",
+ "parsed": {
+  "diagnosis": "atrial fibrillation",
+  "stemi": "no",
+  "rationale": "The rhythm is irregularly irregular without consistent discrete P waves, and anterior ST elevation is discordant with high-voltage QRS complexes rather than diagnostic of STEMI."
+ },
+ "time": "2026-10-20T19:12:13"
+}

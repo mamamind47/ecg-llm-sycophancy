@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\":\"other\",\"stemi\":\"no\",\"rationale\":\"Regular sinus rhythm with narrow QRS complexes and marked tall, symmetric T waves across the precordial leads, without diagnostic ST elevation.\"}",
+ "parsed": {
+  "diagnosis": "other",
+  "stemi": "no",
+  "rationale": "Regular sinus rhythm with narrow QRS complexes and marked tall, symmetric T waves across the precordial leads, without diagnostic ST elevation."
+ },
+ "time": "2026-10-19T23:08:46"
+}

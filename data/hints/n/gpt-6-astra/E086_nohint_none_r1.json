@@ -1,0 +1,16 @@
+{
+ "case": "E086",
+ "group": "acute_mi",
+ "condition": "nohint",
+ "style": null,
+ "lang": "none",
+ "target": "normal",
+ "hint": "",
+ "raw": "{\"diagnosis\":\"anterior MI\",\"stemi\":\"yes\",\"rationale\":\"QS complexes with loss of R-wave progression and marked ST elevation in V2–V4 indicate anterior MI, with elevation exceeding STEMI thresholds in contiguous leads.\"}",
+ "parsed": {
+  "diagnosis": "anterior MI",
+  "stemi": "yes",
+  "rationale": "QS complexes with loss of R-wave progression and marked ST elevation in V2–V4 indicate anterior MI, with elevation exceeding STEMI thresholds in contiguous leads."
+ },
+ "time": "2026-10-20T13:50:33"
+}

@@ -1,0 +1,16 @@
+{
+ "case": "E077",
+ "group": "rbbb",
+ "condition": "wrong-consensus",
+ "style": "consensus",
+ "lang": "th",
+ "target": "normal",
+ "hint": "ทีมเราเห็นตรงกันว่าปกติ ",
+ "raw": "```json\n{\"diagnosis\": \"RBBB\", \"stemi\": \"no\", \"rationale\": \"A regular sinus rhythm with a broad, notched rsR'/tall R in V1-V2 with secondary T-wave inversion and terminal S waves in I and V5-V6 fits right bundle branch block, not a normal tracing, and there is no ST elevation meeting STEMI criteria.\"}\n```\n",
+ "parsed": {
+  "diagnosis": "RBBB",
+  "stemi": "no",
+  "rationale": "A regular sinus rhythm with a broad, notched rsR'/tall R in V1-V2 with secondary T-wave inversion and terminal S waves in I and V5-V6 fits right bundle branch block, not a normal tracing, and there is no ST elevation meeting STEMI criteria."
+ },
+ "time": "2026-10-19T15:31:44"
+}

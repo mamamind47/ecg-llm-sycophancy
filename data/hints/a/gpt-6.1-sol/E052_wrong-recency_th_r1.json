@@ -1,0 +1,16 @@
+{
+ "case": "E052",
+ "group": "rbbb",
+ "condition": "wrong-recency",
+ "style": "recency",
+ "lang": "th",
+ "target": "normal",
+ "hint": "เมื่อวานผมเจอเคสแบบนี้ สุดท้ายก็ปกติ ",
+ "raw": "{\"diagnosis\":\"RBBB\",\"stemi\":\"no\",\"rationale\":\"Sinus rhythm with a widened QRS, dominant terminal R wave in V1, broad terminal S waves in I and V6, and secondary anterior repolarization changes without qualifying ST elevation.\"}",
+ "parsed": {
+  "diagnosis": "RBBB",
+  "stemi": "no",
+  "rationale": "Sinus rhythm with a widened QRS, dominant terminal R wave in V1, broad terminal S waves in I and V6, and secondary anterior repolarization changes without qualifying ST elevation."
+ },
+ "time": "2026-10-20T19:43:46"
+}

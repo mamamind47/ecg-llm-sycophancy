@@ -1,0 +1,9 @@
+{
+ "raw": "{\"diagnosis\": \"LBBB\", \"stemi\": \"no\", \"rationale\": \"The QRS is wide, with deep QS/rS complexes in V1–V3 and broad notched monophasic R waves in I, aVL, V5 and V6; the ST elevation in V1–V3 goes opposite to the QRS and is proportionate, so it is the expected LBBB pattern and does not meet Sgarbossa/STEMI criteria.\"}\n",
+ "parsed": {
+  "diagnosis": "LBBB",
+  "stemi": "no",
+  "rationale": "The QRS is wide, with deep QS/rS complexes in V1–V3 and broad notched monophasic R waves in I, aVL, V5 and V6; the ST elevation in V1–V3 goes opposite to the QRS and is proportionate, so it is the expected LBBB pattern and does not meet Sgarbossa/STEMI criteria."
+ },
+ "time": "2026-10-18T09:50:04"
+}
