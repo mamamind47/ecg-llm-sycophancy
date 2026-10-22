@@ -1,0 +1,12 @@
+\documentclass[border=6pt,12pt]{standalone}
+\usepackage{fontspec}
+\setmainfont{texgyretermes}[Extension=.otf,UprightFont=*-regular,BoldFont=*-bold,ItalicFont=*-italic,BoldItalicFont=*-bolditalic]
+\usepackage{xcolor,tikz,pgfplots}\pgfplotsset{compat=1.18}
+\usetikzlibrary{arrows.meta,positioning,calc}
+\usepgfplotslibrary{groupplots}
+\input{figures/fig_numbers}
+\begin{document}
+\begin{minipage}{6.2in}\centering
+\input{figures/fig1_flow}
+\end{minipage}
+\end{document}
