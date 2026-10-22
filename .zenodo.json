@@ -1,0 +1,11 @@
+{
+  "title": "Code, prompts and data for: Do multimodal language models defer to a clinician's wrong ECG read? A controlled study of sycophancy in 12-lead ECG interpretation",
+  "upload_type": "software",
+  "description": "Code, prompts, case list, rendered ECG images (derived from PTB-XL, CC BY 4.0), raw responses of eight multimodal large language models and analysis scripts for a controlled study of sycophancy in 12-lead ECG interpretation. Code is MIT-licensed; data are CC BY 4.0.",
+  "creators": [
+    {"name": "Sittikong, Badeesorn", "affiliation": "School of Information Technology, King Mongkut's University of Technology Thonburi"}
+  ],
+  "license": "MIT",
+  "keywords": ["electrocardiography", "large language models", "sycophancy", "automation bias", "myocardial infarction", "PTB-XL"],
+  "access_right": "open"
+}
